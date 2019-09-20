@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>13.0</freq>
-    <q>2.4</q>
+    <freq>14.0</freq>
+    <q>2.7</q>
     <boost>-16.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9808260826214955,-1.9382372615064207,0.95998984609332,1.9313914500400837,-0.947661740181152,</dec>
-    <hex>0x3f7b176b,0xbff81829,0x3f75c1e5,0x3ff737d6,0xbf7299f6,</hex>
+    <dec>0.9809414313022674,-1.9389334336185926,0.9609845705464544,1.9309888032153664,-0.9498706322519475,</dec>
+    <hex>0x3f7b1efa,0xbff82ef9,0x3f760316,0x3ff72aa4,0xbf732ab9,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
     <freq>23.0</freq>
     <q>0.8</q>
-    <boost>16.0</boost>
+    <boost>14.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0919444180332278,-1.863414044297104,0.8211702330467232,1.8843258400209615,-0.8922028553560933,</dec>
-    <hex>0x3f8bc4d6,0xbfee845a,0x3f523836,0x3ff13197,0xbf646768,</hex>
+    <dec>1.0824296090143026,-1.860714617940046,0.823757971190056,1.8791683438739235,-0.8877338542704812,</dec>
+    <hex>0x3f8a8d0e,0xbfee2be6,0x3f52e1cd,0x3ff08897,0xbf634287,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>23.0</freq>
     <q>0.8</q>
-    <boost>16.0</boost>
+    <boost>14.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0919444180332278,-1.863414044297104,0.8211702330467232,1.8843258400209615,-0.8922028553560933,</dec>
-    <hex>0x3f8bc4d6,0xbfee845a,0x3f523836,0x3ff13197,0xbf646768,</hex>
+    <dec>1.0824296090143026,-1.860714617940046,0.823757971190056,1.8791683438739235,-0.8877338542704812,</dec>
+    <hex>0x3f8a8d0e,0xbfee2be6,0x3f52e1cd,0x3ff08897,0xbf634287,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>13.0</freq>
-    <q>2.4</q>
+    <freq>14.0</freq>
+    <q>2.7</q>
     <boost>-16.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9808260826214955,-1.9382372615064207,0.95998984609332,1.9313914500400837,-0.947661740181152,</dec>
-    <hex>0x3f7b176b,0xbff81829,0x3f75c1e5,0x3ff737d6,0xbf7299f6,</hex>
+    <dec>0.9809414313022674,-1.9389334336185926,0.9609845705464544,1.9309888032153664,-0.9498706322519475,</dec>
+    <hex>0x3f7b1efa,0xbff82ef9,0x3f760316,0x3ff72aa4,0xbf732ab9,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
     <freq>23.0</freq>
     <q>0.8</q>
-    <boost>16.0</boost>
+    <boost>14.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0919444180332278,-1.863414044297104,0.8211702330467232,1.8843258400209615,-0.8922028553560933,</dec>
-    <hex>0x3f8bc4d6,0xbfee845a,0x3f523836,0x3ff13197,0xbf646768,</hex>
+    <dec>1.0824296090143026,-1.860714617940046,0.823757971190056,1.8791683438739235,-0.8877338542704812,</dec>
+    <hex>0x3f8a8d0e,0xbfee2be6,0x3f52e1cd,0x3ff08897,0xbf634287,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>23.0</freq>
     <q>0.8</q>
-    <boost>16.0</boost>
+    <boost>14.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0919444180332278,-1.863414044297104,0.8211702330467232,1.8843258400209615,-0.8922028553560933,</dec>
-    <hex>0x3f8bc4d6,0xbfee845a,0x3f523836,0x3ff13197,0xbf646768,</hex>
+    <dec>1.0824296090143026,-1.860714617940046,0.823757971190056,1.8791683438739235,-0.8877338542704812,</dec>
+    <hex>0x3f8a8d0e,0xbfee2be6,0x3f52e1cd,0x3ff08897,0xbf634287,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Dante's Peak</beq_title><beq_year>1997</beq_year><beq_spectrumURL /><beq_pvaURL /><beq_edition /><beq_season /><beq_note /><beq_source>Disc</beq_source><beq_warning /><beq_audioTypes><value>DTS-HD MA 5.1</value></beq_audioTypes></beq_metadata></setting>
+</setting>
