@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>23.0</freq>
-    <q>2.0</q>
-    <boost>12.0</boost>
+    <freq>24.0</freq>
+    <q>4.0</q>
+    <boost>13.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.052837328821781,-1.9440732025912004,0.9117141251243437,1.9440732025912004,-0.9645514539461245,</dec>
-    <hex>0x3f86c360,0xbff8d764,0x3f696619,0x3ff8d764,0xbf76ecd8,</hex>
+    <dec>1.030531320095332,-1.959890007231616,0.9518553167190011,1.959890007231616,-0.9823866368143332,</dec>
+    <hex>0x3f83e873,0xbffaddad,0x3f73acca,0x3ffaddad,0xbf7b7db1,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>26.0</freq>
-    <q>2.0</q>
+    <freq>28.0</freq>
+    <q>4.0</q>
     <boost>8.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.037816207992958,-1.924012730065942,0.9121585953985906,1.924012730065942,-0.9499748033915488,</dec>
-    <hex>0x3f84d729,0xbff6460d,0x3f69833a,0x3ff6460d,0xbf73318c,</hex>
+    <dec>1.0205859279061829,-1.9423169059693273,0.9521819632830668,1.9423169059693273,-0.9727678911892497,</dec>
+    <hex>0x3f82a28f,0xbff89dd7,0x3f73c232,0x3ff89dd7,0xbf790751,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
-    <freq>34.0</freq>
+    <freq>30.0</freq>
     <q>0.8</q>
     <boost>16.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.1397018127355616,-1.7832774768672108,0.7496340288200597,1.8279021002015048,-0.8447112182213268,</dec>
-    <hex>0x3f91e1c0,0xbfe44270,0x3f3fe804,0x3fe9f8b2,0xbf583eff,</hex>
+    <dec>1.122069570363692,-1.8134588017544728,0.7746644670224738,1.848497301867656,-0.8616955372729824,</dec>
+    <hex>0x3f8f9ffa,0xbfe81f6b,0x3f465069,0x3fec9b8f,0xbf5c9814,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>35.0</freq>
@@ -892,31 +892,31 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>23.0</freq>
-    <q>2.0</q>
-    <boost>12.0</boost>
+    <freq>24.0</freq>
+    <q>4.0</q>
+    <boost>13.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.052837328821781,-1.9440732025912004,0.9117141251243437,1.9440732025912004,-0.9645514539461245,</dec>
-    <hex>0x3f86c360,0xbff8d764,0x3f696619,0x3ff8d764,0xbf76ecd8,</hex>
+    <dec>1.030531320095332,-1.959890007231616,0.9518553167190011,1.959890007231616,-0.9823866368143332,</dec>
+    <hex>0x3f83e873,0xbffaddad,0x3f73acca,0x3ffaddad,0xbf7b7db1,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>26.0</freq>
-    <q>2.0</q>
+    <freq>28.0</freq>
+    <q>4.0</q>
     <boost>8.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.037816207992958,-1.924012730065942,0.9121585953985906,1.924012730065942,-0.9499748033915488,</dec>
-    <hex>0x3f84d729,0xbff6460d,0x3f69833a,0x3ff6460d,0xbf73318c,</hex>
+    <dec>1.0205859279061829,-1.9423169059693273,0.9521819632830668,1.9423169059693273,-0.9727678911892497,</dec>
+    <hex>0x3f82a28f,0xbff89dd7,0x3f73c232,0x3ff89dd7,0xbf790751,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
-    <freq>34.0</freq>
+    <freq>30.0</freq>
     <q>0.8</q>
     <boost>16.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.1397018127355616,-1.7832774768672108,0.7496340288200597,1.8279021002015048,-0.8447112182213268,</dec>
-    <hex>0x3f91e1c0,0xbfe44270,0x3f3fe804,0x3fe9f8b2,0xbf583eff,</hex>
+    <dec>1.122069570363692,-1.8134588017544728,0.7746644670224738,1.848497301867656,-0.8616955372729824,</dec>
+    <hex>0x3f8f9ffa,0xbfe81f6b,0x3f465069,0x3fec9b8f,0xbf5c9814,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>35.0</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Days of Thunder</beq_title><beq_year>1990</beq_year><beq_spectrumURL /><beq_pvaURL /><beq_edition /><beq_season /><beq_note /><beq_source>Disc</beq_source><beq_warning /><beq_audioTypes><value>DTS-HD MA 5.1</value></beq_audioTypes></beq_metadata></setting>
+</setting>
