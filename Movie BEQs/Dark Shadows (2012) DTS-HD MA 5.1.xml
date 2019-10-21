@@ -802,22 +802,22 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>20.0</freq>
+    <freq>18.0</freq>
     <q>0.8</q>
-    <boost>9.0</boost>
+    <boost>15.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0427901256064334,-1.8688699291346267,0.8510837440256044,1.8769360329472917,-0.8858077658193729,</dec>
-    <hex>0x3f857a26,0xbfef3721,0x3f59e0a0,0x3ff03f71,0xbf62c44c,</hex>
+    <dec>1.066135616890275,-1.89515598955834,0.8580444999227285,1.9070874027911058,-0.9122487035802375,</dec>
+    <hex>0x3f887722,0xbff29479,0x3f5ba8ce,0x3ff41b71,0xbf698922,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>9.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0427901256064334,-1.8688699291346267,0.8510837440256044,1.8769360329472917,-0.8858077658193729,</dec>
-    <hex>0x3f857a26,0xbfef3721,0x3f59e0a0,0x3ff03f71,0xbf62c44c,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>1000</freq>
@@ -892,22 +892,22 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>20.0</freq>
+    <freq>18.0</freq>
     <q>0.8</q>
-    <boost>9.0</boost>
+    <boost>15.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0427901256064334,-1.8688699291346267,0.8510837440256044,1.8769360329472917,-0.8858077658193729,</dec>
-    <hex>0x3f857a26,0xbfef3721,0x3f59e0a0,0x3ff03f71,0xbf62c44c,</hex>
+    <dec>1.066135616890275,-1.89515598955834,0.8580444999227285,1.9070874027911058,-0.9122487035802375,</dec>
+    <hex>0x3f887722,0xbff29479,0x3f5ba8ce,0x3ff41b71,0xbf698922,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>9.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0427901256064334,-1.8688699291346267,0.8510837440256044,1.8769360329472917,-0.8858077658193729,</dec>
-    <hex>0x3f857a26,0xbfef3721,0x3f59e0a0,0x3ff03f71,0xbf62c44c,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Dark Shadows</beq_title><beq_year>2012</beq_year><beq_spectrumURL /><beq_pvaURL /><beq_edition /><beq_season /><beq_note /><beq_source>Disc</beq_source><beq_warning /><beq_audioTypes><value>DTS-HD MA 5.1</value></beq_audioTypes></beq_metadata></setting>
+</setting>

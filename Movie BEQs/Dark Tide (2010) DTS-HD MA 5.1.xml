@@ -804,29 +804,29 @@
   <filter addr="8280" name="PEQ_1_1">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>9.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0138633034340512,-1.932001852637595,0.9235365056903151,1.933348137441558,-0.9360535243204033,</dec>
-    <hex>0x3f81c646,0xbff74bd6,0x3f6c6ce3,0x3ff777f4,0xbf6fa134,</hex>
+    <dec>1.0210007502639116,-1.9368236696944505,0.9222561083417669,1.9388989733694781,-0.9411815549306507,</dec>
+    <hex>0x3f82b027,0xbff7e9d7,0x3f6c18fa,0x3ff82dd7,0xbf70f146,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>21.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>12.0</boost>
+    <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.061011143327773,-1.8692047939722636,0.8410399001999872,1.8815026163207902,-0.889753221179233,</dec>
-    <hex>0x3f87cf37,0xbfef421a,0x3f574e64,0x3ff0d514,0xbf63c6de,</hex>
+    <dec>1.012282835979452,-1.8251068462675477,0.8347870515086333,1.827661570866863,-0.8445151628887698,</dec>
+    <hex>0x3f81927c,0xbfe99d1a,0x3f55b49b,0x3fe9f0d0,0xbf583225,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
-    <freq>26.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.012328023966693,-1.9317783526229515,0.9455171890547851,1.9317783526229515,-0.9578452130214781,</dec>
-    <hex>0x3f8193f7,0xbff74483,0x3f720d6a,0x3ff74483,0xbf753558,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>1000</freq>
@@ -894,29 +894,29 @@
   <filter addr="8330" name="PEQ_2_1">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>9.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0138633034340512,-1.932001852637595,0.9235365056903151,1.933348137441558,-0.9360535243204033,</dec>
-    <hex>0x3f81c646,0xbff74bd6,0x3f6c6ce3,0x3ff777f4,0xbf6fa134,</hex>
+    <dec>1.0210007502639116,-1.9368236696944505,0.9222561083417669,1.9388989733694781,-0.9411815549306507,</dec>
+    <hex>0x3f82b027,0xbff7e9d7,0x3f6c18fa,0x3ff82dd7,0xbf70f146,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>21.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>12.0</boost>
+    <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.061011143327773,-1.8692047939722636,0.8410399001999872,1.8815026163207902,-0.889753221179233,</dec>
-    <hex>0x3f87cf37,0xbfef421a,0x3f574e64,0x3ff0d514,0xbf63c6de,</hex>
+    <dec>1.012282835979452,-1.8251068462675477,0.8347870515086333,1.827661570866863,-0.8445151628887698,</dec>
+    <hex>0x3f81927c,0xbfe99d1a,0x3f55b49b,0x3fe9f0d0,0xbf583225,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
-    <freq>26.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.012328023966693,-1.9317783526229515,0.9455171890547851,1.9317783526229515,-0.9578452130214781,</dec>
-    <hex>0x3f8193f7,0xbff74483,0x3f720d6a,0x3ff74483,0xbf753558,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Dark Tide</beq_title><beq_year>2010</beq_year><beq_spectrumURL /><beq_pvaURL /><beq_edition /><beq_season /><beq_note /><beq_source>Disc</beq_source><beq_warning /><beq_audioTypes><value>DTS-HD MA 5.1</value></beq_audioTypes></beq_metadata></setting>
+</setting>
