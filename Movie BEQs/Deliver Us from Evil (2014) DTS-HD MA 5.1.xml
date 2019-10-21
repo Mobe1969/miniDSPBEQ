@@ -802,24 +802,15 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>10.0</freq>
-    <q>7.0</q>
-    <boost>-2.4</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>0.998763161536245,-1.9858274155455506,0.9909905784992581,1.9858274155455506,-0.9897537400355029,</dec>
-    <hex>0x3f7faef1,0xbffe2f98,0x3f7db18f,0x3ffe2f98,0xbf7d6080,</hex>
-  </filter>
-  <filter addr="8285" name="PEQ_1_2">
     <freq>17.0</freq>
     <q>0.8</q>
-    <boost>16.0</boost>
+    <boost>12.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0668886578346182,-1.9032337440621467,0.8638667604080881,1.9148136354497314,-0.9191755268551216,</dec>
-    <hex>0x3f888fcf,0xbff39d2a,0x3f5d265f,0x3ff5189d,0xbf6b4f16,</hex>
+    <dec>1.048965662706136,-1.896178442417669,0.8689606424946046,1.9043209657372482,-0.9097837818811613,</dec>
+    <hex>0x3f864482,0xbff2b5fa,0x3f5e7434,0x3ff3c0ca,0xbf68e797,</hex>
   </filter>
-  <filter addr="8290" name="PEQ_1_3">
+  <filter addr="8285" name="PEQ_1_2">
     <freq>23.0</freq>
     <q>3.0</q>
     <boost>4.0</boost>
@@ -827,6 +818,15 @@
     <bypass>0</bypass>
     <dec>1.0109425442291118,-1.9421250309206186,0.9516402166231122,1.9421250309206186,-0.962582760852224,</dec>
     <hex>0x3f816691,0xbff8978e,0x3f739eb1,0x3ff8978e,0xbf766bd3,</hex>
+  </filter>
+  <filter addr="8290" name="PEQ_1_3">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>1000</freq>
@@ -892,24 +892,15 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>10.0</freq>
-    <q>7.0</q>
-    <boost>-2.4</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>0.998763161536245,-1.9858274155455506,0.9909905784992581,1.9858274155455506,-0.9897537400355029,</dec>
-    <hex>0x3f7faef1,0xbffe2f98,0x3f7db18f,0x3ffe2f98,0xbf7d6080,</hex>
-  </filter>
-  <filter addr="8335" name="PEQ_2_2">
     <freq>17.0</freq>
     <q>0.8</q>
-    <boost>16.0</boost>
+    <boost>12.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0668886578346182,-1.9032337440621467,0.8638667604080881,1.9148136354497314,-0.9191755268551216,</dec>
-    <hex>0x3f888fcf,0xbff39d2a,0x3f5d265f,0x3ff5189d,0xbf6b4f16,</hex>
+    <dec>1.048965662706136,-1.896178442417669,0.8689606424946046,1.9043209657372482,-0.9097837818811613,</dec>
+    <hex>0x3f864482,0xbff2b5fa,0x3f5e7434,0x3ff3c0ca,0xbf68e797,</hex>
   </filter>
-  <filter addr="8340" name="PEQ_2_3">
+  <filter addr="8335" name="PEQ_2_2">
     <freq>23.0</freq>
     <q>3.0</q>
     <boost>4.0</boost>
@@ -917,6 +908,15 @@
     <bypass>0</bypass>
     <dec>1.0109425442291118,-1.9421250309206186,0.9516402166231122,1.9421250309206186,-0.962582760852224,</dec>
     <hex>0x3f816691,0xbff8978e,0x3f739eb1,0x3ff8978e,0xbf766bd3,</hex>
+  </filter>
+  <filter addr="8340" name="PEQ_2_3">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Deliver Us from Evil</beq_title><beq_year>2014</beq_year><beq_spectrumURL /><beq_pvaURL /><beq_edition /><beq_season /><beq_note /><beq_source>Disc</beq_source><beq_warning /><beq_audioTypes><value>DTS-HD MA 5.1</value></beq_audioTypes></beq_metadata></setting>
+</setting>
