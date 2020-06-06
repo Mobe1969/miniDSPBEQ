@@ -802,22 +802,22 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>16.0</freq>
-    <q>0.8</q>
+    <freq>15.0</freq>
+    <q>0.9</q>
     <boost>14.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0542556302977177,-1.9063898799645405,0.8738603146987762,1.915085452539976,-0.919420372421058,</dec>
-    <hex>0x3f86f1d9,0xbff40495,0x3f5fb54f,0x3ff52185,0xbf6b5f22,</hex>
+    <dec>1.0457193094920614,-1.9208648612266095,0.894368501103752,1.9285585945882653,-0.9323940772341576,</dec>
+    <hex>0x3f85da21,0xbff5dee6,0x3f64f556,0x3ff6db02,0xbf6eb161,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>18.0</freq>
-    <q>1.5</q>
-    <boost>5.8</boost>
+    <freq>16.0</freq>
+    <q>3.5</q>
+    <boost>6.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0249179423192507,-1.9350904105087374,0.9226146491686662,1.9350904105087374,-0.947532591487917,</dec>
-    <hex>0x3f833083,0xbff7b10b,0x3f6c3079,0x3ff7b10b,0xbf72917f,</hex>
+    <dec>1.010000499331476,-1.9699072912088091,0.9699032925009545,1.9699072912088091,-0.9799037918324305,</dec>
+    <hex>0x3f8147b2,0xbffc25ec,0x3f784b95,0x3ffc25ec,0xbf7adafa,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>1000</freq>
@@ -892,22 +892,22 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>16.0</freq>
-    <q>0.8</q>
+    <freq>15.0</freq>
+    <q>0.9</q>
     <boost>14.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0542556302977177,-1.9063898799645405,0.8738603146987762,1.915085452539976,-0.919420372421058,</dec>
-    <hex>0x3f86f1d9,0xbff40495,0x3f5fb54f,0x3ff52185,0xbf6b5f22,</hex>
+    <dec>1.0457193094920614,-1.9208648612266095,0.894368501103752,1.9285585945882653,-0.9323940772341576,</dec>
+    <hex>0x3f85da21,0xbff5dee6,0x3f64f556,0x3ff6db02,0xbf6eb161,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>18.0</freq>
-    <q>1.5</q>
-    <boost>5.8</boost>
+    <freq>16.0</freq>
+    <q>3.5</q>
+    <boost>6.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0249179423192507,-1.9350904105087374,0.9226146491686662,1.9350904105087374,-0.947532591487917,</dec>
-    <hex>0x3f833083,0xbff7b10b,0x3f6c3079,0x3ff7b10b,0xbf72917f,</hex>
+    <dec>1.010000499331476,-1.9699072912088091,0.9699032925009545,1.9699072912088091,-0.9799037918324305,</dec>
+    <hex>0x3f8147b2,0xbffc25ec,0x3f784b95,0x3ffc25ec,0xbf7adafa,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Elektra</beq_title><beq_year>2005</beq_year><beq_spectrumURL /><beq_pvaURL /><beq_edition /><beq_season /><beq_note /><beq_source>Disc</beq_source><beq_warning /><beq_audioTypes><value>DTS-HD MA 5.1</value></beq_audioTypes></beq_metadata></setting>
+</setting>
