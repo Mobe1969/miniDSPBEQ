@@ -811,13 +811,13 @@
     <hex>0x3f839a44,0xbfee24b3,0x3f5a6ffd,0x3feecfae,0xbf604e8e,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>25.0</freq>
-    <q>2.0</q>
-    <boost>16.0</boost>
+    <freq>26.0</freq>
+    <q>4.0</q>
+    <boost>13.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.081399636796199,-1.9450927146803125,0.8879389032419315,1.9450927146803125,-0.9693385400381307,</dec>
-    <hex>0x3f8a6b4e,0xbff8f8cc,0x3f634ff7,0x3ff8f8cc,0xbf782692,</hex>
+    <dec>1.033029772533233,-1.954570876174734,0.9479155197845817,1.954570876174734,-0.9809452923178146,</dec>
+    <hex>0x3f843a52,0xbffa2f61,0x3f72aa97,0x3ffa2f61,0xbf7b1f3b,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>1000</freq>
@@ -901,13 +901,13 @@
     <hex>0x3f839a44,0xbfee24b3,0x3f5a6ffd,0x3feecfae,0xbf604e8e,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>25.0</freq>
-    <q>2.0</q>
-    <boost>16.0</boost>
+    <freq>26.0</freq>
+    <q>4.0</q>
+    <boost>13.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.081399636796199,-1.9450927146803125,0.8879389032419315,1.9450927146803125,-0.9693385400381307,</dec>
-    <hex>0x3f8a6b4e,0xbff8f8cc,0x3f634ff7,0x3ff8f8cc,0xbf782692,</hex>
+    <dec>1.033029772533233,-1.954570876174734,0.9479155197845817,1.954570876174734,-0.9809452923178146,</dec>
+    <hex>0x3f843a52,0xbffa2f61,0x3f72aa97,0x3ffa2f61,0xbf7b1f3b,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>1000</freq>
