@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>19.0</freq>
-    <q>3.6</q>
-    <boost>16.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0347358556759314,-1.9727740989444218,0.9521799084482331,1.9727740989444218,-0.9869157641241643,</dec>
-    <hex>0x3f847239,0xbffc83dd,0x3f73c210,0x3ffc83dd,0xbf7ca683,</hex>
-  </filter>
-  <filter addr="8285" name="PEQ_1_2">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>16.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0877185649443166,-1.8702460804094012,0.8281015953895299,1.889421617920377,-0.8966446228228704,</dec>
-    <hex>0x3f8b3a5d,0xbfef6439,0x3f53fe77,0x3ff1d891,0xbf658a81,</hex>
-  </filter>
-  <filter addr="8290" name="PEQ_1_3">
-    <freq>25.0</freq>
+    <freq>21.0</freq>
     <q>4.0</q>
     <boost>16.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0410142072665929,-1.9601177325243995,0.9435366393530183,1.9601177325243995,-0.984550846619611,</dec>
-    <hex>0x3f853ff4,0xbffae523,0x3f718b9e,0x3ffae523,0xbf7c0b86,</hex>
+    <dec>1.0345361405187425,-1.969719333680792,0.9524548519299812,1.969719333680792,-0.9869909924487237,</dec>
+    <hex>0x3f846bae,0xbffc1fc3,0x3f73d415,0x3ffc1fc3,0xbf7cab71,</hex>
+  </filter>
+  <filter addr="8285" name="PEQ_1_2">
+    <freq>25.0</freq>
+    <q>0.9</q>
+    <boost>10.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0547842129794625,-1.8501986495805929,0.8366267289990107,1.864288560200826,-0.8773210313582402,</dec>
+    <hex>0x3f87032b,0xbfecd34f,0x3f562d2b,0x3feea102,0xbf60981c,</hex>
+  </filter>
+  <filter addr="8290" name="PEQ_1_3">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>19.0</freq>
-    <q>3.6</q>
-    <boost>16.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0347358556759314,-1.9727740989444218,0.9521799084482331,1.9727740989444218,-0.9869157641241643,</dec>
-    <hex>0x3f847239,0xbffc83dd,0x3f73c210,0x3ffc83dd,0xbf7ca683,</hex>
-  </filter>
-  <filter addr="8335" name="PEQ_2_2">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>16.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0877185649443166,-1.8702460804094012,0.8281015953895299,1.889421617920377,-0.8966446228228704,</dec>
-    <hex>0x3f8b3a5d,0xbfef6439,0x3f53fe77,0x3ff1d891,0xbf658a81,</hex>
-  </filter>
-  <filter addr="8340" name="PEQ_2_3">
-    <freq>25.0</freq>
+    <freq>21.0</freq>
     <q>4.0</q>
     <boost>16.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0410142072665929,-1.9601177325243995,0.9435366393530183,1.9601177325243995,-0.984550846619611,</dec>
-    <hex>0x3f853ff4,0xbffae523,0x3f718b9e,0x3ffae523,0xbf7c0b86,</hex>
+    <dec>1.0345361405187425,-1.969719333680792,0.9524548519299812,1.969719333680792,-0.9869909924487237,</dec>
+    <hex>0x3f846bae,0xbffc1fc3,0x3f73d415,0x3ffc1fc3,0xbf7cab71,</hex>
+  </filter>
+  <filter addr="8335" name="PEQ_2_2">
+    <freq>25.0</freq>
+    <q>0.9</q>
+    <boost>10.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0547842129794625,-1.8501986495805929,0.8366267289990107,1.864288560200826,-0.8773210313582402,</dec>
+    <hex>0x3f87032b,0xbfecd34f,0x3f562d2b,0x3feea102,0xbf60981c,</hex>
+  </filter>
+  <filter addr="8340" name="PEQ_2_3">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>The Thin Red Line</beq_title><beq_year>1998</beq_year><beq_spectrumURL>https://i.imgur.com/ok0YqDB.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/e7OWTrs.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_source>Disc</beq_source><beq_warning /><beq_audioTypes><value>DTS-HD MA 5.1</value></beq_audioTypes></beq_metadata></setting>
+</setting>
