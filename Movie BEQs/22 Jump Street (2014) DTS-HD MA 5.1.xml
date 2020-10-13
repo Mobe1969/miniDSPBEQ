@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>22 Jump Street</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>22 Jump Street</beq_sortTitle>
+		<beq_sortTitle>22 jump street</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/22%20Jump%20Street%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don&apos;t have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>187017</beq_theMovieDB>
 		<beq_poster>/ajB6cGvoy04438RzvfO6Sz28yMK.jpg</beq_poster>
 		<beq_runtime>112</beq_runtime>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="80">Crime</genre>
 			<genre id="35">Comedy</genre>
 			<genre id="28">Action</genre>
-			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

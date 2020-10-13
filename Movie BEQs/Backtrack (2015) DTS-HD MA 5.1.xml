@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Backtrack</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Backtrack</beq_sortTitle>
+		<beq_sortTitle>backtrack</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Backtrack%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Troubled psychotherapist Peter Bowers is suffering from nightmares and eerie visions. When he uncovers a horrifying secret that all of his patients share, he is put on a course that takes him back to the small hometown he fled years ago. There he confronts his demons and unravels a mystery 20 years in the making.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>332704</beq_theMovieDB>
 		<beq_poster>/8L4jifugHPASkrssmOUVdQxn3WN.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>

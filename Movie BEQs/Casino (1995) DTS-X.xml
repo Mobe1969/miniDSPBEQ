@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Casino</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Casino</beq_sortTitle>
+		<beq_sortTitle>casino</beq_sortTitle>
 		<beq_year>1995</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Casino%20%281995%29%20DTS:X%20MA.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In early-1970s Las Vegas, low-level mobster Sam &quot;Ace&quot; Rothstein gets tapped by his bosses to head the Tangiers Casino. At first, he&apos;s a great success in the job, but over the years, problems with his loose-cannon enforcer Nicky Santoro, his ex-hustler wife Ginger, her con-artist ex Lester Diamond and a handful of corrupt politicians put Sam in ever-increasing danger.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>524</beq_theMovieDB>
 		<beq_poster>/4TS5O1IP42bY2BvgMxL156EENy.jpg</beq_poster>
 		<beq_runtime>179</beq_runtime>

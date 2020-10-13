@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Backtrace</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Backtrace</beq_sortTitle>
+		<beq_sortTitle>backtrace</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Backtrace%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The lone surviving thief of a violent armored car robbery is sprung from a high security facility and administered an experimental drug.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>512412</beq_theMovieDB>
 		<beq_poster>/gM14jePY6dxg3ORWJCJN3YpQOWh.jpg</beq_poster>
 		<beq_runtime>87</beq_runtime>

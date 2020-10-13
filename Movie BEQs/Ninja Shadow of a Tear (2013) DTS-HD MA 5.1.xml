@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ninja: Shadow of a Tear</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Ninja Shadow of a Tear</beq_sortTitle>
+		<beq_sortTitle>ninja shadow of a tear</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ninja%20Shadow%20of%20a%20Tear%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Fight everyone and trust no one: it&apos;s the code of survival practiced by martial-arts master Casey Bowman after his life of domestic bliss is shattered by a savage act of violence. Vowing revenge, the fearless American stealthily tracks the killer from Osaka to Bangkok to Rangoon with the help of a wise and crafty sensei. His only clues: a series of victims whose necks bear the distinctive mark of strangulation by barbed wire. Fighting to avenge as well as to survive, Casey must sharpen his razor-like responses and take his battle skills to the next level, even using deep meditation to fake his own death. His target: the sinister drug lord Goro, who is flooding the streets with deadly meth cooked at his remote jungle factory. To prepare for his ultimate confrontation, Casey must finally become an invisible warrior worthy of the name Ninja. But just when his prey is cornered, an unexpected twist shows Casey that his battle is only beginning: he truly can trust no one.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>180894</beq_theMovieDB>
 		<beq_poster>/7NlwlXXmq3D4UZmcsQj58hcAf6m.jpg</beq_poster>
 		<beq_runtime>95</beq_runtime>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

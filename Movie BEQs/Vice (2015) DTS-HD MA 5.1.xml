@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Vice</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Vice</beq_sortTitle>
+		<beq_sortTitle>vice</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vice%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Julian Michaels has designed the ultimate resort: VICE, where anything goes and the customers can play out their wildest fantasies with artificial inhabitants who look, think and feel like humans. When an artificial becomes self-aware and escapes, she finds herself caught in the crossfire between Julian&apos;s mercenaries and a cop who is hell-bent on shutting down Vice, and stopping the violence once and for all.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>307663</beq_theMovieDB>
 		<beq_poster>/cBwZIq1QFasmsC9Wi3HvyEljfYN.jpg</beq_poster>
 		<beq_runtime>96</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="878">Science Fiction</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
-			<genre id="53">Thriller</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

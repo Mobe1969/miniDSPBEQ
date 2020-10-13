@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Berlin Syndrome</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Berlin Syndrome</beq_sortTitle>
+		<beq_sortTitle>berlin syndrome</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Berlin%20Syndrome%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A passionate holiday romance leads to an obsessive relationship when an Australian photojournalist wakes one morning in a Berlin apartment and is unable to leave.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>363126</beq_theMovieDB>
 		<beq_poster>/qvJeDDYKlfvtYayfOj5sAUXxUju.jpg</beq_poster>
 		<beq_runtime>116</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="9648">Mystery</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

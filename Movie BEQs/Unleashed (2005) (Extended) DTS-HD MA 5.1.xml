@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Unleashed</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Unleashed</beq_sortTitle>
+		<beq_sortTitle>unleashed</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unleashed%20%282005%29%20%28Extended%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Raised as a slave, Danny is used to fighting for his survival. In fact, his &quot;master,&quot; Bart, thinks of him as a pet and goes as far as leashing him with a collar so they can make money in fight clubs, where Danny is the main contender. When Bart&apos;s crew is in a car accident, Danny escapes and meets a blind, kindhearted piano tuner who takes him in and uses music to free the fighter&apos;s long-buried heart.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10027</beq_theMovieDB>
 		<beq_poster>/eOmXfQgDLUndae2xnwJfV0JZ2JN.jpg</beq_poster>
 		<beq_runtime>103</beq_runtime>

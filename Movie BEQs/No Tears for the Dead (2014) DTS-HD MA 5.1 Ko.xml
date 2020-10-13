@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>No Tears for the Dead</beq_title>
 		<beq_alt_title>우는 남자</beq_alt_title>
-		<beq_sortTitle>No Tears for the Dead</beq_sortTitle>
+		<beq_sortTitle>no tears for the dead</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/No%20Tears%20for%20the%20Dead%20%282014%29%20DTS-HD%20MA%205.1%20Ko.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Gon, a Korean hitman bred in the United States where he works for a Chinese triad, usually flawless in taking out his targets, makes a terrible mistake in fulfilling a mission. Swamped by feelings of regret, Gon no longer wants to be a hitman, but, in order to tie up loose ends, his boss forces him to do another job in Korea.</beq_overview>
 		<beq_rating>NR</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>265851</beq_theMovieDB>
 		<beq_poster>/t3vtsQtu76xMKLal0g1UYkmZD2e.jpg</beq_poster>
 		<beq_runtime>117</beq_runtime>

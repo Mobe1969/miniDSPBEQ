@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Starship Troopers 3: Marauder</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Starship Troopers 3 Marauder</beq_sortTitle>
+		<beq_sortTitle>starship troopers 3 marauder</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Starship%20Troopers%203%20Marauder%20%282008%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The war against the Bugs continues! A Federation Starship crash-lands on the distant Alien planet OM-1, stranding beloved leader Sky Marshal Anoke and several others, including comely but tough pilot Lola Beck. It&apos;s up to Colonel/General Johnny Rico, reluctant hero of the original Bug Invasion on Planet P, to lead a team of Troopers on a daring rescue mission.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11127</beq_theMovieDB>
 		<beq_poster>/vh5nospDpMOxZhyhRiXWWMmSFQe.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Tunnel Rats</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Tunnel Rats</beq_sortTitle>
+		<beq_sortTitle>tunnel rats</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tunnel%20Rats%20%282008%29%20DTS-HD%20HR%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>During the Vietnam War [1959-1975] a special US combat unit is sent out to hunt and kill the Viet Cong soldiers in a man-to-man combat in the endless tunnels underneath the jungle of Vietnam. Suicide squads of a special kind.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>20181</beq_theMovieDB>
 		<beq_poster>/pmC64dAiyNXg1cxsaI8GOjqda4u.jpg</beq_poster>
 		<beq_runtime>92</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD HR 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
+			<genre id="28">Action</genre>
 			<genre id="10752">War</genre>
 		</beq_genres>
 	</beq_metadata>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Don&apos;t Knock Twice</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Don&apos;t Knock Twice</beq_sortTitle>
+		<beq_sortTitle>don&apos;t knock twice</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Don%27t%20Knock%20Twice%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A mother desperate to reconnect with her troubled daughter becomes embroiled in the urban legend of a demonic witch.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>420245</beq_theMovieDB>
 		<beq_poster>/rxiz9zHLrqC5JfKVPbkKBboiSzI.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>

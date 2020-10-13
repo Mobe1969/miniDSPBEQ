@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Danger Close</beq_title>
 		<beq_alt_title>Danger Close: The Battle of Long Tan</beq_alt_title>
-		<beq_sortTitle>Danger Close The Battle of Long Tan</beq_sortTitle>
+		<beq_sortTitle>danger close the battle of long tan</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Danger%20Close%20The%20Battle%20of%20Long%20Tan%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Vietnam War, 1966. Australia and New Zealand send troops to support the United States and South Vietnamese in their fight against the communist North. Soldiers are very young men, recruits and volunteers who have never been involved in a combat. On August 18th, members of Delta Company will face the true horror of a ruthless battle among the trees of a rubber plantation called Long Tân. They are barely a hundred. The enemy is a human wave ready to destroy them.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>508664</beq_theMovieDB>
 		<beq_poster>/aB1rCWGMsM2mm1kBDleaPkqUCFo.jpg</beq_poster>
 		<beq_runtime>119</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="36">History</genre>
 			<genre id="28">Action</genre>
 			<genre id="10752">War</genre>
 			<genre id="18">Drama</genre>
-			<genre id="36">History</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

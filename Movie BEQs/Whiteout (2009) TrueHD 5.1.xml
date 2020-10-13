@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Whiteout</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Whiteout</beq_sortTitle>
+		<beq_sortTitle>whiteout</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Whiteout%20%282009%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The only U.S. Marshal assigned to Antarctica, Carrie Stetko will soon leave the harsh environment behind for good – in three days, the sun will set and the Amundsen-Scott Research Station will shut down for the long winter. When a body is discovered out on the open ice, Carrie&apos;s investigation into the continent&apos;s first homicide plunges her deep into a mystery that may cost her her own life.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>22787</beq_theMovieDB>
 		<beq_poster>/641ckpphjHMJxL8CS7jKs5QfYAg.jpg</beq_poster>
 		<beq_runtime>101</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

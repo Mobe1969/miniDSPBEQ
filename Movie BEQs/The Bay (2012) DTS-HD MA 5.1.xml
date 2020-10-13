@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Bay</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bay</beq_sortTitle>
+		<beq_sortTitle>bay</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Bay%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Two million fish washed ashore. One thousand blackbirds dropped from the sky. On July 4, 2009 a deadly menace swept through the quaint seaside town of Claridge, Maryland, but the harrowing story of what happened that Independence Day has never been told—until now. The authorities believed they had buried the truth about the tragedy that claimed over 700 human lives. Now, three years later, a reporter has emerged with footage revealing the cover-up and an unimaginable killer: a mysterious parasitic outbreak. Told from the perspective of those who were there and saw what happened, The Bay unfolds over 24 hours through people&apos;s iPhones, Androids, 911 calls, webcams, and whatever else could be used to document the nightmare in Claridge. What follows is a nerve-shredding tale of a small town plunged into absolute terror.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>123105</beq_theMovieDB>
 		<beq_poster>/7RxDUQF0gx41WcRwbpSJnRQkPfE.jpg</beq_poster>
 		<beq_runtime>84</beq_runtime>

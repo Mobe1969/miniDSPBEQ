@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Amigo Undead</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Amigo Undead</beq_sortTitle>
+		<beq_sortTitle>amigo undead</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Amigo%20Undead%20%282015%29%20DTS-HD%20MA%202.0.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Amigo Undead is the story of Kevin Ostrowski as he attempts to reconcile with his estranged, underachieving brother Norm on a camping trip. They&apos;re accompanied by several of Norm&apos;s unusual friends. When one of these friends dies accidentally, the decision is made to bury him out in the desert with some very unforeseen supernatural consequences.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>339191</beq_theMovieDB>
 		<beq_poster>/6dRdw20BUiiiOP9pdkkTMYzSWrD.jpg</beq_poster>
 		<beq_runtime>84</beq_runtime>

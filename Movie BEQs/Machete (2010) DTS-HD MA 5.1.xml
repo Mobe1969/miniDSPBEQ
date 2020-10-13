@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Machete</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Machete</beq_sortTitle>
+		<beq_sortTitle>machete</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Machete%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After being set-up and betrayed by the man who hired him to assassinate a Texas Senator, an ex-Federale launches a brutal rampage of revenge against his former boss.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>23631</beq_theMovieDB>
 		<beq_poster>/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>

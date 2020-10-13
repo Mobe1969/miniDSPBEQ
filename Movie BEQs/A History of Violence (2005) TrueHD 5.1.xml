@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>A History of Violence</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>A History of Violence</beq_sortTitle>
+		<beq_sortTitle>a history of violence</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20History%20of%20Violence%20%282005%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>59</beq_theMovieDB>
 		<beq_poster>/rrc6GiAKHDrUjp8OmdVng9hRWBn.jpg</beq_poster>
 		<beq_runtime>96</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Texas Chainsaw 3D</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Texas Chainsaw</beq_sortTitle>
+		<beq_sortTitle>texas chainsaw</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Texas%20Chainsaw%20%282013%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A young woman learns that she has inherited a Texas estate from her deceased grandmother. After embarking on a road trip with friends to uncover her roots, she finds she is the sole owner of a lavish, isolated Victorian mansion. But her newfound wealth comes at a price as she stumbles upon a horror that awaits her in the mansion’s dank cellars.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>76617</beq_theMovieDB>
 		<beq_poster>/dwIQ7WDCSiIcNdbferTcU7uI0KV.jpg</beq_poster>
 		<beq_runtime>92</beq_runtime>

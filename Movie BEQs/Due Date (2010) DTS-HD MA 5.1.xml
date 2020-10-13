@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Due Date</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Due Date</beq_sortTitle>
+		<beq_sortTitle>due date</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Due%20Date%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Peter Highman must scramble across the US in five days to be present for the birth of his first child. He gets off to a bad start when his wallet and luggage are stolen, and put on the &apos;no-fly&apos; list. Peter embarks on a terrifying journey when he accepts a ride from an actor.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>41733</beq_theMovieDB>
 		<beq_poster>/A0AoOIMjpx6UphAbMZXN02De6ZE.jpg</beq_poster>
 		<beq_runtime>95</beq_runtime>

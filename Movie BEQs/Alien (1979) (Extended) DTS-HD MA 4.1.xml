@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Alien</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Alien</beq_sortTitle>
+		<beq_sortTitle>alien</beq_sortTitle>
 		<beq_year>1979</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Alien%20%281979%29%28Extended%29%20DTS-HD%20MA%204.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>348</beq_theMovieDB>
 		<beq_poster>/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg</beq_poster>
 		<beq_runtime>117</beq_runtime>

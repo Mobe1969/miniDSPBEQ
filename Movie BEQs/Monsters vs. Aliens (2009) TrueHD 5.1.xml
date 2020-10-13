@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Monsters vs Aliens</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Monsters vs. Aliens</beq_sortTitle>
+		<beq_sortTitle>monsters vs. aliens</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Monsters%20vs.%20Aliens%20%282009%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When Susan Murphy is unwittingly clobbered by a meteor full of outer space gunk on her wedding day, she mysteriously grows to 49-feet-11-inches. The military jumps into action and captures Susan, secreting her away to a covert government compound. She is renamed Ginormica and placed in confinement with a ragtag group of Monsters...</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>15512</beq_theMovieDB>
 		<beq_poster>/iVei1uT1IkbKcM2JRca9KEoTRXM.jpg</beq_poster>
 		<beq_runtime>94</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
-			<genre id="16">Animation</genre>
-			<genre id="10751">Family</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="10751">Family</genre>
+			<genre id="16">Animation</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Condemned</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Condemned</beq_sortTitle>
+		<beq_sortTitle>condemned</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Condemned%20%282007%29%20DTS-HD%20HR%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Jack Conrad is awaiting the death penalty in a corrupt Central American prison. He is &quot;purchased&quot; by a wealthy television producer and taken to a desolate island where he must fight to the death against nine other condemned killers from all corners of the world, with freedom going to the sole survivor.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>14636</beq_theMovieDB>
 		<beq_poster>/oo6jokX6HjqpakYNyg42MxW0kel.jpg</beq_poster>
 		<beq_runtime>113</beq_runtime>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD HR 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

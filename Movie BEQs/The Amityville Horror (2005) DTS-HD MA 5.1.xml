@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Amityville Horror</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Amityville Horror</beq_sortTitle>
+		<beq_sortTitle>amityville horror</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Amityville%20Horror%20%282005%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>This hair-raising remake of the 1979 horror hit depicts the ordeal of the Lutz clan, whose new home has a gory past and a legacy of demons. Before long, the family patriarch is plagued by nightmares and his daughter is seeing phantoms.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10065</beq_theMovieDB>
 		<beq_poster>/1ZM4aU6jJ8wx1tX3ElnZZdKjX8n.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>

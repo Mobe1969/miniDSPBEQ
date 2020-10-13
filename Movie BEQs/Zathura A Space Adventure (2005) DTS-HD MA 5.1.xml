@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Zathura: A Space Adventure</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Zathura A Space Adventure</beq_sortTitle>
+		<beq_sortTitle>zathura a space adventure</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zathura%20A%20Space%20Adventure%20%282005%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>6795</beq_theMovieDB>
 		<beq_poster>/g0HLEZfqJp5dRxMzkgZwW9puP7N.jpg</beq_poster>
 		<beq_runtime>101</beq_runtime>
@@ -1441,9 +1441,9 @@
 		<beq_genres>
 			<genre id="14">Fantasy</genre>
 			<genre id="10751">Family</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

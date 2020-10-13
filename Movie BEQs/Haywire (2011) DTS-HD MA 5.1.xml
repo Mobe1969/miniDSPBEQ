@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Haywire</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Haywire</beq_sortTitle>
+		<beq_sortTitle>haywire</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Haywire%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Mallory Kane is a highly trained operative who works for a government security contractor in the dirtiest, most dangerous corners of the world. After successfully freeing a Chinese journalist held hostage, she is double crossed and left for dead by someone close to her in her own agency. Suddenly the target of skilled assassins who know her every move, Mallory must find the truth in order to stay alive.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>70435</beq_theMovieDB>
 		<beq_poster>/c9fJ0dYC30NnE9k2p61c0dqlZqW.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
+			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>

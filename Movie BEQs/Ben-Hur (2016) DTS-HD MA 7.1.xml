@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ben-Hur</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Ben-Hur</beq_sortTitle>
+		<beq_sortTitle>ben-hur</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ben-Hur%20%282016%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A falsely accused nobleman survives years of slavery to take vengeance on his best friend who betrayed him.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>271969</beq_theMovieDB>
 		<beq_poster>/c9CoGrBA5yw8A7YBMz0hGzfzpNq.jpg</beq_poster>
 		<beq_runtime>125</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

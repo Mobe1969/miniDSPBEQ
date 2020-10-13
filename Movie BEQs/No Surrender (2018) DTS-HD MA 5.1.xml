@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Karmooz war</beq_title>
 		<beq_alt_title>حرب كرموز</beq_alt_title>
-		<beq_sortTitle>No Surrender</beq_sortTitle>
+		<beq_sortTitle>no surrender</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/No%20Surrender%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>During the 1940s, a girl was raped by a group of English soldiers, and three young Egyptians retaliate. The British soldier is being held at the Karamouz police station in Alexandria, headed by General Youssef al-Masri.  General Frank Adams demands that the English soldier be handed over to him, but Yusuf refuses. The British army is led to block the police station, and enters a fierce confrontation with General Yusuf and the rest of the Egyptian soldiers.</beq_overview>
 		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>521784</beq_theMovieDB>
 		<beq_poster>/uyWC4yemHMJRcZ62VrTg6Y1UShn.jpg</beq_poster>
 		<beq_runtime>118</beq_runtime>
@@ -1440,9 +1440,9 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="10752">War</genre>
-			<genre id="36">History</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="36">History</genre>
+			<genre id="10752">War</genre>
 			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>

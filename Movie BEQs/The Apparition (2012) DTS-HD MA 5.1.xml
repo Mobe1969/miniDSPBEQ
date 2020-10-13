@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Apparition</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Apparition</beq_sortTitle>
+		<beq_sortTitle>apparition</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Apparition%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Plagued by frightening occurrences in their home, Kelly and Ben learn that a university&apos;s parapsychology experiment produced an entity that is now haunting them. The malevolent spirit feeds on fear and torments the couple no matter where they run. Desperate, Kelly and Ben turn to a paranormal researcher, but even with his aid, it may already be too late to save themselves from the terrifying presence.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>79694</beq_theMovieDB>
 		<beq_poster>/jO45nIEQMWHE0I68aGls3mRJR8M.jpg</beq_poster>
 		<beq_runtime>82</beq_runtime>

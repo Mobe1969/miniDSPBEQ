@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Mimic</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Mimic</beq_sortTitle>
+		<beq_sortTitle>mimic</beq_sortTitle>
 		<beq_year>1997</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mimic%20%281997%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A disease carried by common cockroaches is killing Manhattan children. In an effort to stop the epidemic an entomologist, Susan Tyler, creates a mutant breed of insect that secretes a fluid to kill the roaches. This mutant breed was engineered to die after one generation, but three years later Susan finds out that the species has survived and evolved into a large, gruesome monster that can mimic human form.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>4961</beq_theMovieDB>
 		<beq_poster>/ieRRo78f8JzEKxfiCKqJyFg6l8o.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="27">Horror</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

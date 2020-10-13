@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hamburger Hill</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hamburger Hill</beq_sortTitle>
+		<beq_sortTitle>hamburger hill</beq_sortTitle>
 		<beq_year>1987</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hamburger%20Hill%20%281987%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The men of Bravo Company are facing a battle that&apos;s all uphill… up Hamburger Hill. Fourteen war-weary soldiers are battling for a mud-covered mound of earth so named because it chews up soldiers like chopped meat. They are fighting for their country, their fellow soldiers and their lives. War is hell, but this is worse. Hamburger Hill tells it the way it was, the way it really was. It&apos;s a raw, gritty and totally unrelenting dramatic depiction of one of the fiercest battles of America&apos;s bloodiest war. This happened. Hamburger Hill - war at its worst, men at their best.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10652</beq_theMovieDB>
 		<beq_poster>/a84FDoIm64qcyKq6BEMB9Ycldpt.jpg</beq_poster>
 		<beq_runtime>112</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
 			<genre id="10752">War</genre>
 		</beq_genres>
 	</beq_metadata>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Fourth Kind</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Fourth Kind</beq_sortTitle>
+		<beq_sortTitle>fourth kind</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Fourth%20Kind%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Since the 1960s, a disproportionate number of the population in and around Nome, Alaska, have gone missing. Despite FBI investigations, the disappearances remain a mystery. Dr. Abigail Tyler, a psychologist, may be on the verge of blowing the unsolved cases wide open when, during the course of treating her patients, she finds evidence of alien abductions.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>22824</beq_theMovieDB>
 		<beq_poster>/vfnsGUwurUQqlpvArBvUVc9rYXa.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>

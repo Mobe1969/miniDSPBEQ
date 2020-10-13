@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>7 Below</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>7 Below</beq_sortTitle>
+		<beq_sortTitle>7 below</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/7%20Below%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The story centers on a group of strangers trapped in a time warp house where a terrible event transpired exactly 100 years prior.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>84577</beq_theMovieDB>
 		<beq_poster>/5LibqJbTNF6xlcc0dMX6n5tHELn.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>

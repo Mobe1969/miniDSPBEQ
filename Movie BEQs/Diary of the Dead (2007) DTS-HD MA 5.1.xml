@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Diary of the Dead</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Diary of the Dead</beq_sortTitle>
+		<beq_sortTitle>diary of the dead</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Diary%20of%20the%20Dead%20%282007%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A group of young film students run into real-life zombies while filming a horror movie of their own.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13025</beq_theMovieDB>
 		<beq_poster>/tGktSJW5dPf8QIjmcqum4KOEZPZ.jpg</beq_poster>
 		<beq_runtime>95</beq_runtime>

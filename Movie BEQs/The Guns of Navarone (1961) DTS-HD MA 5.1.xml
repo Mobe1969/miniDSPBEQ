@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Guns of Navarone</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Guns of Navarone</beq_sortTitle>
+		<beq_sortTitle>guns of navarone</beq_sortTitle>
 		<beq_year>1961</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Guns%20of%20Navarone%20%281961%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A team of allied saboteurs are assigned an impossible mission: infiltrate an impregnable Nazi-held island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.</beq_overview>
 		<beq_rating>NR</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10911</beq_theMovieDB>
 		<beq_poster>/tGdNki1Ukab0yj2JEruCmYTVSSP.jpg</beq_poster>
 		<beq_runtime>158</beq_runtime>

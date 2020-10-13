@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Homefront</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Homefront</beq_sortTitle>
+		<beq_sortTitle>homefront</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Homefront%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Phil Broker is a former DEA agent who has gone through a crisis after his action against a biker gang went horribly wrong and it cost the life of his boss&apos; son. He is recently widowed and is left with a 9-years-old daughter, Maddy. He decides to quit the turbulent and demanding life of thrill for Maddy&apos;s sake and retires to a small town. His daughter fights off a boy who was bullying her at school and this sets in motion a round of events that end in his direct confrontation with the local Meth drug lord. His past history with the biker gang also enters the arena, making matters more complex. But he has a mission in his mind to protect his daughter and he is ready to pay any cost that it demands.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>204082</beq_theMovieDB>
 		<beq_poster>/8Qqp1z72GDUDXcrkACNpheFpSor.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>

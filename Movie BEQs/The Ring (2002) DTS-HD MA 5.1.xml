@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Ring</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Ring</beq_sortTitle>
+		<beq_sortTitle>ring</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Ring%20%282002%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>It sounded like just another urban legend: A videotape filled with nightmarish images, leading to a phone call foretelling the viewer&apos;s death in exactly seven days. As a newspaper reporter, Rachel Keller was naturally skeptical of the story, until four teenagers all met with mysterious deaths exactly one week after watching just such a tape. Allowing her investigative curiosity to get the better of her, Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>565</beq_theMovieDB>
 		<beq_poster>/e2t5CKMox7tjv3iD3Ko7NdFa5lJ.jpg</beq_poster>
 		<beq_runtime>115</beq_runtime>

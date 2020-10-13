@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>I Saw the Devil</beq_title>
 		<beq_alt_title>악마를 보았다</beq_alt_title>
-		<beq_sortTitle>I Saw the Devil</beq_sortTitle>
+		<beq_sortTitle>i saw the devil</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I%20Saw%20the%20Devil%20%282010%29%20DTS-HD%20MA%205.1%20Ko.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Kyung-chul is a dangerous psychopath who kills for pleasure. He has committed infernal serial murders in diabolic ways that one cannot even imagine and his victims range from young women to even children. The police have chased him for a long time, but were unable to catch him. One day, Joo-yeon, daughter of a retired police chief becomes his prey and is found dead in a horrific state. Her fiance Soo-hyun, a top secret agent, decides to track down the murderer himself. He promises himself that he will do everything in his power to take bloody vengeance against the killer, even if it means that he must become a monster himself to get this monstrous and inhumane killer.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>49797</beq_theMovieDB>
 		<beq_poster>/9Egrvm0ue0qy2XYmJJ0hMVetlSw.jpg</beq_poster>
 		<beq_runtime>141</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

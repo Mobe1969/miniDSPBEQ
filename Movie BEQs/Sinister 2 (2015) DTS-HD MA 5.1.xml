@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Sinister 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Sinister 2</beq_sortTitle>
+		<beq_sortTitle>sinister 2</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sinister%202%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A young mother and her twin sons move into a rural house that&apos;s marked for death.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>283445</beq_theMovieDB>
 		<beq_poster>/hF6ORyihtAWHqKkIQI8BSpLQyON.jpg</beq_poster>
 		<beq_runtime>97</beq_runtime>

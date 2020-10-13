@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Lazarus Effect</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Lazarus Effect</beq_sortTitle>
+		<beq_sortTitle>lazarus effect</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lazarus%20Effect%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Medical researcher Frank, his fiancee Zoe and their team have achieved the impossible: they have found a way to revive the dead. After a successful, but unsanctioned, experiment on a lifeless animal, they are ready to make their work public. However, when their dean learns what they&apos;ve done, he shuts them down. Zoe is killed during an attempt to recreate the experiment, leading Frank to test the process on her. Zoe is revived -- but something evil is within her.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>243940</beq_theMovieDB>
 		<beq_poster>/4aq0TOLvITU3iWRUfxlRc83lMz1.jpg</beq_poster>
 		<beq_runtime>83</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="9648">Mystery</genre>
+			<genre id="27">Horror</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

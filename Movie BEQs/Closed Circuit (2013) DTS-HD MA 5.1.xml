@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Closed Circuit</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Closed Circuit</beq_sortTitle>
+		<beq_sortTitle>closed circuit</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Closed%20Circuit%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A terrorist attack in London results in the capture of suspect, and the attorney general appoints Claudia Simmons-Howe as special advocate on his defence team. On the eve of the trial, the accused&apos;s attorney dies and a new one, Martin Rose, steps in. Martin and Claudia are former lovers—a fact which must remain hidden—and, as Martin assembles his case, he uncovers a sinister conspiracy that places him and Claudia in danger.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>146223</beq_theMovieDB>
 		<beq_poster>/keW2sLB9yJbdkRy9yHQjqUjmzbB.jpg</beq_poster>
 		<beq_runtime>96</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="18">Drama</genre>
 			<genre id="80">Crime</genre>
 			<genre id="9648">Mystery</genre>
 		</beq_genres>

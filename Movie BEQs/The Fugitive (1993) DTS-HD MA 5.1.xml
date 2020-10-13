@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Fugitive</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Fugitive</beq_sortTitle>
+		<beq_sortTitle>fugitive</beq_sortTitle>
 		<beq_year>1993</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Fugitive%20%281993%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find her killer and clear his name. Pursuing him is a team of U.S. marshals led by Deputy Samuel Gerard, a determined detective who will not rest until Richard is captured. As Kimble leads the marshals through a series of intricate chases, he uncovers the secret behind his wife&apos;s death and struggles to expose the killer before he is recaptured, or killed.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>5503</beq_theMovieDB>
 		<beq_poster>/eOFjZMYYx9T8JuV0gm2ezEw0rdl.jpg</beq_poster>
 		<beq_runtime>131</beq_runtime>

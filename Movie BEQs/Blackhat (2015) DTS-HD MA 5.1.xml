@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Blackhat</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Blackhat</beq_sortTitle>
+		<beq_sortTitle>blackhat</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blackhat%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A man is released from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The dangerous search leads them from Chicago to Hong Kong.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>201088</beq_theMovieDB>
 		<beq_poster>/6KGxFPcGcyYnN4ct96nmYoabLZ6.jpg</beq_poster>
 		<beq_runtime>133</beq_runtime>

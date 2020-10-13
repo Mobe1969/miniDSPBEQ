@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>We Were Soldiers</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>We Were Soldiers</beq_sortTitle>
+		<beq_sortTitle>we were soldiers</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/We%20Were%20Soldiers%20%282002%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10590</beq_theMovieDB>
 		<beq_poster>/5yGTntK7vqhidDBjwqM8uLZJgKq.jpg</beq_poster>
 		<beq_runtime>138</beq_runtime>

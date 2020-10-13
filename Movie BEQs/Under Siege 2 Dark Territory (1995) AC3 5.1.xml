@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Under Siege 2: Dark Territory</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Under Siege 2 Dark Territory</beq_sortTitle>
+		<beq_sortTitle>under siege 2 dark territory</beq_sortTitle>
 		<beq_year>1995</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Under%20Siege%202%20Dark%20Territory%20%281995%29%20AC3%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A passenger train has been hijacked by an electronics expert and turned into an untraceable command center for a weapons satellite. He has planned to blow up Washington DC and only one man can stop him, former Navy SEAL Casey Ryback.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>3512</beq_theMovieDB>
 		<beq_poster>/gElwFCQTbSK5hdK0PVyia547nst.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>
@@ -1440,8 +1440,8 @@
 			<audioType>DD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Limitless</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Limitless</beq_sortTitle>
+		<beq_sortTitle>limitless</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Limitless%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A paranoia-fueled action thriller about an unsuccessful writer whose life is transformed by a top-secret &quot;smart drug&quot; that allows him to use 100% of his brain and become a perfect version of himself. His enhanced abilities soon attract shadowy forces that threaten his new life in this darkly comic and provocative film.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>51876</beq_theMovieDB>
 		<beq_poster>/mA77y2AMLkjBNRv0dtsWYQRu4IU.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>

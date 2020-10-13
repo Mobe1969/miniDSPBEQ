@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dragon Eyes</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dragon Eyes</beq_sortTitle>
+		<beq_sortTitle>dragon eyes</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dragon%20Eyes%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In St. Jude, drug dealers and corrupt cops have destroyed an urban neighborhood. But newcomer, Hong, has the fighting skills and moral vision to save this town from itself.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>100683</beq_theMovieDB>
 		<beq_poster>/cGfPK4lkgm3qyYIyyT9E2LSqlxw.jpg</beq_poster>
 		<beq_runtime>88</beq_runtime>

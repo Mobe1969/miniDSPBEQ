@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Core</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Core</beq_sortTitle>
+		<beq_sortTitle>core</beq_sortTitle>
 		<beq_year>2003</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Core%20%282003%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Geophysicist Dr. Josh Keyes discovers that an unknown force has caused the earth&apos;s inner core to stop rotating. With the planet&apos;s magnetic field rapidly deteriorating, our atmosphere literally starts to come apart at the seams with catastrophic consequences. To resolve the crisis, Keyes, along with a team of the world&apos;s most gifted scientists, travel into the earth&apos;s core. Their mission: detonate a device that will reactivate the core.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9341</beq_theMovieDB>
 		<beq_poster>/yzzjsK0P8RGc3mlgSm6ksezwIu7.jpg</beq_poster>
 		<beq_runtime>136</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

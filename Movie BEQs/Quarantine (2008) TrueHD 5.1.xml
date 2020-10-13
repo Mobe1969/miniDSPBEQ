@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Quarantine</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Quarantine</beq_sortTitle>
+		<beq_sortTitle>quarantine</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Quarantine%20%282008%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A television reporter and her cameraman are trapped inside a building quarantined by the CDC after the outbreak of a mysterious virus which turns humans into bloodthirsty killers.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13812</beq_theMovieDB>
 		<beq_poster>/2bjoUB81pNRPJNuCScpildL4dGA.jpg</beq_poster>
 		<beq_runtime>89</beq_runtime>

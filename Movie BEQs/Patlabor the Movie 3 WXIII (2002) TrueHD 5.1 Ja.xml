@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Patlabor the Movie 3 WXIII</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Patlabor the Movie 3 WXIII</beq_sortTitle>
+		<beq_sortTitle>patlabor the movie 3 wxiii</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Patlabor%20the%20Movie%203%20WXIII%20%282002%29%20TrueHD%205.1%20Ja.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview />
 		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB />
 		<beq_poster />
 		<beq_runtime />

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ghost in the Shell</beq_title>
 		<beq_alt_title>GHOST IN THE SHELL</beq_alt_title>
-		<beq_sortTitle>Ghost in the Shell</beq_sortTitle>
+		<beq_sortTitle>ghost in the shell</beq_sortTitle>
 		<beq_year>1995</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20%281995%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as &apos;The Puppetmaster&apos; begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.</beq_overview>
 		<beq_rating>NR</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9323</beq_theMovieDB>
 		<beq_poster>/9gC88zYUBARRSThcG93MvW14sqx.jpg</beq_poster>
 		<beq_runtime>83</beq_runtime>

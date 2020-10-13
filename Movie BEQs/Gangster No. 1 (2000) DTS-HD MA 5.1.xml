@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Gangster No. 1</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Gangster No. 1</beq_sortTitle>
+		<beq_sortTitle>gangster no. 1</beq_sortTitle>
 		<beq_year>2000</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gangster%20No.%201%20%282000%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>An old gangster is advised that Freddie Mays would leave jail after thirty years in prison. His mood changes and he recalls when he was a young punk, who joined Freddie Mays&apos; gang, a man he both envied and ultimately betrayed.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10394</beq_theMovieDB>
 		<beq_poster>/gIQUVBPM9ehCelrjQEdKX29AaCT.jpg</beq_poster>
 		<beq_runtime>103</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

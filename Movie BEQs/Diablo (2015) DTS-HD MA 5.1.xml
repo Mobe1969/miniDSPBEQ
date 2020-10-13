@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Diablo</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Diablo</beq_sortTitle>
+		<beq_sortTitle>diablo</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Diablo%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A young civil war veteran is forced on a desperate journey to save his kidnapped wife.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>362703</beq_theMovieDB>
 		<beq_poster>/6uAVDyWhkXfaMo09hNpyqR0xkFp.jpg</beq_poster>
 		<beq_runtime>83</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="37">Western</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>

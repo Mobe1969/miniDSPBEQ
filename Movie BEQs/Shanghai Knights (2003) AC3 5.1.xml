@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Shanghai Knights</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Shanghai Knights</beq_sortTitle>
+		<beq_sortTitle>shanghai knights</beq_sortTitle>
 		<beq_year>2003</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shanghai%20Knights%20%282003%29%20AC3%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The dynamic duo of Chon Wang and Roy O&apos;Bannon return for another crazy adventure. This time, they&apos;re in London to avenge the murder of Chon&apos;s father, but end up on an even bigger case. Chon&apos;s sister is there to do the same, but instead unearths a plot to kill the royal family. No one believes her, though, and it&apos;s up to Chon and Roy (who has romance on his mind) to prove her right.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>6038</beq_theMovieDB>
 		<beq_poster>/eiCwlBQrsSYiZIUZtHNK0KB024K.jpg</beq_poster>
 		<beq_runtime>115</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>DD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="35">Comedy</genre>
-			<genre id="37">Western</genre>
 			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="37">Western</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

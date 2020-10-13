@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dragon Age: Dawn of the Seeker</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dragon Age Dawn of the Seeker</beq_sortTitle>
+		<beq_sortTitle>dragon age dawn of the seeker</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dragon%20Age%20Dawn%20of%20the%20Seeker%20%282012%29%20TrueHD%205.1%20Ja.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>Japanese</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In the land of Orlais, a brash young Seeker—Cassandra—fights to stop a blood-soaked conspiracy. Hidden hands seek to tear apart the realm&apos;s most powerful religious order, and as the sinister plot unfolds, Cassandra is accused of treason and murder. Hunted by friend and foe alike, the impulsive beauty must clear her name while clashing with corrupt templars and rogue blood mages. Should she fail, the executioner’s blade awaits. Should she overcome her rage and expose the unseen forces threatening the rule of the Divine, Cassandra will take her place in legend.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>103173</beq_theMovieDB>
 		<beq_poster>/6R4gnQZp8MSaljsR8dl9R4ARByo.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>

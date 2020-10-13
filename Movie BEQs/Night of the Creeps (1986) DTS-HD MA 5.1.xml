@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Night of the Creeps</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Night of the Creeps</beq_sortTitle>
+		<beq_sortTitle>night of the creeps</beq_sortTitle>
 		<beq_year>1986</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Night%20of%20the%20Creeps%20%281986%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In 1959, an alien experiment crashes to earth and infects a fraternity member. They freeze the body, but in the modern day, two geeks pledging a fraternity accidentally thaw the corpse, which proceeds to infect the campus with parasites that transform their hosts into killer zombies.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>15762</beq_theMovieDB>
 		<beq_poster>/A3s2tQGNb6mhlr1hPZeE5F8IUwp.jpg</beq_poster>
 		<beq_runtime>88</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="878">Science Fiction</genre>
-			<genre id="35">Comedy</genre>
 			<genre id="27">Horror</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

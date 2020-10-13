@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Train to Busan</beq_title>
 		<beq_alt_title>부산행</beq_alt_title>
-		<beq_sortTitle>Train to Busan</beq_sortTitle>
+		<beq_sortTitle>train to busan</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Train%20to%20Busan%20%282016%29%20DTS:X%20MA%20Ko.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Martial law is declared when a mysterious viral outbreak pushes Korea into a state of emergency. Those on an express train to Busan, a city that has successfully fended off the viral outbreak, must fight for their own survival…</beq_overview>
 		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>396535</beq_theMovieDB>
 		<beq_poster>/2oRRTPNtozgPhOa9CYZiVl4GRQ5.jpg</beq_poster>
 		<beq_runtime>118</beq_runtime>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

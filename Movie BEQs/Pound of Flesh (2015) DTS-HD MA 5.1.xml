@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Pound of Flesh</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Pound of Flesh</beq_sortTitle>
+		<beq_sortTitle>pound of flesh</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pound%20of%20Flesh%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In China to donate his kidney to his dying niece, former black-ops agent Deacon awakes the day before the operation to find he is the latest victim of organ theft. Stitched up and pissed-off, Deacon descends from his opulent hotel in search of his stolen kidney and carves a blood-soaked path through the darkest corners of the city. The clock is ticking for his niece and with each step he loses blood.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>326284</beq_theMovieDB>
 		<beq_poster>/bvNQc2aDGIUExuSygRRdDGIY0V2.jpg</beq_poster>
 		<beq_runtime>104</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Swordfish</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Swordfish</beq_sortTitle>
+		<beq_sortTitle>swordfish</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Swordfish%20%282001%29%20AC3%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Rogue agent Gabriel Shear is determined to get his mitts on $9 billion stashed in a secret Drug Enforcement Administration account. He wants the cash to fight terrorism, but lacks the computer skills necessary to hack into the government mainframe. Enter Stanley Jobson, a n&apos;er-do-well encryption expert who can log into anything.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9705</beq_theMovieDB>
 		<beq_poster>/pDoI9pO6EPunPTDPXiubRDgZPnR.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="80">Crime</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
-			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

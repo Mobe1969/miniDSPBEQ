@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>New Police Story</beq_title>
 		<beq_alt_title>新警察故事</beq_alt_title>
-		<beq_sortTitle>New Police Story</beq_sortTitle>
+		<beq_sortTitle>new police story</beq_sortTitle>
 		<beq_year>2004</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/New%20Police%20Story%20%282004%29%20AC3%205.1%20Ca.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Sent into a drunken tailspin when his entire unit is killed by a gang of thrill-seeking punks, disgraced Hong Kong police inspector Wing (Jackie Chan) needs help from his new rookie partner, with a troubled past of his own, to climb out of the bottle and track down the gang and its ruthless leader.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11636</beq_theMovieDB>
 		<beq_poster>/kmTj8ttTl7B0Q64ijr211g4lSrF.jpg</beq_poster>
 		<beq_runtime>123</beq_runtime>
@@ -1440,8 +1440,8 @@
 			<audioType>DD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
+			<genre id="80">Crime</genre>
 			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
 		</beq_genres>

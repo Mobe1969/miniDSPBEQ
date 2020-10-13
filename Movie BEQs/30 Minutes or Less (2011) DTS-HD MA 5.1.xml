@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>30 Minutes or Less</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>30 Minutes or Less</beq_sortTitle>
+		<beq_sortTitle>30 minutes or less</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/30%20Minutes%20or%20Less%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Two fledgling criminals kidnap a pizza delivery guy, strap a bomb to his chest, and advise him that he has mere hours to rob a bank or else...</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>62206</beq_theMovieDB>
 		<beq_poster>/gkCO4bf8kDxF4wsUOMzhYk3Pgz2.jpg</beq_poster>
 		<beq_runtime>83</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

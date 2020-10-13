@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Berserk: The Golden Age Arc I - The Egg of the King</beq_title>
 		<beq_alt_title>ベルセルク 黄金時代篇I 覇王の卵</beq_alt_title>
-		<beq_sortTitle>Berserk The Golden Age Arc I The Egg of the King</beq_sortTitle>
+		<beq_sortTitle>berserk the golden age arc i the egg of the king</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Berserk%20The%20Golden%20Age%20Arc%20I%20The%20Egg%20of%20the%20King%20%282012%29%20DTS-HD%20MA%205.1%20Ja.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Guts, an immensely strong sword-for-hire, has little direction in his life, simply fighting one battle after the next. However, this all changes suddenly when he meets and is bested by Griffith, a beautiful and charismatic young man who leads the Band of the Hawk mercenary army. After Guts joins the Band and the relationship between the two men begins to blossom, Casca, the tough, lone swordswoman in the Band of the Hawk, struggles to accept Guts and the influence he has on the world around her.  While the two men begin to fight together, Griffith continues to rise to power, all seemingly in order to reach his mysterious, prophesied goals. What lengths will Guts and Griffith go to in order to reach these goals, and where will fate take the two men?</beq_overview>
 		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>113082</beq_theMovieDB>
 		<beq_poster>/k0UmL0pzjLV09YCzo6CJR7pKtb0.jpg</beq_poster>
 		<beq_runtime>76</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
+			<genre id="16">Animation</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="14">Fantasy</genre>
-			<genre id="16">Animation</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

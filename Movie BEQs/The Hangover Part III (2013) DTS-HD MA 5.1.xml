@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Hangover Part III</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hangover Part III</beq_sortTitle>
+		<beq_sortTitle>hangover part iii</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hangover%20Part%20III%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>This time, there&apos;s no wedding. No bachelor party. What could go wrong, right? But when the Wolfpack hits the road, all bets are off.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>109439</beq_theMovieDB>
 		<beq_poster>/vtxuPWkdllLNLVyGjKYa267ntuH.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Jackpot</beq_title>
 		<beq_alt_title>Arme Riddere</beq_alt_title>
-		<beq_sortTitle>Jackpot</beq_sortTitle>
+		<beq_sortTitle>jackpot</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jackpot%20%282011%29%20DTS-HD%20MA%205.1%20No.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Terrified and bloody, Oscar Svendsen awakes clinched to a shotgun in a strippers joint. Around him 8 dead men, and police aiming at him. To Oscar it&apos;s clear that he is innocent. It all started when four chaps won 1,7 million on the pools.</beq_overview>
 		<beq_rating>NR</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>86987</beq_theMovieDB>
 		<beq_poster>/44IvrRM7US4rjMeNx2bvu9IyXRo.jpg</beq_poster>
 		<beq_runtime>86</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="80">Crime</genre>
 			<genre id="28">Action</genre>
 			<genre id="35">Comedy</genre>
-			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

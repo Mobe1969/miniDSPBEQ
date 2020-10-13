@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Red Planet</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Red Planet</beq_sortTitle>
+		<beq_sortTitle>red planet</beq_sortTitle>
 		<beq_year>2000</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Red%20Planet%20%282000%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Astronauts search for solutions to save a dying Earth by searching on Mars, only to have the mission go terribly awry.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>8870</beq_theMovieDB>
 		<beq_poster>/5JWy5CgAhMhgVfMyHkkM9ALI99W.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>

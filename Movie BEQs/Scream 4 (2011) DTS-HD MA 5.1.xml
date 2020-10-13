@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Scream 4</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Scream 4</beq_sortTitle>
+		<beq_sortTitle>scream 4</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Scream%204%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Sidney Prescott, now the author of a self-help book, returns home to Woodsboro on the last stop of her book tour. There she reconnects with Sheriff Dewey and Gale, who are now married, as well as her cousin Jill and her Aunt Kate. Unfortunately, Sidney&apos;s appearance also brings about the return of Ghostface, putting Sidney, Gale, and Dewey, along with Jill, her friends, and the whole town of Woodsboro in danger.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>41446</beq_theMovieDB>
 		<beq_poster>/tcrI37K98TVopLbcZBa55mWhLT1.jpg</beq_poster>
 		<beq_runtime>111</beq_runtime>

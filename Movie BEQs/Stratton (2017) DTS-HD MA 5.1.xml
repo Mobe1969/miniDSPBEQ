@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Stratton</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Stratton</beq_sortTitle>
+		<beq_sortTitle>stratton</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stratton%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A British Special Boat Service commando tracks down an international terrorist cell.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>348389</beq_theMovieDB>
 		<beq_poster>/mibBHS9mVV2z5rdeFdOkH94Sw1c.jpg</beq_poster>
 		<beq_runtime>94</beq_runtime>

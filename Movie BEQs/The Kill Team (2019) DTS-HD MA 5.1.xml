@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Kill Team</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Kill Team</beq_sortTitle>
+		<beq_sortTitle>kill team</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Kill%20Team%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When Andrew Briggman—a young soldier in the US invasion of Afghanistan—witnesses other recruits killing innocent civilians under the direction of a sadistic Sergeant, he considers reporting them to higher-ups. However, the heavily-armed and increasingly-violent platoon becomes suspicious that someone in their ranks has turned on them, and Andrew begins to fear that he&apos;ll be the next target.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>489245</beq_theMovieDB>
 		<beq_poster>/d9soEywk0vZFGJKJvAewY8LMwi7.jpg</beq_poster>
 		<beq_runtime>87</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Future World</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Future World</beq_sortTitle>
+		<beq_sortTitle>future world</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Future%20World%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A young boy searches a future world wasteland for a rumored cure for his dying mother.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>411135</beq_theMovieDB>
 		<beq_poster>/gZkXGa544XnUNf44CEwb7gpU8Ma.jpg</beq_poster>
 		<beq_runtime>88</beq_runtime>

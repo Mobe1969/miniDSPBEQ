@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>King of Thieves</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>King of Thieves</beq_sortTitle>
+		<beq_sortTitle>king of thieves</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/King%20of%20Thieves%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>London, England, April 2015. Brian Reader, a retired thief, gathers an unlikely gang of burglars to perpetrate the biggest and boldest heist in British history. The thieves assault the Hatton Garden Safe Deposit Company and escape with millions in goods and money. But soon the cracks between the gang members begin to appear when they discuss how to share the loot.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>520360</beq_theMovieDB>
 		<beq_poster>/rtfS7y2XQ0vjTrm6khq508N0Ehk.jpg</beq_poster>
 		<beq_runtime>108</beq_runtime>

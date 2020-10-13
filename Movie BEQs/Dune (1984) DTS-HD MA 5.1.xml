@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dune</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dune</beq_sortTitle>
+		<beq_sortTitle>dune</beq_sortTitle>
 		<beq_year>1984</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dune%20%281984%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In the year 10,191, the world is at war for control of the desert planet Dune—the only place where the time-travel substance &apos;Spice&apos; can be found. But when one leader gives up control, it&apos;s only so he can stage a coup with some unsavory characters.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>841</beq_theMovieDB>
 		<beq_poster>/ngUaHgSZGkKy1Izwjk7qwZLOC5A.jpg</beq_poster>
 		<beq_runtime>137</beq_runtime>

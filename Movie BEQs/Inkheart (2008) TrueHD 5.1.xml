@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Inkheart</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Inkheart</beq_sortTitle>
+		<beq_sortTitle>inkheart</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Inkheart%20%282008%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The adventures of a father and his young daughter, in their search for a long lost book that will help reunite a missing, close relative.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>2309</beq_theMovieDB>
 		<beq_poster>/nPCxkoaxio4YPZmMdnQ2EFbgtUo.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="14">Fantasy</genre>
 			<genre id="10751">Family</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

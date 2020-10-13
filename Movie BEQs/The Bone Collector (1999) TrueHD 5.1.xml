@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Bone Collector</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bone Collector</beq_sortTitle>
+		<beq_sortTitle>bone collector</beq_sortTitle>
 		<beq_year>1999</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Bone%20Collector%20%281999%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Rookie cop, Amelia Donaghy reluctantly teams with Lincoln Rhyme – formerly the department&apos;s top homicide detective but now paralyzed as a result of a spinal injury – to catch a grisly serial killer dubbed &apos;The Bone Collector&apos;. The murderer&apos;s special signature is to leave tantalizing clues based on the grim remains of his crimes.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9481</beq_theMovieDB>
 		<beq_poster>/4HiIegmRMV147NDLAEhXI8duho.jpg</beq_poster>
 		<beq_runtime>118</beq_runtime>

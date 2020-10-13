@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Aftermath</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Aftermath</beq_sortTitle>
+		<beq_sortTitle>aftermath</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Aftermath%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Searching for a happy ending to a tale of unimaginable disaster and horror, nine strangers find themselves holed up together in a farmhouse cellar in rural Texas. The United States has hastily become embroiled in World War 3. A young doctor named Hunter survives the nuclear attack and is thrown together by happenstance with a group of wounded and frightened victims, including Elizabeth, a strong-willed confidant to Hunter, Brad - an antagonistic redneck jackass, and Jennifer, a barely coherent young woman suffering from severe post-traumatic stress. Together, they attempt to endure the devastating holocaust as they struggle with claustrophobia and conflicting personalities. In a makeshift shelter, Hunter and his dying companions wait for news from the government while fending off hunger, radiation sickness, and a horde of frightened and dying refugees</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>188839</beq_theMovieDB>
 		<beq_poster>/4SiclHlsmVs5wTOrLYcKtyM0jUq.jpg</beq_poster>
 		<beq_runtime>92</beq_runtime>

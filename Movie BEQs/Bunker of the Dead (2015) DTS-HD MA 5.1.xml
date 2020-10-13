@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Bunker of the Dead</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bunker of the Dead</beq_sortTitle>
+		<beq_sortTitle>bunker of the dead</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bunker%20of%20the%20Dead%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After Using the instructions found in an old Jewish diary,  Markus and Thomas hope to gain access to a WW II underground military base formerly codenamed: Cerusit. It was used by the Nazis as a secret research institute and is shrouded in rumors to this day about the lost gold of the Third Reich. The entrance to the cave system, however, lies right within the restricted area of a U.S. military base.. the first of many problems Markus and Thomas will have to face.</beq_overview>
 		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>381214</beq_theMovieDB>
 		<beq_poster>/l84y6FST0qo73gKyhEVZJtUD53h.jpg</beq_poster>
 		<beq_runtime>76</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="27">Horror</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

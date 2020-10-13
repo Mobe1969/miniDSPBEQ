@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Yellow Sea</beq_title>
 		<beq_alt_title>황해</beq_alt_title>
-		<beq_sortTitle>Yellow Sea</beq_sortTitle>
+		<beq_sortTitle>yellow sea</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Yellow%20Sea%20%282010%29%20DTS-HD%20MA%205.1%20Ko.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The region where the borders of North Korea, China, and Russia come together, forms a sort of modern day wild west, where more than half of the population relies on illegal activity in order to survive. In Yanbian, on the Chinese side of the border, Gu-nam wiles away his days driving a cab and spends his nights getting drunk and gambling. His wife went to Seoul to work and send back money, but it’s been months since he has heard from her. When local crime lord Myun offers to erase Gu-nam’s debts in exchange for a contract killing in Seoul, Gu-nam reluctantly accepts.</beq_overview>
 		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>57361</beq_theMovieDB>
 		<beq_poster>/16Pkg2ChCdACbBKVIAPAZtLL6eb.jpg</beq_poster>
 		<beq_runtime>157</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
+			<genre id="80">Crime</genre>
 			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>

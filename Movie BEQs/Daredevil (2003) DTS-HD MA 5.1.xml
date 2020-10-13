@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Daredevil</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Daredevil</beq_sortTitle>
+		<beq_sortTitle>daredevil</beq_sortTitle>
 		<beq_year>2003</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Daredevil%20%282003%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>He dwells in a world of eternal night, but the blackness is filled with sounds and scents, tastes and textures that most cannot perceive. Although attorney Matt Murdock is blind, his other four senses function with superhuman sharpness. By day, Murdock represents the downtrodden. At night he is Daredevil, a masked vigilante stalking the dark streets of the city, a relentless avenger of justice.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9480</beq_theMovieDB>
 		<beq_poster>/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg</beq_poster>
 		<beq_runtime>103</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="80">Crime</genre>
 			<genre id="14">Fantasy</genre>
 		</beq_genres>

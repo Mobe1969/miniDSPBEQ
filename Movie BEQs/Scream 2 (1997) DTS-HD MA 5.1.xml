@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Scream 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Scream 2</beq_sortTitle>
+		<beq_sortTitle>scream 2</beq_sortTitle>
 		<beq_year>1997</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Scream%202%20%281997%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Two years after the terrifying events that occurred in Woodsboro, Sidney is now attending Windsor College in Cincinnati, and Gale Weathers&apos; best selling book on Sidney&apos;s life has now been made into a major motion picture. When two college students are killed in a theatre while watching the new film &apos;Stab&apos;, Sidney knows deep down that history is repeating itself.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>4233</beq_theMovieDB>
 		<beq_poster>/mumarnp1ZBHFdmt2q6x9ELuC3x0.jpg</beq_poster>
 		<beq_runtime>120</beq_runtime>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
 			<genre id="27">Horror</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

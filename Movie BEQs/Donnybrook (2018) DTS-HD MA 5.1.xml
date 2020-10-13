@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Donnybrook</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Donnybrook</beq_sortTitle>
+		<beq_sortTitle>donnybrook</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Donnybrook%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>An ex-marine who struggles to provide for his family and a violent drug dealer with an undefeated fighting record are determined to compete in the Donnybrook, a legendary, bare-knuckle brawl with a cash prize of $100,000.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>504599</beq_theMovieDB>
 		<beq_poster>/jcuEDKnM3uThdz7p0YYWFjMla73.jpg</beq_poster>
 		<beq_runtime>101</beq_runtime>

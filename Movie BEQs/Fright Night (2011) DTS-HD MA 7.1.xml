@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Fright Night</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Fright Night</beq_sortTitle>
+		<beq_sortTitle>fright night</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fright%20Night%20%282011%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A teenager suspects his new neighbour is a vampire. Unable to convince anyone, he tries to enlist the help of a self-proclaimed vampire hunter and magician in this remake of the 1985 comedy-horror classic.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>58151</beq_theMovieDB>
 		<beq_poster>/ySQ3v4Fzpy3fePs86eoLiDzwLYM.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>

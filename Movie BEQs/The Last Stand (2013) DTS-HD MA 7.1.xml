@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Last Stand</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Last Stand</beq_sortTitle>
+		<beq_sortTitle>last stand</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Last%20Stand%20%282013%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Ray Owens is sheriff of the quiet US border town of Sommerton Junction after leaving the LAPD following a bungled operation. Following his escape from the FBI, a notorious drug baron, his gang, and a hostage are heading toward Sommerton Junction where the police are preparing to make a last stand to intercept them before they cross the border. Owens is reluctant to become involved but ultimately joins in with the law enforcement efforts</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>76640</beq_theMovieDB>
 		<beq_poster>/4PGpdWDQOjlsMcMIyTwI5Q9jPRJ.jpg</beq_poster>
 		<beq_runtime>107</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

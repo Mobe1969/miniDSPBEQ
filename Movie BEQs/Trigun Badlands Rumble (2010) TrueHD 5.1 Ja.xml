@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Trigun: Badlands Rumble</beq_title>
 		<beq_alt_title>トライガン バッドランド ランブル</beq_alt_title>
-		<beq_sortTitle>Trigun Badlands Rumble</beq_sortTitle>
+		<beq_sortTitle>trigun badlands rumble</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Trigun%20Badlands%20Rumble%20%282010%29%20TrueHD%205.1%20Ja.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>Japanese</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In a quicksand surrounded town called Makka, rumors spread of a legendary robber named Gasback is after the town. To protect it, Mayor Kepler has hired bounty hunters. These hunters have been following Gasback from town to town in hopes of getting the bounty. Vash the Stampede is in town, along with Meryl and Milly, along with the female bounty hunter Ameria and Nicholas D. Wolfwood.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>51859</beq_theMovieDB>
 		<beq_poster>/6OAd4clYaB1Wer9Z4QsWTkdYGeY.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="16">Animation</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="16">Animation</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

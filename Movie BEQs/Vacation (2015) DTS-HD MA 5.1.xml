@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Vacation</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Vacation</beq_sortTitle>
+		<beq_sortTitle>vacation</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vacation%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Hoping to bring his family closer together and to recreate his childhood vacation for his own kids, a grown up Rusty Griswold takes his wife and their two sons on a cross-country road trip to the coolest theme park in America, Walley World. Needless to say, things don&apos;t go quite as planned.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>296099</beq_theMovieDB>
 		<beq_poster>/z79MzBerDAW2EOQZCobFTO4dJ7P.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>

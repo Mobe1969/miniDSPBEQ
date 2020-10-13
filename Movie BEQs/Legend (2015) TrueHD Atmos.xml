@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Legend</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Legend</beq_sortTitle>
+		<beq_sortTitle>legend</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Legend%20%282015%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Suave, charming and volatile, Reggie Kray and his unstable twin brother Ronnie start to leave their mark on the London underworld in the 1960s. Using violence to get what they want, the siblings orchestrate robberies and murders while running nightclubs and protection rackets. With police Detective Leonard &quot;Nipper&quot; Read hot on their heels, the brothers continue their rapid rise to power and achieve tabloid notoriety.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>276907</beq_theMovieDB>
 		<beq_poster>/5wyUnMWPqsK3J2dGl6JrjYUrtSO.jpg</beq_poster>
 		<beq_runtime>131</beq_runtime>

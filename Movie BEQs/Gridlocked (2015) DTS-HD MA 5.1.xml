@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Gridlocked</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Gridlocked</beq_sortTitle>
+		<beq_sortTitle>gridlocked</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gridlocked%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Former SWAT leader David Hendrix and hard-partying movie star Brody Walker must cut their ride-along short when a police training facility is attacked by a team of mercenaries.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>356334</beq_theMovieDB>
 		<beq_poster>/ApdD7H7eds6AaEyQ24h4Cunxhua.jpg</beq_poster>
 		<beq_runtime>114</beq_runtime>

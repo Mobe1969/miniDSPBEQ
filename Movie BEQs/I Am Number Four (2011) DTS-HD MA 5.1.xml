@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>I Am Number Four</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>I Am Number Four</beq_sortTitle>
+		<beq_sortTitle>i am number four</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I%20Am%20Number%20Four%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A teenage fugitive with an incredible secret races to stay one step ahead of the mysterious forces seeking destroy him in this sci-fi action thriller. With three dead and one on the run, the race to find the elusive Number Four begins. Outwardly normal teen John Smith never gets too comfortable in the same identity, and along with his guardian, Henri, he is constantly moving from town to town. With each passing day, John gains a stronger grasp on his extraordinary new powers, and his bond to the beings that share his fantastic fate grows stronger.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>46529</beq_theMovieDB>
 		<beq_poster>/1YmVv4v6CtKmwvzaQe4xiZwQF1u.jpg</beq_poster>
 		<beq_runtime>109</beq_runtime>
@@ -1441,8 +1441,8 @@
 		<beq_genres>
 			<genre id="878">Science Fiction</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

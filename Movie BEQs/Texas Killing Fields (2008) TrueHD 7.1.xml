@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Texas Killing Fields</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Texas Killing Fields</beq_sortTitle>
+		<beq_sortTitle>texas killing fields</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Texas%20Killing%20Fields%20%282008%29%20TrueHD%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview />
 		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB />
 		<beq_poster />
 		<beq_runtime />

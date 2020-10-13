@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>10 Minutes Gone</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>10 Minutes Gone</beq_sortTitle>
+		<beq_sortTitle>10 minutes gone</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/10%20Minutes%20Gone%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Crime boss Rex hires Frank and his crew to steal a priceless jewel stash — but the job goes wrong when someone tips off the cops. After Frank suffers a blow to the head, he wakes up to find the jewels gone and no memory of his attacker. Now, Frank must confront his team members one by one to find the traitor — before Rex covers his tracks by having Frank murdered.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>552865</beq_theMovieDB>
 		<beq_poster>/4SZ0gaObT4rzwZBUsF8EpEoSB2N.jpg</beq_poster>
 		<beq_runtime>89</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="80">Crime</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>

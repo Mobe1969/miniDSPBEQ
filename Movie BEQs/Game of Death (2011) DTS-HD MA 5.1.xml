@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Game of Death</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Game of Death</beq_sortTitle>
+		<beq_sortTitle>game of death</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Game%20of%20Death%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>CIA agent Marcus is sent undercover to Detroit to take out an arms dealer and the head of the hedge fund that is financing him. His CIA backup has other plans and turns on him, and it&apos;s a fight to survive in a hospital and into the hedge fund vault.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>46541</beq_theMovieDB>
 		<beq_poster>/irRF90PyO2syRElltdSDe224aUL.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ip Man 2</beq_title>
 		<beq_alt_title>葉問2</beq_alt_title>
-		<beq_sortTitle>Ip Man 2</beq_sortTitle>
+		<beq_sortTitle>ip man 2</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ip%20Man%202%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Having defeated the best fighters of the Imperial Japanese army in occupied Shanghai, Ip Man and his family settle in post-war Hong Kong. Struggling to make a living, Master Ip opens a kung fu school to bring his celebrated art of Wing Chun to the troubled youth of Hong Kong. His growing reputation soon brings challenges from powerful enemies, including pre-eminent Hung Gar master, Hung Quan.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>37472</beq_theMovieDB>
 		<beq_poster>/aC5nwtbadmJqvl4eVCJPno16Mx5.jpg</beq_poster>
 		<beq_runtime>109</beq_runtime>

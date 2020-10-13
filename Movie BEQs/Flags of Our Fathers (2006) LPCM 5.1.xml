@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Flags of Our Fathers</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Flags of Our Fathers</beq_sortTitle>
+		<beq_sortTitle>flags of our fathers</beq_sortTitle>
 		<beq_year>2006</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flags%20of%20Our%20Fathers%20%282006%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>There were five Marines and one Navy Corpsman photographed raising the U.S. flag on Mt. Suribachi by Joe Rosenthal on February 23, 1945. This is the story of three of the six surviving servicemen - John &apos;Doc&apos; Bradley, Pvt. Rene Gagnon and Pvt. Ira Hayes - who fought in the battle to take Iwo Jima from the Japanese.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>3683</beq_theMovieDB>
 		<beq_poster>/Rzaz2GSBJMnT9aYqzs715XoC4N.jpg</beq_poster>
 		<beq_runtime>135</beq_runtime>

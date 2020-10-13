@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Relic</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Relic</beq_sortTitle>
+		<beq_sortTitle>relic</beq_sortTitle>
 		<beq_year>1997</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Relic%20%281997%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A homicide detective and an anthropologist try to destroy a South American lizard-like god, who&apos;s on a people eating rampage in a Chicago museum.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11015</beq_theMovieDB>
 		<beq_poster>/3MpMbZTrXp6ccrir16nV7YTJ4vx.jpg</beq_poster>
 		<beq_runtime>110</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="53">Thriller</genre>
-			<genre id="27">Horror</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

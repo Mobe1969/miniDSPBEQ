@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ghost in the Shell: S.A.C. 2nd GIG – Individual Eleven</beq_title>
 		<beq_alt_title>攻殻機動隊 STAND ALONE COMPLEX Individual Eleven</beq_alt_title>
-		<beq_sortTitle>Ghost in the Shell SAC Individual Eleven</beq_sortTitle>
+		<beq_sortTitle>ghost in the shell sac individual eleven</beq_sortTitle>
 		<beq_year>2006</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20SAC%20Individual%20Eleven%20%282006%29%20TrueHD%205.1%20Ja.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>Japanese</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The year is 2030. Six months passed since the Laughing Man Incident was solved. About 3 million refugees are living in Japan, invited to fill the labor shortage. However, the emergent presence of the invited-refugees intensified their confrontation with the &quot;Individualists&quot;, who called for national isolation, which then led to the increased incidences of terrorist attacks. Under these circumstances, a terrorist group called the Individual Eleven carries out a suicide attack. But there was a greater scheme behind their action. When Section 9 learns this, they attempt to nail down the mastermind of the incident.  Meanwhile, Kuze, a surviving member of the Individual Eleven, becomes a charismatic leader of the invited-refugees and intensifies the confrontation against the government. And Motoko starts feeling a strange sense of fate connecting her with Kuze...</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>111224</beq_theMovieDB>
 		<beq_poster>/uXT8XDWZwGax4FqmEQGjpajzcKO.jpg</beq_poster>
 		<beq_runtime>162</beq_runtime>
@@ -1440,8 +1440,8 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="16">Animation</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="16">Animation</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

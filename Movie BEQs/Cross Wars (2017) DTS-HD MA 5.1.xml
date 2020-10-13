@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Cross Wars</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Cross Wars</beq_sortTitle>
+		<beq_sortTitle>cross wars</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cross%20Wars%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Cross is aided by his team of weapons experts Riot, War, Shark, Lucia, Ranger, Saint, Blackfire and Nuke. Their biggest fight is against their most dangerous enemy GUNNAR. A thousand year old Viking that&apos;s cursed to live for ever. Gunnar&apos;s only chance at ending his own life is to be the last living soul on earth. The Cross Team must stop Gunnar before he ends humanity.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>412452</beq_theMovieDB>
 		<beq_poster>/ucTGpLGNYJEM38xE8wmDjVIztY1.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>

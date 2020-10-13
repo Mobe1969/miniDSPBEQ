@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dead Rising: Watchtower</beq_title>
 		<beq_alt_title>Dead Rising</beq_alt_title>
-		<beq_sortTitle>Dead Rising Watchtower</beq_sortTitle>
+		<beq_sortTitle>dead rising watchtower</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20Rising%20Watchtower%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Based on the game, Dead Rising takes place during a large-scale zombie outbreak. When a mandatory government vaccine fails to stop the infection from spreading, the four leads must evade infection while also pursuing the root of the epidemic, with all signs pointing to a government conspiracy.</beq_overview>
 		<beq_rating>NC-17</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>293771</beq_theMovieDB>
 		<beq_poster>/iO8w6tBjbbSpJU1inQChwa4FGY.jpg</beq_poster>
 		<beq_runtime>118</beq_runtime>

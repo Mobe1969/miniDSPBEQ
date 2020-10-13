@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Splinter</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Splinter</beq_sortTitle>
+		<beq_sortTitle>splinter</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Splinter%20%282008%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When their plans for a nature trip go awry, Polly and boyfriend Seth decide to check into a motel. On their way, they&apos;re carjacked and kidnapped by low-rent crooks Dennis and Lacey, who take the victims and their SUV to a nearby gas station. Along the way, they encounter an increasingly terrifying horde of parasites, and if any of them intend to survive, they&apos;ll have to outsmart the deadly organisms.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13220</beq_theMovieDB>
 		<beq_poster>/hEryOGHwHBF0Q2wTTwKRgdQsZiM.jpg</beq_poster>
 		<beq_runtime>82</beq_runtime>

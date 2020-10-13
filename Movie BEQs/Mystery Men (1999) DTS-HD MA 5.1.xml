@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Mystery Men</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Mystery Men</beq_sortTitle>
+		<beq_sortTitle>mystery men</beq_sortTitle>
 		<beq_year>1999</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mystery%20Men%20%281999%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When Champion City&apos;s hero Captain Amazing is kidnapped by the recently paroled supervillain Casanova Frankenstein, a trio of average, everyday superheroes -- Mr. Furious, the Shoveler and the Blue Raja -- assemble a new super team to save him.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9824</beq_theMovieDB>
 		<beq_poster>/3O2uzpG97ndCeAWgS22rNB2xL6N.jpg</beq_poster>
 		<beq_runtime>121</beq_runtime>
@@ -1439,11 +1439,11 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="35">Comedy</genre>
-			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

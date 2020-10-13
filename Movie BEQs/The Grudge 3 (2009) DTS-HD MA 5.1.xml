@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Grudge 3</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Grudge 3</beq_sortTitle>
+		<beq_sortTitle>grudge 3</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Grudge%203%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Jake Kimble, the sole survivor of the Chicago massacre, is killed while in solitary confinement. His doctor begins investigating the claims he made about a long-haired woman in white, as a mysterious Japanese woman arrives at his old apartment building to help them get rid of the curse.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>1977</beq_theMovieDB>
 		<beq_poster>/uEOWWRr8BbgPM0BiJiSTwHGaRx4.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="9648">Mystery</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
-			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

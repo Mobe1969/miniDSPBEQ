@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dauntless: The Battle of Midway</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dauntless The Battle of Midway</beq_sortTitle>
+		<beq_sortTitle>dauntless the battle of midway</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dauntless%20The%20Battle%20of%20Midway%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>By June 1942, the Japanese Navy has swept across the Pacific. In an effort to change the course of the war, a United States carrier group is positioned off the coast of Midway, tasked with springing a trap on the enemy. During this pivotal battle, the two-man crew of a U.S. Navy dive bomber is forced to ditch in the sea. Set adrift, the men look towards their comrades for rescue; namely, the ragtag crew of a PBY Catalina, who are sent to search for survivors. Amid the vast openness of the Pacific, with days passing and the chance of rescue fading, the men are forced to face their own mortality.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>604837</beq_theMovieDB>
 		<beq_poster>/udySr2TNzk5W7Q7pvWSwCNLSv2u.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>

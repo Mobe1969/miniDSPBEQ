@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Weathering with You</beq_title>
 		<beq_alt_title>天気の子</beq_alt_title>
-		<beq_sortTitle>Weathering with You</beq_sortTitle>
+		<beq_sortTitle>weathering with you</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Weathering%20with%20You%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1428,10 +1428,12 @@
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Tokyo is currently experiencing rain showers that seem to disrupt the usual pace of everyone living there to no end. Amidst this seemingly eternal downpour arrives the runaway high school student Hodaka Morishima, who struggles to financially support himself—ending up with a job at a small-time publisher. At the same time, the orphaned Hina Amano also strives to find work to sustain herself and her younger brother. Both fates intertwine when Hodaka attempts to rescue Hina from shady men, deciding to run away together. Subsequently, Hodaka discovers that Hina has a strange yet astounding power: the ability to call out the sun whenever she prays for it. With Tokyo&apos;s unusual weather in mind, Hodaka sees the potential of this ability. He suggests that Hina should become a &quot;sunshine girl&quot;—someone who will clear the sky for people when they need it the most. Things begin looking up for them at first. However, it is common knowledge that power always comes with a hefty price...</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_overview>Tokyo is currently experiencing rain showers that seem to disrupt the usual pace of everyone living there to no end. Amidst this seemingly eternal downpour arrives the runaway high school student Hodaka Morishima, who struggles to financially support himself—ending up with a job at a small-time publisher. At the same time, the orphaned Hina Amano also strives to find work to sustain herself and her younger brother.
+ Both fates intertwine when Hodaka attempts to rescue Hina from shady men, deciding to run away together. Subsequently, Hodaka discovers that Hina has a strange yet astounding power: the ability to call out the sun whenever she prays for it. With Tokyo&apos;s unusual weather in mind, Hodaka sees the potential of this ability. He suggests that Hina should become a &quot;sunshine girl&quot;—someone who will clear the sky for people when they need it the most.
+ Things begin looking up for them at first. However, it is common knowledge that power always comes with a hefty price...</beq_overview>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>568160</beq_theMovieDB>
 		<beq_poster>/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg</beq_poster>
 		<beq_runtime>112</beq_runtime>
@@ -1439,9 +1441,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="14">Fantasy</genre>
 			<genre id="18">Drama</genre>
 			<genre id="10749">Romance</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="16">Animation</genre>
 		</beq_genres>
 	</beq_metadata>

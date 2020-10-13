@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Autopsy of Jane Doe</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Autopsy of Jane Doe</beq_sortTitle>
+		<beq_sortTitle>autopsy of jane doe</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Autopsy%20of%20Jane%20Doe%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Father and son coroners receive a mysterious unidentified corpse with no apparent cause of death. As they attempt to examine the beautiful young &quot;Jane Doe,&quot; they discover increasingly bizarre clues that hold the key to her terrifying secrets.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>397243</beq_theMovieDB>
 		<beq_poster>/s280XPfvffOxiZZW9moMiOFKwfT.jpg</beq_poster>
 		<beq_runtime>86</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Die Hard: With a Vengeance</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Die Hard With a Vengeance</beq_sortTitle>
+		<beq_sortTitle>die hard with a vengeance</beq_sortTitle>
 		<beq_year>1995</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Die%20Hard%20With%20a%20Vengeance%20%281995%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>New York detective John McClane is back and kicking bad-guy butt in the third installment of this action-packed series, which finds him teaming with civilian Zeus Carver to prevent the loss of innocent lives. McClane thought he&apos;d seen it all, until a genius named Simon engages McClane, his new &quot;partner&quot; -- and his beloved city -- in a deadly game that demands their concentration.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>1572</beq_theMovieDB>
 		<beq_poster>/sOqB9iMEcbGhAgH70dbs8U58UW5.jpg</beq_poster>
 		<beq_runtime>128</beq_runtime>

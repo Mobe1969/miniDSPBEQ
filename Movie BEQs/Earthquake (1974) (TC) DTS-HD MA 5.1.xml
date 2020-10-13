@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Earthquake</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Earthquake</beq_sortTitle>
+		<beq_sortTitle>earthquake</beq_sortTitle>
 		<beq_year>1974</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Earthquake%20%281974%29%28TC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Various interconnected people struggle to survive when an earthquake of unimaginable magnitude hits Los Angeles, California.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11123</beq_theMovieDB>
 		<beq_poster>/sdXxWyGPVMu5MVB43i1Ff6EEQom.jpg</beq_poster>
 		<beq_runtime>123</beq_runtime>

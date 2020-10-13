@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Double</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Double</beq_sortTitle>
+		<beq_sortTitle>double</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Double%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The mysterious murder of a US senator bearing the distinctive trademark of the legendary Soviet assassin &apos;Cassius&apos;, forces retired CIA operative, Paul Shepherson to team with rookie FBI agent, Ben Geary  to solve the crime. Having spent his career chasing Cassius, Shepherdson is convinced his nemesis is long dead, but is pushed to take on the case by his former supervisor, Tom Highland. Geary, who wrote his Master&apos;s thesis on Shepherdson&apos;s pursuit of the Soviet killer, is certain that Cassius has resurfaced.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>73499</beq_theMovieDB>
 		<beq_poster>/t4W10sjJSDAWRUDn2Kb8DQKxiZv.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="18">Drama</genre>
 			<genre id="80">Crime</genre>
+			<genre id="18">Drama</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

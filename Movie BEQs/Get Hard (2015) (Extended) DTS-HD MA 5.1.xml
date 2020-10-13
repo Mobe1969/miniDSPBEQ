@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Get Hard</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Get Hard</beq_sortTitle>
+		<beq_sortTitle>get hard</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Get%20Hard%20%282015%29%28Extended%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When obscenely rich hedge-fund manager James is convicted of fraud and sentenced to a stretch in San Quentin, the judge gives him one month to get his affairs in order. Knowing that he won&apos;t survive more than a few minutes in prison on his own, James desperately turns to Darnell-- a black businessman who&apos;s never even had a parking ticket -- for help. As Darnell puts James through the wringer, both learn that they were wrong about many things, including each other.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>257091</beq_theMovieDB>
 		<beq_poster>/rJPbS2cYOYhDCjT5NmW1Fm6gFl3.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Unlocked</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Unlocked</beq_sortTitle>
+		<beq_sortTitle>unlocked</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unlocked%20%282017%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After failing to apprehend the terrorist behind a Paris attack that claimed dozens of lives, CIA agent Alice Racine is forced to live in London as a caseworker. Her mentor unexpectedly calls her back into action when the CIA discovers that another attack is imminent. Alice soon learns that the classified information she&apos;s uncovered has been compromised. Running for her life, she turns to a former soldier to help her prevent a lethal biological attack on the citizens of London.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>291276</beq_theMovieDB>
 		<beq_poster>/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Bubba Ho-tep</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bubba Ho-Tep</beq_sortTitle>
+		<beq_sortTitle>bubba ho-tep</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bubba%20Ho-Tep%20%282002%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Bubba Ho-tep tells the &quot;true&quot; story of what really did become of Elvis Presley. We find Elvis as an elderly resident in an East Texas rest home, who switched identities with an Elvis impersonator years before his &quot;death,&quot; then missed his chance to switch back. He must team up with JFK and fight an ancient Egyptian mummy for the souls of their fellow residents.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9707</beq_theMovieDB>
 		<beq_poster>/61S9pzoX75UxP3ko6e8aTitu7MW.jpg</beq_poster>
 		<beq_runtime>92</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="14">Fantasy</genre>
-			<genre id="9648">Mystery</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="9648">Mystery</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
 		</beq_genres>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Bullet to the Head</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bullet to the Head</beq_sortTitle>
+		<beq_sortTitle>bullet to the head</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bullet%20to%20the%20Head%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After watching their respective partners die, a cop and a hitman form an alliance in order to bring down their common enemy.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>70074</beq_theMovieDB>
 		<beq_poster>/w1aFUPWbkaVShZJzFUYX5JZjz6u.jpg</beq_poster>
 		<beq_runtime>92</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

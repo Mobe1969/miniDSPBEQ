@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ghost Rider</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Ghost Rider</beq_sortTitle>
+		<beq_sortTitle>ghost rider</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20Rider%20%282007%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In order to save his dying father, young stunt cyclist Johnny Blaze sells his soul to Mephistopheles and sadly parts from the pure-hearted Roxanne Simpson, the love of his life. Years later, Johnny&apos;s path crosses again with Roxanne, now a go-getting reporter, and also with Mephistopheles, who offers to release Johnny&apos;s soul if Johnny becomes the fabled, fiery &apos;Ghost Rider&apos;.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>1250</beq_theMovieDB>
 		<beq_poster>/1pyU94dAY7npDQCKuxCSyX9KthN.jpg</beq_poster>
 		<beq_runtime>114</beq_runtime>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

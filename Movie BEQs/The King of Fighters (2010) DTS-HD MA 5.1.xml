@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The King of Fighters</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>King of Fighters</beq_sortTitle>
+		<beq_sortTitle>king of fighters</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20King%20of%20Fighters%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The King of Fighters movie will introduce a new science fiction spin into the setting established in the games universe by following the surviving members of three legendary fighting clans who are continually whisked away to other dimensions by an evil power. As the fighters enter each new world they battle that universes native defenders, while the force that brought them seeks to find a way to invade and infect our world.</beq_overview>
 		<beq_rating>NR</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>44571</beq_theMovieDB>
 		<beq_poster>/qDI6PbIjeEdLUoPHGaZqDMV9Fdx.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>

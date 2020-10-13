@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Lethal Weapon 3</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Lethal Weapon 3</beq_sortTitle>
+		<beq_sortTitle>lethal weapon 3</beq_sortTitle>
 		<beq_year>1992</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lethal%20Weapon%203%20%281992%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Archetypal buddy cops Riggs and Murtaugh are back for another round of high-stakes action, this time setting their collective sights on bringing down a former Los Angeles police lieutenant turned black market weapons dealer. Lorna Cole joins as the beautiful yet hardnosed internal affairs sergeant who catches Riggs&apos;s eye.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>943</beq_theMovieDB>
 		<beq_poster>/1UkG3G4jhM9XMbbYyqWQ7NUnUTT.jpg</beq_poster>
 		<beq_runtime>118</beq_runtime>
@@ -1441,10 +1441,10 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="80">Crime</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

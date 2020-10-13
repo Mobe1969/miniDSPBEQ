@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>City of Ember</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>City of Ember</beq_sortTitle>
+		<beq_sortTitle>city of ember</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/City%20of%20Ember%20%282008%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>For generations, the people of the City of Ember have flourished in an amazing world of glittering lights. But Ember&apos;s once powerful generator is failing and the great lamps that illuminate the city are starting to flicker. Now, two teenagers, in a race against time, must search Ember for clues that will unlock the ancient mystery of the city&apos;s existence, before the the lights go out forever.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13600</beq_theMovieDB>
 		<beq_poster>/eCdLMQMVk0SZlsfnDu43AOhbCJL.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>

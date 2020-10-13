@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hell on the Border</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hell on the Border</beq_sortTitle>
+		<beq_sortTitle>hell on the border</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hell%20on%20the%20Border%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>This epic, action-packed Western tells the incredible true story of Bass Reeves, the first black marshal in the Wild West. Having escaped from slavery after the Civil War, he arrives in Arkansas seeking a job with the law. To prove himself, he must hunt down a deadly outlaw with the help of a grizzled journeyman. As he chases the criminal deeper into the Cherokee Nation, Reeves must not only dodge bullets, but severe discrimination in hopes of earning his star--and cement his place as a cowboy legend.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>576379</beq_theMovieDB>
 		<beq_poster>/yQqMvQJ9DZV7J4WkDda5Y8yzsPw.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="37">Western</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="37">Western</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

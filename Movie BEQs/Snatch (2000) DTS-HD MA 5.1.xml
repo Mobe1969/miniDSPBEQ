@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Snatch</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Snatch</beq_sortTitle>
+		<beq_sortTitle>snatch</beq_sortTitle>
 		<beq_year>2000</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Snatch%20%282000%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Illegal boxing promoter Turkish convinces gangster Brick Top to offer bets on bare-knuckle boxer Mickey at his bookie business. When Mickey does not throw his first fight as agreed, an infuriated Brick Top demands another match. Meanwhile, gangster Frankie Four Fingers comes to place a bet for a friend with Brick Top&apos;s bookies, as multiple criminals converge on a stolen diamond that Frankie has come to London to sell.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>107</beq_theMovieDB>
 		<beq_poster>/56mOJth6DJ6JhgoE2jtpilVqJO.jpg</beq_poster>
 		<beq_runtime>103</beq_runtime>

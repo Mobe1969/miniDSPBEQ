@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Blue Streak</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Blue Streak</beq_sortTitle>
+		<beq_sortTitle>blue streak</beq_sortTitle>
 		<beq_year>1999</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blue%20Streak%20%281999%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Miles Logan is a jewel thief who just hit the big time by stealing a huge diamond. However, after two years in jail, he comes to find out that he hid the diamond in a police building that was being built at the time of the robbery. In an attempt to regain his diamond, he poses as an LAPD detective.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11001</beq_theMovieDB>
 		<beq_poster>/jek2osBtFhzU6Hjj7yp1egOtbqO.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>

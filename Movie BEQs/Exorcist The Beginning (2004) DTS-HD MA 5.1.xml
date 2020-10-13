@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Exorcist: The Beginning</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Exorcist The Beginning</beq_sortTitle>
+		<beq_sortTitle>exorcist the beginning</beq_sortTitle>
 		<beq_year>2004</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Exorcist%20The%20Beginning%20%282004%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Having lived through traumatizing events during WWII, Father Lankester Merrin takes a sabbatical from the Church to conduct archaeological excavations in British-administered East Africa. Merrin unearths an ancient Byzantine church believed have been built and then immediately buried to keep down evil from the crypt below. The natives are convinced that uncovering the church has unleashed a demon, and begin to violently clash with the British military troops. As the village rapidly disintegrates into chaos and war, Merrin must face-off with the demon which has taken possession of somebody close to him.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11026</beq_theMovieDB>
 		<beq_poster>/worCHasSOCQD4lvlQsBcBqRwghd.jpg</beq_poster>
 		<beq_runtime>114</beq_runtime>

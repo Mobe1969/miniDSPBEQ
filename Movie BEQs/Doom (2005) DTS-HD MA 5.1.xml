@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Doom</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Doom</beq_sortTitle>
+		<beq_sortTitle>doom</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Doom%20%282005%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A team of space marines known as the Rapid Response Tactical Squad, led by Sarge, is sent to a science facility on Mars after somebody reports a security breach. There, they learn that the alert came after a test subject, a mass murderer purposefully injected with alien DNA, broke free and began killing people. Dr. Grimm, who is related to team member Reaper, informs them all that the chromosome can mutate humans into monsters -- and is highly infectious.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>8814</beq_theMovieDB>
 		<beq_poster>/r8s9TKFUALs0veBls6B4yQZO0Jk.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>

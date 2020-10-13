@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Wake of Death</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Wake of Death</beq_sortTitle>
+		<beq_sortTitle>wake of death</beq_sortTitle>
 		<beq_year>2004</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wake%20of%20Death%20%282004%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Action superstar, Jean-Claude Van Damme (Universal Soldier, Street Fighter), is back and at his hard-hitting best as Ben Archer, an ex-mob enforcer seeking revenge against a ruthless Chinese kingpin responsible for his wife&apos;s brutal murder. When Archer joins forces with his old underworld friends, an all-out war is waged against the Chinese Triad in this pulse-pounding action thriller.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>14172</beq_theMovieDB>
 		<beq_poster>/vfDVpBus7BaUiT6UsjpiedyPtnX.jpg</beq_poster>
 		<beq_runtime>91</beq_runtime>

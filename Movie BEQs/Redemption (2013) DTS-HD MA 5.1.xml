@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Blood of Redemption</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Redemption</beq_sortTitle>
+		<beq_sortTitle>redemption</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Redemption%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Quinn Forte had it all: power, money, a brother who idolized him, and a woman who loved him. He also had enemies. In the course of one night, he loses everything. Betrayed by someone in his inner circle, Quinn is set up and arrested. His father, the patriarch of the criminal empire is killed and his brother suspects that Quinn is behind it all. When he&apos;s released from jail he tries to escape the demons from his past, but that becomes an impossible task. Campbell, the ruthless new leader of &quot;The Company&quot; won&apos;t let him leave in peace. So instead of escaping them, Quinn fights back. He joins forces with his former henchman and friend, The Swede, and takes on his enemies head on.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>220820</beq_theMovieDB>
 		<beq_poster>/vxMQiHh2lP6Dq46R2OyvXYA8XqB.jpg</beq_poster>
 		<beq_runtime>85</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Term Life</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Term Life</beq_sortTitle>
+		<beq_sortTitle>term life</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Term%20Life%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>If Nick Barrow can stay alive for 21 days, he&apos;ll die happy. Everyone Nick knows wants him dead; Mob bosses, contract killers, and dirty cops. Performing the last act of a desperate man, Nick takes out a million dollar insurance policy on himself, payable to his estranged daughter. The problem? The policy doesn&apos;t take effect for 21 days. Nick knows they&apos;ll be lucky to be alive for twenty-one hours.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>257440</beq_theMovieDB>
 		<beq_poster>/9oAVYDh7RHW3wzQWbGsRB7RFE6J.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>

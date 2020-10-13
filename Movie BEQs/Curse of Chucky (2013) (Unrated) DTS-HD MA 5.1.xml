@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Curse of Chucky</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Curse of Chucky</beq_sortTitle>
+		<beq_sortTitle>curse of chucky</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Curse%20of%20Chucky%20%282013%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After the passing of her mother, a young woman in a wheelchair since birth, is forced to deal with her sister, brother-in-law, niece and their nanny as they say their goodbyes to mother. When people start turning up dead, Nica discovers the culprit might be a strange doll she received a few days earlier.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>167032</beq_theMovieDB>
 		<beq_poster>/x9DzkDWp8O82Wzxk6otuD9bce9a.jpg</beq_poster>
 		<beq_runtime>97</beq_runtime>

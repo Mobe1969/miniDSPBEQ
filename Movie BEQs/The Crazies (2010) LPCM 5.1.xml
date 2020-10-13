@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Crazies</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Crazies</beq_sortTitle>
+		<beq_sortTitle>crazies</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Crazies%20%282010%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Four friends find themselves trapped in their small hometown after they discover their friends and neighbors going quickly and horrifically insane.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>29427</beq_theMovieDB>
 		<beq_poster>/kX9D8dtkHDTdwn4LBJqiEArnvUq.jpg</beq_poster>
 		<beq_runtime>101</beq_runtime>

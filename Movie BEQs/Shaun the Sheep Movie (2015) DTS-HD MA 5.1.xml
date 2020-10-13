@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Shaun the Sheep Movie</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Shaun the Sheep Movie</beq_sortTitle>
+		<beq_sortTitle>shaun the sheep movie</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shaun%20the%20Sheep%20Movie%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When Shaun decides to take the day off and have some fun, he gets a little more action than he bargained for. A mix up with the Farmer, a caravan and a very steep hill lead them all to the Big City and it&apos;s up to Shaun and the flock to return everyone safely to the green grass of home.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>263109</beq_theMovieDB>
 		<beq_poster>/dhVYlfMNc2bfXPB83LLL00I4l9n.jpg</beq_poster>
 		<beq_runtime>85</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
+			<genre id="10751">Family</genre>
 			<genre id="16">Animation</genre>
 			<genre id="35">Comedy</genre>
-			<genre id="10751">Family</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

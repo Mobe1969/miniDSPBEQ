@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Last Full Measure</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Last Full Measure</beq_sortTitle>
+		<beq_sortTitle>last full measure</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Last%20Full%20Measure%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The incredible true story of Vietnam War hero William H. Pitsenbarger, a U.S. Air Force Pararescuemen medic who personally saved over sixty men. Thirty-two years later, Pentagon staffer Scott Huffman investigates a Congressional Medal of Honor request for Pitsenbarger and uncovers a high-level conspiracy behind the decades-long denial of the medal, prompting Huffman to put his own career on the line to seek justice for the fallen airman.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>442065</beq_theMovieDB>
 		<beq_poster>/bMG8c80lyEkBXVgyHVqsdQhjgf6.jpg</beq_poster>
 		<beq_runtime>110</beq_runtime>

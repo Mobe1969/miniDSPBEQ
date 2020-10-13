@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Zatoichi</beq_title>
 		<beq_alt_title>座頭市</beq_alt_title>
-		<beq_sortTitle>Zatoichi</beq_sortTitle>
+		<beq_sortTitle>zatoichi</beq_sortTitle>
 		<beq_year>2003</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zatoichi%20%282003%29%20DTS-HD%20MA%205.1%20Ja.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Zatoichi is a 19th century blind nomad who makes his living as a gambler and masseur. However, behind this humble facade, he is a master swordsman gifted with a lightning-fast draw and breathtaking precision. While wandering, Zatoichi discovers a remote mountain village at the mercy of Ginzo, a ruthless gang-leader. Ginzo disposes of anyone who gets in his way, especially after hiring the mighty samurai ronin, Hattori, as a bodyguard. After a raucous night of gambling in town, Zatoichi encounters a pair of geishas--as dangerous as they are beautiful--who&apos;ve come to avenge their parents&apos; murder. As the paths of these and other colorful characters intertwine, Ginzo&apos;s henchmen are soon after Zatoichi. With his legendary cane sword at his side, the stage is set for a riveting showdown.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>246</beq_theMovieDB>
 		<beq_poster>/iCIycswWbX1EDS6PYYBcR9ohrC.jpg</beq_poster>
 		<beq_runtime>111</beq_runtime>

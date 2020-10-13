@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Rookie</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Rookie</beq_sortTitle>
+		<beq_sortTitle>rookie</beq_sortTitle>
 		<beq_year>1990</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Rookie%20%281990%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Veteran cop Nick Pulovski is used to playing musical partners; many of the partners he&apos;s had in the past have died on the job, and often as a result of Nick&apos;s risky tactics. But the rookie who&apos;s been assigned to help Nick bust a carjacking ring is almost as hotheaded as he is … and when Nick gets kidnapped, his newbie partner is his only hope.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>6723</beq_theMovieDB>
 		<beq_poster>/pr37i12Qe1gGxMBf6GTIDZvfFIT.jpg</beq_poster>
 		<beq_runtime>120</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="18">Drama</genre>
 			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>

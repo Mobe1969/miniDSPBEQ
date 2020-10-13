@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Gallowwalkers</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Gallowwalkers</beq_sortTitle>
+		<beq_sortTitle>gallowwalkers</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gallowwalkers%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When a nun broke her covenant with God to save the life of  her unborn son, Aman, he was cursed for life. As an adult, Aman has killed those who have crossed him. But his curse brings his victims back to life and they pursue him for revenge, so Aman enlists a young gunman to fight by his side against his undead victims.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>46429</beq_theMovieDB>
 		<beq_poster>/7GRmFn2ypWeNiH2zPqc38FVnlcY.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="37">Western</genre>
 			<genre id="28">Action</genre>
+			<genre id="37">Western</genre>
 			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Tears of the Sun</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Tears of the Sun</beq_sortTitle>
+		<beq_sortTitle>tears of the sun</beq_sortTitle>
 		<beq_year>2003</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tears%20of%20the%20Sun%20%282003%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Navy SEAL Lieutenant A.K. Waters and his elite squadron of tactical specialists are forced to choose between their duty and their humanity, between following orders by ignoring the conflict that surrounds them, or finding the courage to follow their conscience and protect a group of innocent refugees. When the democratic government of Nigeria collapses and the country is taken over by a ruthless military dictator, Waters, a fiercely loyal and hardened veteran is dispatched on a routine mission to retrieve a Doctors Without Borders physician.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9567</beq_theMovieDB>
 		<beq_poster>/8rN7hvGDmje6CDAYuIuVB4UhT0c.jpg</beq_poster>
 		<beq_runtime>121</beq_runtime>

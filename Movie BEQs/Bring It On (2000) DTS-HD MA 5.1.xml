@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Bring It On</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bring It On</beq_sortTitle>
+		<beq_sortTitle>bring it on</beq_sortTitle>
 		<beq_year>2000</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bring%20It%20On%20%282000%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The Toro cheerleading squad from Rancho Carne High School in San Diego has got spirit, spunk, sass and a killer routine that&apos;s sure to land them the national championship trophy for the sixth year in a row. But for newly-elected team captain, the Toros&apos; road to total cheer glory takes a shady turn when she discovers that their perfectly-choreographed routines were in fact stolen.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>1588</beq_theMovieDB>
 		<beq_poster>/hbCY1kJ2aQN6rBXRRdxysZRPn7e.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>

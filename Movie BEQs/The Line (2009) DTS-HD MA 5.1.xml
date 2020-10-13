@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Other End of the Line</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Line</beq_sortTitle>
+		<beq_sortTitle>line</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Line%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>An employee at an Indian call-center travels to San Francisco to be with a guy she falls for over the phone</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>17334</beq_theMovieDB>
 		<beq_poster>/uiLgARBzUiE7PPRiJILXSh4zOIW.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>

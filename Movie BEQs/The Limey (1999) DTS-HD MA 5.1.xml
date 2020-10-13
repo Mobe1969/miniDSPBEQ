@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Limey</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Limey</beq_sortTitle>
+		<beq_sortTitle>limey</beq_sortTitle>
 		<beq_year>1999</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Limey%20%281999%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The Limey follows Wilson, a tough English ex-con who travels to Los Angeles to avenge his daughter&apos;s death. Upon arrival, Wilson goes to task battling Valentine and an army of L.A.&apos;s toughest criminals, hoping to find clues and piece together what happened. After surviving a near-death beating, getting thrown from a building and being chased down a dangerous mountain road, the Englishman decides to dole out some bodily harm of his own.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10388</beq_theMovieDB>
 		<beq_poster>/efAnFInZYrenNvBlLIXN2oLYyNc.jpg</beq_poster>
 		<beq_runtime>89</beq_runtime>
@@ -1440,10 +1440,10 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="18">Drama</genre>
-			<genre id="28">Action</genre>
-			<genre id="53">Thriller</genre>
-			<genre id="80">Crime</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="80">Crime</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

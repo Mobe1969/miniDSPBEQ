@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Cujo</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Cujo</beq_sortTitle>
+		<beq_sortTitle>cujo</beq_sortTitle>
 		<beq_year>1983</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cujo%20%281983%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A friendly St. Bernard named &quot;Cujo&quot; contracts rabies and conducts a reign of terror on a small American town.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10489</beq_theMovieDB>
 		<beq_poster>/uNBt2YxrQdyOjnm2rDQ5QiCmQ0K.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

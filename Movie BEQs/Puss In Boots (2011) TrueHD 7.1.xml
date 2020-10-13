@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Puss in Boots</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Puss In Boots</beq_sortTitle>
+		<beq_sortTitle>puss in boots</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Puss%20In%20Boots%20%282011%29%20TrueHD%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in Boots becomes a hero when he sets off on an adventure with the tough and street smart Kitty Softpaws and the mastermind Humpty Dumpty to save his town. This is the true story of The Cat, The Myth, The Legend... The Boots.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>417859</beq_theMovieDB>
 		<beq_poster>/eufJ36oQCauDc427ewaEvQrhZ6i.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>
@@ -1440,12 +1440,12 @@
 			<audioType>TrueHD 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10751">Family</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="16">Animation</genre>
-			<genre id="28">Action</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="10751">Family</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

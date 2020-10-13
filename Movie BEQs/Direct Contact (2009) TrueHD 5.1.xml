@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Direct Contact</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Direct Contact</beq_sortTitle>
+		<beq_sortTitle>direct contact</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Direct%20Contact%20%282009%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>An imprisoned ex-US Special forces operative in Eastern Europe, is offered his freedom and money to rescue an American woman, who has been kidnapped by a ruthless warlord. But, shortly after freeing her discovers that the kidnap story was just a ruse to bring her out into the open.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>20236</beq_theMovieDB>
 		<beq_poster>/kVEoVHjy9ULTp28XefHRYkMwZsk.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

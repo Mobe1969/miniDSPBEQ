@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Rescue Dawn</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Rescue Dawn</beq_sortTitle>
+		<beq_sortTitle>rescue dawn</beq_sortTitle>
 		<beq_year>2006</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rescue%20Dawn%20%282006%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A US Fighter pilot&apos;s epic struggle of survival after being shot down on a mission over Laos during the Vietnam War.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9952</beq_theMovieDB>
 		<beq_poster>/7a99nU5k9e3FhBNWfPzR3yRMArl.jpg</beq_poster>
 		<beq_runtime>126</beq_runtime>

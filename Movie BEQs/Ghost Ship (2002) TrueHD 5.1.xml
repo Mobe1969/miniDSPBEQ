@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ghost Ship</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Ghost Ship</beq_sortTitle>
+		<beq_sortTitle>ghost ship</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20Ship%20%282002%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After discovering a passenger ship missing since 1962 floating adrift on the Bering Sea, salvagers claim the vessel as their own. Once they begin towing the ghost ship towards harbor, a series of bizarre occurrences happen and the group becomes trapped inside the ship, which they soon learn is inhabited by a demonic creature.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9645</beq_theMovieDB>
 		<beq_poster>/656WjgpEraNNprU19Q6AWWTZzRY.jpg</beq_poster>
 		<beq_runtime>91</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

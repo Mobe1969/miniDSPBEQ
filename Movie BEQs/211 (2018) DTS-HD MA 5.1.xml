@@ -1431,7 +1431,7 @@
 		<beq_overview>Inspired by one of the longest and bloodiest real-life events in police history, Officer Mike Chandler and a young civilian passenger find themselves under-prepared and outgunned when fate puts them squarely in the crosshairs of a daring bank heist in progress by a fearless team of highly-trained and heavily-armed men.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>500919</beq_theMovieDB>
 		<beq_poster>/81RColr4rau6DZ7z9eMsksokcfk.jpg</beq_poster>
 		<beq_runtime>86</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
-			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

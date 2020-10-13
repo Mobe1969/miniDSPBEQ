@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Cowboy Bebop: The Movie</beq_title>
 		<beq_alt_title>カウボーイビバップ 天国の扉</beq_alt_title>
-		<beq_sortTitle>Cowboy Bebop The Movie</beq_sortTitle>
+		<beq_sortTitle>cowboy bebop the movie</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cowboy%20Bebop%20The%20Movie%20%282001%29%20TrueHD%205.1%20Ja.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren&apos;t the only ones hunting him.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11299</beq_theMovieDB>
 		<beq_poster>/7i9sIU6ASTw2zwvvNuM0FJzmpKs.jpg</beq_poster>
 		<beq_runtime>115</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="16">Animation</genre>
-			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

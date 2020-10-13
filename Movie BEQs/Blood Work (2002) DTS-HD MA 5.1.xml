@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Blood Work</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Blood Work</beq_sortTitle>
+		<beq_sortTitle>blood work</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20Work%20%282002%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Still recovering from a heart transplant, a retired FBI profiler returns to service when his own blood analysis offers clues to the identity of a serial killer.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9573</beq_theMovieDB>
 		<beq_poster>/Adcf6CLdUSW5uBDbnDrFvPaTbfu.jpg</beq_poster>
 		<beq_runtime>110</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

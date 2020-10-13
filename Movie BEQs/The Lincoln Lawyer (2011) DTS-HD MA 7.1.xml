@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Lincoln Lawyer</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Lincoln Lawyer</beq_sortTitle>
+		<beq_sortTitle>lincoln lawyer</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lincoln%20Lawyer%20%282011%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A lawyer conducts business from the back of his Lincoln town car while representing a high-profile client in Beverly Hills.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>50348</beq_theMovieDB>
 		<beq_poster>/gOn8Ve9Yi8fxjRkmLr5BZoOc7KV.jpg</beq_poster>
 		<beq_runtime>119</beq_runtime>

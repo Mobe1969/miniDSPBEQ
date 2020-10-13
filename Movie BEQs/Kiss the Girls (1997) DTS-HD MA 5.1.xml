@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Kiss the Girls</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Kiss the Girls</beq_sortTitle>
+		<beq_sortTitle>kiss the girls</beq_sortTitle>
 		<beq_year>1997</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kiss%20the%20Girls%20%281997%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Forensic psychologist Alex Cross travels to North Carolina and teams with escaped kidnap victim Kate McTiernan to hunt down &quot;Casanova,&quot; a serial killer who abducts strong-willed women and forces them to submit to his demands. The trail leads to Los Angeles, where the duo discovers that the psychopath may not be working alone.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9437</beq_theMovieDB>
 		<beq_poster>/25h5I3E3ydhazsPDnscWHivq5pn.jpg</beq_poster>
 		<beq_runtime>115</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
 			<genre id="9648">Mystery</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

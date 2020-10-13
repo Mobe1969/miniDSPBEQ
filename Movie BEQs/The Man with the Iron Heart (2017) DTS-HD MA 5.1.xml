@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Man with the Iron Heart</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Man with the Iron Heart</beq_sortTitle>
+		<beq_sortTitle>man with the iron heart</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Man%20with%20the%20Iron%20Heart%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>With the Third Reich is at his peak in 1942, the Czech resistance in London plans the most ambitious military operation of WWII –  Anthropoid. Two young recruits are sent to Prague to assassinate the most ruthless Nazi leader – Reinhardt Heydrich – head of the SS, the Gestapo and the architect of the Final Solution.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>339259</beq_theMovieDB>
 		<beq_poster>/ZVQfCY2DgCjrm8w2saXvT8Ao3B.jpg</beq_poster>
 		<beq_runtime>120</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="10752">War</genre>
 			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="10752">War</genre>
 			<genre id="36">History</genre>
 		</beq_genres>
 	</beq_metadata>

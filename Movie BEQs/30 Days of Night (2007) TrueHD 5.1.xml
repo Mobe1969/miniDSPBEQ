@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>30 Days of Night</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>30 Days of Night</beq_sortTitle>
+		<beq_sortTitle>30 days of night</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/30%20Days%20of%20Night%20%282007%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>This is the story of an isolated Alaskan town that is plunged into darkness for a month each year when the sun sinks below the horizon. As the last rays of light fade, the town is attacked by a bloodthirsty gang of vampires bent on an uninterrupted orgy of destruction. Only the small town&apos;s husband-and-wife Sheriff team stand between the survivors and certain destruction.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>4513</beq_theMovieDB>
 		<beq_poster>/goHX48AYgfsKhNYnbgC92YF9URL.jpg</beq_poster>
 		<beq_runtime>113</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Big Bad Wolves</beq_title>
 		<beq_alt_title>מי מפחד מהזאב הרע</beq_alt_title>
-		<beq_sortTitle>Big Bad Wolves</beq_sortTitle>
+		<beq_sortTitle>big bad wolves</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Big%20Bad%20Wolves%20%282013%29%20DTS-HD%20MA%205.1%20He.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>Hebrew</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Tel Aviv, Israel. The twisted paths of three very different men brutally collide due to a chain of unspeakable murders: a grieving father who has been doomed to seek vengeance and a police detective who boldly crosses the narrow boundary between law and crime meet a religion teacher suspected of being the murderer.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>171540</beq_theMovieDB>
 		<beq_poster>/7SEdoH6qBIYNhIV7H9cFSRe3wO1.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="80">Crime</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

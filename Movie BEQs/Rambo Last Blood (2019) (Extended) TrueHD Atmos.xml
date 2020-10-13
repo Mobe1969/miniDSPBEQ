@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Rambo: Last Blood</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Rambo Last Blood</beq_sortTitle>
+		<beq_sortTitle>rambo last blood</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rambo%20Last%20Blood%20%282019%29%28Extended%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After fighting his demons for decades, John Rambo now lives in peace on his family ranch in Arizona, but his rest is interrupted when Gabriela, the granddaughter of his housekeeper María, disappears after crossing the border into Mexico to meet her biological father. Rambo, who has become a true father figure for Gabriela over the years, undertakes a desperate and dangerous journey to find her.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>522938</beq_theMovieDB>
 		<beq_poster>/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg</beq_poster>
 		<beq_runtime>89</beq_runtime>

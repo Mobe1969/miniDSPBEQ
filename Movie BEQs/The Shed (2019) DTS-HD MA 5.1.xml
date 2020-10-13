@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Shed</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Shed</beq_sortTitle>
+		<beq_sortTitle>shed</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Shed%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The story of Stan, an orphaned teenager stuck living with his abusive grandfather and tasked with routinely protecting his best friend from high school bullies. When Stan discovers a murderous creature has taken refuge inside the tool shed in his backyard, he tries to secretly battle the demon alone until his bullied friend discovers the creature and has a far more sinister plan in mind.</beq_overview>
 		<beq_rating>NR</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>551994</beq_theMovieDB>
 		<beq_poster>/aV9n5MyLZQsoXNfbZG5OOf16IkP.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>

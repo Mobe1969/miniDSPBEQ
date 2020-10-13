@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Son of a Gun</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Son of a Gun</beq_sortTitle>
+		<beq_sortTitle>son of a gun</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Son%20of%20a%20Gun%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Locked up for a minor crime, 19 year old JR quickly learns the harsh realities of prison life. Protection, if you can get it, is paramount. JR soon finds himself under the watchful eye of Australia&apos;s most notorious criminal, Brendan Lynch, but protection comes at a price.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>294652</beq_theMovieDB>
 		<beq_poster>/yRLVyhQfkW2hn15e8NIqarswLAr.jpg</beq_poster>
 		<beq_runtime>108</beq_runtime>
@@ -1440,9 +1440,9 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

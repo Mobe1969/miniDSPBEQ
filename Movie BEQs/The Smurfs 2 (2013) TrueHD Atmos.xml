@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Smurfs 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Smurfs 2</beq_sortTitle>
+		<beq_sortTitle>smurfs 2</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Smurfs%202%20%282013%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The evil wizard Gargamel creates a couple of mischievous Smurf-like creatures called the Naughties that he hopes will let him harness the all-powerful, magical Smurf-essence. But when he discovers that only a real Smurf can give him what he wants, and only a secret spell that Smurfette knows can turn the Naughties into real Smurfs, Gargamel kidnaps Smurfette and brings her to Paris, where he has been winning the adoration of millions as the world¹s greatest sorcerer. It&apos;s up to Papa, Clumsy, Grouchy, and Vanity to return to our world, reunite with their human friends Patrick and Grace Winslow, and rescue her! Will Smurfette, who has always felt different from the other Smurfs, find a new connection with the Naughties Vexy and Hackus or will the Smurfs convince her that their love for her is True Blue?</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>77931</beq_theMovieDB>
 		<beq_poster>/4zu8hbjp7bedcbetQssylLhpguk.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="14">Fantasy</genre>
-			<genre id="10751">Family</genre>
 			<genre id="16">Animation</genre>
+			<genre id="10751">Family</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

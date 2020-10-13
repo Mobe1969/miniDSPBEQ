@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Freaks of Nature</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Freaks of Nature</beq_sortTitle>
+		<beq_sortTitle>freaks of nature</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Freaks%20of%20Nature%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In the town of Dillford, humans, vampires and zombies were all living in peace - until the alien apocalypse arrived. Now three teenagers-one human, one vampire, and one zombie-have to team up to figure out how to get rid of the visitors.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>218784</beq_theMovieDB>
 		<beq_poster>/uOfXM61tr3sDoyyAaNTDyfxxyaE.jpg</beq_poster>
 		<beq_runtime>92</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="35">Comedy</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="27">Horror</genre>
-			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

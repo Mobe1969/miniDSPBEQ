@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Happening</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Happening</beq_sortTitle>
+		<beq_sortTitle>happening</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Happening%20%282008%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When a deadly airborne virus threatens to wipe out the northeastern United States, teacher Elliott Moore (Mark Wahlberg) and his wife (Zooey Deschanel) flee from contaminated cities into the countryside in a fight to discover the truth. Is it terrorism, the accidental release of some toxic military bio weapon -- or something even more sinister? John Leguizamo and Betty Buckley co-star in this thriller from writer-director M. Night Shyamalan.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>8645</beq_theMovieDB>
 		<beq_poster>/v1Cw6WaCjNqInpAzUwbXB4LGgoX.jpg</beq_poster>
 		<beq_runtime>91</beq_runtime>

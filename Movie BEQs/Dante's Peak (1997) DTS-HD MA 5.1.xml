@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dante&apos;s Peak</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dante&apos;s Peak</beq_sortTitle>
+		<beq_sortTitle>dante&apos;s peak</beq_sortTitle>
 		<beq_year>1997</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dante%27s%20Peak%20%281997%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Volcanologist Harry Dalton comes to the sleepy town of Dante&apos;s Peak to investigate the recent rumblings of the dormant volcano the burg is named for. Before long, his worst fears are realized when a massive eruption hits, and immediately, Harry, the mayor and the townspeople find themselves fighting for their lives amid a catastrophic nightmare.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9619</beq_theMovieDB>
 		<beq_poster>/chApdYLprUhuAVpeBXn2Ytytyo6.jpg</beq_poster>
 		<beq_runtime>108</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="12">Adventure</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

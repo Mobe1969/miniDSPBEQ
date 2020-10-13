@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Perfect Sense</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Perfect Sense</beq_sortTitle>
+		<beq_sortTitle>perfect sense</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Perfect%20Sense%20%282011%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In Glasgow, Scotland, while a mysterious pandemic begins to spread around the world, Susan, a brilliant epidemiologist, falls in love with Michael, a skillful cook.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>51999</beq_theMovieDB>
 		<beq_poster>/2UuuO6MX1AzD61zX6NHiHQODoI1.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>LPCM 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="10749">Romance</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

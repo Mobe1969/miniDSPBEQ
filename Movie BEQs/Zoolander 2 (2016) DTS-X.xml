@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Zoolander 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Zoolander 2</beq_sortTitle>
+		<beq_sortTitle>zoolander 2</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zoolander%202%20%282016%29%20DTS:X%20MA.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Derek and Hansel are modelling again when an opposing company attempts to take them out from the business.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>329833</beq_theMovieDB>
 		<beq_poster>/zjQD0PNPdH6fvBgT6WDPXq03ckz.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Apollo 18</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Apollo 18</beq_sortTitle>
+		<beq_sortTitle>apollo 18</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Apollo%2018%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Officially, Apollo 17 was the last manned mission to the moon. But a year later in 1973, three American astronauts were sent on a secret mission to the moon funded by the US Department of Defense. What you are about to see is the actual footage which the astronauts captured on that mission. While NASA denies its authenticity, others say it&apos;s the real reason we&apos;ve never gone back to the moon.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>50357</beq_theMovieDB>
 		<beq_poster>/4bLqU6YncqvKETzvPZPPoVrLUYM.jpg</beq_poster>
 		<beq_runtime>86</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="878">Science Fiction</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

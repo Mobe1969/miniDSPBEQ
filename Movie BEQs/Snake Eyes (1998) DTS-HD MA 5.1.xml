@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Snake Eyes</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Snake Eyes</beq_sortTitle>
+		<beq_sortTitle>snake eyes</beq_sortTitle>
 		<beq_year>1998</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Snake%20Eyes%20%281998%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>All bets are off when corrupt homicide cop Rick Santoro witnesses a murder during a boxing match. It&apos;s up to him and lifelong friend and naval intelligence agent Kevin Dunne to uncover the conspiracy behind the killing. At every turn, Santoro makes increasingly shocking discoveries that even he can&apos;t turn a blind eye to.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>8688</beq_theMovieDB>
 		<beq_poster>/kDc89zkOTGUUhhOBe0Uuc9jA3Bu.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>

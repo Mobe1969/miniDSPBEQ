@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Pathfinder</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Pathfinder</beq_sortTitle>
+		<beq_sortTitle>pathfinder</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pathfinder%20%282007%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A Viking boy is left behind after his clan battles a Native American tribe. Raised within the tribe, he ultimately becomes their savior in a fight against the Norsemen.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>1534</beq_theMovieDB>
 		<beq_poster>/rS9SmTVNewO1TIt9FTMo2kkh3RH.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>

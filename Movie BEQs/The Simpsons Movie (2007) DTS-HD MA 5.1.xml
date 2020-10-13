@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Simpsons Movie</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Simpsons Movie</beq_sortTitle>
+		<beq_sortTitle>simpsons movie</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Simpsons%20Movie%20%282007%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After Homer accidentally pollutes the town&apos;s water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>35</beq_theMovieDB>
 		<beq_poster>/a6bdbK0pctG3iGgAZg7EyOCmDod.jpg</beq_poster>
 		<beq_runtime>87</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="10751">Family</genre>
 			<genre id="16">Animation</genre>
 			<genre id="35">Comedy</genre>
-			<genre id="10751">Family</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

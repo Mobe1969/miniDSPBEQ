@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>American Renegades</beq_title>
 		<beq_alt_title>Renegades</beq_alt_title>
-		<beq_sortTitle>Mission of Honor</beq_sortTitle>
+		<beq_sortTitle>mission of honor</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mission%20of%20Honor%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In the midst of the Balkan wars, a squad of Navy SEALs attempts to unravel a long-forgotten mystery after discovering an enormous treasure trove hidden at the bottom of a lake in Serbia.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>335788</beq_theMovieDB>
 		<beq_poster>/hx4nxhesaagsvJNhRw2fTobg8o.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>

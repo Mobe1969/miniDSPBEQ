@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Shadow People</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Shadow People</beq_sortTitle>
+		<beq_sortTitle>shadow people</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shadow%20People%20%282013%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A radio talk show host unravels a conspiracy about encounters with mysterious beings known as The Shadow People and their role in the unexplained deaths of several hundred victims in the 1980s.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>176570</beq_theMovieDB>
 		<beq_poster>/19LOFiwC6OQLgaXq5nhnJuwwvEc.jpg</beq_poster>
 		<beq_runtime>89</beq_runtime>

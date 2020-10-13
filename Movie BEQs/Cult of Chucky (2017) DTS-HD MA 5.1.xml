@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Cult of Chucky</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Cult of Chucky</beq_sortTitle>
+		<beq_sortTitle>cult of chucky</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cult%20of%20Chucky%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Confined to an asylum for the criminally insane for the past four years, Nica Pierce is erroneously convinced that she, not Chucky, murdered her entire family. But when her psychiatrist introduces a new therapeutic “tool” to facilitate his patients’ group sessions — an all-too-familiar “Good Guy” doll with an innocently smiling face — a string of grisly deaths begins to plague the asylum, and Nica starts to wonder if maybe she isn’t crazy after all. Meanwhile, Andy Barclay, Chucky’s now all-grown-up nemesis from the first three Child’s Plays, races to Nica’s aid. But to save her he’ll have to get past Tiffany, Chucky’s long-ago bride, who will do anything, no matter how deadly or depraved, to help her beloved evil devilish doll.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>393345</beq_theMovieDB>
 		<beq_poster>/r5JUiMYfatwYeDkxkLWYUx5GIjY.jpg</beq_poster>
 		<beq_runtime>91</beq_runtime>

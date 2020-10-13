@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dead Snow 2: Red vs. Dead</beq_title>
 		<beq_alt_title>Død Snø 2</beq_alt_title>
-		<beq_sortTitle>Dead Snow 2 Red vs. Dead</beq_sortTitle>
+		<beq_sortTitle>dead snow 2 red vs. dead</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20Snow%202%20Red%20vs.%20Dead%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The gruesome Nazi Zombies are back to finish their mission, but our hero is not willing to die. He is gathering his own army to give them a final fight.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>241842</beq_theMovieDB>
 		<beq_poster>/bllzic3ydohA9i1fL3bCiRZMVK9.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
-			<genre id="28">Action</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="28">Action</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

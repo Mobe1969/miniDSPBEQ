@@ -1417,12 +1417,12 @@
 	<beq_metadata>
 		<beq_title>The Terror</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Terror Infamy</beq_sortTitle>
+		<beq_sortTitle>terror infamy</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL />
 		<beq_edition />
-		<beq_season>Season 2</beq_season>
+		<beq_season>2</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1439,8 +1439,8 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
 			<genre id="18">Drama</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

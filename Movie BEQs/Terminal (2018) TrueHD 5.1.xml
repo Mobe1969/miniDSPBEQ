@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Terminal</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Terminal</beq_sortTitle>
+		<beq_sortTitle>terminal</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Terminal%20%282018%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In the dark heart of a sprawling, anonymous city, two assassins carry out a sinister mission, a teacher battles a fatal illness, and an enigmatic janitor and a curious waitress lead dangerous double lives.  Murderous consequences unravel in the dead of night, as their lives intertwine at the hands of a mysterious criminal mastermind who is hell-bent on revenge.</beq_overview>
 		<beq_rating>NR</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>385332</beq_theMovieDB>
 		<beq_poster>/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg</beq_poster>
 		<beq_runtime>95</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Broken Arrow</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Broken Arrow</beq_sortTitle>
+		<beq_sortTitle>broken arrow</beq_sortTitle>
 		<beq_year>1996</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Broken%20Arrow%20%281996%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When rogue stealth-fighter pilot Vic Deakins deliberately drops off the radar while on maneuvers, the Air Force ends up with two stolen nuclear warheads -- and Deakins&apos;s co-pilot, Riley Hale, is the military&apos;s only hope for getting them back. Traversing the deserted canyons of Utah, Hale teams with park ranger Terry Carmichael to put Deakins back in his box.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9208</beq_theMovieDB>
 		<beq_poster>/7wmFsLBQDDTMxEbaZlCqgfEx9PK.jpg</beq_poster>
 		<beq_runtime>108</beq_runtime>

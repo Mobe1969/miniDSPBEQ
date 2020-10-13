@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Gothika</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Gothika</beq_sortTitle>
+		<beq_sortTitle>gothika</beq_sortTitle>
 		<beq_year>2003</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gothika%20%282003%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After a car crash, a criminal psychologist regains consciousness only to find that she&apos;s a patient in the same mental institution that currently employs her. It seems she&apos;s been accused of murdering her husband—but she has no memory of committing the crime. As she tries to regain her memory and convince her co-workers of her innocence, a vengeful spirit uses her as an earthly pawn, which further convinces everyone of her guilt.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>4970</beq_theMovieDB>
 		<beq_poster>/frSGNQcWx1ek8dCduFYCux1ho7n.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>
