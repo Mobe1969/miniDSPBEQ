@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Land of the Lost</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Land of the Lost</beq_sortTitle>
+		<beq_sortTitle>land of the lost</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Land%20of%20the%20Lost%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>On his latest expedition, Dr. Rick Marshall is sucked into a space-time vortex alongside his research assistant and a redneck survivalist. In this alternate universe, the trio make friends with a primate named Chaka, their only ally in a world full of dinosaurs and other fantastic creatures.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>18162</beq_theMovieDB>
 		<beq_poster>/hVCJzmK9l5FD01LFYAB1zcmmw7s.jpg</beq_poster>
 		<beq_runtime>102</beq_runtime>
@@ -1440,9 +1440,9 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="10751">Family</genre>
 			<genre id="35">Comedy</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

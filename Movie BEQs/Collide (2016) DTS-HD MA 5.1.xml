@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Collide</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Collide</beq_sortTitle>
+		<beq_sortTitle>collide</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Collide%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>An American backpacker gets involved with a ring of drug smugglers as their driver, and winds up on the run from his employers across Munich&apos;s autobahns.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>195590</beq_theMovieDB>
 		<beq_poster>/7WqR10HKafhzE9LXEYg0AtM4J6O.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>

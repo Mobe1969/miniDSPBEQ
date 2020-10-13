@@ -807,8 +807,8 @@
 		<boost>4.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0142312481824474,-1.9474867569939074,0.937106027183794,1.9474867569939074,-0.9513372753662416,</dec>
-		<hex>3f81d254,bff9473f,3f6fe62e,3ff9473f,bf738ad7,</hex>
+		<dec>1.0001519995485453,-1.9994798202722086,0.9993282489805722,1.9994798202722086,-0.9994802485291175,</dec>
+		<hex>3f8004fb,bfffeef4,3f7fd3fa,3fffeef4,bf7fddf0,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>17</freq>
@@ -816,8 +816,8 @@
 		<boost>7.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0254266963491845,-1.9477824109421005,0.9335201633474679,1.9477824109421005,-0.9589468596966523,</dec>
-		<hex>3f83412f,bff950ef,3f6efb2d,3ff950ef,bf757d8b,</hex>
+		<dec>1.0002708676391738,-1.9995614279572838,0.9992917980315081,1.9995614279572838,-0.9995626656706821,</dec>
+		<hex>3f8008e0,bffff1a1,3f7fd196,3ffff1a1,bf7fe357,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>1000</freq>
@@ -897,8 +897,8 @@
 		<boost>4.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0142312481824474,-1.9474867569939074,0.937106027183794,1.9474867569939074,-0.9513372753662416,</dec>
-		<hex>3f81d254,bff9473f,3f6fe62e,3ff9473f,bf738ad7,</hex>
+		<dec>1.0001519995485453,-1.9994798202722086,0.9993282489805722,1.9994798202722086,-0.9994802485291175,</dec>
+		<hex>3f8004fb,bfffeef4,3f7fd3fa,3fffeef4,bf7fddf0,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>17</freq>
@@ -906,8 +906,8 @@
 		<boost>7.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0254266963491845,-1.9477824109421005,0.9335201633474679,1.9477824109421005,-0.9589468596966523,</dec>
-		<hex>3f83412f,bff950ef,3f6efb2d,3ff950ef,bf757d8b,</hex>
+		<dec>1.0002708676391738,-1.9995614279572838,0.9992917980315081,1.9995614279572838,-0.9995626656706821,</dec>
+		<hex>3f8008e0,bffff1a1,3f7fd196,3ffff1a1,bf7fe357,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>1000</freq>
@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Pineapple Express</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Pineapple Express</beq_sortTitle>
+		<beq_sortTitle>pineapple express</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL />
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="35">Comedy</genre>
 			<genre id="80">Crime</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

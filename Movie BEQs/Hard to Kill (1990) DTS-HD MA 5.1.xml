@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hard to Kill</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hard to Kill</beq_sortTitle>
+		<beq_sortTitle>hard to kill</beq_sortTitle>
 		<beq_year>1990</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hard%20to%20Kill%20%281990%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Mason Storm, a &apos;go it alone&apos; cop, is gunned down at home. The intruders kill his wife, and think they&apos;ve killed both Mason and his son too. Mason is secretly taken to a hospital where he spends several years in a coma. His son meanwhile is growing up thinking his father is dead. When Mason wakes up, everyone is in danger - himself, his son, his best friend, his nurse - but most of all those who arranged for his death</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9569</beq_theMovieDB>
 		<beq_poster>/nmtMNxslljllSTVtt7VIOXdxSZp.jpg</beq_poster>
 		<beq_runtime>96</beq_runtime>

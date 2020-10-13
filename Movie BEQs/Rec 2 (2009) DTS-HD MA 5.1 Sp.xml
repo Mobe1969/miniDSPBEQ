@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>[REC]²</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Rec 2</beq_sortTitle>
+		<beq_sortTitle>rec 2</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rec%202%20%282009%29%20DTS-HD%20MA%205.1%20Sp.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The action continues from [REC], with the medical officer and a SWAT team outfitted with video cameras are sent into the sealed off apartment to control the situation.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10664</beq_theMovieDB>
 		<beq_poster>/9C7GrP6g29hklOqtGE0eEUbsPeC.jpg</beq_poster>
 		<beq_runtime>85</beq_runtime>

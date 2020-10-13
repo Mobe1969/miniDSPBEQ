@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Scorched Earth</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Scorched Earth</beq_sortTitle>
+		<beq_sortTitle>scorched earth</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Scorched%20Earth%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In a post-apocalyptic future, bounty hunter Attica Gage pursues a ruthless outlaw at the head of a dangerous criminal gang.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>347111</beq_theMovieDB>
 		<beq_poster>/3EqgAHkESHZLK4MUHgK9s9882S2.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>

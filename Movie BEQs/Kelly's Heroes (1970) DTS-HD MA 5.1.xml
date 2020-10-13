@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Kelly&apos;s Heroes</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Kelly&apos;s Heroes</beq_sortTitle>
+		<beq_sortTitle>kelly&apos;s heroes</beq_sortTitle>
 		<beq_year>1970</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kelly%27s%20Heroes%20%281970%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A misfit group of World War II American soldiers goes AWOL to rob a bank behind German lines.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11589</beq_theMovieDB>
 		<beq_poster>/hleMxFKSC42yT0TClS4G29HV11n.jpg</beq_poster>
 		<beq_runtime>144</beq_runtime>

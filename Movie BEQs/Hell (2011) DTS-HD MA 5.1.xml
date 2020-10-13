@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Drag Me to Hell</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hell</beq_sortTitle>
+		<beq_sortTitle>hell</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hell%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After denying a woman the extension she needs to keep her home, loan officer Christine Brown sees her once-promising life take a startling turn for the worse. Christine is convinced she&apos;s been cursed by a Gypsy, but her boyfriend is skeptical. Her only hope seems to lie in a psychic who claims he can help her lift the curse and keep her soul from being dragged straight to hell.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>16871</beq_theMovieDB>
 		<beq_poster>/Ak9lfPN80XNE1xpGj6XfFFbbPOE.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>

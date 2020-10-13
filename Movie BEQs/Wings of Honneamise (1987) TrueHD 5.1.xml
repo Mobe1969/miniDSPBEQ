@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Royal Space Force - The Wings Of Honneamise</beq_title>
 		<beq_alt_title>王立宇宙軍 オネアミスの翼</beq_alt_title>
-		<beq_sortTitle>Wings of Honneamise</beq_sortTitle>
+		<beq_sortTitle>wings of honneamise</beq_sortTitle>
 		<beq_year>1987</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wings%20of%20Honneamise%20%281987%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>On a future Earth, war between the Kingdom of Honneamise and its rival, The Republic, is inevitable. As evolving technology creates new ways to wage war, a small group seeks to propel mankind into space in their world’s first spaceflight program. For astronaut candidate Shirotsugh Lhadatt, it’s a personal odyssey as he grows from an aimless young man into a leader willing to put everything on the line in order to move the human race forward and away from the brink of Armageddon.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>20043</beq_theMovieDB>
 		<beq_poster>/h5naABij9ghj6CLcpBYBkxMGYGX.jpg</beq_poster>
 		<beq_runtime>121</beq_runtime>

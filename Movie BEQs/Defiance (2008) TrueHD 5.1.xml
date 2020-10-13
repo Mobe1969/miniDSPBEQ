@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Defiance</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Defiance</beq_sortTitle>
+		<beq_sortTitle>defiance</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Defiance%20%282008%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Based on a true story, during World War II, four Jewish brothers escape their Nazi-occupied homeland of West Belarus in Poland and join the Soviet partisans to combat the Nazis. The brothers begin the rescue of roughly 1,200 Jews still trapped in the ghettos of Poland.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13813</beq_theMovieDB>
 		<beq_poster>/gVGj4Ixtijb77kDzZmZCIlxCywL.jpg</beq_poster>
 		<beq_runtime>137</beq_runtime>

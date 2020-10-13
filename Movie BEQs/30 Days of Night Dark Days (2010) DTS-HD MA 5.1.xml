@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>30 Days of Night: Dark Days</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>30 Days of Night Dark Days</beq_sortTitle>
+		<beq_sortTitle>30 days of night dark days</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/30%20Days%20of%20Night%20Dark%20Days%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After surviving the incidents in Barrow, Alaska, Stella Olemaun relocates to Los Angeles, where she intentionally attracts the attention of the local vampire population in order to avenge the death of her husband, Eben.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>42941</beq_theMovieDB>
 		<beq_poster>/bXHaXVGncI2WKUrNRYDyTyj3ymR.jpg</beq_poster>
 		<beq_runtime>92</beq_runtime>

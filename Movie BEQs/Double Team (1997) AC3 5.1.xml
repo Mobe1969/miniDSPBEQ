@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Double Team</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Double Team</beq_sortTitle>
+		<beq_sortTitle>double team</beq_sortTitle>
 		<beq_year>1997</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Double%20Team%20%281997%29%20AC3%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>He&apos;s a one-man arsenal... with enough voltage to rock the free world. They Don&apos;t Play by the Rules. You&apos;re either on their side...or in their way. America&apos;s top counter-terrorist usually works alone...this time he&apos;s got company.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9405</beq_theMovieDB>
 		<beq_poster>/4M5fkXYzhjLZdY28ob2iVlh8FgW.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>

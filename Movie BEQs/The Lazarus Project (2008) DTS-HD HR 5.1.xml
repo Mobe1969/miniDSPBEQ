@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Lazarus Project</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Lazarus Project</beq_sortTitle>
+		<beq_sortTitle>lazarus project</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lazarus%20Project%20%282008%29%20DTS-HD%20HR%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After Ben Garvey foolishly turned back to crime, he thought his life was over when he was sentenced to death by lethal injection. But his death sentence isn&apos;t quite what it seems, as Ben regains consciousness near an eerie psychiatric ward, where he&apos;s told he&apos;s been hired as the groundskeeper. With the state of his soul in question, and the love for his wife and daughter all the more real and powerful, Ben must figure out if he&apos;s truly cheated death, or if he&apos;s become part of something far more sinister.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13825</beq_theMovieDB>
 		<beq_poster>/hCQg5TshEQzr7k6DctkYCFB6m6a.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>

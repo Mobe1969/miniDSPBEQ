@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hijacked</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hijacked</beq_sortTitle>
+		<beq_sortTitle>hijacked</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hijacked%20%282012%29%20TrueHD%205.1.signal.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A special agent&apos;s plans to reconcile with his ex-fiancé are ruined when she boards a private jet that is targeted by hijackers working for the same crime lord that he is chasing.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>119117</beq_theMovieDB>
 		<beq_poster>/nj4qD3Li9ZBw1W8vhF1n2WJvzIR.jpg</beq_poster>
 		<beq_runtime>86</beq_runtime>

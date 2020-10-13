@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Driven</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Driven</beq_sortTitle>
+		<beq_sortTitle>driven</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Driven%20%282001%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Talented rookie race-car driver Jimmy Bly has started losing his focus and begins to slip in the race rankings. It&apos;s no wonder, with the immense pressure being shoveled on him by his overly ambitious promoter brother as well as Bly&apos;s romance with his arch rival&apos;s girlfriend Sophia. With much riding on Bly, car owner Carl Henry brings former racing star Joe Tanto on board to help Bly. To drive Bly back to the top of the rankings, Tanto must first deal with the emotional scars left over from a tragic racing accident which nearly took his life.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10477</beq_theMovieDB>
 		<beq_poster>/HYT6NlepE1AVIq04du8ZxxnZCe.jpg</beq_poster>
 		<beq_runtime>116</beq_runtime>

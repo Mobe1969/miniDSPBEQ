@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Open 24 Hours</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Open 24 Hours</beq_sortTitle>
+		<beq_sortTitle>open 24 hours</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Open%2024%20Hours%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Mary is a very troubled woman who gets a job at a convenience store after setting her assassin boyfriend on fire. As she starts her graveyard shift at the Deer Gas Market, she is haunted by flashbacks.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>532638</beq_theMovieDB>
 		<beq_poster>/1C97mky8yEy4q7dfcrDzFZoNx8r.jpg</beq_poster>
 		<beq_runtime>102</beq_runtime>

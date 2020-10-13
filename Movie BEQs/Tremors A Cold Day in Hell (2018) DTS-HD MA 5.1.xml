@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Tremors: A Cold Day in Hell</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Tremors A Cold Day in Hell</beq_sortTitle>
+		<beq_sortTitle>tremors a cold day in hell</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tremors%20A%20Cold%20Day%20in%20Hell%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Burt Gummer (Michael Gross) and his son Travis Welker (Jamie Kennedy) find themselves up to their ears in Graboids and Ass-Blasters when they head to Canada to investigate a series of deadly giant-worm attacks. Arriving at a remote research facility in the artic tundra, Burt begins to suspect that Graboids are secretly being weaponized, but before he can prove his theory, he is sidelined by Graboid venom. With just 48 hours to live, the only hope is to create an antidote from fresh venom — but to do that, someone will have to figure out how to milk a Graboid!</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>496704</beq_theMovieDB>
 		<beq_poster>/aFOdiHaRjeTmHG67e5B7md2Q1cq.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
-			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="28">Action</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

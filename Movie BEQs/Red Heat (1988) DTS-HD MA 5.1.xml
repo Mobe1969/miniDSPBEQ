@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Red Heat</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Red Heat</beq_sortTitle>
+		<beq_sortTitle>red heat</beq_sortTitle>
 		<beq_year>1988</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Red%20Heat%20%281988%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A tough Russian policeman is forced to partner up with a cocky Chicago police detective when he is sent to Chicago to apprehend a Georgian drug lord who killed his partner and fled the country.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9604</beq_theMovieDB>
 		<beq_poster>/AoJTHXmO01EZgT0p1YTsGBEQxLj.jpg</beq_poster>
 		<beq_runtime>104</beq_runtime>

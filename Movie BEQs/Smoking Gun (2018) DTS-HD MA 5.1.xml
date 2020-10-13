@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Damsel</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Smoking Gun</beq_sortTitle>
+		<beq_sortTitle>smoking gun</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Smoking%20Gun%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Oregon, a small town near the sea, around 1870. Henry, a grieving man who aspires to preach as a way to overcome his unfortunate past, reunites with eccentric pioneer Samuel Alabaster, who has hired him to officiate at his marriage to the precious Penelope. What Henry ignores is that both must embark on a dangerous journey through the inhospitable wilderness to meet her.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>414018</beq_theMovieDB>
 		<beq_poster>/dNZxjsJwmKorpPvd0kquJffYROr.jpg</beq_poster>
 		<beq_runtime>114</beq_runtime>

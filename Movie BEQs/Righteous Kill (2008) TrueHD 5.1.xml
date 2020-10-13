@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Righteous Kill</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Righteous Kill</beq_sortTitle>
+		<beq_sortTitle>righteous kill</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Righteous%20Kill%20%282008%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Two veteran New York City detectives work to identify the possible connection between a recent murder and a case they believe they solved years ago; is there a serial killer on the loose, and did they perhaps put the wrong person behind bars?</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13389</beq_theMovieDB>
 		<beq_poster>/riskU1joB032Dm1tPLPpDKzAbwi.jpg</beq_poster>
 		<beq_runtime>101</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
+			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

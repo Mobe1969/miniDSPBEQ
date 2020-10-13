@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Astro Boy</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Astro Boy</beq_sortTitle>
+		<beq_sortTitle>astro boy</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Astro%20Boy%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Set in the futuristic Metro City, Astro Boy (Atom) is a young robot with incredible powers created by a brilliant scientist in the image of the son he had lost. Unable to fulfill his creator&apos;s expectations, Astro embarks on a journey in search of acceptance, experiencing betrayal and a netherworld of robot gladiators, before returning to save Metro City and reconcile with the father who rejected him.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>16577</beq_theMovieDB>
 		<beq_poster>/nKiEA8Z81i2sWxhjs0pcNbs2Rmr.jpg</beq_poster>
 		<beq_runtime>94</beq_runtime>
@@ -1440,9 +1440,9 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="16">Animation</genre>
-			<genre id="10751">Family</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="10751">Family</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

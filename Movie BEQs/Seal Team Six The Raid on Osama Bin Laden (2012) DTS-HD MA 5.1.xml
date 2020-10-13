@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Seal Team Six: The Raid on Osama Bin Laden</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Seal Team Six The Raid on Osama Bin Laden</beq_sortTitle>
+		<beq_sortTitle>seal team six the raid on osama bin laden</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Seal%20Team%20Six%20The%20Raid%20on%20Osama%20Bin%20Laden%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When the rumored whereabouts of Osama bin Laden are revealed, the CIA readies a team of seasoned U.S. Navy SEALs for the mission of a lifetime. Despite inconclusive evidence that bin Laden is inside the compound, and ignoring the possible ramifications of an unannounced attack on Pakistani soil, the Pentagon orders the attack. The SEAL Team bands together to complete their mission of justice in a riveting final showdown.</beq_overview>
 		<beq_rating>NR</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>130267</beq_theMovieDB>
 		<beq_poster>/hau6iHAIWJmlnaaZ0QRYZu9T6B1.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>
@@ -1440,9 +1440,9 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
 			<genre id="80">Crime</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

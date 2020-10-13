@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hard Target</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hard Target</beq_sortTitle>
+		<beq_sortTitle>hard target</beq_sortTitle>
 		<beq_year>1993</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hard%20Target%20%281993%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When a woman&apos;s father goes missing, she enlists a local to aid in her search.  The pair soon discover that her father has died at the hands of a wealthy sportsman who hunts homeless men as a form of recreation.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>2019</beq_theMovieDB>
 		<beq_poster>/x9HfOKWAB506jJVWo0z848SKDML.jpg</beq_poster>
 		<beq_runtime>97</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
-			<genre id="18">Drama</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="80">Crime</genre>
+			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>

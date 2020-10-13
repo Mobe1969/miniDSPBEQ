@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Second in Command</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Second in Command</beq_sortTitle>
+		<beq_sortTitle>second in command</beq_sortTitle>
 		<beq_year>2006</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Second%20in%20Command%20%282006%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Armed insurgents attempt a coup d&apos;etat in a troubled Eastern European country, and the president flees to the U.S. embassy for protection. When the U.S. ambassador is murdered by the ruthless and gun-happy rebels, it comes down to the second-in-command of the embassy, Sam Keenan, played by Belgian kickboxer Jean-Claude Van Damme, to use his amazing martial arts technique to defend the besieged.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>19167</beq_theMovieDB>
 		<beq_poster>/3MlHO10nWkQkzO7B5BE9OCKjC7Z.jpg</beq_poster>
 		<beq_runtime>91</beq_runtime>

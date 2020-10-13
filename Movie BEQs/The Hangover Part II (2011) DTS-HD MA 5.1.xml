@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Hangover Part II</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hangover Part II</beq_sortTitle>
+		<beq_sortTitle>hangover part ii</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hangover%20Part%20II%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The Hangover crew heads to Thailand for Stu&apos;s wedding. After the disaster of a bachelor party in Las Vegas last year, Stu is playing it safe with a mellow pre-wedding brunch. However, nothing goes as planned and Bangkok is the perfect setting for another adventure with the rowdy group.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>45243</beq_theMovieDB>
 		<beq_poster>/7sGkjqorTHkaHTz8Q4WWHj8JL9t.jpg</beq_poster>
 		<beq_runtime>102</beq_runtime>

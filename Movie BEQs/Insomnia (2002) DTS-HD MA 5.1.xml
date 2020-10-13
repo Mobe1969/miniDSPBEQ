@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Insomnia</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Insomnia</beq_sortTitle>
+		<beq_sortTitle>insomnia</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Insomnia%20%282002%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn&apos;t set to investigate the methodical murder of a local teen.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>320</beq_theMovieDB>
 		<beq_poster>/cwB0t4OHX1Pw1Umzc9jPgzalUpS.jpg</beq_poster>
 		<beq_runtime>118</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="9648">Mystery</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

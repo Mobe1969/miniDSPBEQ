@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Bent</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bent</beq_sortTitle>
+		<beq_sortTitle>bent</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bent%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>505579</beq_theMovieDB>
 		<beq_poster>/xUqimeu4KzFeqTvblNLvG8Y1DAo.jpg</beq_poster>
 		<beq_runtime>96</beq_runtime>

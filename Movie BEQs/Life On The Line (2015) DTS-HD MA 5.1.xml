@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Life on the Line</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Life On The Line</beq_sortTitle>
+		<beq_sortTitle>life on the line</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Life%20On%20The%20Line%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A crew of men who do the high-wire work of fixing the electrical grid are hit by a sudden deadly storm.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>398289</beq_theMovieDB>
 		<beq_poster>/kbCTKJBog5a9FXPs6s93aRLAlgP.jpg</beq_poster>
 		<beq_runtime>97</beq_runtime>

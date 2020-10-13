@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Death Race 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Death Race 2</beq_sortTitle>
+		<beq_sortTitle>death race 2</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Death%20Race%202%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In the world&apos;s most dangerous prison, a new game is born: Death Race. The rules of this adrenaline-fueled blood sport are simple, drive or die. When repentant convict Carl Lucas discovers there&apos;s a price on his head, his only hope is to survive a twisted race against an army of hardened criminals and tricked-out cars.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>51620</beq_theMovieDB>
 		<beq_poster>/80mBFNVvak2bA9TJN1MD0yM7Lfi.jpg</beq_poster>
 		<beq_runtime>96</beq_runtime>

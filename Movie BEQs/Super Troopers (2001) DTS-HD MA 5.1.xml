@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Super Troopers</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Super Troopers</beq_sortTitle>
+		<beq_sortTitle>super troopers</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Super%20Troopers%20%282001%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Five bored, occasionally high and always ineffective Vermont state troopers must prove their worth to the governor or lose their jobs. After stumbling on a drug ring, they plan to make a bust, but a rival police force is out to steal the glory.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>39939</beq_theMovieDB>
 		<beq_poster>/7aatn3TWAVo9a2OJyQTuYpoB48G.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="35">Comedy</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

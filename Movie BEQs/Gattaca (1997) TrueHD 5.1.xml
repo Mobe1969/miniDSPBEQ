@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Gattaca</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Gattaca</beq_sortTitle>
+		<beq_sortTitle>gattaca</beq_sortTitle>
 		<beq_year>1997</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gattaca%20%281997%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In a future society in the era of indefinite eugenics, humans are set on a life course depending on their DNA. Young Vincent Freeman is born with a condition that would prevent him from space travel, yet is determined to infiltrate the GATTACA space program.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>782</beq_theMovieDB>
 		<beq_poster>/gRnViBcBr8Q0PuWMeTcjBbL8zYD.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="9648">Mystery</genre>
 			<genre id="10749">Romance</genre>
-			<genre id="878">Science Fiction</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

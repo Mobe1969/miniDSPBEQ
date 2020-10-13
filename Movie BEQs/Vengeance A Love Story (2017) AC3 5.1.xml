@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Vengeance: A Love Story</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Vengeance A Love Story</beq_sortTitle>
+		<beq_sortTitle>vengeance a love story</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vengeance%20A%20Love%20Story%20%282017%29%20AC3%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When a new friend is brutally assaulted, Detective John Droomor is put by chance in charge of the investigation. Although the evidence against the perpetrators seems overwhelming, there is nothing definitive in the case that guarantees justice is served, even more so if some people are willing to twist and betray it.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>397415</beq_theMovieDB>
 		<beq_poster>/kPUFcGPI9FChybFHIJJBZZLiIlg.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>

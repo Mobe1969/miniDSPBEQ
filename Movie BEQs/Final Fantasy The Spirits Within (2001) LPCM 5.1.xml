@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Final Fantasy: The Spirits Within</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Final Fantasy The Spirits Within</beq_sortTitle>
+		<beq_sortTitle>final fantasy the spirits within</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Final%20Fantasy%20The%20Spirits%20Within%20%282001%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Led by a strange dream, scientist Aki Ross struggles to collect the eight spirits in the hope of creating a force powerful enough to protect the planet. With the aid of the Deep Eyes Squadron and her mentor, Dr. Sid, Aki must save the Earth from its darkest hate and unleash the spirits within.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>2114</beq_theMovieDB>
 		<beq_poster>/cJlEv3xULhBt6WvjYEntBg3ReEw.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>
@@ -1439,13 +1439,13 @@
 			<audioType>LPCM 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="28">Action</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="10749">Romance</genre>
-			<genre id="878">Science Fiction</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="28">Action</genre>
 			<genre id="16">Animation</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

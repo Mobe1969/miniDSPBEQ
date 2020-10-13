@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Reign of Fire</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Reign of Fire</beq_sortTitle>
+		<beq_sortTitle>reign of fire</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Reign%20of%20Fire%20%282002%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In post-apocalyptic England, an American volunteer and a British survivor team up to fight off a brood of fire-breathing dragons seeking to return to global dominance after centuries of rest underground. The Brit -- leading a clan of survivors to hunt down the King of the Dragons -- has much at stake: His mother was killed by a dragon, but his love is still alive.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>6278</beq_theMovieDB>
 		<beq_poster>/vZVXCj3jXzIPJUHLaQohzt2uTM3.jpg</beq_poster>
 		<beq_runtime>101</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>LPCM 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

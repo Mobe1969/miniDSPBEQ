@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Day the Earth Stood Still</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Day the Earth Stood Still</beq_sortTitle>
+		<beq_sortTitle>day the earth stood still</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Day%20the%20Earth%20Stood%20Still%20%282008%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A representative of an alien race that went through drastic evolution to survive its own climate change, Klaatu comes to Earth to assess whether humanity can prevent the environmental damage they have inflicted on their own planet. When barred from speaking to the United Nations, he decides humankind shall be exterminated so the planet can survive.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10200</beq_theMovieDB>
 		<beq_poster>/mrw9NShY6I2FgXwk8Ge437pn08N.jpg</beq_poster>
 		<beq_runtime>104</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="878">Science Fiction</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

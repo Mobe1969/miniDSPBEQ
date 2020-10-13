@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Escape from New York</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Escape from New York</beq_sortTitle>
+		<beq_sortTitle>escape from new york</beq_sortTitle>
 		<beq_year>1981</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Escape%20from%20New%20York%20%281981%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In 1997, the island of Manhattan has been walled off and turned into a giant maximum security prison within which the country&apos;s worst criminals are left to form their own anarchic society. However, when the President of the United States crash lands on the island, the authorities turn to a former soldier and current convict to rescue him.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>1103</beq_theMovieDB>
 		<beq_poster>/yreqWiQ7IOkXWVB2Tz4LJIs7xqA.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>

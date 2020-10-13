@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Urban Legends: Bloody Mary</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Urban Legends Bloody Mary</beq_sortTitle>
+		<beq_sortTitle>urban legends bloody mary</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Urban%20Legends%20Bloody%20Mary%20%282005%29%20AC3%202.0.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>On a prom-night dare, a trio of high school friends chant an incantation, unleashing an evil spirit from the past with deadly consequences.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10292</beq_theMovieDB>
 		<beq_poster>/bOHdUyb0YkQAtzd67dWeEoiTgO4.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>

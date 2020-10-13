@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Prisoners</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Prisoners</beq_sortTitle>
+		<beq_sortTitle>prisoners</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Prisoners%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When Keller Dover&apos;s daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will this desperate father go to protect his family?</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>146233</beq_theMovieDB>
 		<beq_poster>/tuZhZ6biFMr5n9YSVuHOJnNL1uU.jpg</beq_poster>
 		<beq_runtime>153</beq_runtime>

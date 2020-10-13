@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>A Walk Among the Tombstones</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>A Walk Among the Tombstones</beq_sortTitle>
+		<beq_sortTitle>a walk among the tombstones</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Walk%20Among%20the%20Tombstones%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Private investigator Matthew Scudder is hired by a drug kingpin to find out who kidnapped and murdered his wife.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>169917</beq_theMovieDB>
 		<beq_poster>/bQTHTZezSudf27mMQtedHf1XpgO.jpg</beq_poster>
 		<beq_runtime>113</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
-			<genre id="18">Drama</genre>
 			<genre id="9648">Mystery</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="80">Crime</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

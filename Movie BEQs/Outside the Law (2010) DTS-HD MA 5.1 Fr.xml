@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Outside the Law</beq_title>
 		<beq_alt_title>Hors-la-loi</beq_alt_title>
-		<beq_sortTitle>Outside the Law</beq_sortTitle>
+		<beq_sortTitle>outside the law</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Outside%20the%20Law%20%282010%29%20DTDS-HD%20MA%205.1%20Fr.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After losing their family home in Algeria in the 1920s, three brothers and their mother are scattered across the globe. Messaoud joins the French army fighting in Indochina; Abdelkader becomes a leader of the Algerian independence movement in France and Saïd moves to Paris to make his fortune in the shady clubs and boxing halls of Pigalle.</beq_overview>
 		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>47904</beq_theMovieDB>
 		<beq_poster>/lXouv8ig6EY2zHdBx3ts9T6DFT6.jpg</beq_poster>
 		<beq_runtime>137</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="36">History</genre>
-			<genre id="10752">War</genre>
 			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
+			<genre id="10752">War</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

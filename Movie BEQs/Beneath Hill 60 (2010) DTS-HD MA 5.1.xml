@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Beneath Hill 60</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Beneath Hill 60</beq_sortTitle>
+		<beq_sortTitle>beneath hill 60</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beneath%20Hill%2060%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The true story of Australia&apos;s cat-and-mouse underground mine warfare—one of the most misunderstood, misrepresented and mystifying conflicts of WW I. It was secret struggle BENEATH the Western Front that combined daring engineering, technology and science. Few on the surface knew of the brave, claustrophobic and sometimes barbaric work of these tunnellers.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>43418</beq_theMovieDB>
 		<beq_poster>/t8SqQU7BXfe5gzrNeY9NjuFqBNf.jpg</beq_poster>
 		<beq_runtime>122</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="36">History</genre>
 			<genre id="18">Drama</genre>
 			<genre id="10752">War</genre>
-			<genre id="36">History</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

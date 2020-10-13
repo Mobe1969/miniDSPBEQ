@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>JCVD</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>JCVD</beq_sortTitle>
+		<beq_sortTitle>jcvd</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/JCVD%20%282008%29%20TrueHD%205.1%20Fr.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Between his tax problems and his legal battle with his wife for the custody of his daughter, these are hard times for the action movie star who finds that even Steven Seagal has pinched a role from him! Jean-Claude Van Damme returns to the country of his birth to seek the peace and tranquility he can no longer enjoy in the United States.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13672</beq_theMovieDB>
 		<beq_poster>/aNHOMjjgOCvjunOovQWcOyrr18E.jpg</beq_poster>
 		<beq_runtime>96</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
 		</beq_genres>

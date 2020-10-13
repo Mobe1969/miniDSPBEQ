@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Current War</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Current War</beq_sortTitle>
+		<beq_sortTitle>current war</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Current%20War%20%282017%29%28Director%27s%20Cut%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Electricity titans Thomas Edison and George Westinghouse compete to create a sustainable system and market it to the American people.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>418879</beq_theMovieDB>
 		<beq_poster>/eqTjO8yTaPRSKWj7i6Qnr7R5cls.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>

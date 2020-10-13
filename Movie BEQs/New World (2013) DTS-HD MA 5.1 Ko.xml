@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Pocahontas II: Journey to a New World</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>New World</beq_sortTitle>
+		<beq_sortTitle>new world</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/New%20World%20%282013%29%20DTS-HD%20MA%205.%20Ko.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When news of John Smith&apos;s death reaches America, Pocahontas is devastated. She sets off to London with John Rolfe, to meet with the King of England on a diplomatic mission: to create peace and respect between the two great lands. However, Governor Ratcliffe is still around; he wants to return to Jamestown and take over. He will stop at nothing to discredit the young princess.</beq_overview>
 		<beq_rating>G</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13761</beq_theMovieDB>
 		<beq_poster>/gAnmNjw1TCTzS702mj1OwwmXBpM.jpg</beq_poster>
 		<beq_runtime>72</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10749">Romance</genre>
 			<genre id="10751">Family</genre>
-			<genre id="12">Adventure</genre>
+			<genre id="10749">Romance</genre>
 			<genre id="16">Animation</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

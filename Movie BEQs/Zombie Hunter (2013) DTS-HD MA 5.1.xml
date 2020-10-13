@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Zombie Hunter</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Zombie Hunter</beq_sortTitle>
+		<beq_sortTitle>zombie hunter</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zombie%20Hunter%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Zombie Hunter is set in a post-apocalyptic Zombie wasteland caused by the mysterious street drug &quot;Natas&quot;. We follow one man who has nothing left other than a beat up Camaro and a trunk full of guns and booze. He runs down Flesh Eaters, hunting for sport and redemption, while also running from his past. After crashing into a small group of survivors, who are running low on resources, he decides to lend a hand. But a surprise attack by the Flesh Eaters forces them on the run and puts the Hunter&apos;s skills to the test.</beq_overview>
 		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>206213</beq_theMovieDB>
 		<beq_poster>/5gttxedRczAYR2usDz8zxiDWtV9.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
 		</beq_genres>

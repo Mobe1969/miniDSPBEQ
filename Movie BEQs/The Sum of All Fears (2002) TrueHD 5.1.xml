@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Sum of All Fears</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Sum of All Fears</beq_sortTitle>
+		<beq_sortTitle>sum of all fears</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Sum%20of%20All%20Fears%20%282002%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When the president of Russia suddenly dies, a man whose politics are virtually unknown succeeds him. The change in political leaders sparks paranoia among American CIA officials, so CIA director Bill Cabot recruits a young analyst to supply insight and advice on the situation. Then the unthinkable happens: a nuclear bomb explodes in a U.S. city, and America is quick to blame the Russians.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>4614</beq_theMovieDB>
 		<beq_poster>/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg</beq_poster>
 		<beq_runtime>124</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

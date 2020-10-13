@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>American Heist</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>American Heist</beq_sortTitle>
+		<beq_sortTitle>american heist</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/American%20Heist%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Two brothers, both with troubled paths, find themselves in the middle of one last bank job.</beq_overview>
 		<beq_rating>NR</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>250066</beq_theMovieDB>
 		<beq_poster>/526uxanwv4mMK0YTxjVrsmMXXo2.jpg</beq_poster>
 		<beq_runtime>94</beq_runtime>

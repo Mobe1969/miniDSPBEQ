@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Ministers</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Ministers</beq_sortTitle>
+		<beq_sortTitle>ministers</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Ministers%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A NYPD detective attempts to avenge the death of her father, but unwittingly becomes involved with one of his killers.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>26861</beq_theMovieDB>
 		<beq_poster>/voQjcICAdz11ukMPI1TndkTAWNW.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

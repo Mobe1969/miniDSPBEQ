@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>A Very Harold &amp; Kumar Christmas</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>A Very Harold &amp; Kumar Christmas</beq_sortTitle>
+		<beq_sortTitle>a very harold &amp; kumar christmas</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Very%20Harold%20%26%20Kumar%20Christmas%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Six years have elapsed since Guantanamo Bay, leaving Harold and Kumar estranged from one another with very different families, friends and lives. But when Kumar arrives on Harold&apos;s doorstep during the holiday season with a mysterious package in hand, he inadvertently burns down Harold&apos;s father-in-law&apos;s beloved Christmas tree. To fix the problem, Harold and Kumar embark on a mission through New York City to find the perfect Christmas tree, once again stumbling into trouble at every single turn.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>55465</beq_theMovieDB>
 		<beq_poster>/cncxLilRHKayn8VKhzjAMHkbN4f.jpg</beq_poster>
 		<beq_runtime>108</beq_runtime>

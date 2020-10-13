@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Boyka: Undisputed IV</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Boyka Undisputed</beq_sortTitle>
+		<beq_sortTitle>boyka undisputed</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Boyka%20Undisputed%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for. When he finds out the wife of the man he accidentally killed is in trouble, Boyka offers to fight in a series of impossible battles to free her from a life of servitude</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>348893</beq_theMovieDB>
 		<beq_poster>/7QGdIJWWTkPhVjpQ0zA6z69khod.jpg</beq_poster>
 		<beq_runtime>87</beq_runtime>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

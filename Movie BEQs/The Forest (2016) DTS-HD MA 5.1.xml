@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Forest</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Forest</beq_sortTitle>
+		<beq_sortTitle>forest</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Forest%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Set in the Aokigahara Forest, a real-life place in Japan where people go to end their lives. Against this backdrop, a young American woman comes in search of her twin sister, who has mysteriously disappeared.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>329440</beq_theMovieDB>
 		<beq_poster>/gevSrXe80v51mrE9bTk5eO1dLdU.jpg</beq_poster>
 		<beq_runtime>95</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>

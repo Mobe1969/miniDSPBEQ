@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Kill the Irishman</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Kill the Irishman</beq_sortTitle>
+		<beq_sortTitle>kill the irishman</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kill%20the%20Irishman%20%282011%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Over the summer of 1976, thirty-six bombs detonate in the heart of Cleveland while a turf war raged between Irish mobster Danny Greene and the Italian mafia. Based on a true story, Kill the Irishman chronicles Greene&apos;s heroic rise from a tough Cleveland neighborhood to become an enforcer in the local mob.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>51209</beq_theMovieDB>
 		<beq_poster>/rbVcUa0xj2gHKgc32WrMlPTsjnG.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="18">Drama</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Adjustment Bureau</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Adjustment Bureau</beq_sortTitle>
+		<beq_sortTitle>adjustment bureau</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Adjustment%20Bureau%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="10749">Romance</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

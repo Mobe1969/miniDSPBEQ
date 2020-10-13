@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Red Lights</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Red Lights</beq_sortTitle>
+		<beq_sortTitle>red lights</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Red%20Lights%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Two investigators of paranormal hoaxes, the veteran Dr. Margaret Matheson and her young assistant, Tom Buckley, study the most varied metaphysical phenomena with the aim of proving their fraudulent origins. Simon Silver, a legendary blind psychic, reappears after an enigmatic absence of 30 years to become the greatest international challenge to both orthodox science and professional sceptics. Tom starts to develop an intense obsession with Silver, whose magnetism becomes stronger with each new manifestation of inexplicable events. As Tom gets closer to Silver, tension mounts, and his worldview is threatened to its core.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>75638</beq_theMovieDB>
 		<beq_poster>/pnHAfBouKEglYC8XWnIO5SWZNJq.jpg</beq_poster>
 		<beq_runtime>119</beq_runtime>

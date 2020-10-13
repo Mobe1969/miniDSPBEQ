@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Eliminators</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Eliminators</beq_sortTitle>
+		<beq_sortTitle>eliminators</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Eliminators%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A former US Federal Agent must abandon the witness protection program and come out of hiding when his London home is invaded in error due to a wrong address. When the event ends with multiple homicides, the news triggers those hunting him to send Europe&apos;s most dangerous assassin to kill him. Now on the run with his daughters life in jeopardy, a determined father must get her to safety before the people he&apos;s been hiding from tracks him down.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>421313</beq_theMovieDB>
 		<beq_poster>/pUB91wOMQrmkforP7ntIMy2zkdn.jpg</beq_poster>
 		<beq_runtime>95</beq_runtime>

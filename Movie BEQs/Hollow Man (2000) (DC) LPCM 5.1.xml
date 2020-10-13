@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hollow Man</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hollow Man</beq_sortTitle>
+		<beq_sortTitle>hollow man</beq_sortTitle>
 		<beq_year>2000</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hollow%20Man%20%282000%29%28DC%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Cocky researcher, Sebastian Caine is working on a project to make living creatures invisible and he&apos;s so confident he&apos;s found the right formula that he tests it on himself and soon begins to vanish. The only problem is – no-one can determine how to make him visible again. Caine&apos;s predicament eventually drives him mad, with terrifying results.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9383</beq_theMovieDB>
 		<beq_poster>/nAasMJGaytKKsMGbrXJr0g8OufK.jpg</beq_poster>
 		<beq_runtime>112</beq_runtime>

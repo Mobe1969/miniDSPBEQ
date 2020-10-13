@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Cabin Fever</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Cabin Fever</beq_sortTitle>
+		<beq_sortTitle>cabin fever</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cabin%20Fever%20%282002%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A group of five college graduates rent a cabin in the woods and begin to fall victim to a horrifying flesh-eating virus, which attracts the unwanted attention of the homicidal locals.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11547</beq_theMovieDB>
 		<beq_poster>/lsGAVZ4gc3ctgNDdVbU9KQb1oxV.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>

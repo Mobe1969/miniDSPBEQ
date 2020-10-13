@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Super Troopers 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Super Troopers 2</beq_sortTitle>
+		<beq_sortTitle>super troopers 2</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Super%20Troopers%202%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>50022</beq_theMovieDB>
 		<beq_poster>/57SZgdugVClIy22rfnANeBJ5KsN.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>

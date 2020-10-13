@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Garm Wars: The Last Druid</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Garm Wars The Last Druid</beq_sortTitle>
+		<beq_sortTitle>garm wars the last druid</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Garm%20Wars%20The%20Last%20Druid%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In a world where clone soldiers from three military tribes are locked in a perpetual battle of air, land and technology, one clone is separated from the battle and finds herself on the run with a group of unlikely companions.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>302026</beq_theMovieDB>
 		<beq_poster>/cz3tMdY7XPjzhEWH7hdKOn3doJ1.jpg</beq_poster>
 		<beq_runtime>92</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="878">Science Fiction</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

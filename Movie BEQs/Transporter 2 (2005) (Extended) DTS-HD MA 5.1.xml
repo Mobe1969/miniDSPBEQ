@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Transporter 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Transporter 2</beq_sortTitle>
+		<beq_sortTitle>transporter 2</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Transporter%202%20%282005%29%20%28Extended%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Professional driver Frank Martin is living in Miami, where he is temporarily filling in for a friend as the chauffeur for a government narcotics control policymaker and his family. The young boy in the family is targeted for kidnapping, and Frank immediately becomes involved in protecting the child and exposing the kidnappers.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9335</beq_theMovieDB>
 		<beq_poster>/8pRuchsAKi90PNyDbzUvyvqF8LV.jpg</beq_poster>
 		<beq_runtime>87</beq_runtime>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

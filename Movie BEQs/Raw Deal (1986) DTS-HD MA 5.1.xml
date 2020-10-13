@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Raw Deal</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Raw Deal</beq_sortTitle>
+		<beq_sortTitle>raw deal</beq_sortTitle>
 		<beq_year>1986</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Raw%20Deal%20%281986%29%20%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Mark Kaminsky is kicked out of the FBI for his rough treatment of a suspect. He winds up as the sheriff of a small town in North Carolina. FBI Chief Harry Shannon, whose son has been killed by a mobster named Patrovina, enlists Kaminsky in a personal vendetta with a promise of reinstatement into the FBI if Patrovina is taken down. To accomplish this, he must go undercover and join Patrovina&apos;s gang.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>2099</beq_theMovieDB>
 		<beq_poster>/e27G0o01y6aPYn6OScB2G6NbqVz.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>

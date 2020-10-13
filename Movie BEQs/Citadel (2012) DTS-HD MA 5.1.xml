@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Citadel</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Citadel</beq_sortTitle>
+		<beq_sortTitle>citadel</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Citadel%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Citadel tells the story of widower and single father Tommy Cowley, a man inflicted with chronic agoraphobia since the day his wife was attacked. He was unable to protect her. He lives in Edenstown, the council estate from hell. Here he finds himself terrorized by a gang of syringe wielding feral children, who are intent on taking his baby daughter. With the help of a kind Nurse and a renegade Priest, Tommy learns the nightmarish truth surrounding these hooded children. He also learns that to be free of his fears, he must finally face the demons of his past and enter the one place he fears the most - The abandoned Tower block known as the Citadel</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>52001</beq_theMovieDB>
 		<beq_poster>/kmJ6uZ8qqmRgVqzrDxNzsYnItlP.jpg</beq_poster>
 		<beq_runtime>85</beq_runtime>

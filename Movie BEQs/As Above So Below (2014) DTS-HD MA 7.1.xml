@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>As Above, So Below</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>As Above So Below</beq_sortTitle>
+		<beq_sortTitle>as above so below</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/As%20Above%20So%20Below%20%282014%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When a team of explorers ventures into the catacombs that lie beneath the streets of Paris, they uncover the dark secret that lies within this city of the dead.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>256274</beq_theMovieDB>
 		<beq_poster>/oJZSajKLJkoTOzSZQN2ZwRnPwHZ.jpg</beq_poster>
 		<beq_runtime>93</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Day</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Day</beq_sortTitle>
+		<beq_sortTitle>day</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Day%20%282011%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Open war against humanity rages. For five survivors – lost and on the run – the pursuit is relentless, the bullets are dwindling and the battle is everywhere. This is a 24-hour look into their lives.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>84226</beq_theMovieDB>
 		<beq_poster>/zNFCkFmgI4Dnv3UpC0lLM7jWhYU.jpg</beq_poster>
 		<beq_runtime>85</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="27">Horror</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

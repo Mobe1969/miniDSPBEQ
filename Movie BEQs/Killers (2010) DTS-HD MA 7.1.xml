@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Killers</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Killers</beq_sortTitle>
+		<beq_sortTitle>killers</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Killers%20%282010%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When an elite assassin marries a beautiful computer whiz after a whirlwind romance, he gives up the gun and settles down with his new bride. That is, until he learns that someone from his past has put a contract out on his life.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>37821</beq_theMovieDB>
 		<beq_poster>/y8hvu231glUxIJLd0HkkbT2NeqF.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10749">Romance</genre>
 			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="10749">Romance</genre>
 			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>

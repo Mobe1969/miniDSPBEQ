@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Traitor</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Traitor</beq_sortTitle>
+		<beq_sortTitle>traitor</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Traitor%20%282008%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When straight arrow FBI agent Roy Clayton heads up the investigation into a dangerous international conspiracy, all clues seem to lead back to former U.S. Special Operations officer, Samir Horn.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13291</beq_theMovieDB>
 		<beq_poster>/va4Uo7L2b4d96JTdRMclO9L2hY0.jpg</beq_poster>
 		<beq_runtime>114</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="18">Drama</genre>
 			<genre id="80">Crime</genre>
+			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>

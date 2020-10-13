@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The X Files</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>X Files</beq_sortTitle>
+		<beq_sortTitle>x files</beq_sortTitle>
 		<beq_year>1998</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20X%20Files%20%281998%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Mulder and Scully, now taken off the FBI&apos;s X Files cases, must find a way to fight the shadowy elements of the government to find out the truth about a conspiracy that might mean the alien colonization of Earth.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>846</beq_theMovieDB>
 		<beq_poster>/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg</beq_poster>
 		<beq_runtime>121</beq_runtime>

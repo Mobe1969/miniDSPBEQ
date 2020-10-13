@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Legend of Zorro</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Legend of Zorro</beq_sortTitle>
+		<beq_sortTitle>legend of zorro</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Legend%20of%20Zorro%20%282005%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Having spent the last 10 years fighting injustice and cruelty, Alejandro de la Vega is now facing his greatest challenge: his loving wife Elena has thrown him out of the house!  Elena has filed for divorce and found comfort in the arms of Count Armand, a dashing French aristocrat.  But Alejandro knows something she doesn&apos;t: Armand is the evil mastermind behind a terrorist plot to destroy the United States.  And so, with his marriage and the county&apos;s future at stake, it&apos;s up to Zorro to save two unions before it&apos;s too late.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>1656</beq_theMovieDB>
 		<beq_poster>/duZDsuIA2uX93Vujtm89oHeTFqE.jpg</beq_poster>
 		<beq_runtime>129</beq_runtime>

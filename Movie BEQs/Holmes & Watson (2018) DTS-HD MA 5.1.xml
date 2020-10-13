@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Holmes &amp; Watson</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Holmes &amp; Watson</beq_sortTitle>
+		<beq_sortTitle>holmes &amp; watson</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Holmes%20%26%20Watson%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murder at Buckingham Palace. They soon learn that they have only four days to solve the case, or the queen will become the next victim.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>426563</beq_theMovieDB>
 		<beq_poster>/orEUlKndjV1rEcWqXbbjegjfv97.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
+			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
 			<genre id="9648">Mystery</genre>
-			<genre id="12">Adventure</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

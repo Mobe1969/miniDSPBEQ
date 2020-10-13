@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Stealth</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Stealth</beq_sortTitle>
+		<beq_sortTitle>stealth</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stealth%20%282005%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Deeply ensconced in a top-secret military program, three pilots struggle to bring an artificial intelligence program under control ... before it initiates the next world war.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10048</beq_theMovieDB>
 		<beq_poster>/eVmOkUrEIRm6DKusKbI1gVS8paQ.jpg</beq_poster>
 		<beq_runtime>121</beq_runtime>

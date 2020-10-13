@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Jay and Silent Bob Strike Back</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Jay and Silent Bob Strike Back</beq_sortTitle>
+		<beq_sortTitle>jay and silent bob strike back</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jay%20and%20Silent%20Bob%20Strike%20Back%20%282001%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When Jay and Silent Bob learn that their comic-book alter egos, Bluntman and Chronic, have been sold to Hollywood as part of a big-screen movie that leaves them out of any royalties, the pair travels to Tinseltown to sabotage the production.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>2294</beq_theMovieDB>
 		<beq_poster>/aEsAdMAhwKYFgnHHxMOknktQYKK.jpg</beq_poster>
 		<beq_runtime>104</beq_runtime>

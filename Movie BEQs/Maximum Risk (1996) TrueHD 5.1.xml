@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Maximum Risk</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Maximum Risk</beq_sortTitle>
+		<beq_sortTitle>maximum risk</beq_sortTitle>
 		<beq_year>1996</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Maximum%20Risk%20%281996%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Alain Moreau&apos;s investigation into the death of his identical twin brother leads him from the beauty of the south of France to the mean streets of New York City and into the arms of his brother&apos;s beautiful girlfriend. Pursued by ruthless Russian mobsters and renegade FBI agents, the duo race against time to solve his brother&apos;s murder and expose an international conspiracy.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10861</beq_theMovieDB>
 		<beq_poster>/18HVWwyLihWJPzGpSVl3omRRMyL.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>

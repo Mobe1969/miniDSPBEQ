@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Crash</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Crash</beq_sortTitle>
+		<beq_sortTitle>crash</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Crash%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In the not so distant future, a team of white collar criminals are enlisted by the Federal government to thwart a cyber-attack that threatens to bankrupt the United States of America.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>362202</beq_theMovieDB>
 		<beq_poster>/xEu4OsF4Ol0kkB94AMRyEHfvTVf.jpg</beq_poster>
 		<beq_runtime>84</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Black Rain</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Black Rain</beq_sortTitle>
+		<beq_sortTitle>black rain</beq_sortTitle>
 		<beq_year>1989</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Rain%20%281989%29%20DTS%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Two New York cops get involved in a gang war between members of the Yakuza, the Japanese Mafia. They arrest one of their killers and are ordered to escort him back to Japan. However, in Japan he manages to escape, and as they try to track him down, they get deeper and deeper into the Japanese Mafia scene and they have to learn that they can only win by playing the game—the Japanese way.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>4105</beq_theMovieDB>
 		<beq_poster>/mfPpRYQKBMLXSP15iIyY60bZAt.jpg</beq_poster>
 		<beq_runtime>125</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

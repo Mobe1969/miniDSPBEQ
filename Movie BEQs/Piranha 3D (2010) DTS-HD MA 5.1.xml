@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Piranha 3D</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Piranha 3D</beq_sortTitle>
+		<beq_sortTitle>piranha 3d</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Piranha%203D%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Each year the population of sleepy Lake Victoria, Arizona explodes from 5,000 to 50,000 residents for the annual Spring Break celebration. But then, an earthquake opens an underwater chasm, releasing an enormous swarm of ancient Piranha that have been dormant for thousands of years, now with a taste for human flesh. This year, there&apos;s something more to worry about than the usual hangovers and complaints from locals, a new type of terror is about to be cut loose on Lake Victoria.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>43593</beq_theMovieDB>
 		<beq_poster>/lMLS2OFBbNYMSB1ZbVp4q2S4zTU.jpg</beq_poster>
 		<beq_runtime>88</beq_runtime>

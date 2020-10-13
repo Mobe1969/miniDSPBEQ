@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Wild at Heart</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Wild At Heart</beq_sortTitle>
+		<beq_sortTitle>wild at heart</beq_sortTitle>
 		<beq_year>1990</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wild%20At%20Heart%20%281990%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After serving prison time for a self-defense killing, Sailor Ripley reunites with girlfriend Lula Fortune. Lula&apos;s mother, Marietta, desperate to keep them apart, hires a hitman to kill Sailor. But he finds a whole new set of troubles when he and Bobby Peru, an old buddy who&apos;s also out to get Sailor, try to rob a store. When Sailor lands in jail yet again, the young lovers appear further than ever from the shared life they covet.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>483</beq_theMovieDB>
 		<beq_poster>/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg</beq_poster>
 		<beq_runtime>124</beq_runtime>

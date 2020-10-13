@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Arctic</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Arctic</beq_sortTitle>
+		<beq_sortTitle>arctic</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Arctic%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A man stranded in the Arctic is finally about to receive his long awaited rescue. However, after a tragic accident, his opportunity is lost and he must then decide whether to remain in the relative safety of his camp or embark on a deadly trek through the unknown for potential salvation.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>453755</beq_theMovieDB>
 		<beq_poster>/dxRc0Y4IjSRLC2fYaguXQtJCI4e.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>

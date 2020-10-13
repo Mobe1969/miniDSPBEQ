@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Fool&apos;s Gold</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Fool&apos;s Gold</beq_sortTitle>
+		<beq_sortTitle>fool&apos;s gold</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fool%27s%20Gold%20%282008%29%20AC3%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Treasure hunter Ben &apos;Finn&apos; Finnegan has sunk both his trusty boat and his marriage to Tess in his obsessive quest to find the legendary &apos;Queen&apos;s Dowry&apos; treasure. When he finds a vital clue that may finally pinpoint the treasure&apos;s whereabouts, he drags Tess and her boss along on the hunt. But Finn is not the only one interested in the gold—his former mentor-turned-enemy will stop at nothing to beat him to it.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>8676</beq_theMovieDB>
 		<beq_poster>/5pIqVNmWJ87K5dk9tE01o6gknZJ.jpg</beq_poster>
 		<beq_runtime>112</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10749">Romance</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="10749">Romance</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

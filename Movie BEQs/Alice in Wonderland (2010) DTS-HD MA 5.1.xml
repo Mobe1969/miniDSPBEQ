@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Alice in Wonderland</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Alice in Wonderland</beq_sortTitle>
+		<beq_sortTitle>alice in wonderland</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Alice%20in%20Wonderland%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Alice, an unpretentious and individual 19-year-old, is betrothed to a dunce of an English nobleman. At her engagement party, she escapes the crowd to consider whether to go through with the marriage and falls down a hole in the garden after spotting an unusual rabbit. Arriving in a strange and surreal place called &apos;Underland,&apos; she finds herself in a world that resembles the nightmares she had as a child, filled with talking animals, villainous queens and knights, and frumious bandersnatches. Alice realizes that she is there for a reason – to conquer the horrific Jabberwocky and restore the rightful queen to her throne.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>12155</beq_theMovieDB>
 		<beq_poster>/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg</beq_poster>
 		<beq_runtime>108</beq_runtime>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="12">Adventure</genre>
 			<genre id="14">Fantasy</genre>
 			<genre id="10751">Family</genre>
-			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

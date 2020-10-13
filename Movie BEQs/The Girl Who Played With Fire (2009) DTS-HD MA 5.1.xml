@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Girl Who Played with Fire</beq_title>
 		<beq_alt_title>Flickan som lekte med elden</beq_alt_title>
-		<beq_sortTitle>Girl Who Played With Fire</beq_sortTitle>
+		<beq_sortTitle>girl who played with fire</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Girl%20Who%20Played%20With%20Fire%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Mikael Blomkvist, publisher of Millennium magazine, has made his living exposing the crooked and corrupt practices of establishment Swedish figures. So when a young journalist approaches him with a meticulously researched thesis about sex trafficking in Sweden and those in high office who abuse underage girls, Blomkvist immediately throws himself into the investigation.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>24253</beq_theMovieDB>
 		<beq_poster>/A8UjhPjINIBgmoH37aqt40u53PQ.jpg</beq_poster>
 		<beq_runtime>130</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="80">Crime</genre>
-			<genre id="9648">Mystery</genre>
 			<genre id="28">Action</genre>
+			<genre id="9648">Mystery</genre>
+			<genre id="80">Crime</genre>
+			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Hills Have Eyes</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hills Have Eyes</beq_sortTitle>
+		<beq_sortTitle>hills have eyes</beq_sortTitle>
 		<beq_year>2006</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hills%20Have%20Eyes%20%282006%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Based on Wes Craven&apos;s 1977 suspenseful cult classic, The Hills Have Eyes is the story of a family road trip that goes terrifyingly awry when the travelers become stranded in a government atomic zone. Miles from nowhere, the Carter family soon realizes the seemingly uninhabited wasteland is actually the breeding ground of a blood-thirsty mutant family...and they are the prey.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9792</beq_theMovieDB>
 		<beq_poster>/qj4C2c96T1n3YnYxFG5l5bSTKbM.jpg</beq_poster>
 		<beq_runtime>107</beq_runtime>

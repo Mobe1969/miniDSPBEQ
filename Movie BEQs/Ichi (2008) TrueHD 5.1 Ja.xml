@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>ICHI</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Ichi</beq_sortTitle>
+		<beq_sortTitle>ichi</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ichi%20%282008%29%20TrueHD%205.1%20Ja.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Ichi is a blind entertainer that travels the countryside with her traditional Japanese guitar and walking stick. She’s in search for the kind man that brought her up as a child, but because of her beauty she encounters problems every step of the way. Fortunately for Ichi, she is also a gifted swordswoman and carries a lethal blade within her walking stick.</beq_overview>
 		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>19506</beq_theMovieDB>
 		<beq_poster>/oLiCuvbIci52akNwPhxI0uIOz1v.jpg</beq_poster>
 		<beq_runtime>120</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 			<genre id="36">History</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

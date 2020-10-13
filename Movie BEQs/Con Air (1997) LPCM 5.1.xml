@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Con Air</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Con Air</beq_sortTitle>
+		<beq_sortTitle>con air</beq_sortTitle>
 		<beq_year>1997</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Con%20Air%20%281997%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When the government puts all its rotten criminal eggs in one airborne basket, it&apos;s asking for trouble. Before you can say, &quot;Pass the barf bag,&quot; the crooks control the plane, led by creepy Cyrus &quot;The Virus&quot; Grissom. Watching his every move is the just-released Cameron Poe, who&apos;d rather reunite with his family.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>1701</beq_theMovieDB>
 		<beq_poster>/7PCCWBSparK5fquZtg9DMr8JIAm.jpg</beq_poster>
 		<beq_runtime>116</beq_runtime>

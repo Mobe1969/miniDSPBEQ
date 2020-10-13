@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Stop-Loss</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Stop-Loss</beq_sortTitle>
+		<beq_sortTitle>stop-loss</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stop-Loss%20%282008%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A veteran soldier returns from his completed tour of duty in Iraq, only to find his life turned upside down when he is arbitrarily ordered to return to field duty by the Army.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>8988</beq_theMovieDB>
 		<beq_poster>/hsmZcNzPGnZwRgCKAfIr1JngYu5.jpg</beq_poster>
 		<beq_runtime>113</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Red Riding Hood</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Red Riding Hood</beq_sortTitle>
+		<beq_sortTitle>red riding hood</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Red%20Riding%20Hood%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Valerie is in love with a brooding outsider, Peter, but her parents have arranged for her to marry another man – who is wealthy. Unwilling to lose each other, Valerie and Peter plan to run away together when they learn that Valerie&apos;s older sister has been killed by a werewolf that prowls the dark forest surrounding their village. Hungry for revenge, the people call on famed werewolf hunter, Father Solomon, to help them kill the wolf. But Solomon&apos;s arrival brings unintended consequences as he warns that the wolf, who takes human form by day, could be any one of them.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>49730</beq_theMovieDB>
 		<beq_poster>/ixQYkLeLlTTnAoT32dukndyObB6.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>

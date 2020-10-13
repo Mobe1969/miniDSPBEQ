@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Into the Blue</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Into the Blue</beq_sortTitle>
+		<beq_sortTitle>into the blue</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Into%20the%20Blue%20%282005%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When they take some friends on an extreme sport adventure, the last thing Jared and Sam expect to see below the shark-infested waters is a legendary pirate ship rumored to contain millions of dollars in gold. But their good fortune is short-lived, as a ruthless gang of criminals gets word of what they have uncovered.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11968</beq_theMovieDB>
 		<beq_poster>/4tNJ6ciE5DAeCKL4x66jmeWnuN7.jpg</beq_poster>
 		<beq_runtime>110</beq_runtime>
@@ -1440,8 +1440,8 @@
 			<audioType>LPCM 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
 		</beq_genres>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Eye</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Eye</beq_sortTitle>
+		<beq_sortTitle>eye</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Eye%20%282008%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Violinist Sydney Wells was accidentally blinded by her sister Helen when she was five years old. She submits to a cornea transplantation, and while recovering from the operation, she realizes that she is seeing dead people.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9030</beq_theMovieDB>
 		<beq_poster>/h6LTSlrPv6aNEpScvITroHvW8vy.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

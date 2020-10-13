@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Black Water</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Black Water</beq_sortTitle>
+		<beq_sortTitle>black water</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Water%20%282018%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A deep cover operative awakens to find himself imprisoned on a submarine. With the help of a fellow prisoner and an amateur agent, he must race against the clock to escape the vessel and expose who set him up.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>454615</beq_theMovieDB>
 		<beq_poster>/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>LPCM 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

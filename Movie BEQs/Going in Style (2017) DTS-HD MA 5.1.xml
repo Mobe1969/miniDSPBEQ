@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Going in Style</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Going in Style</beq_sortTitle>
+		<beq_sortTitle>going in style</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Going%20in%20Style%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>353070</beq_theMovieDB>
 		<beq_poster>/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg</beq_poster>
 		<beq_runtime>96</beq_runtime>

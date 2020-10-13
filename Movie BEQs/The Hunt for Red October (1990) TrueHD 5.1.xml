@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Hunt for Red October</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hunt for Red October</beq_sortTitle>
+		<beq_sortTitle>hunt for red october</beq_sortTitle>
 		<beq_year>1990</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hunt%20for%20Red%20October%20%281990%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A new, technologically-superior Soviet sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. A lone CIA analyst has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it — because the entire Russian naval and air commands are trying to find him, too.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>1669</beq_theMovieDB>
 		<beq_poster>/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg</beq_poster>
 		<beq_runtime>134</beq_runtime>
@@ -1440,9 +1440,9 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

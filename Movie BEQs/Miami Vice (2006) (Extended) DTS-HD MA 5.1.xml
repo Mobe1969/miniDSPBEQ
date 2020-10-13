@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Miami Vice</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Miami Vice</beq_sortTitle>
+		<beq_sortTitle>miami vice</beq_sortTitle>
 		<beq_year>2006</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Miami%20Vice%20%282006%29%20%28Extented%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A case involving drug lords and murder in South Florida takes a personal turn for undercover detectives Sonny Crockett and Ricardo Tubbs. Unorthodox Crockett gets involved romantically with the Chinese-Cuban wife of a trafficker of arms and drugs, while Tubbs deals with an assault on those he loves.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>82</beq_theMovieDB>
 		<beq_poster>/iJPSls4taB09EUKtLj6FjFSprb3.jpg</beq_poster>
 		<beq_runtime>132</beq_runtime>

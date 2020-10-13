@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Under Siege</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Under Siege</beq_sortTitle>
+		<beq_sortTitle>under siege</beq_sortTitle>
 		<beq_year>1992</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Under%20Siege%20%281992%29%20AC3%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>This action-packed thriller takes place on the soon-to-be-decommissioned USS Missouri. Disgruntled ex-CIA operative Strannix, his assistant Krill and their group of terrorists seize the battleship with nuclear blackmail in mind. They&apos;ve planned for every contingency but ignore the ship&apos;s cook, former Navy SEAL Casey Ryback -- an error that could be fatal.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>8845</beq_theMovieDB>
 		<beq_poster>/myHxm9p8fhEsXyaLO6DawYJKolg.jpg</beq_poster>
 		<beq_runtime>103</beq_runtime>
@@ -1440,8 +1440,8 @@
 			<audioType>DD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

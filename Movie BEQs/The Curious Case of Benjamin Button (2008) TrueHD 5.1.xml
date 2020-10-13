@@ -807,8 +807,8 @@
 		<boost>3.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0127053806600688,-1.89490037630227,0.8941695156771696,1.8970219365691354,-0.9047533360703731,</dec>
-		<hex>3f81a054,bff28c18,3f64e84b,3ff2d19d,bf679dea,</hex>
+		<dec>1.0001275692539977,-1.998956417078037,0.9988302118756198,1.9989566587509915,-0.9989575394566631,</dec>
+		<hex>3f80042e,bfffddce,3f7fb356,3fffddd0,bf7fbbae,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>16</freq>
@@ -816,8 +816,8 @@
 		<boost>3.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0127053806600688,-1.89490037630227,0.8941695156771696,1.8970219365691354,-0.9047533360703731,</dec>
-		<hex>3f81a054,bff28c18,3f64e84b,3ff2d19d,bf679dea,</hex>
+		<dec>1.0001275692539977,-1.998956417078037,0.9988302118756198,1.9989566587509915,-0.9989575394566631,</dec>
+		<hex>3f80042e,bfffddce,3f7fb356,3fffddd0,bf7fbbae,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>16</freq>
@@ -825,8 +825,8 @@
 		<boost>3.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0127053806600688,-1.89490037630227,0.8941695156771696,1.8970219365691354,-0.9047533360703731,</dec>
-		<hex>3f81a054,bff28c18,3f64e84b,3ff2d19d,bf679dea,</hex>
+		<dec>1.0001275692539977,-1.998956417078037,0.9988302118756198,1.9989566587509915,-0.9989575394566631,</dec>
+		<hex>3f80042e,bfffddce,3f7fb356,3fffddd0,bf7fbbae,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>17</freq>
@@ -834,8 +834,8 @@
 		<boost>4.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.008140314153628,-1.9609250035954344,0.9640244699178874,1.9609250035954344,-0.9721647840715153,</dec>
-		<hex>3f810abe,bffaff97,3f76ca4f,3ffaff97,bf78dfcb,</hex>
+		<dec>1.0000861427666679,-1.9997042032333456,0.9996192982684529,1.9997042032333456,-0.9997054410351209,</dec>
+		<hex>3f8002d3,bffff64f,3f7fe70d,3ffff64f,bf7fecb2,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>22</freq>
@@ -843,8 +843,8 @@
 		<boost>5.6</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0139055087981697,-1.9505010566184755,0.955379721312201,1.9505010566184755,-0.9692852301103708,</dec>
-		<hex>3f81c7a8,bff9aa05,3f7493c4,3ff9aa05,bf782314,</hex>
+		<dec>1.0001475536739977,-1.9996720074878382,0.9995265267779312,1.9996720074878382,-0.9996740804519286,</dec>
+		<hex>3f8004d6,bffff541,3f7fe0f8,3ffff541,bf7feaa4,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>32</freq>
@@ -852,8 +852,8 @@
 		<boost>-3.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>0.994335316328281,-1.921699566867592,0.9668726829483345,1.921699566867592,-0.9612079992766155,</dec>
-		<hex>3f7e8cc2,bff5fa40,3f7784f8,3ff5fa40,bf7611ba,</hex>
+		<dec>0.9999394309932371,-1.9995808352217856,0.9996457898080777,1.9995808352217856,-0.9995852208013147,</dec>
+		<hex>3f7ffc08,bffff244,3f7fe8c9,3ffff244,bf7fe4d1,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>1000</freq>
@@ -897,8 +897,8 @@
 		<boost>3.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0127053806600688,-1.89490037630227,0.8941695156771696,1.8970219365691354,-0.9047533360703731,</dec>
-		<hex>3f81a054,bff28c18,3f64e84b,3ff2d19d,bf679dea,</hex>
+		<dec>1.0001275692539977,-1.998956417078037,0.9988302118756198,1.9989566587509915,-0.9989575394566631,</dec>
+		<hex>3f80042e,bfffddce,3f7fb356,3fffddd0,bf7fbbae,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>16</freq>
@@ -906,8 +906,8 @@
 		<boost>3.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0127053806600688,-1.89490037630227,0.8941695156771696,1.8970219365691354,-0.9047533360703731,</dec>
-		<hex>3f81a054,bff28c18,3f64e84b,3ff2d19d,bf679dea,</hex>
+		<dec>1.0001275692539977,-1.998956417078037,0.9988302118756198,1.9989566587509915,-0.9989575394566631,</dec>
+		<hex>3f80042e,bfffddce,3f7fb356,3fffddd0,bf7fbbae,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>16</freq>
@@ -915,8 +915,8 @@
 		<boost>3.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0127053806600688,-1.89490037630227,0.8941695156771696,1.8970219365691354,-0.9047533360703731,</dec>
-		<hex>3f81a054,bff28c18,3f64e84b,3ff2d19d,bf679dea,</hex>
+		<dec>1.0001275692539977,-1.998956417078037,0.9988302118756198,1.9989566587509915,-0.9989575394566631,</dec>
+		<hex>3f80042e,bfffddce,3f7fb356,3fffddd0,bf7fbbae,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>17</freq>
@@ -924,8 +924,8 @@
 		<boost>4.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.008140314153628,-1.9609250035954344,0.9640244699178874,1.9609250035954344,-0.9721647840715153,</dec>
-		<hex>3f810abe,bffaff97,3f76ca4f,3ffaff97,bf78dfcb,</hex>
+		<dec>1.0000861427666679,-1.9997042032333456,0.9996192982684529,1.9997042032333456,-0.9997054410351209,</dec>
+		<hex>3f8002d3,bffff64f,3f7fe70d,3ffff64f,bf7fecb2,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>22</freq>
@@ -933,8 +933,8 @@
 		<boost>5.6</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0139055087981697,-1.9505010566184755,0.955379721312201,1.9505010566184755,-0.9692852301103708,</dec>
-		<hex>3f81c7a8,bff9aa05,3f7493c4,3ff9aa05,bf782314,</hex>
+		<dec>1.0001475536739977,-1.9996720074878382,0.9995265267779312,1.9996720074878382,-0.9996740804519286,</dec>
+		<hex>3f8004d6,bffff541,3f7fe0f8,3ffff541,bf7feaa4,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>32</freq>
@@ -942,8 +942,8 @@
 		<boost>-3.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>0.994335316328281,-1.921699566867592,0.9668726829483345,1.921699566867592,-0.9612079992766155,</dec>
-		<hex>3f7e8cc2,bff5fa40,3f7784f8,3ff5fa40,bf7611ba,</hex>
+		<dec>0.9999394309932371,-1.9995808352217856,0.9996457898080777,1.9995808352217856,-0.9995852208013147,</dec>
+		<hex>3f7ffc08,bffff244,3f7fe8c9,3ffff244,bf7fe4d1,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>1000</freq>
@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Curious Case of Benjamin Button</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Curious Case of Benjamin Button</beq_sortTitle>
+		<beq_sortTitle>curious case of benjamin button</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL />
@@ -1439,11 +1439,11 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
-			<genre id="53">Thriller</genre>
-			<genre id="10749">Romance</genre>
 			<genre id="18">Drama</genre>
+			<genre id="9648">Mystery</genre>
+			<genre id="10749">Romance</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

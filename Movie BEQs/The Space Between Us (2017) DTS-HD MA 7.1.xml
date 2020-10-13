@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Space Between Us</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Space Between Us</beq_sortTitle>
+		<beq_sortTitle>space between us</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Space%20Between%20Us%20%282017%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A young man raised by scientists on Mars returns to Earth to find his father.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>365942</beq_theMovieDB>
 		<beq_poster>/7qZzPkOoauJz5ImOvBd4XgnKs1B.jpg</beq_poster>
 		<beq_runtime>121</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="10749">Romance</genre>
-			<genre id="18">Drama</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="18">Drama</genre>
 			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>

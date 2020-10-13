@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Wrestler</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Wrestler</beq_sortTitle>
+		<beq_sortTitle>wrestler</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Wrestler%20%282008%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Aging wrestler Randy &quot;The Ram&quot; Robinson is long past his prime but still ready and rarin&apos; to go on the pro-wrestling circuit. After a particularly brutal beating, however, Randy hangs up his tights, pursues a serious relationship with a long-in-the-tooth stripper, and tries to reconnect with his estranged daughter. But he can&apos;t resist the lure of the ring and readies himself for a comeback.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>12163</beq_theMovieDB>
 		<beq_poster>/6OTR8dSoNGjWohJNo3UhIGd3Tj.jpg</beq_poster>
 		<beq_runtime>109</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Bride of Chucky</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bride of Chucky</beq_sortTitle>
+		<beq_sortTitle>bride of chucky</beq_sortTitle>
 		<beq_year>1998</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bride%20of%20Chucky%20%281998%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Chucky hooks up with another murderous doll, the bridal gown-clad Tiffany, for a Route 66 murder spree with their unwitting hosts.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11932</beq_theMovieDB>
 		<beq_poster>/mAGviFp1ufYM3EaZBSrjPiKPBt6.jpg</beq_poster>
 		<beq_runtime>89</beq_runtime>

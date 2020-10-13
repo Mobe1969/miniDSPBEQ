@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Lost City of Z</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Lost City of Z</beq_sortTitle>
+		<beq_sortTitle>lost city of z</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lost%20City%20of%20Z%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A true-life drama in the 1920s, centering on British explorer Col. Percy Fawcett, who discovered evidence of a previously unknown, advanced civilization in the Amazon and disappeared whilst searching for it.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>314095</beq_theMovieDB>
 		<beq_poster>/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg</beq_poster>
 		<beq_runtime>141</beq_runtime>

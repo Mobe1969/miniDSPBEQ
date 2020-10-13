@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Joy Ride</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Joy Ride</beq_sortTitle>
+		<beq_sortTitle>joy ride</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Joy%20Ride%20%282001%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Three young people on a road trip from Colorado to New Jersey talk to a trucker on their CB radio, then must escape when he turns out to be a psychotic killer.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10866</beq_theMovieDB>
 		<beq_poster>/1LVGjf1QWgkNNPQssZtuT1GYKoP.jpg</beq_poster>
 		<beq_runtime>97</beq_runtime>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="9648">Mystery</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

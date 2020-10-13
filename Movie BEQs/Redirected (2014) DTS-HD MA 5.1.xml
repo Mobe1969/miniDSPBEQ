@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Redirected</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Redirected</beq_sortTitle>
+		<beq_sortTitle>redirected</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Redirected%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Four friends become stranded in Eastern Europe and have to become hit men, prostitutes, corrupt cops, smugglers and more to make it home.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>190469</beq_theMovieDB>
 		<beq_poster>/wmS0nA7EFQwwHYOeIfukgTnFz39.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
-			<genre id="35">Comedy</genre>
 			<genre id="80">Crime</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Messengers</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Messengers</beq_sortTitle>
+		<beq_sortTitle>messengers</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Messengers%20%282007%29%20AC3%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When the Solomons trade in the craziness of big-city life for the quiet of a North Dakota farm, little do they expect the nightmare that follows. Soon after arriving, teenage Jess (Kristen Stewart) and her younger brother see terrifying apparitions and endure attacks from a supernatural source. Jess must warn her disbelieving family before it is too late to save them.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9966</beq_theMovieDB>
 		<beq_poster>/kLmurNcnkmdPahLc6HKQjX3EHed.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>

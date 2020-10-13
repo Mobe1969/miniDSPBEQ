@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Patlabor 2: The Movie</beq_title>
 		<beq_alt_title>機動警察パトレイバー 2 the Movie</beq_alt_title>
-		<beq_sortTitle>Patlabor The Movie 2</beq_sortTitle>
+		<beq_sortTitle>patlabor the movie 2</beq_sortTitle>
 		<beq_year>1993</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Patlabor%20The%20Movie%202%20%281993%29%20TrueHD%205.1%20Ja.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>Japanese</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A Japanese police unit who use giant anthropomorphic robots (called Labors) is caught up in a political struggle between the civilian authorities and the military when a terrorist act is blamed on an Air Force jet. With the aid of a government agent, the team gets close to a terrorist leader to stop things from going out of control when after the military is impelled to impose martial law.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>14572</beq_theMovieDB>
 		<beq_poster>/gVFWH1DwUDEHJ2mF6vSsNftTnhj.jpg</beq_poster>
 		<beq_runtime>107</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="878">Science Fiction</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="16">Animation</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

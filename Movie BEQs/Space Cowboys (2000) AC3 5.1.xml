@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Space Cowboys</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Space Cowboys</beq_sortTitle>
+		<beq_sortTitle>space cowboys</beq_sortTitle>
 		<beq_year>2000</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Space%20Cowboys%20%282000%29%20AC3%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Frank Corvin, ‘Hawk’ Hawkins, Jerry O&apos;Neill and ‘Tank’ Sullivan were hotdog members of Project Daedalus, the Air Force&apos;s test program for space travel, but their hopes were dashed in 1958 with the formation of NASA and the use of trained chimps. They blackmail their way into orbit when Russia&apos;s mysterious ‘Ikon’ communications satellite&apos;s orbit begins to degrade and threatens to crash to Earth.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>5551</beq_theMovieDB>
 		<beq_poster>/sHqp9msCdDowHi3bdcgbikGyNw9.jpg</beq_poster>
 		<beq_runtime>130</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

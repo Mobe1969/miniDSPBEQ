@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>A Score to Settle</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>A Score To Settle</beq_sortTitle>
+		<beq_sortTitle>a score to settle</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Score%20To%20Settle%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A former mob enforcer who is released from prison after serving 22 years for a crime he didn&apos;t commit sets out on a path for revenge against the people who wronged him.</beq_overview>
 		<beq_rating>NR</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>500922</beq_theMovieDB>
 		<beq_poster>/4PBwZGBP6ziKuOgHRpbVRyGoqy3.jpg</beq_poster>
 		<beq_runtime>103</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

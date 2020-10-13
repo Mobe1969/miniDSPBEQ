@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Man of Tai Chi</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Man of Tai Chi</beq_sortTitle>
+		<beq_sortTitle>man of tai chi</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Man%20of%20Tai%20Chi%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In Beijing, a young martial artist&apos;s skill places him in position to experience opportunities and sacrifices.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>76544</beq_theMovieDB>
 		<beq_poster>/ty5ffg7jYhklKd8FYPSxdzY9Uv6.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>

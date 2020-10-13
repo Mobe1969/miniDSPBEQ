@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Looking Glass</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Looking Glass</beq_sortTitle>
+		<beq_sortTitle>looking glass</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Looking%20Glass%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A psycho- sexual thriller following a couple that buys an old motel in the desert looking for a new beginning, but what seemed at first as an escape is soon a thrilling ride through a mysterious world when Ray discovers a two way mirror and witnesses a horrifying murder. In a twisted game of cat and mouse, Ray must race to save his wife and himself from a gruesome secret connected to the motel and the strange people who visit there.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>437375</beq_theMovieDB>
 		<beq_poster>/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg</beq_poster>
 		<beq_runtime>103</beq_runtime>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

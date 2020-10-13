@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Rising Sun</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Rising Sun</beq_sortTitle>
+		<beq_sortTitle>rising sun</beq_sortTitle>
 		<beq_year>1993</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rising%20Sun%20%281993%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When a prostitute is found dead in a Los Angeles skyscraper occupied by a large Japanese corporation, detectives John Conner and Web Smith are called in to investigate. Although Conner has previous experience working in Japan, cultural differences make their progress difficult until a security disc showing the murder turns up. Close scrutiny proves the disc has been doctored, and the detectives realize they&apos;re dealing with a cover-up as well.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>7007</beq_theMovieDB>
 		<beq_poster>/jVWEeZ383peKxwE284AdyHqq6GH.jpg</beq_poster>
 		<beq_runtime>125</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Drive Angry</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Drive Angry</beq_sortTitle>
+		<beq_sortTitle>drive angry</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Drive%20Angry%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Milton is a hardened felon who has broken out of Hell, intent on finding the vicious cult who brutally murdered his daughter and kidnapped her baby. He joins forces with a sexy, tough-as-nails waitress, who&apos;s also seeking redemption of her own. Caught in a deadly race against time, Milton has three days to avoid capture, avenge his daughter&apos;s death, and save her baby before she&apos;s mercilessly sacrificed by the cult.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>47327</beq_theMovieDB>
 		<beq_poster>/g0hQNqLkPZC5wOnNhzUH0KvPda4.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="14">Fantasy</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

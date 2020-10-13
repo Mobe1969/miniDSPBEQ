@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>A Nightmare on Elm Street</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>A Nightmare on Elm Street</beq_sortTitle>
+		<beq_sortTitle>a nightmare on elm street</beq_sortTitle>
 		<beq_year>1984</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Nightmare%20on%20Elm%20Street%20%281984%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop&apos;s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers&apos; children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>377</beq_theMovieDB>
 		<beq_poster>/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg</beq_poster>
 		<beq_runtime>91</beq_runtime>

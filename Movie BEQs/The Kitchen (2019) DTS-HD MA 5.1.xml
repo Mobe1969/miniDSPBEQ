@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Kitchen</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Kitchen</beq_sortTitle>
+		<beq_sortTitle>kitchen</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Kitchen%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The mobster husbands of three 1978 Hell&apos;s Kitchen housewives are sent to prison by the FBI. Left with little but a sharp ax to grind, the ladies take the Irish mafia&apos;s matters into their own hands—proving unexpectedly adept at everything from running the rackets to taking out the competition…literally.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>487680</beq_theMovieDB>
 		<beq_poster>/l3smhHvnczXg8E2WzysRVKIXSYJ.jpg</beq_poster>
 		<beq_runtime>104</beq_runtime>

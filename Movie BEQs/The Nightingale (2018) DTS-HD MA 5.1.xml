@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Nightingale</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Nightingale</beq_sortTitle>
+		<beq_sortTitle>nightingale</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Nightingale%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In 1825, Claire, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker who is also marked by trauma from his own violence-filled past.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>400090</beq_theMovieDB>
 		<beq_poster>/9nRpZmvdEgq8hMu1rNyc90XQtH6.jpg</beq_poster>
 		<beq_runtime>136</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Order</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Order</beq_sortTitle>
+		<beq_sortTitle>order</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Order%20%282001%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When Rudy, an artifacts smuggler, goes to Jerusalem to rescue his kidnapped archeologist father, he faces deportation by a scheming police chief. Now, to find his dad and recover a sacred scroll, he&apos;ll have to outwit officials and a ruthless sect. With the help of a beautiful Israeli cop, Rudy battles a faction of religious zealots determined to see a holy war at all costs.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>37632</beq_theMovieDB>
 		<beq_poster>/1FuME6pwDMZOPaNUUaG8tkAXjEO.jpg</beq_poster>
 		<beq_runtime>89</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
 			<genre id="28">Action</genre>
-			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Perfect Storm</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Perfect Storm</beq_sortTitle>
+		<beq_sortTitle>perfect storm</beq_sortTitle>
 		<beq_year>2000</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Perfect%20Storm%20%282000%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In October 1991, a confluence of weather conditions combined to form a killer storm in the North Atlantic. Caught in the storm was the sword-fishing boat Andrea Gail. Magnificent foreshadowing and anticipation fill this true-life drama while minute details of the fishing boats, their gear and the weather are juxtaposed with the sea adventure.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>2133</beq_theMovieDB>
 		<beq_poster>/aOYHJclz1yZdFT3hdMY8TeYU4fk.jpg</beq_poster>
 		<beq_runtime>130</beq_runtime>

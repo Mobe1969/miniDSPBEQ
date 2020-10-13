@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>London Boulevard</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>London Boulevard</beq_sortTitle>
+		<beq_sortTitle>london boulevard</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/London%20Boulevard%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A parolee falls for a reclusive movie star while trying to evade a ruthless gangster.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>48838</beq_theMovieDB>
 		<beq_poster>/nZGL1cLtWXptk0W1jFE7MhAVtZc.jpg</beq_poster>
 		<beq_runtime>103</beq_runtime>

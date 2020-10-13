@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Thin Red Line</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Thin Red Line</beq_sortTitle>
+		<beq_sortTitle>thin red line</beq_sortTitle>
 		<beq_year>1998</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Thin%20Red%20Line%20%281998%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>8741</beq_theMovieDB>
 		<beq_poster>/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg</beq_poster>
 		<beq_runtime>171</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="18">Drama</genre>
 			<genre id="36">History</genre>
 			<genre id="10752">War</genre>
-			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

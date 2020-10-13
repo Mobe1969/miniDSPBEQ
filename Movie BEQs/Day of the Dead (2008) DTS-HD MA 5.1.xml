@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Day of the Dead</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Day of the Dead</beq_sortTitle>
+		<beq_sortTitle>day of the dead</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Day%20of%20the%20Dead%20%282008%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When a small Colorado town is overrun by the flesh hungry dead, a small group of survivors try to escape in a last ditch effort to stay alive.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13613</beq_theMovieDB>
 		<beq_poster>/z2Elh5NNGDR5kmKWQ2CQF7Ufvzs.jpg</beq_poster>
 		<beq_runtime>86</beq_runtime>

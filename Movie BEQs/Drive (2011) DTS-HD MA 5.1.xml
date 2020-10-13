@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Drive</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Drive</beq_sortTitle>
+		<beq_sortTitle>drive</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Drive%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he&apos;s been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene&apos;s husband gets out of jail, he enlists Driver&apos;s help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>64690</beq_theMovieDB>
 		<beq_poster>/602vevIURmpDfzbnv5Ubi6wIkQm.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="18">Drama</genre>
-			<genre id="80">Crime</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

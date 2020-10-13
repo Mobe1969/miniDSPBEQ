@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Speed 2: Cruise Control</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Speed 2 Cruise Control</beq_sortTitle>
+		<beq_sortTitle>speed 2 cruise control</beq_sortTitle>
 		<beq_year>1997</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Speed%202%20Cruise%20Control%20%281997%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>1639</beq_theMovieDB>
 		<beq_poster>/ybyxFABzKIf2t1L4HkTEosg9bGh.jpg</beq_poster>
 		<beq_runtime>121</beq_runtime>

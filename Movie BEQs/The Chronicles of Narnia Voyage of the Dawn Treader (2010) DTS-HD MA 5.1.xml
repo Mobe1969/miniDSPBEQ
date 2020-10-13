@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Chronicles of Narnia: The Voyage of the Dawn Treader</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Chronicles of Narnia Voyage of the Dawn Treader</beq_sortTitle>
+		<beq_sortTitle>chronicles of narnia voyage of the dawn treader</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Chronicles%20of%20Narnia%20Voyage%20of%20the%20Dawn%20Treader%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>This time around Edmund and Lucy Pevensie, along with their pesky cousin Eustace Scrubb find themselves swallowed into a painting and on to a fantastic Narnian ship headed for the very edges of the world.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10140</beq_theMovieDB>
 		<beq_poster>/pP27zlm9yeKrCeDZLFLP2HKELot.jpg</beq_poster>
 		<beq_runtime>113</beq_runtime>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10751">Family</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="10751">Family</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

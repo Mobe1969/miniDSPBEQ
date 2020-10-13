@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Puppet Masters</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Puppet Masters</beq_sortTitle>
+		<beq_sortTitle>puppet masters</beq_sortTitle>
 		<beq_year>1994</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Puppet%20Masters%20%281994%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The Earth is invaded by alien parasites aka &quot;slugs&quot; that ride on people&apos;s backs and control their minds. A trio of American government agents attempt to thwart this.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>25557</beq_theMovieDB>
 		<beq_poster>/mzq5uA0P5nfTH8Fl7OESeuDop8P.jpg</beq_poster>
 		<beq_runtime>109</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

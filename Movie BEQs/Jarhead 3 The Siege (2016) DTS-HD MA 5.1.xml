@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Jarhead 3: The Siege</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Jarhead 3 The Siege</beq_sortTitle>
+		<beq_sortTitle>jarhead 3 the siege</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jarhead%203%20The%20Siege%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Corporal Evan Albright joined the elite Marine Corps Security Guards to save the world and see some action-not necessarily in that order. But his first assignment, protecting a U. S. Embassy in a seemingly safe Middle Eastern capitol, relegates his unit to wrangling &quot;gate groupies&quot; protesting outside the compound and honing their marksmanship by playing video games. So Albright and his team are caught off guard when well-armed and well-trained militants launch a surprise attack aimed at killing an informant in the embassy. Heavily out-gunned, they will have to muster all the courage and fire power they can as their once routine assignment spirals into all-out war.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>378385</beq_theMovieDB>
 		<beq_poster>/namZEDSMbFOSI3sMjzeSJ4E176o.jpg</beq_poster>
 		<beq_runtime>95</beq_runtime>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="18">Drama</genre>
-			<genre id="28">Action</genre>
 			<genre id="10752">War</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

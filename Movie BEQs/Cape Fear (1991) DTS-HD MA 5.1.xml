@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Cape Fear</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Cape Fear</beq_sortTitle>
+		<beq_sortTitle>cape fear</beq_sortTitle>
 		<beq_year>1991</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cape%20Fear%20%281991%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, bible-quoting, psychotic rapist. What do they have in common? Fourteen years ago, Sam was a public defender assigned to Max Cady&apos;s rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey, bibliophile Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>1598</beq_theMovieDB>
 		<beq_poster>/ws4mrtndzgSH5QGCamOFAgilr2R.jpg</beq_poster>
 		<beq_runtime>128</beq_runtime>

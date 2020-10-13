@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Monsters</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Monsters</beq_sortTitle>
+		<beq_sortTitle>monsters</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Monsters%20%282010%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Six years ago NASA discovered the possibility of alien life within our solar system. A probe was launched to collect samples, but crashed upon re-entry over Central America. Soon after, new life forms began to appear and half of Mexico was quarantined as an infected zone. Today, the American and Mexican military still struggle to contain &quot;the creatures,&quot; while a journalist agrees to escort a shaken tourist through the infected zone in Mexico to the safety of the U.S. border.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>43933</beq_theMovieDB>
 		<beq_poster>/lH6oWfGjwnM81Nzu8vipx9OfPmv.jpg</beq_poster>
 		<beq_runtime>94</beq_runtime>

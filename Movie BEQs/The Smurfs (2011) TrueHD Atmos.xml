@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Smurfs</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Smurfs</beq_sortTitle>
+		<beq_sortTitle>smurfs</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Smurfs%20%282011%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world and into ours -- in fact, smack dab in the middle of Central Park. Just three apples high and stuck in the Big Apple, the Smurfs must find a way to get back to their village before Gargamel tracks them down.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>41513</beq_theMovieDB>
 		<beq_poster>/vRhnslP2gW0QDym7BsMeSuioUfK.jpg</beq_poster>
 		<beq_runtime>103</beq_runtime>
@@ -1440,11 +1440,11 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="16">Animation</genre>
 			<genre id="10751">Family</genre>
-			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

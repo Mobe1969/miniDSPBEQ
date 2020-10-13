@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hyena Road</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hyena Road</beq_sortTitle>
+		<beq_sortTitle>hyena road</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hyena%20Road%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Three different men, three different worlds, three different wars – all stand at the intersection of modern warfare – a murky world of fluid morality where all is not as it seems.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>316042</beq_theMovieDB>
 		<beq_poster>/zdn34Jx3rRkhDGsD0qcB0cA1HzB.jpg</beq_poster>
 		<beq_runtime>120</beq_runtime>

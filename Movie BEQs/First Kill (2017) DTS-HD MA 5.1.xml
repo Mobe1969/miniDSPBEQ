@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>First Kill</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>First Kill</beq_sortTitle>
+		<beq_sortTitle>first kill</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/First%20Kill%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>410554</beq_theMovieDB>
 		<beq_poster>/zoia9YSg82UNYbtum9QYjKSqdLw.jpg</beq_poster>
 		<beq_runtime>97</beq_runtime>

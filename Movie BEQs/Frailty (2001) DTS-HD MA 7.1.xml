@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Frailty</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Frailty</beq_sortTitle>
+		<beq_sortTitle>frailty</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Frailty%20%282001%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A man confesses to an FBI agent his family&apos;s story of how his religious fanatic father&apos;s visions lead to a series of murders to destroy supposed &apos;demons&apos;.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>12149</beq_theMovieDB>
 		<beq_poster>/hER3sVCZ9cZRBO0KNI7NbtiLacn.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

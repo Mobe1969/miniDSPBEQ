@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Vertical Limit</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Vertical Limit</beq_sortTitle>
+		<beq_sortTitle>vertical limit</beq_sortTitle>
 		<beq_year>2000</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vertical%20Limit%20%282000%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Trapped near the summit of K2, the world&apos;s second-highest mountain, Annie Garrett radios to base camp for help. Brother Peter hears Annie&apos;s message and assembles a team to save her and her group before they succumb to K2&apos;s unforgiving elements. But, as Annie lays injured in an icy cavern, the rescuers face several terrifying events that could end the rescue attempt -- and their lives.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11678</beq_theMovieDB>
 		<beq_poster>/kpqQUEi8eAyYHMDFACf6YlnPIu7.jpg</beq_poster>
 		<beq_runtime>124</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>LPCM 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="18">Drama</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

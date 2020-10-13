@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Final Destination 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Final Destination 2</beq_sortTitle>
+		<beq_sortTitle>final destination 2</beq_sortTitle>
 		<beq_year>2003</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Final%20Destination%202%20%282003%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When Kimberly has a violent premonition of a highway pileup she blocks the freeway, keeping a few others meant to die, safe...Or are they? The survivors mysteriously start dying and it&apos;s up to Kimberly to stop it before she&apos;s next.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9358</beq_theMovieDB>
 		<beq_poster>/sDsdhVmGzh4L56QvtLLinvXjDs3.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>

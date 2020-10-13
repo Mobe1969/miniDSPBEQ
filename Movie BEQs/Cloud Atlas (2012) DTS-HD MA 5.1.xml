@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Cloud Atlas</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Cloud Atlas</beq_sortTitle>
+		<beq_sortTitle>cloud atlas</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cloud%20Atlas%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A set of six nested stories spanning time between the 19th century and a distant post-apocalyptic future. Cloud Atlas explores how the actions and consequences of individual lives impact one another throughout the past, the present and the future. Action, mystery and romance weave through the story as one soul is shaped from a killer into a hero and a single act of kindness ripples across centuries to inspire a revolution in the distant future.  Based on the award winning novel by David Mitchell. Directed by Tom Tykwer and the Wachowskis.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>83542</beq_theMovieDB>
 		<beq_poster>/amNMifaMEd0FBOR289OcnRAJjTI.jpg</beq_poster>
 		<beq_runtime>172</beq_runtime>

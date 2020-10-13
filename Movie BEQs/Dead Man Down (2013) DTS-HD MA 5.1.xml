@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dead Man Down</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dead Man Down</beq_sortTitle>
+		<beq_sortTitle>dead man down</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20Man%20Down%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In New York City, a crime lord&apos;s right-hand man is seduced by a woman seeking retribution.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>102362</beq_theMovieDB>
 		<beq_poster>/8xWo2WE36JdBwlCmwvXM4bb5rBg.jpg</beq_poster>
 		<beq_runtime>118</beq_runtime>
@@ -1440,9 +1440,9 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="53">Thriller</genre>
-			<genre id="18">Drama</genre>
 			<genre id="80">Crime</genre>
 			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

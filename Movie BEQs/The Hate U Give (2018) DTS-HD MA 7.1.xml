@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Hate U Give</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hate U Give</beq_sortTitle>
+		<beq_sortTitle>hate u give</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hate%20U%20Give%20%282018%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she&apos;s torn between her two very different worlds as she tries to speak her truth.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>470044</beq_theMovieDB>
 		<beq_poster>/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg</beq_poster>
 		<beq_runtime>133</beq_runtime>

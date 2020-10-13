@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Precious Cargo</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Precious Cargo</beq_sortTitle>
+		<beq_sortTitle>precious cargo</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Precious%20Cargo%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>After a botched heist, Eddie  a murderous crime boss, hunts down the seductive thief Karen who failed him. In order to win back Eddie’s trust, Karen recruits her ex-lover and premier thief Jack to steal a cargo of rare precious gems. But when the job goes down, allegiances are betrayed and lines are crossed as Jack, Karen, and Eddie face off in a fateful showdown.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>384737</beq_theMovieDB>
 		<beq_poster>/8Jt2NkZVZTAVNh55dbWKMOgRiTh.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>

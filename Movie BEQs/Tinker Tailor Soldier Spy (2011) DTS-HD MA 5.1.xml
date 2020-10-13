@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Tinker Tailor Soldier Spy</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Tinker Tailor Soldier Spy</beq_sortTitle>
+		<beq_sortTitle>tinker tailor soldier spy</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tinker%20Tailor%20Soldier%20Spy%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In the bleak days of the Cold War, espionage veteran George Smiley is forced from semi-retirement to uncover a Soviet mole within his former colleagues at the heart of MI6.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>49517</beq_theMovieDB>
 		<beq_poster>/bsL9UZPCmQKgl88wXwMulKuw9Jh.jpg</beq_poster>
 		<beq_runtime>127</beq_runtime>

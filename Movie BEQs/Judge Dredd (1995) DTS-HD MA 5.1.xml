@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Judge Dredd</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Judge Dredd</beq_sortTitle>
+		<beq_sortTitle>judge dredd</beq_sortTitle>
 		<beq_year>1995</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Judge%20Dredd%20%281995%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In a dystopian future, Dredd, the most famous judge (a cop with instant field judiciary powers) is convicted for a crime he did not commit while his murderous counterpart escapes.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9482</beq_theMovieDB>
 		<beq_poster>/aja6BILb8Efe4eJksiPs5pHd5ai.jpg</beq_poster>
 		<beq_runtime>96</beq_runtime>

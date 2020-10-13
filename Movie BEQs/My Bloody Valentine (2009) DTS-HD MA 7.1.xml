@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>My Bloody Valentine</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>My Bloody Valentine</beq_sortTitle>
+		<beq_sortTitle>my bloody valentine</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/My%20Bloody%20Valentine%20%282009%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Ten years ago, a tragedy changed the town of Harmony forever. Tom Hanniger, an inexperienced coal miner, caused an accident in the tunnels that trapped and killed five men and sent the only survivor, Harry Warden, into a permanent coma. But Harry Warden wanted revenge. Exactly one year later, on Valentine’s Day, he woke up…and brutally murdered twenty-two people with a pickaxe before being killed.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>14435</beq_theMovieDB>
 		<beq_poster>/zFFoCSdZdPQ3kVXqC20FfY7hO9x.jpg</beq_poster>
 		<beq_runtime>101</beq_runtime>

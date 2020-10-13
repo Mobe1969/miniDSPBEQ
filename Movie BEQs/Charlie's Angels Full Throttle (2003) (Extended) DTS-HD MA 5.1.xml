@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Charlie&apos;s Angels: Full Throttle</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Charlie&apos;s Angels Full Throttle</beq_sortTitle>
+		<beq_sortTitle>charlie&apos;s angels full throttle</beq_sortTitle>
 		<beq_year>2003</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Charlie%27s%20Angels%20Full%20Throttle%20%282003%29%28Extended%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>The Angels are charged with finding a pair of missing rings that are encoded with the personal information of members of the Witness Protection Program. As informants are killed, the ladies target a rogue agent who might be responsible.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9471</beq_theMovieDB>
 		<beq_poster>/n4cdJ0Wqxb7C0HmZbcaC4eYnkIf.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

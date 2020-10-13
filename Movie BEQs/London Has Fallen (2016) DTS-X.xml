@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>London Has Fallen</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>London Has Fallen</beq_sortTitle>
+		<beq_sortTitle>london has fallen</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/London%20Has%20Fallen%20%282016%29%20DTS:X%20MA.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In London for the Prime Minister&apos;s funeral, Mike Banning discovers a plot to assassinate all the attending world leaders.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>267860</beq_theMovieDB>
 		<beq_poster>/korY0GInEJThWEm23MRmErQ3GqT.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Along Came a Spider</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Along Came a Spider</beq_sortTitle>
+		<beq_sortTitle>along came a spider</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Along%20Came%20a%20Spider%20%282001%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>When a teacher kidnaps a girl from a prestigious school, homicide detective, Alex Cross takes the case and teams up with young security agent, Jezzie Flannigan in hope of finding the girl and stopping the brutal psychopath.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>2043</beq_theMovieDB>
 		<beq_poster>/1YtsND7vSNymylnOSzgg3DdVFMB.jpg</beq_poster>
 		<beq_runtime>104</beq_runtime>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="9648">Mystery</genre>
 			<genre id="80">Crime</genre>
-			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

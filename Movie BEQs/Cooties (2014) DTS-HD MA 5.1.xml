@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Cooties</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Cooties</beq_sortTitle>
+		<beq_sortTitle>cooties</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cooties%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A mysterious virus hits an isolated elementary school, transforming the kids into a feral swarm of mass savages. An unlikely hero must lead a motley band of teachers in the fight of their lives.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>241843</beq_theMovieDB>
 		<beq_poster>/qnH3SCfb3ePz9qM8BvBtq9JLLXY.jpg</beq_poster>
 		<beq_runtime>88</beq_runtime>

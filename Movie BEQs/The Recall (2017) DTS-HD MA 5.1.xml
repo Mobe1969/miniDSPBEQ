@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Recall</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Recall</beq_sortTitle>
+		<beq_sortTitle>recall</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Recall%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When five friends vacation at a remote lake house, they expect nothing less then a good time, unaware that Earth is under attack by an alien invasion and mass-abductions.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>455551</beq_theMovieDB>
 		<beq_poster>/yq2DGzM0kNWtGwkplGAcEEM4eSH.jpg</beq_poster>
 		<beq_runtime>91</beq_runtime>

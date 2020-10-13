@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Brick Mansions</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Brick Mansions</beq_sortTitle>
+		<beq_sortTitle>brick mansions</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Brick%20Mansions%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>In a dystopian Detroit, grand houses that once housed the wealthy are now homes of the city&apos;s most-dangerous criminals. Surrounding the area is a giant wall to keep the rest of Detroit safe. For undercover cop Damien Collier, every day is a battle against corruption as he struggles to bring his father&apos;s killer, Tremaine, to justice. Meanwhile, Damien and an ex-con named Lino work together to save the city from a plot to destroy it.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>254473</beq_theMovieDB>
 		<beq_poster>/6OopiNRk7lWP0hPsY0eYqq2kQTi.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

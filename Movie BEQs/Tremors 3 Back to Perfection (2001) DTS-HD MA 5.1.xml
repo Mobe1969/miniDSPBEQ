@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Tremors 3: Back to Perfection</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Tremors 3 Back to Perfection</beq_sortTitle>
+		<beq_sortTitle>tremors 3 back to perfection</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tremors%203%20Back%20to%20Perfection%20%282001%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Burt Gummer returns home to Perfection, Nev., to find that the town of terror has become a theme park, and when the simulated giant worm attacks turn real, the survivalist must battle the creatures once again. Gummer pits his impressive knowledge of weaponry against the newest and deadliest generation of flesh-eating graboids, with help from two young entrepreneurs.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>10829</beq_theMovieDB>
 		<beq_poster>/2dpgRy7ekDUNNk2FxYPkxBcG8li.jpg</beq_poster>
 		<beq_runtime>104</beq_runtime>
@@ -1440,11 +1440,11 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="27">Horror</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="35">Comedy</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="27">Horror</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

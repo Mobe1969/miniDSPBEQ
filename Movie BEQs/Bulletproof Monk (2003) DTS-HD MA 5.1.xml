@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Bulletproof Monk</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bulletproof Monk</beq_sortTitle>
+		<beq_sortTitle>bulletproof monk</beq_sortTitle>
 		<beq_year>2003</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bulletproof%20Monk%20%282003%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A mysterious and immortal Tibetan kung fu master, who has spent the last 60 years traveling around the world protecting the ancient Scroll of the Ultimate, mentors a selfish street kid in the ancient intricacies of kung fu.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>11817</beq_theMovieDB>
 		<beq_poster>/kHWv16c4uDmiEujICSBdQ52TH55.jpg</beq_poster>
 		<beq_runtime>104</beq_runtime>

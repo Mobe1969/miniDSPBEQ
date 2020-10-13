@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Spy Kids 3-D: Game Over</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Spy Kids 3</beq_sortTitle>
+		<beq_sortTitle>spy kids 3</beq_sortTitle>
 		<beq_year>2003</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Spy%20Kids%203%20%282003%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Carmen&apos;s caught in a virtual reality game designed by the Kids&apos; new nemesis, the Toymaker. It&apos;s up to Juni to save his sister, and ultimately the world.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>12279</beq_theMovieDB>
 		<beq_poster>/oP53PyexPlQd1xDt8kkvX5LdQdT.jpg</beq_poster>
 		<beq_runtime>84</beq_runtime>
@@ -1443,8 +1443,8 @@
 			<genre id="35">Comedy</genre>
 			<genre id="10751">Family</genre>
 			<genre id="12">Adventure</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

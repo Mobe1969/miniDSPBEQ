@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Beerfest</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Beerfest</beq_sortTitle>
+		<beq_sortTitle>beerfest</beq_sortTitle>
 		<beq_year>2006</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beerfest%20%28Unrated%29%20%282006%29%20DD%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>During a trip to Germany to scatter their grandfather&apos;s ashes, German-American brothers Todd and Jan discover Beerfest, the secret Olympics of downing stout, and want to enter the contest to defend their family&apos;s beer-guzzling honor. Their Old Country cousins sneer at the Yanks&apos; chances, prompting the siblings to return to America to prepare for a showdown the following year.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>9988</beq_theMovieDB>
 		<beq_poster>/5srGbSv3zhEUjXFOZR9qHkgJO6l.jpg</beq_poster>
 		<beq_runtime>110</beq_runtime>

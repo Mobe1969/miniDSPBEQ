@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Jonah Hex</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Jonah Hex</beq_sortTitle>
+		<beq_sortTitle>jonah hex</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jonah%20Hex%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Gunslinger Jonah Hex (Josh Brolin) is appointed by President Ulysses Grant to track down terrorist Quentin Turnbull (John Malkovich), a former Confederate officer determined on unleashing hell on earth. Jonah not only secures freedom by accepting this task, he also gets revenge on the man who slayed his wife and child. Megan Fox plays a prostitute as well as Jonah Hex&apos;s love interst in the film.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>20533</beq_theMovieDB>
 		<beq_poster>/1MpWjcCn8M0763QDoxcN0gXrc5q.jpg</beq_poster>
 		<beq_runtime>81</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
-			<genre id="18">Drama</genre>
-			<genre id="28">Action</genre>
 			<genre id="37">Western</genre>
+			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>

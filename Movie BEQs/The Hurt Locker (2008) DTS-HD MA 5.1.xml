@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Hurt Locker</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hurt Locker</beq_sortTitle>
+		<beq_sortTitle>hurt locker</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hurt%20Locker%20%282008%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Forced to play a dangerous game of cat-and-mouse in the chaos of war, an elite Army bomb squad unit must come together in a city where everyone is a potential enemy and every object could be a deadly bomb.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>12162</beq_theMovieDB>
 		<beq_poster>/8SwjvOchYljr7tSKpNeHjpyPbg5.jpg</beq_poster>
 		<beq_runtime>131</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="53">Thriller</genre>
 			<genre id="10752">War</genre>
 			<genre id="18">Drama</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

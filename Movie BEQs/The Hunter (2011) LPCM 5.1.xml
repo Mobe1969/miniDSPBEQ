@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Hunter</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hunter</beq_sortTitle>
+		<beq_sortTitle>hunter</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hunter%20%282011%29%20LPCM%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Martin, a mercenary, is sent from Europe by an anonymous biotech company to the Tasmanian wilderness on a hunt for the last Tasmanian tiger.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>70954</beq_theMovieDB>
 		<beq_poster>/KgFYNh3GE36FrXjo9udZbnV1z6.jpg</beq_poster>
 		<beq_runtime>102</beq_runtime>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Thaw</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Thaw</beq_sortTitle>
+		<beq_sortTitle>thaw</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Thaw%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1429,9 +1429,9 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>At a remote Arctic research station, four ecology students discover the real horror of global warming is not the melting ice, but what&apos;s frozen within it. A prehistoric parasite is released from the carcass of a Woolly Mammoth upon the unsuspecting students who are forced to quarantine and make necessary sacrifices, or risk infecting the rest of the world.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>23410</beq_theMovieDB>
 		<beq_poster>/6oxJ75L6rB88TeSspcnPA7JqjWw.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="27">Horror</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Zombieland</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Zombieland</beq_sortTitle>
+		<beq_sortTitle>zombieland</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zombieland%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>Columbus has made a habit of running from what scares him. Tallahassee doesn&apos;t have fears. If he did, he&apos;d kick their ever-living ass. In a world overrun by zombies, these two are perfectly evolved survivors. But now, they&apos;re about to stare down the most terrifying prospect of all: each other.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>19908</beq_theMovieDB>
 		<beq_poster>/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg</beq_poster>
 		<beq_runtime>88</beq_runtime>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

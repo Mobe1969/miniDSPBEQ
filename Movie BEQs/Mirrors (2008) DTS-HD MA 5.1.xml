@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Mirrors</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Mirrors</beq_sortTitle>
+		<beq_sortTitle>mirrors</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mirrors%20%282008%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>An ex-cop and his family are the target of an evil force that is using mirrors as a gateway into their home.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>13515</beq_theMovieDB>
 		<beq_poster>/xsbGcfH31Zv9gsjURnAsUFoSGra.jpg</beq_poster>
 		<beq_runtime>110</beq_runtime>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
 			<genre id="9648">Mystery</genre>
 		</beq_genres>

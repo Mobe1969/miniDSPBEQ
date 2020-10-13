@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Poison Rose</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Poison Rose</beq_sortTitle>
+		<beq_sortTitle>poison rose</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Poison%20Rose%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>529983</beq_theMovieDB>
 		<beq_poster>/gSzyUmg719TgAxarFZYWjLLMqvS.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>

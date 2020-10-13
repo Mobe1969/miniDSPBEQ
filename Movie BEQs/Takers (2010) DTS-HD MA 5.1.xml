@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Takers</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Takers</beq_sortTitle>
+		<beq_sortTitle>takers</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Takers%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1431,7 +1431,7 @@
 		<beq_overview>A seasoned team of bank robbers, including Gordon Jennings (Idris Elba), John Rahway (Paul Walker), A.J. (Hayden Christensen), and brothers Jake (Michael Ealy) and Jesse Attica (Chris Brown) successfully complete their latest heist and lead a life of luxury while planning their next job. When Ghost (Tip T.I. Harris), a former member of their team, is released from prison he convinces the group to strike an armored car carrying $20 million. As the &quot;Takers&quot; carefully plot out their strategy and draw nearer to exacting the grand heist, a reckless police officer (Matt Dillon) inches closer to apprehending the criminals.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>mobe1969</beq_author>
-		<beq_avs></beq_avs>
+		<beq_avs />
 		<beq_theMovieDB>22907</beq_theMovieDB>
 		<beq_poster>/e2voV7b8ULOvlNyJ7tLDb9vbQCs.jpg</beq_poster>
 		<beq_runtime>107</beq_runtime>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
-			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
