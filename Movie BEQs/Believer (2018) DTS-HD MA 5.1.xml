@@ -1416,7 +1416,7 @@
 	<link />
 	<beq_metadata>
 		<beq_title>Believer</beq_title>
-		<beq_alt_title />
+		<beq_alt_title>Dokjeon</beq_alt_title>
 		<beq_sortTitle>believer</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
@@ -1426,20 +1426,19 @@
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
-		<beq_language>English</beq_language>
+		<beq_language>Korean</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Imagine Dragons’ Mormon frontman Dan Reynolds is taking on a new mission to explore how the church treats its LGBTQ members. With the rising suicide rate amongst teens in the state of Utah, his concern with the church’s policies sends him on an unexpected path for acceptance and change.</beq_overview>
+		<beq_overview>After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel. (Remake of the Chinese film “Drug War,” 2012.)</beq_overview>
 		<beq_rating />
 		<beq_author>mobe1969</beq_author>
 		<beq_avs />
-		<beq_theMovieDB>490001</beq_theMovieDB>
-		<beq_poster>/1jXKnbaBBI4OeQTSuSEKLqWzM5H.jpg</beq_poster>
-		<beq_runtime>102</beq_runtime>
+		<beq_theMovieDB>518963</beq_theMovieDB>
+		<beq_poster>https://image.tmdb.org/t/p/original/aR7QuAqcxtZkW8BaU7m8VrBZYZl.jpg</beq_poster>
+		<beq_runtime>203</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="99">Documentary</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
