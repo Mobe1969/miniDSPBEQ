@@ -1,1 +1,0 @@
-{"_type": "CompleteFilter", "description": "The Texas Chainsaw Massacre The Beginning (2006)(Unrated) DTS-HD MA 5.1", "fs": 1000, "filters": [{"_type": "LowShelf", "fs": 1000, "fc": 17.0, "q": 0.8, "gain": 2.4, "count": 6}]}
