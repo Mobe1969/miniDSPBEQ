@@ -1417,7 +1417,7 @@
   <beq_metadata>
     <beq_title>The Invasion</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>invasion</beq_sortTitle>
+    <beq_sortTitle>the invasion</beq_sortTitle>
     <beq_year>2007</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Invasion%20%282007%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Washington, D.C. psychologist Carol Bennell and her colleague Dr. Ben Driscoll are the only two people on Earth who are aware of an epidemic running rampant through the city. They discover an alien virus aboard a crashed space shuttle that transforms anyone who comes into contact with it into unfeeling drones while they sleep. Carol realizes her son holds the key to stopping the spread of the plague and she races to find him before it is too late.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

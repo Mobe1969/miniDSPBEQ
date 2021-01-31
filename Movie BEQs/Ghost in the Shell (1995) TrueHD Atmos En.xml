@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Ghost in the Shell</beq_title>
-    <beq_alt_title>GHOST IN THE SHELL</beq_alt_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>ghost in the shell</beq_sortTitle>
     <beq_year>1995</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1437,7 +1439,7 @@
     <beq_runtime>83</beq_runtime>
     <beq_collection id="23026">Ghost in the Shell (Animated) Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
+      <audioType>TrueHD Atmos En</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="878">Science Fiction</genre>

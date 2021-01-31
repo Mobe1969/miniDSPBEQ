@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Redline</beq_title>
-    <beq_alt_title>Ã£Æ’Â¬Ã£Æ’Æ’Ã£Æ’â€°Ã£Æ’Â©Ã£â€šÂ¤Ã£Æ’Â³</beq_alt_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>redline</beq_sortTitle>
     <beq_year>2009</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>The most dangerous and exciting car race in the universe is held only once every five years. And that's tonight. The competitors are lined up at the starting block. In his vehicle, JP, the most daredevil driver on the circuit, is ready for the green light. Female driver Sonoshee, with whom he is secretly in love, is also on the starting line. She will stop at nothing to get on to that podium. In this race, not only is anything possible, but also anything is allowed. In fact, their adversaries have modified their vehicles to equip them with highly destructive weapons; with such participants, it is hardly surprising that Redline is forbidden by the authorities, who will try anything to halt the proceedings. These speed addicts have to put themselves in mortal danger to achieve their aim: eternal glory for those who finally mount the podium.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1436,7 +1438,7 @@
     <beq_poster>/yUkH0y9OsY7J08Dvfzi1P0di559.jpg</beq_poster>
     <beq_runtime>102</beq_runtime>
     <beq_audioTypes>
-      <audioType>TrueHD 5.1</audioType>
+      <audioType>TrueHD 5.1 En</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="28">Action</genre>

@@ -1417,7 +1417,7 @@
   <beq_metadata>
     <beq_title>The Heat</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>heat</beq_sortTitle>
+    <beq_sortTitle>the heat</beq_sortTitle>
     <beq_year>2013</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Heat%20%282013%29%28Extended%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Uptight and straight-laced, FBI Special Agent Sarah Ashburn is a methodical investigator with a reputation for excellence--and hyper-arrogance. Shannon Mullins, one of Boston P.D.'s "finest," is foul-mouthed and has a very short fuse, and uses her gut instinct and street smarts to catch the most elusive criminals. Neither has ever had a partner, or a friend for that matter. When these two wildly incompatible law officers join forces to bring down a ruthless drug lord, they become the last thing anyone expected: Buddies.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

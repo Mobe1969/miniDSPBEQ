@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Tomorrow, When the War Began</beq_title>
+    <beq_title>Tomorrow When The War Began</beq_title>
     <beq_alt_title />
     <beq_sortTitle>tomorrow when the war began</beq_sortTitle>
     <beq_year>2010</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tomorrow%20When%20The%20War%20Began%20%282010%29%20DTS-HD%20MA%205.1.jpg%20Tomorrow%20When%20The%20War%20Began%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tomorrow%20When%20The%20War%20Began%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Ellie Linton, a teen from an Australian coastal town, leads her friends on an excursion to a camp deep in the woods, dubbed "Hell." Upon their return, the youths find that their town has been overrun by an enemy army, and their friends and family have been imprisoned. When the hostile invaders become alerted to their presence, Ellie and her friends band together to escape -- and strike back against -- this mysterious enemy.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

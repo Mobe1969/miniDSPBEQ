@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Julia's Eyes</beq_title>
-    <beq_alt_title>Los ojos de Julia</beq_alt_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>julia's eyes</beq_sortTitle>
     <beq_year>2010</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,8 @@
     <beq_gain />
     <beq_language>Spanish</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>The story of a woman who is slowly losing her sight whilst trying to investigate the mysterious death of her twin sister.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1436,7 +1438,7 @@
     <beq_poster>/p9HqHVdW9oedgRMyZkBov8hDQiW.jpg</beq_poster>
     <beq_runtime>118</beq_runtime>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DTS-HD MA 5.1 Sp</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="27">Horror</genre>

@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>French</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A group of police officers in Paris use violence and intimidation to solve crimes.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>TV-MA</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1436,7 +1437,7 @@
     <beq_poster>/uZNrgZq8XAixiel5enJm0HpGJAC.jpg</beq_poster>
     <beq_runtime />
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DTS-HD MA 5.1 Fr</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="18">Drama</genre>

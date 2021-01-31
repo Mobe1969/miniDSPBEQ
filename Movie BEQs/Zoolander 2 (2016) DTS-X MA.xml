@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Derek and Hansel are modelling again when an opposing company attempts to take them out from the business.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1437,7 +1438,7 @@
     <beq_runtime>100</beq_runtime>
     <beq_collection id="352789">Zoolander Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-X</audioType>
+      <audioType>DTS-X MA</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="35">Comedy</genre>

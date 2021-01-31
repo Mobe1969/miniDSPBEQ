@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A decade after the American Civil War, Edward Young returns home from a hunting trip to find a horrific reanimation of his wife and that their son Adam has disappeared. He must battle his way through an unexplainable outbreak of the walking dead.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author />
     <beq_avs />
@@ -1437,7 +1438,7 @@
     <beq_runtime>114</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
-      <audioType>DD 5.1</audioType>
+      <audioType>AC3 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="18">Drama</genre>

@@ -1417,7 +1417,7 @@
   <beq_metadata>
     <beq_title>The Debt Collector</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>debt collector</beq_sortTitle>
+    <beq_sortTitle>the debt collector</beq_sortTitle>
     <beq_year>2018</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Debt%20Collector%20%282018%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one Ã¢â‚¬Å“clientÃ¢â‚¬Â pulls him into a situation deeper than could ever be expected.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating />
     <beq_author>mobe1969</beq_author>
     <beq_avs />

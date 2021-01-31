@@ -1417,7 +1417,7 @@
   <beq_metadata>
     <beq_title>The Number 23</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>number 23</beq_sortTitle>
+    <beq_sortTitle>the number 23</beq_sortTitle>
     <beq_year>2007</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Number%2023%20%282007%29%28Uncut%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Walter Sparrow is an animal control officer that becomes obsessed with a mysterious book that seems to be based on his own life. As soon as he opens the book, he notices strange parallels between what he reads and what he's experienced. But now he's worried that a fictional murder might materialize.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

@@ -1417,7 +1417,7 @@
   <beq_metadata>
     <beq_title>The Wicker Man</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>wicker man</beq_sortTitle>
+    <beq_sortTitle>the wicker man</beq_sortTitle>
     <beq_year>2006</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Wicker%20Man%20%282006%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A sheriff investigating the disappearance of a young girl from a small island discovers there's a larger mystery to solve among the island's secretive, neo-pagan community.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

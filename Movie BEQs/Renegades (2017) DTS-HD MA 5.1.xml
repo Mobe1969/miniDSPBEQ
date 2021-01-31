@@ -1415,8 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>American Renegades</beq_title>
-    <beq_alt_title>Renegades</beq_alt_title>
+    <beq_title>Renegades</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>renegades</beq_sortTitle>
     <beq_year>2017</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In the midst of the Balkan wars, a squad of Navy SEALs attempts to unravel a long-forgotten mystery after discovering an enormous treasure trove hidden at the bottom of a lake in Serbia.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

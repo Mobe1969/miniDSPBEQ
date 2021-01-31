@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>After being hypnotized by his sister in law, Tom Witzky begins seeing haunting visions of a girl's ghost and a mystery begins to unfold around her.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1437,7 +1438,7 @@
     <beq_runtime>99</beq_runtime>
     <beq_collection id="143757">Stir of Echoes Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD HR 6.1</audioType>
+      <audioType>DTS-HD HRA 6.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="27">Horror</genre>

@@ -1417,7 +1417,7 @@
   <beq_metadata>
     <beq_title>The Gene Generation</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>gene generation</beq_sortTitle>
+    <beq_sortTitle>the gene generation</beq_sortTitle>
     <beq_year>2007</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Gene%20Generation%20%282007%29%20DTS-HD%20HRA%205.1.jpg</beq_pvaURL>
@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In a futuristic world, Michelle lives everyday battling with DNA Hackers who use their skills to hack into people's bodies and kill them. She is an assassin, trying to keep her younger brother, Jackie, out of trouble. When Jackie gets involved in a petty crime of robbery, he propels himself into the world of DNA Hackers, Shylocks (Loan Sharks) and Gangs</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1436,7 +1437,7 @@
     <beq_poster>/7zoOytPe2KkWJZxIXS525cscSod.jpg</beq_poster>
     <beq_runtime>96</beq_runtime>
     <beq_audioTypes>
-      <audioType>DTS-HD HR 5.1</audioType>
+      <audioType>DTS-HD HRA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="878">Science Fiction</genre>

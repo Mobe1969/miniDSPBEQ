@@ -1415,9 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Band of Brothers E02</beq_title>
+    <beq_title>Band of Brothers</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>band of brothers e02</beq_sortTitle>
+    <beq_sortTitle>band of brothers</beq_sortTitle>
     <beq_year>2001</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E02%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of legend. Based on Stephen E. Ambrose's acclaimed book of the same name.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>TV-MA</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

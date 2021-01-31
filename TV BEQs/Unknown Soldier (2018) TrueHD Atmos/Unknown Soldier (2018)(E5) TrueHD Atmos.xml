@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Unknown Soldier</beq_title>
-    <beq_alt_title>Tuntematon sotilas</beq_alt_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>unknown soldier</beq_sortTitle>
     <beq_year>2018</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Follow Finnish Army machine gun company operating in the Karelian front during the Continuation War from mobilisation in 1941 to the Moscow Armistice in 1944.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating />
     <beq_author>aron7awol</beq_author>
     <beq_avs />
@@ -1436,7 +1438,7 @@
     <beq_poster>/otFtdZ0KS32XvVe5eZu1Y1OglRl.jpg</beq_poster>
     <beq_runtime />
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
+      <audioType>TrueHD Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="10759">Action &amp; Adventure</genre>

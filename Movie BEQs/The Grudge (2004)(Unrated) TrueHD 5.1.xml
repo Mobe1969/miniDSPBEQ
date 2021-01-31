@@ -1417,7 +1417,7 @@
   <beq_metadata>
     <beq_title>The Grudge</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>grudge</beq_sortTitle>
+    <beq_sortTitle>the grudge</beq_sortTitle>
     <beq_year>2004</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Grudge%20%282004%29%28Unrated%29%20TrueHD%205.1.jpg</beq_pvaURL>
@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

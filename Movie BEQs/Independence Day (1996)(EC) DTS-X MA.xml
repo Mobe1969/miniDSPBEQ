@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>On July 2, a giant alien mothership enters orbit around Earth and deploys several dozen saucer-shaped 'destroyer' spacecraft that quickly lay waste to major cities around the planet. On July 3, the United States conducts a coordinated counterattack that fails. On July 4, a plan is devised to gain access to the interior of the alien mothership in space, in order to plant a nuclear missile.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1437,7 +1438,7 @@
     <beq_runtime>145</beq_runtime>
     <beq_collection id="304378">Independence Day Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-X</audioType>
+      <audioType>DTS-X MA</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="12">Adventure</genre>

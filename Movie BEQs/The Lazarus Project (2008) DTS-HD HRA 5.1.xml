@@ -1417,7 +1417,7 @@
   <beq_metadata>
     <beq_title>The Lazarus Project</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>lazarus project</beq_sortTitle>
+    <beq_sortTitle>the lazarus project</beq_sortTitle>
     <beq_year>2008</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lazarus%20Project%20%282008%29%20DTS-HD%20HRA%205.1.jpg</beq_pvaURL>
@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>After Ben Garvey foolishly turned back to crime, he thought his life was over when he was sentenced to death by lethal injection. But his death sentence isn't quite what it seems, as Ben regains consciousness near an eerie psychiatric ward, where he's told he's been hired as the groundskeeper. With the state of his soul in question, and the love for his wife and daughter all the more real and powerful, Ben must figure out if he's truly cheated death, or if he's become part of something far more sinister.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1436,7 +1437,7 @@
     <beq_poster>/hCQg5TshEQzr7k6DctkYCFB6m6a.jpg</beq_poster>
     <beq_runtime>99</beq_runtime>
     <beq_audioTypes>
-      <audioType>DTS-HD HR 5.1</audioType>
+      <audioType>DTS-HD HRA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="53">Thriller</genre>

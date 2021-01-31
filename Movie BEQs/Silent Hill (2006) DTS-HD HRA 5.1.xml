@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In search for answers, a mother travels to the enigmatic town of Silent Hill when her daughter begins to suffer recurring nightmares related to the place. It doesn't take long for her to discover its home to beings as equally haunting as the town itself.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1437,7 +1438,7 @@
     <beq_runtime>125</beq_runtime>
     <beq_collection id="64748">Silent Hill Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD HR 5.1</audioType>
+      <audioType>DTS-HD HRA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="9648">Mystery</genre>

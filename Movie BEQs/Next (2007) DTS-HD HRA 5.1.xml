@@ -1428,7 +1428,8 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Las Vegas showroom magician Cris Johnson has a secret which torments him: he can see a few minutes into the future. Sick of the examinations he underwent as a child and the interest of the government and medical establishment in his power, he lies low under an assumed name in Vegas, performing cheap tricks and living off small-time gambling "winnings." But when a terrorist group threatens to detonate a nuclear device in Los Angeles, government agent Callie Ferris must use all her wiles to capture Cris and convince him to help her stop the cataclysm.</beq_overview>
+    <beq_overview>
+    </beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1436,7 +1437,7 @@
     <beq_poster>/td5uOBW41ib1KGz3g1Kc33BdFyj.jpg</beq_poster>
     <beq_runtime>96</beq_runtime>
     <beq_audioTypes>
-      <audioType>DTS-HD HR 5.1</audioType>
+      <audioType>DTS-HD HRA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="878">Science Fiction</genre>
