@@ -1414,31 +1414,31 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-	<beq_metadata>
-		<beq_title>Believer</beq_title>
-		<beq_alt_title>Dokjeon</beq_alt_title>
-		<beq_sortTitle>believer</beq_sortTitle>
-		<beq_year>2018</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20(2018)%20TrueHD%20Atmos.jpg</beq_pvaURL>
-		<beq_edition />
-		<beq_season />
-		<beq_note />
-		<beq_warning />
-		<beq_gain />
-		<beq_language>Korean</beq_language>
-		<beq_source>Disc</beq_source>
-		<beq_overview>After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel. (Remake of the Chinese film “Drug War,” 2012.)</beq_overview>
-		<beq_rating />
-		<beq_author>mobe1969</beq_author>
-		<beq_avs />
-		<beq_theMovieDB>518963</beq_theMovieDB>
-		<beq_poster>https://image.tmdb.org/t/p/original/aR7QuAqcxtZkW8BaU7m8VrBZYZl.jpg</beq_poster>
-		<beq_runtime>203</beq_runtime>
-		<beq_audioTypes>
-			<audioType>TrueHD Atmos</audioType>
-		</beq_audioTypes>
-		<beq_genres>
-		</beq_genres>
-	</beq_metadata>
+  <beq_metadata>
+    <beq_title>Believer</beq_title>
+    <beq_alt_title>Dokjeon</beq_alt_title>
+    <beq_sortTitle>believer</beq_sortTitle>
+    <beq_year>2018</beq_year>
+    <beq_spectrumURL />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
+    <beq_edition />
+    <beq_season />
+    <beq_note />
+    <beq_warning />
+    <beq_gain />
+    <beq_language>Korean</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel. (Remake of the Chinese film â€œDrug War,â€ 2012.)</beq_overview>
+    <beq_rating />
+    <beq_author>mobe1969</beq_author>
+    <beq_avs />
+    <beq_theMovieDB>518963</beq_theMovieDB>
+    <beq_poster>https://image.tmdb.org/t/p/original/aR7QuAqcxtZkW8BaU7m8VrBZYZl.jpg</beq_poster>
+    <beq_runtime>203</beq_runtime>
+    <beq_audioTypes>
+      <audioType>TrueHD Atmos</audioType>
+    </beq_audioTypes>
+    <beq_genres>
+    </beq_genres>
+  </beq_metadata>
 </setting>
