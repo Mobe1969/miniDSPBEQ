@@ -803,39 +803,39 @@
   </fir>
   <filter addr="8280" name="PEQ_1_1">
     <freq>10</freq>
-    <q>0.9</q>
-    <boost>8.0</boost>
-    <type>SL</type>
+    <q>2.0</q>
+    <boost>16.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001689856468796,-1.999422040554826,0.9992537336298346,1.9994222448137446,-0.9994225150177951,</dec>
-    <hex>3f80058a,bfffed10,3f7fcf18,3fffed11,bf7fda27,</hex>
+    <dec>1.0003458437697874,-1.9998692998879803,0.9995238844585224,1.9998692998879803,-0.9998697282283096,</dec>
+    <hex>3f800b55,bffffbb8,3f7fe0cc,3ffffbb8,bf7ff776,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>11</freq>
-    <q>4.6</q>
-    <boost>3.0</boost>
+    <freq>12</freq>
+    <q>3.0</q>
+    <boost>16.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000271611616613,-1.9998678032128054,0.999841160342574,1.9998678032128054,-0.9998683215042353,</dec>
-    <hex>3f8000e4,bffffbab,3f7ff597,3ffffbab,bf7ff75f,</hex>
+    <dec>1.00027667861148,-1.999895164410145,0.9996191026167647,1.999895164410145,-0.9998957812282449,</dec>
+    <hex>3f800911,bffffc91,3f7fe70a,3ffffc91,bf7ff92b,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
+    <freq>14</freq>
+    <q>3.0</q>
+    <boost>12.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0002281521380436,-1.9998460932702273,0.9996187806696307,1.9998460932702273,-0.9998469328076743,</dec>
+    <hex>3f80077a,bffffaf5,3f7fe704,3ffffaf5,bf7ff5f8,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <freq>15</freq>
+    <q>0.8</q>
+    <boost>16.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0005856103072055,-1.9992245966868394,0.9986414064707201,1.9992256149530885,-0.9992259985116774,</dec>
+    <hex>3f801330,bfffe697,3f7fa6f7,3fffe6a0,bf7fcd46,</hex>
   </filter>
   <filter addr="8300" name="PEQ_1_5">
     <freq>1000</freq>
@@ -893,39 +893,39 @@
   </filter>
   <filter addr="8330" name="PEQ_2_1">
     <freq>10</freq>
-    <q>0.9</q>
-    <boost>8.0</boost>
-    <type>SL</type>
+    <q>2.0</q>
+    <boost>16.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001689856468796,-1.999422040554826,0.9992537336298346,1.9994222448137446,-0.9994225150177951,</dec>
-    <hex>3f80058a,bfffed10,3f7fcf18,3fffed11,bf7fda27,</hex>
+    <dec>1.0003458437697874,-1.9998692998879803,0.9995238844585224,1.9998692998879803,-0.9998697282283096,</dec>
+    <hex>3f800b55,bffffbb8,3f7fe0cc,3ffffbb8,bf7ff776,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>11</freq>
-    <q>4.6</q>
-    <boost>3.0</boost>
+    <freq>12</freq>
+    <q>3.0</q>
+    <boost>16.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000271611616613,-1.9998678032128054,0.999841160342574,1.9998678032128054,-0.9998683215042353,</dec>
-    <hex>3f8000e4,bffffbab,3f7ff597,3ffffbab,bf7ff75f,</hex>
+    <dec>1.00027667861148,-1.999895164410145,0.9996191026167647,1.999895164410145,-0.9998957812282449,</dec>
+    <hex>3f800911,bffffc91,3f7fe70a,3ffffc91,bf7ff92b,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
+    <freq>14</freq>
+    <q>3.0</q>
+    <boost>12.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0002281521380436,-1.9998460932702273,0.9996187806696307,1.9998460932702273,-0.9998469328076743,</dec>
+    <hex>3f80077a,bffffaf5,3f7fe704,3ffffaf5,bf7ff5f8,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <freq>15</freq>
+    <q>0.8</q>
+    <boost>16.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0005856103072055,-1.9992245966868394,0.9986414064707201,1.9992256149530885,-0.9992259985116774,</dec>
+    <hex>3f801330,bfffe697,3f7fa6f7,3fffe6a0,bf7fcd46,</hex>
   </filter>
   <filter addr="8350" name="PEQ_2_5">
     <freq>1000</freq>
@@ -1415,33 +1415,35 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Hijacked</beq_title>
+    <beq_title>ICHI</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>hijacked</beq_sortTitle>
-    <beq_year>2012</beq_year>
+    <beq_sortTitle>ichi</beq_sortTitle>
+    <beq_year>2008</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hijacked%20%282012%29%20TrueHD%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ichi%20%282008%29%28Ja%29%20TrueHD%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Japanese</beq_language>
     <beq_source>Disc</beq_source>
     <beq_overview>
     </beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_rating />
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>119117</beq_theMovieDB>
-    <beq_poster>/nj4qD3Li9ZBw1W8vhF1n2WJvzIR.jpg</beq_poster>
-    <beq_runtime>86</beq_runtime>
+    <beq_theMovieDB>19506</beq_theMovieDB>
+    <beq_poster>/oLiCuvbIci52akNwPhxI0uIOz1v.jpg</beq_poster>
+    <beq_runtime>120</beq_runtime>
+    <beq_genres>
+      <genre id="28">Action</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="36">History</genre>
+      <genre id="18">Drama</genre>
+    </beq_genres>
     <beq_audioTypes>
       <audioType>TrueHD 5.1</audioType>
     </beq_audioTypes>
-    <beq_genres>
-      <genre id="53">Thriller</genre>
-      <genre id="28">Action</genre>
-    </beq_genres>
   </beq_metadata>
 </setting>
