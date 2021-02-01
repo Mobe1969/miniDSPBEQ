@@ -1445,5 +1445,8 @@
       <genre id="878">Science Fiction</genre>
       <genre id="28">Action</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>TrueHD 6.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
