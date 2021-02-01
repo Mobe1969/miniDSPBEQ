@@ -802,22 +802,22 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>10</freq>
-    <q>0.9</q>
-    <boost>8.0</boost>
+    <freq>24</freq>
+    <q>0.8</q>
+    <boost>12.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001689856468796,-1.999422040554826,0.9992537336298346,1.9994222448137446,-0.9994225150177951,</dec>
-    <hex>3f80058a,bfffed10,3f7fcf18,3fffed11,bf7fda27,</hex>
+    <dec>1.0006921718160648,-1.9986078395603541,0.9979205874379178,1.9986096815215848,-0.9986109172927519,</dec>
+    <hex>3f8016ae,bfffd262,3f7f77b9,3fffd271,bf7fa4f7,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>38</freq>
+    <freq>1000</freq>
     <q>0.9</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0004801355701225,-1.997671007403429,0.9971995991318239,1.9976731840473874,-0.997677558057988,</dec>
-    <hex>3f800fbc,bfffb3af,3f7f4879,3fffb3c1,bf7f67cc,</hex>
+    <boost>0.0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>1000</freq>
@@ -892,22 +892,22 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>10</freq>
-    <q>0.9</q>
-    <boost>8.0</boost>
+    <freq>24</freq>
+    <q>0.8</q>
+    <boost>12.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001689856468796,-1.999422040554826,0.9992537336298346,1.9994222448137446,-0.9994225150177951,</dec>
-    <hex>3f80058a,bfffed10,3f7fcf18,3fffed11,bf7fda27,</hex>
+    <dec>1.0006921718160648,-1.9986078395603541,0.9979205874379178,1.9986096815215848,-0.9986109172927519,</dec>
+    <hex>3f8016ae,bfffd262,3f7f77b9,3fffd271,bf7fa4f7,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>38</freq>
+    <freq>1000</freq>
     <q>0.9</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0004801355701225,-1.997671007403429,0.9971995991318239,1.9976731840473874,-0.997677558057988,</dec>
-    <hex>3f800fbc,bfffb3af,3f7f4879,3fffb3c1,bf7f67cc,</hex>
+    <boost>0.0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>1000</freq>
@@ -1415,36 +1415,36 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Ip Man 3</beq_title>
+    <beq_title>Ip Man</beq_title>
     <beq_alt_title>
     </beq_alt_title>
-    <beq_sortTitle>ip man 3</beq_sortTitle>
-    <beq_year>2015</beq_year>
+    <beq_sortTitle>ip man</beq_sortTitle>
+    <beq_year>2008</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ip%20Man%203%20%282015%29%20DTS-X%20MA.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ip%20Man%20%282008%29%28Ca%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Cantonese</beq_language>
     <beq_source>Disc</beq_source>
     <beq_overview>
     </beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>365222</beq_theMovieDB>
-    <beq_poster>/7iMEXaYKJRfAYU2CjEQSWCeshI5.jpg</beq_poster>
-    <beq_runtime>105</beq_runtime>
+    <beq_theMovieDB>14756</beq_theMovieDB>
+    <beq_poster>/bDNWdb3tTdmpDv7qOdns0uYopal.jpg</beq_poster>
+    <beq_runtime>108</beq_runtime>
     <beq_collection id="70068">Ip Man Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-X MA</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="18">Drama</genre>
       <genre id="28">Action</genre>
       <genre id="36">History</genre>
+      <genre id="18">Drama</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

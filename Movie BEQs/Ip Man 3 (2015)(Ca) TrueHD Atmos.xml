@@ -803,21 +803,21 @@
   </fir>
   <filter addr="8280" name="PEQ_1_1">
     <freq>10</freq>
-    <q>2.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000954840582037,-1.9997541995031445,0.999659143760617,1.9997541995031445,-0.9997546278188211,</dec>
-    <hex>3f800321,bffff7f2,3f7fe9a9,3ffff7f2,bf7fefeb,</hex>
-  </filter>
-  <filter addr="8285" name="PEQ_1_2">
-    <freq>15</freq>
-    <q>0.8</q>
-    <boost>10.0</boost>
+    <q>0.9</q>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003582373125686,-1.9990790371861258,0.9987225130417949,1.9990796228945624,-0.9990801646459272,</dec>
-    <hex>3f800bbd,bfffe1d2,3f7fac47,3fffe1d7,bf7fc3b8,</hex>
+    <dec>1.0001689856468796,-1.999422040554826,0.9992537336298346,1.9994222448137446,-0.9994225150177951,</dec>
+    <hex>3f80058a,bfffed10,3f7fcf18,3fffed11,bf7fda27,</hex>
+  </filter>
+  <filter addr="8285" name="PEQ_1_2">
+    <freq>38</freq>
+    <q>0.9</q>
+    <boost>6.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004801355701225,-1.997671007403429,0.9971995991318239,1.9976731840473874,-0.997677558057988,</dec>
+    <hex>3f800fbc,bfffb3af,3f7f4879,3fffb3c1,bf7f67cc,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>1000</freq>
@@ -893,21 +893,21 @@
   </filter>
   <filter addr="8330" name="PEQ_2_1">
     <freq>10</freq>
-    <q>2.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000954840582037,-1.9997541995031445,0.999659143760617,1.9997541995031445,-0.9997546278188211,</dec>
-    <hex>3f800321,bffff7f2,3f7fe9a9,3ffff7f2,bf7fefeb,</hex>
-  </filter>
-  <filter addr="8335" name="PEQ_2_2">
-    <freq>15</freq>
-    <q>0.8</q>
-    <boost>10.0</boost>
+    <q>0.9</q>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003582373125686,-1.9990790371861258,0.9987225130417949,1.9990796228945624,-0.9990801646459272,</dec>
-    <hex>3f800bbd,bfffe1d2,3f7fac47,3fffe1d7,bf7fc3b8,</hex>
+    <dec>1.0001689856468796,-1.999422040554826,0.9992537336298346,1.9994222448137446,-0.9994225150177951,</dec>
+    <hex>3f80058a,bfffed10,3f7fcf18,3fffed11,bf7fda27,</hex>
+  </filter>
+  <filter addr="8335" name="PEQ_2_2">
+    <freq>38</freq>
+    <q>0.9</q>
+    <boost>6.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004801355701225,-1.997671007403429,0.9971995991318239,1.9976731840473874,-0.997677558057988,</dec>
+    <hex>3f800fbc,bfffb3af,3f7f4879,3fffb3c1,bf7f67cc,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>1000</freq>
@@ -1415,31 +1415,31 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Ip Man 2</beq_title>
+    <beq_title>Ip Man 3</beq_title>
     <beq_alt_title>
     </beq_alt_title>
-    <beq_sortTitle>ip man 2</beq_sortTitle>
-    <beq_year>2010</beq_year>
+    <beq_sortTitle>ip man 3</beq_sortTitle>
+    <beq_year>2015</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ip%20Man%202%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ip%20Man%203%20%282015%29%28Ca%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Cantonese</beq_language>
     <beq_source>Disc</beq_source>
     <beq_overview>
     </beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>37472</beq_theMovieDB>
-    <beq_poster>/aC5nwtbadmJqvl4eVCJPno16Mx5.jpg</beq_poster>
-    <beq_runtime>109</beq_runtime>
+    <beq_theMovieDB>365222</beq_theMovieDB>
+    <beq_poster>/7iMEXaYKJRfAYU2CjEQSWCeshI5.jpg</beq_poster>
+    <beq_runtime>105</beq_runtime>
     <beq_collection id="70068">Ip Man Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>TrueHD Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="18">Drama</genre>
