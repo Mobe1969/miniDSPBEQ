@@ -821,12 +821,12 @@
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>23</freq>
-    <q>2.8</q>
-    <boost>8.0</boost>
+    <q>3.0</q>
+    <boost>9.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000256385698384,-1.9996585743202173,0.9994044543051499,1.9996585743202173,-0.999660840003534,</dec>
-    <hex>3f800867,bffff4d0,3f7fd8f8,3ffff4d0,bf7fe9c6,</hex>
+    <dec>1.0002717099260152,-1.99969888640861,0.9994294422115868,1.99969888640861,-0.9997011521376018,</dec>
+    <hex>3f8008e7,bffff622,3f7fda9c,3ffff622,bf7fec6a,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>1000</freq>
@@ -911,12 +911,12 @@
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>23</freq>
-    <q>2.8</q>
-    <boost>8.0</boost>
+    <q>3.0</q>
+    <boost>9.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000256385698384,-1.9996585743202173,0.9994044543051499,1.9996585743202173,-0.999660840003534,</dec>
-    <hex>3f800867,bffff4d0,3f7fd8f8,3ffff4d0,bf7fe9c6,</hex>
+    <dec>1.0002717099260152,-1.99969888640861,0.9994294422115868,1.99969888640861,-0.9997011521376018,</dec>
+    <hex>3f8008e7,bffff622,3f7fda9c,3ffff622,bf7fec6a,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>1000</freq>
@@ -1420,10 +1420,10 @@
     <beq_sortTitle>braquo</beq_sortTitle>
     <beq_year>2009</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Braquo%20%282009%29%28S4-E5%29%20DTS-HD%20MA%205.1%20Fr.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Braquo%20%282009%29%28S4-E7%29%28Fr%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season>4</beq_season>
-    <beq_note>S4-E5</beq_note>
+    <beq_note>S4-E7</beq_note>
     <beq_warning />
     <beq_gain />
     <beq_language>French</beq_language>
@@ -1435,13 +1435,13 @@
     <beq_avs />
     <beq_theMovieDB>37363</beq_theMovieDB>
     <beq_poster>/uZNrgZq8XAixiel5enJm0HpGJAC.jpg</beq_poster>
-    <beq_runtime />
-    <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1 Fr</audioType>
-    </beq_audioTypes>
+    <beq_runtime>25</beq_runtime>
     <beq_genres>
       <genre id="10759">Action &amp; Adventure</genre>
       <genre id="18">Drama</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 5.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
