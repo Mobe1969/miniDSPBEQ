@@ -802,13 +802,13 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>16</freq>
+    <freq>18</freq>
     <q>0.8</q>
-    <boost>14.0</boost>
+    <boost>12.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005421080218913,-1.9991240506134866,0.9985843965507525,1.999125032778454,-0.9991255224076767,</dec>
-    <hex>3f8011c4,bfffe34c,3f7fa33a,3fffe354,bf7fc6b1,</hex>
+    <dec>1.000519046326417,-1.9989562754705372,0.9984399969522515,1.9989573117536181,-0.9989580069955875,</dec>
+    <hex>3f801102,bfffddcd,3f7f99c3,3fffddd5,bf7fbbb6,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
     <freq>1000</freq>
@@ -892,13 +892,13 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>16</freq>
+    <freq>18</freq>
     <q>0.8</q>
-    <boost>14.0</boost>
+    <boost>12.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005421080218913,-1.9991240506134866,0.9985843965507525,1.999125032778454,-0.9991255224076767,</dec>
-    <hex>3f8011c4,bfffe34c,3f7fa33a,3fffe354,bf7fc6b1,</hex>
+    <dec>1.000519046326417,-1.9989562754705372,0.9984399969522515,1.9989573117536181,-0.9989580069955875,</dec>
+    <hex>3f801102,bfffddcd,3f7f99c3,3fffddd5,bf7fbbb6,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
     <freq>1000</freq>
@@ -1415,34 +1415,36 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Rec</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>rec</beq_sortTitle>
-    <beq_year>2007</beq_year>
+    <beq_title>In Order of Disappearance</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
+    <beq_sortTitle>in order of disappearance</beq_sortTitle>
+    <beq_year>2014</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rec%20%282007%29%20DTS-HD%20MA%205.1%20Sp.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/In%20Order%20of%20Disappearance%20%282014%29%28No%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Spanish</beq_language>
+    <beq_language>Norwegian</beq_language>
     <beq_source>Disc</beq_source>
     <beq_overview>
     </beq_overview>
     <beq_rating />
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>8329</beq_theMovieDB>
-    <beq_poster>/hJx9gqUJgWXRkFpIbCcNYrkqAQX.jpg</beq_poster>
-    <beq_runtime>78</beq_runtime>
-    <beq_collection id="74508">[REC] Collection</beq_collection>
-    <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1 Sp</audioType>
-    </beq_audioTypes>
+    <beq_theMovieDB>252822</beq_theMovieDB>
+    <beq_poster>/ujlJLvzWRh2hR0UoHypv9QLZ2os.jpg</beq_poster>
+    <beq_runtime>115</beq_runtime>
     <beq_genres>
-      <genre id="9648">Mystery</genre>
-      <genre id="27">Horror</genre>
+      <genre id="80">Crime</genre>
+      <genre id="53">Thriller</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="28">Action</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 5.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
