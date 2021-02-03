@@ -1416,7 +1416,7 @@
   <link />
   <beq_metadata>
     <beq_title>Rec 2</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>[REC]</beq_alt_title>
     <beq_sortTitle>rec 2</beq_sortTitle>
     <beq_year>2009</beq_year>
     <beq_spectrumURL />
@@ -1428,8 +1428,7 @@
     <beq_gain />
     <beq_language>Spanish</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>
-    </beq_overview>
+    <beq_overview>The action continues from [REC], with the medical officer and a SWAT team outfitted with video cameras are sent into the sealed off apartment to control the situation.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

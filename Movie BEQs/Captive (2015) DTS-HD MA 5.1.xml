@@ -1416,7 +1416,7 @@
   <link />
   <beq_metadata>
     <beq_title>Captive</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>The Captive</beq_alt_title>
     <beq_sortTitle>captive</beq_sortTitle>
     <beq_year>2015</beq_year>
     <beq_spectrumURL />
@@ -1428,12 +1428,12 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview />
+    <beq_overview>Eight years after the disappearance of Cassandra, some disturbing incidents seem to indicate that she's still alive. Police, parents and Cassandra herself, will try to unravel the mystery of her disappearance.</beq_overview>
     <beq_rating />
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB />
-    <beq_poster />
+    <beq_theMovieDB>244761</beq_theMovieDB>
+    <beq_poster>/wLoFxTZFEfAzFLk2qSoPbcz58Jb.jpg</beq_poster>
     <beq_runtime />
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>

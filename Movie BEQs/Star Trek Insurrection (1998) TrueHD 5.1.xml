@@ -1416,7 +1416,7 @@
   <link />
   <beq_metadata>
     <beq_title>Star Trek Insurrection</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>Star Trek: Insurrection</beq_alt_title>
     <beq_sortTitle>star trek insurrection</beq_sortTitle>
     <beq_year>1998</beq_year>
     <beq_spectrumURL />
@@ -1428,13 +1428,12 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>
-    </beq_overview>
+    <beq_overview>When an alien race and factions within Starfleet attempt to take over a planet that has "regenerative" properties, it falls upon Captain Picard and the crew of the Enterprise to defend the planet's people as well as the very ideals upon which the Federation itself was founded.</beq_overview>
     <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>200</beq_theMovieDB>
-    <beq_poster>/9pbc44kltJhArUNyrdQcantMEvH.jpg</beq_poster>
+    <beq_poster>/xQCMAHeg5M9HpDIqanYbWdr4brB.jpg</beq_poster>
     <beq_runtime>103</beq_runtime>
     <beq_collection id="115570">Star Trek: The Next Generation Collection</beq_collection>
     <beq_audioTypes>

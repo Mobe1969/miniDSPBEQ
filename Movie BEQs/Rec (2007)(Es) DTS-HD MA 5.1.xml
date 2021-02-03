@@ -1416,7 +1416,7 @@
   <link />
   <beq_metadata>
     <beq_title>Rec</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>[REC]</beq_alt_title>
     <beq_sortTitle>rec</beq_sortTitle>
     <beq_year>2007</beq_year>
     <beq_spectrumURL />
@@ -1428,13 +1428,12 @@
     <beq_gain />
     <beq_language>Spanish</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>
-    </beq_overview>
+    <beq_overview>A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.</beq_overview>
     <beq_rating />
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>8329</beq_theMovieDB>
-    <beq_poster>/hJx9gqUJgWXRkFpIbCcNYrkqAQX.jpg</beq_poster>
+    <beq_poster>/5XsVGgo8I12v3KlPcD0r1CNHMC6.jpg</beq_poster>
     <beq_runtime>78</beq_runtime>
     <beq_collection id="74508">[REC] Collection</beq_collection>
     <beq_genres>
