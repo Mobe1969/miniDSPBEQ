@@ -1415,25 +1415,25 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>L'Assault</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>l'assault</beq_sortTitle>
+    <beq_title>L'Assaut</beq_title>
+    <beq_alt_title>The Assault</beq_alt_title>
+    <beq_sortTitle>l'assaut</beq_sortTitle>
     <beq_year>2010</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L%27Assault%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L%27Assaut%20%282010%29%28Fr%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>French</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview />
+    <beq_overview>Saturday 24th December 1994. Four GIA terrorists hijack an Air France A300 Airbus at the Algiers airport. The Airbus, bound for Paris, has 227 passengers on board. No one knows exactly what the terrorists intentions are, just that they are armed and extremely determined. They demand the liberation of their brothers in arms and want the aircraft to take off at once. After very lengthy and intense negotiations between the French and Algerian governments, the plane is finally allowed to leave. There are three main characters at the heart of the action: a member of the GIGN, Carole Jeanton, an ambitious technocrat willing to do anything it takes to achieve personal gain from the events, and Yahia Abdallah, a determined jihadist who grew up in the slums of Algiers and was being manipulated by an obscure GIA envoy, Ali Touchent.</beq_overview>
     <beq_rating />
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB />
-    <beq_poster />
+    <beq_theMovieDB>59145</beq_theMovieDB>
+    <beq_poster>/4O93ojBUFyW5hvRHKL2mv9hCZEw.jpg</beq_poster>
     <beq_runtime />
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>

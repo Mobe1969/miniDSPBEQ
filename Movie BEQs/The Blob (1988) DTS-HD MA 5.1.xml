@@ -802,13 +802,13 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>20</freq>
+    <freq>13</freq>
     <q>0.8</q>
-    <boost>10.0</boost>
+    <boost>16.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000477706651817,-1.9987717368408013,0.9982970753546255,1.998772777940658,-0.9987737409065859,</dec>
-    <hex>3f800fa7,bfffd7c1,3f7f9066,3fffd7c9,bf7fafa3,</hex>
+    <dec>1.0005074962885725,-1.9993281111117882,0.998822432674292,1.9993288759823367,-0.9993291640923162,</dec>
+    <hex>3f8010a1,bfffe9fc,3f7fb2d4,3fffea02,bf7fd409,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
     <freq>1000</freq>
@@ -892,13 +892,13 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>20</freq>
+    <freq>13</freq>
     <q>0.8</q>
-    <boost>10.0</boost>
+    <boost>16.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000477706651817,-1.9987717368408013,0.9982970753546255,1.998772777940658,-0.9987737409065859,</dec>
-    <hex>3f800fa7,bfffd7c1,3f7f9066,3fffd7c9,bf7fafa3,</hex>
+    <dec>1.0005074962885725,-1.9993281111117882,0.998822432674292,1.9993288759823367,-0.9993291640923162,</dec>
+    <hex>3f8010a1,bfffe9fc,3f7fb2d4,3fffea02,bf7fd409,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Cocaine Connection</beq_title>
+    <beq_title>The Blob</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>the cocaine connection</beq_sortTitle>
-    <beq_year>2017</beq_year>
+    <beq_sortTitle>the blob</beq_sortTitle>
+    <beq_year>1988</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Cocaine%20Connection%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Blob%20%281988%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,12 +1428,12 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview />
+    <beq_overview>Remake of the 1958 horror sci-fi about a deadly blob which is the spawn of a secret government germ warfare project which consumes everyone in its path. Teenagers try in vain to warn the townsfolk, who refuse to take them seriously, while government agents try to cover up the evidence and confine the creature.</beq_overview>
     <beq_rating />
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB />
-    <beq_poster />
+    <beq_theMovieDB>9599</beq_theMovieDB>
+    <beq_poster>/zXXDmz5cPuSo9LveCNjZ1j16szC.jpg</beq_poster>
     <beq_runtime />
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>

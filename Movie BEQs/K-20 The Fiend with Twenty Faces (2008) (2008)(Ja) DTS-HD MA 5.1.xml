@@ -811,22 +811,22 @@
     <hex>3f8010a1,bfffe9fc,3f7fb2d4,3fffea02,bf7fd409,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <freq>13</freq>
+    <q>0.8</q>
+    <boost>16.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0005074962885725,-1.9993281111117882,0.998822432674292,1.9993288759823367,-0.9993291640923162,</dec>
+    <hex>3f8010a1,bfffe9fc,3f7fb2d4,3fffea02,bf7fd409,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
+    <freq>15</freq>
+    <q>3.0</q>
+    <boost>16.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000345843738925,-1.999868764474237,0.9995238845010097,1.999868764474237,-0.9998697282399348,</dec>
+    <hex>3f800b55,bffffbb3,3f7fe0cc,3ffffbb3,bf7ff776,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>1000</freq>
@@ -901,22 +901,22 @@
     <hex>3f8010a1,bfffe9fc,3f7fb2d4,3fffea02,bf7fd409,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <freq>13</freq>
+    <q>0.8</q>
+    <boost>16.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0005074962885725,-1.9993281111117882,0.998822432674292,1.9993288759823367,-0.9993291640923162,</dec>
+    <hex>3f8010a1,bfffe9fc,3f7fb2d4,3fffea02,bf7fd409,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
+    <freq>15</freq>
+    <q>3.0</q>
+    <boost>16.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000345843738925,-1.999868764474237,0.9995238845010097,1.999868764474237,-0.9998697282399348,</dec>
+    <hex>3f800b55,bffffbb3,3f7fe0cc,3ffffbb3,bf7ff776,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>1000</freq>
@@ -1415,25 +1415,25 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Blob</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>the blob</beq_sortTitle>
-    <beq_year>1998</beq_year>
+    <beq_title>K:20 The Fiend with Twenty Faces</beq_title>
+    <beq_alt_title>K-20: The Fiend with Twenty Faces</beq_alt_title>
+    <beq_sortTitle>k:20 the fiend with twenty faces</beq_sortTitle>
+    <beq_year>2008</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Blob%20%281998%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K-20%20The%20Fiend%20with%20Twenty%20Faces%20%282008%29%20%282008%29%28Ja%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Japanese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview />
+    <beq_overview>In an alternate version of 1949 Japan in which World War II never happened, the Japanese capital of Teito is home to both an ultra rich upper class and the dirt poor masses. The city is thrown into a state of panic when a phantom thief called The Kaijin (Fiend) with 20 Faces (K-20 for short) begins to use his mysterious abilities to steal from the rich and give to the poor. One day a circus acrobat named Heikichi Endo (Takeshi Kaneshiro) is framed for K-20s crimes and becomes determined to clear his name. He teams up with K-20s next target, a wealthy duchess named Yoko Hashiba (Takako Matsu) and her detective fianc (Toru Nakamura), to take K-20 down once and for all.</beq_overview>
     <beq_rating />
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB />
-    <beq_poster />
+    <beq_theMovieDB>24410</beq_theMovieDB>
+    <beq_poster>/5nKwJS82UlBlwTO6enluFsqpikv.jpg</beq_poster>
     <beq_runtime />
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
