@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>702691</beq_theMovieDB>
     <beq_poster>/p3S1HcS9qU8Eadyd3VCIci0jxr8.jpg</beq_poster>
-    <beq_runtime />
+    <beq_runtime>90</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>

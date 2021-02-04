@@ -1434,10 +1434,15 @@
     <beq_avs />
     <beq_theMovieDB>8881</beq_theMovieDB>
     <beq_poster>/xRcKcFX9KUkSWpIgmdCt4hcMTDD.jpg</beq_poster>
-    <beq_runtime />
+    <beq_runtime>134</beq_runtime>
     <beq_genres />
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="18">Drama</genre>
+      <genre id="36">History</genre>
+      <genre id="10752">War</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>

@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>7500</beq_theMovieDB>
     <beq_poster>/mX9E4fEuG17L2e7bZmhBc0XdRbw.jpg</beq_poster>
-    <beq_runtime />
+    <beq_runtime>94</beq_runtime>
     <beq_audioTypes>
       <audioType>LPCM 2.0</audioType>
     </beq_audioTypes>

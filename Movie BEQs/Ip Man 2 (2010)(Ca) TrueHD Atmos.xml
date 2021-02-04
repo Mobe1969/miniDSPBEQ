@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>37472</beq_theMovieDB>
     <beq_poster>/5FCY2ueDzU6b39byAGb3NRvr0zG.jpg</beq_poster>
-    <beq_runtime />
+    <beq_runtime>109</beq_runtime>
     <beq_audioTypes>
       <audioType>TrueHD Atmos</audioType>
     </beq_audioTypes>

@@ -1434,10 +1434,15 @@
     <beq_avs />
     <beq_theMovieDB>1018</beq_theMovieDB>
     <beq_poster>/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg</beq_poster>
-    <beq_runtime />
+    <beq_runtime>147</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres />
+    <beq_genres>
+      <genre id="53">Thriller</genre>
+      <genre id="18">Drama</genre>
+      <genre id="9648">Mystery</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>

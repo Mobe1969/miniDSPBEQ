@@ -104,12 +104,40 @@ foreach ($file in $files) {
                         $save = $true
                     }
                 }
-            } elseif ([string]::IsNullOrWhitespace($beqMetadata.beq_genres) -or [string]::IsNullOrWhitespace($beqMetadata.beq_rating) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster)) {
-                
+            } elseif ([string]::IsNullOrWhitespace($beqMetadata.beq_genres) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster)) {
+            #-or [string]::IsNullOrWhitespace($beqMetadata.beq_rating) 
+                Write-Output "$($file.Name) missing TMDB metadata content"
+                Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing TMDB metadata"
                 $url = "https://api.themoviedb.org/3/movie/" + $beqMetadata.beq_theMovieDB + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
-                $response = Invoke-RestMethod -Uri $url
-                if ($null -ne $response -and $null -ne $response.results -and $response.results.Count -ge 1) { 
-                    $result = $response.results[0]
+                $result = Invoke-RestMethod -Uri $url
+                if ($null -ne $result) { 
+                        if ([string]::IsNullOrWhitespace($beqMetadata.beq_genres) -and $result.genres.Count -gt 0) {                    
+                        $beq_genres = $content.CreateElement("beq_genres")
+                        foreach ($genre in $result.genres) {
+                            if (![string]::IsNullOrWhitespace($genre.name)) {
+                                $genreNode = $content.CreateElement("genre")
+                                $genreNode.SetAttribute("id", $genre.id.ToString())
+                                $genreNode.InnerText = $genre.name
+                                $beq_genres.AppendChild($genreNode)
+                            }
+                        }
+                        if ($null -ne $content.setting.beq_metadata.$beq_genres) {
+                            $content.setting.beq_metadata.RemoveChild($content.setting.beq_metadata.beq_genres)
+                        }
+                        $import = $content.ImportNode($beq_genres, $true)
+                        $content.setting.beq_metadata.AppendChild($import)
+                        $save = $true
+                    }
+                    #if ([string]::IsNullOrWhitespace($beqMetadata.beq_rating) -and ![string]::IsNullOrWhitespace($result.??)) {
+                    #}
+                    if ([string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -and ![string]::IsNullOrWhitespace($result.runtime.ToString())) {
+                        $beqMetadata.beq_runtime = $result.runtime.ToString()
+                        $save = $true
+                    }
+                    if ([string]::IsNullOrWhitespace($beqMetadata.beq_poster) -and ![string]::IsNullOrWhitespace($result.poster_path)) {
+                        $beqMetadata.beq_poster = $result.poster_path
+                        $save = $true
+                    }
                 }
             }
             if ($beqMetadata.beq_language -eq "" -or ($beqMetadata.beq_language -eq "English" -and $language -ne "English")) {
@@ -133,6 +161,8 @@ foreach ($file in $files) {
             if ($save) {
                 $content.Save($file.FullName)
             }
+
+
         } else {
             Write-Output "$($file.Name) missing metadata"
             Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing metadata"

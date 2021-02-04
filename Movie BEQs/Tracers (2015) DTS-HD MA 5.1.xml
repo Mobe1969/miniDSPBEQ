@@ -1434,10 +1434,15 @@
     <beq_avs />
     <beq_theMovieDB>290764</beq_theMovieDB>
     <beq_poster>/4JZ5XlgOuyPN3yHePbvWOSj2FrV.jpg</beq_poster>
-    <beq_runtime />
+    <beq_runtime>94</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres />
+    <beq_genres>
+      <genre id="28">Action</genre>
+      <genre id="80">Crime</genre>
+      <genre id="18">Drama</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
