@@ -9,7 +9,8 @@ foreach ($file in $files) {
     if ($null -eq $report) {
         Write-Output "$($file.Name) Unable to find report"
         Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) Unable to find report"
-    } else {
+    }
+    else {
         $correctURL = [String]"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/" + [uri]::EscapeDataString($report.Name)
         $correctURL2 = [String]$correctURL.Replace("(", "%28").Replace(")", "%29")
         if ($null -ne $content.setting.beq_metadata) {
@@ -18,42 +19,55 @@ foreach ($file in $files) {
             $fileName = [io.path]::GetFileNameWithoutExtension($file.Name)
             if ($fileName.IndexOf("DTS-HD") -ge 0) {
                 $audio = $fileName.SubString($fileName.IndexOf("DTS-HD"))
-            } elseif ($fileName.IndexOf("DTS-X") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("DTS-X") -ge 0) {
                 $audio = $fileName.SubString($fileName.IndexOf("DTS-X"))
-            } elseif ($fileName.IndexOf("TrueHD") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("TrueHD") -ge 0) {
                 $audio = $fileName.SubString($fileName.IndexOf("TrueHD"))
-            } elseif ($fileName.IndexOf("AC3") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("AC3") -ge 0) {
                 $audio = $fileName.SubString($fileName.IndexOf("AC3"))
-            } elseif ($fileName.IndexOf("LPCM") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("LPCM") -ge 0) {
                 $audio = $fileName.SubString($fileName.IndexOf("LPCM"))
             }
             $language = "English"
             if ($fileName.IndexOf("(Ja)") -ge 0) {
                 $language = "Japanese"
-            } elseif ($fileName.IndexOf("(Fr)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Fr)") -ge 0) {
                 $language = "French"
-            } elseif ($fileName.IndexOf("(Ko)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Ko)") -ge 0) {
                 $language = "Korean"
-            } elseif ($fileName.IndexOf("(Ru)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Ru)") -ge 0) {
                 $language = "Russian"
-            } elseif ($fileName.IndexOf("(No)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(No)") -ge 0) {
                 $language = "Norwegian"
-            } elseif ($fileName.IndexOf("(Ma)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Ma)") -ge 0) {
                 $language = "Mandarin"
-            } elseif ($fileName.IndexOf("(Ca)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Ca)") -ge 0) {
                 $language = "Cantonese"
-            } elseif ($fileName.IndexOf("(Es)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Es)") -ge 0) {
                 $language = "Spanish"
-            } elseif ($fileName.IndexOf("(He)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(He)") -ge 0) {
                 $language = "Hebrew"
-            } else {
+            }
+            else {
                 $language = "English"
             }
             $title = $file.Name.SubString(0, $file.Name.IndexOf("(")).Trim()
             if ($title.Contains("-")) {
                 $dash = $title.IndexOf("-")
                 $dashToColon = '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ' '
-                if ($title.Substring($dash+1, 1).IndexOfAny($dashToColon) -ge 0 -and $title.Substring($dash-1, 1).IndexOfAny($dashToColon) -ge 0) {
+                if ($title.Substring($dash + 1, 1).IndexOfAny($dashToColon) -ge 0 -and $title.Substring($dash - 1, 1).IndexOfAny($dashToColon) -ge 0) {
                     $title = $title.Replace("-", ":")
                 }
             }
@@ -62,15 +76,15 @@ foreach ($file in $files) {
                 $save = $true
             }
             if (!$beqMetadata.beq_sortTitle.Equals($title.ToLower(), 3)) {
-	            $beqMetadata.beq_sortTitle = $file.Name.SubString(0, $file.Name.IndexOf("(")).Replace("-", ":").Trim().ToLower()
+                $beqMetadata.beq_sortTitle = $file.Name.SubString(0, $file.Name.IndexOf("(")).Replace("-", ":").Trim().ToLower()
                 $save = $true
             }
-            if (!$beqMetadata.beq_year.Equals($file.Name.SubString($file.Name.IndexOf("(")+1, 4), 3)) {
-	            $beqMetadata.beq_year = $file.Name.SubString($file.Name.IndexOf("(")+1, 4)
+            if (!$beqMetadata.beq_year.Equals($file.Name.SubString($file.Name.IndexOf("(") + 1, 4), 3)) {
+                $beqMetadata.beq_year = $file.Name.SubString($file.Name.IndexOf("(") + 1, 4)
                 $save = $true
             }
             if (!$beqMetadata.beq_pvaURL.Equals($correctURL, 3)) {
-	            $beqMetadata.beq_pvaURL = $correctURL
+                $beqMetadata.beq_pvaURL = $correctURL
                 $save = $true
             }
             if ([string]::IsNullOrWhitespace($beqMetadata.beq_theMovieDB)) {
@@ -80,7 +94,8 @@ foreach ($file in $files) {
                 $year = $beqMetadata.beq_year
                 if ($file.FullName.Contains("Movie")) {
                     $ItemType = "movie"
-                } else {
+                }
+                else {
                     $ItemType = "tv"
                 }
                 $url = "https://api.themoviedb.org/3/search/" + $ItemType + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&query=$safeTitle&page=1&year=$year"
@@ -104,14 +119,15 @@ foreach ($file in $files) {
                         $save = $true
                     }
                 }
-            } elseif ([string]::IsNullOrWhitespace($beqMetadata.beq_genres) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster)) {
-            #-or [string]::IsNullOrWhitespace($beqMetadata.beq_rating) 
+            }
+            elseif ([string]::IsNullOrWhitespace($beqMetadata.beq_genres) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster) -or [string]::IsNullOrWhitespace($beqMetadata.beq_rating)) {
+                #-or [string]::IsNullOrWhitespace($beqMetadata.beq_rating) 
                 Write-Output "$($file.Name) missing TMDB metadata content"
                 Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing TMDB metadata"
                 $url = "https://api.themoviedb.org/3/movie/" + $beqMetadata.beq_theMovieDB + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
                 $result = Invoke-RestMethod -Uri $url
                 if ($null -ne $result) { 
-                        if ([string]::IsNullOrWhitespace($beqMetadata.beq_genres) -and $result.genres.Count -gt 0) {                    
+                    if ([string]::IsNullOrWhitespace($beqMetadata.beq_genres) -and $result.genres.Count -gt 0) {                    
                         $beq_genres = $content.CreateElement("beq_genres")
                         foreach ($genre in $result.genres) {
                             if (![string]::IsNullOrWhitespace($genre.name)) {
@@ -128,8 +144,24 @@ foreach ($file in $files) {
                         $content.setting.beq_metadata.AppendChild($import)
                         $save = $true
                     }
-                    #if ([string]::IsNullOrWhitespace($beqMetadata.beq_rating) -and ![string]::IsNullOrWhitespace($result.??)) {
-                    #}
+                    if ([string]::isnullorwhitespace($beqmetadata.beq_rating)) {
+                        $releases = $result.release_dates.results | Where-Object { $_.iso_3166_1 -eq "US" }
+                        if ($null -eq $releases) {
+                            $releases = $result.release_dates.results | Where-Object { $_.iso_3166_1 -eq "GB" }
+                        }
+                        if ($null -eq $releases) {
+                            $releases = $result.release_dates.results | Where-Object { $_.iso_3166_1 -eq "AU" }
+                        }
+                        if ($null -ne $releases -and $null -ne $releases.release_dates) {
+                            $releases.release_dates | Select-Object -Property certification  | ForEach-Object {
+                                if ([string]::IsNullOrWhitespace($beqMetadata.beq_rating) -and ![string]::IsNullOrWhitespace($_.certification)) {
+Write-Output "Certification = $($_.certification)"
+                                    $beqMetadata.beq_rating = $_.certification
+                                    $save = $true
+                                }
+                            }
+                        }
+                    }
                     if ([string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -and ![string]::IsNullOrWhitespace($result.runtime.ToString())) {
                         $beqMetadata.beq_runtime = $result.runtime.ToString()
                         $save = $true
@@ -163,10 +195,11 @@ foreach ($file in $files) {
             }
 
 
-        } else {
+        }
+        else {
             Write-Output "$($file.Name) missing metadata"
             Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing metadata"
-$beq_metadata = [xml]"<beq_metadata>
+            $beq_metadata = [xml]"<beq_metadata>
 	<beq_title />
 	<beq_alt_title />
 	<beq_sortTitle />
@@ -205,44 +238,57 @@ $beq_metadata = [xml]"<beq_metadata>
             $fileName = [io.path]::GetFileNameWithoutExtension($file.Name)
             if ($fileName.IndexOf("DTS-HD") -ge 0) {
                 $audio = $fileName.SubString($fileName.IndexOf("DTS-HD"))
-            } elseif ($fileName.IndexOf("DTS-X") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("DTS-X") -ge 0) {
                 $audio = $fileName.SubString($fileName.IndexOf("DTS-X"))
-            } elseif ($fileName.IndexOf("TrueHD") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("TrueHD") -ge 0) {
                 $audio = $fileName.SubString($fileName.IndexOf("TrueHD"))
-            } elseif ($fileName.IndexOf("AC3") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("AC3") -ge 0) {
                 $audio = $fileName.SubString($fileName.IndexOf("AC3"))
-            } elseif ($fileName.IndexOf("LPCM") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("LPCM") -ge 0) {
                 $audio = $fileName.SubString($fileName.IndexOf("LPCM"))
             }
             $language = "English"
             if ($fileName.IndexOf("(Ja)") -ge 0) {
                 $language = "Japanese"
-            } elseif ($fileName.IndexOf("(Fr)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Fr)") -ge 0) {
                 $language = "French"
-            } elseif ($fileName.IndexOf("(Ko)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Ko)") -ge 0) {
                 $language = "Korean"
-            } elseif ($fileName.IndexOf("(Ru)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Ru)") -ge 0) {
                 $language = "Russian"
-            } elseif ($fileName.IndexOf("(No)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(No)") -ge 0) {
                 $language = "Norwegian"
-            } elseif ($fileName.IndexOf("(Ma)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Ma)") -ge 0) {
                 $language = "Mandarin"
-            } elseif ($fileName.IndexOf("(Ca)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Ca)") -ge 0) {
                 $language = "Cantonese"
-            } elseif ($fileName.IndexOf("(Es)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(Es)") -ge 0) {
                 $language = "Spanish"
-            } elseif ($fileName.IndexOf("(He)") -ge 0) {
+            }
+            elseif ($fileName.IndexOf("(He)") -ge 0) {
                 $language = "Hebrew"
-            } else {
+            }
+            else {
                 $language = "English"
             }
    	        $beq_metadata.beq_metadata.beq_title = $file.Name.SubString(0, $file.Name.IndexOf("(")).Replace("-", ":").Trim()
-	        $beq_metadata.beq_metadata.beq_sortTitle = $file.Name.SubString(0, $file.Name.IndexOf("(")).Replace("-", ":").Trim().ToLower()
-            if (!$beqMetadata.beq_year.Equals($file.Name.SubString($file.Name.IndexOf("(")+1, 4), 3)) {
-	            $beq_metadata.beq_metadata.beq_year = $file.Name.SubString($file.Name.IndexOf("(")+1, 4)
+            $beq_metadata.beq_metadata.beq_sortTitle = $file.Name.SubString(0, $file.Name.IndexOf("(")).Replace("-", ":").Trim().ToLower()
+            if (!$beqMetadata.beq_year.Equals($file.Name.SubString($file.Name.IndexOf("(") + 1, 4), 3)) {
+                $beq_metadata.beq_metadata.beq_year = $file.Name.SubString($file.Name.IndexOf("(") + 1, 4)
                 $save = $true
             }
-	        $beq_metadata.beq_metadata.beq_pvaURL = $correctURL
+            $beq_metadata.beq_metadata.beq_pvaURL = $correctURL
             $beq_metadata.beq_metadata.beq_audioTypes.audioType = $audio
             $beq_metadata.beq_metadata.beq_language = $language
             $import = $content.ImportNode($beq_metadata.beq_metadata, $true)
