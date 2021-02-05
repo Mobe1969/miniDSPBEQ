@@ -802,22 +802,22 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>14</freq>
+    <freq>10</freq>
     <q>0.8</q>
-    <boost>10.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003343468568666,-1.9991404785000626,0.9988076240488373,1.9991409887328322,-0.9991414606729344,</dec>
-    <hex>3f800af5,bfffe3d6,3f7fb1db,3fffe3da,bf7fc7bc,</hex>
+    <dec>1.0001900892257025,-1.9993498783967667,0.9991604678684562,1.9993500826483133,-0.9993503528426118,</dec>
+    <hex>3f80063b,bfffeab2,3f7fc8fb,3fffeab4,bf7fd56d,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <freq>20</freq>
+    <q>0.8</q>
+    <boost>11.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000527007935763,-1.9988064442593496,0.9982826619827915,1.9988076025318098,-0.9988085116460945,</dec>
+    <hex>3f801145,bfffd8e4,3f7f8f74,3fffd8ed,bf7fb1ea,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>1000</freq>
@@ -892,22 +892,22 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>14</freq>
+    <freq>10</freq>
     <q>0.8</q>
-    <boost>10.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003343468568666,-1.9991404785000626,0.9988076240488373,1.9991409887328322,-0.9991414606729344,</dec>
-    <hex>3f800af5,bfffe3d6,3f7fb1db,3fffe3da,bf7fc7bc,</hex>
+    <dec>1.0001900892257025,-1.9993498783967667,0.9991604678684562,1.9993500826483133,-0.9993503528426118,</dec>
+    <hex>3f80063b,bfffeab2,3f7fc8fb,3fffeab4,bf7fd56d,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <freq>20</freq>
+    <q>0.8</q>
+    <boost>11.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000527007935763,-1.9988064442593496,0.9982826619827915,1.9988076025318098,-0.9988085116460945,</dec>
+    <hex>3f801145,bfffd8e4,3f7f8f74,3fffd8ed,bf7fb1ea,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>1000</freq>
@@ -1415,34 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Front Line</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>the front line</beq_sortTitle>
-    <beq_year>2011</beq_year>
+    <beq_title>First Love</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>first love</beq_sortTitle>
+    <beq_year>2019</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Front%20Line%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/First%20Love%20%282019%29%28Ja%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Japanese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In 1951 ceasefire is declared, but two remaining armies fought their final battle on the front line Towards the end of the Korean War, a South Korean battalion is fiercely battling over a hill on the front line border against the North in order to capture a strategic point that would determine the new border between two nations. The ownership of this small patch of land would swap multiple times each day. Kang is dispatched to the front line in order to investigate the tacit case thats been happening there. But he gets spiraled into the war thats more terrifying than death itself when he meets his friend Kim, who has transformed into a war machine, and his unit. As the countdown for ceasefire begins, both sides become more vicious, resulting in deaths of countless lives until the last man could claim the land.</beq_overview>
-    <beq_rating>16</beq_rating>
+    <beq_overview>A subversive look at relationships in Los Angeles centering around a famous actress and her twin brother, both strayed off their life's path, and yearning for each other, and something simpler.</beq_overview>
+    <beq_rating />
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>79553</beq_theMovieDB>
-    <beq_poster>/gMwoaKyFrS6WUFhvM3t3IFBoefJ.jpg</beq_poster>
-    <beq_runtime>133</beq_runtime>
+    <beq_theMovieDB>610164</beq_theMovieDB>
+    <beq_poster>/kcIfB0QPkP3sTpeeeuCNBvRfQg3.jpg</beq_poster>
+    <beq_runtime>80</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="10752">War</genre>
+      <genre id="10749">Romance</genre>
+      <genre id="35">Comedy</genre>
       <genre id="18">Drama</genre>
-      <genre id="28">Action</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
