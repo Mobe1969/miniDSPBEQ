@@ -155,7 +155,6 @@ foreach ($file in $files) {
                         if ($null -ne $releases -and $null -ne $releases.release_dates) {
                             $releases.release_dates | Select-Object -Property certification  | ForEach-Object {
                                 if ([string]::IsNullOrWhitespace($beqMetadata.beq_rating) -and ![string]::IsNullOrWhitespace($_.certification)) {
-Write-Output "Certification = $($_.certification)"
                                     $beqMetadata.beq_rating = $_.certification
                                     $save = $true
                                 }
