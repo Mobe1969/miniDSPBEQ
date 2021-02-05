@@ -1422,7 +1422,11 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E08%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>1</beq_season>
+    <beq_season id = "14070">
+        <number>1</number>
+        <poster>/1dTx3cRcSpaOCe0mXOVEBjz25z3.jpg</poster>
+        <episodes count="1">8</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
