@@ -78,6 +78,12 @@ foreach ($file in $files) {
             elseif ($fileName.IndexOf("(Es)") -ge 0) {
                 $language = "Spanish"
             }
+            elseif ($fileName.IndexOf("(De)") -ge 0) {
+                $language = "German"
+            }
+            elseif ($fileName.IndexOf("(Fi)") -ge 0) {
+                $language = "Finnish"
+            }
             elseif ($fileName.IndexOf("(He)") -ge 0) {
                 $language = "Hebrew"
             }
@@ -177,7 +183,15 @@ foreach ($file in $files) {
                     Set-Rating -Code "KR"
                     Set-Rating -Code "IT"
                     Set-Rating -Code "CH"
+                    Set-Rating -Code "CN"
+                    Set-Rating -Code "TW"
+                    Set-Rating -Code "IE"
+                    Set-Rating -Code "RU"
                     Set-Rating -Code "HK"
+                    Set-Rating -Code "NL"
+                    Set-Rating -Code "NZ"
+                    Set-Rating -Code "NL"
+                    Set-Rating -Code "MX"
                     if ([string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -and ![string]::IsNullOrWhitespace($result.runtime.ToString())) {
                         $beqMetadata.beq_runtime = $result.runtime.ToString()
                         $save = $true
@@ -209,8 +223,8 @@ foreach ($file in $files) {
             if ($save) {
                 $content.Save($file.FullName)
             }
-            if ($file.Name -eq "Columbus Day (2008) DTS-HD MA 5.1.xml") {
-                break
+            if ($file.Name -eq "The Suspect (2013)(Ko) DTS-HD MA 5.1.xml") {
+                #break
             }
         }
         else {
