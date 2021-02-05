@@ -1428,20 +1428,24 @@
     <beq_gain />
     <beq_language>Japanese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A slow-paced, action thriller about a virus that strikes a New Mexico county and the local veterinarian who gets caught in the middle.</beq_overview>
-    <beq_rating />
+    <beq_overview>
+    </beq_overview>
+    <beq_rating>12세 관람가</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>20371</beq_theMovieDB>
-    <beq_poster>/v77xw22MaygF1rHOFpazl0MgKFa.jpg</beq_poster>
-    <beq_runtime>90</beq_runtime>
+    <beq_theMovieDB>41813</beq_theMovieDB>
+    <beq_poster>/t6Qd6yrLe8PL7XyROrilLpsaBxH.jpg</beq_poster>
+    <beq_runtime>138</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="53">Thriller</genre>
+    </beq_genres>
+    <beq_genres>
       <genre id="28">Action</genre>
+      <genre id="18">Drama</genre>
+      <genre id="878">Science Fiction</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

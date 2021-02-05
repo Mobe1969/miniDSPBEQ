@@ -1423,15 +1423,19 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28E2%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>1</beq_season>
+    <beq_season id = "113850">
+        <number>1</number>
+        <poster></poster>
+         <episodes count="1">2</episodes>
+    </beq_season>
     <beq_note>E2</beq_note>
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Finnish</beq_language>
     <beq_source>Disc</beq_source>
     <beq_overview>The Unknown Soldier miniseries expands the story of the 2017 film of the same name. The World War II series based on Vin Linna's classic novel closely follows a machine gun company of the Finnish Army on the Karelian front during the Continuation War between Finland and the Soviet Union, from mobilization in 1941 to the Moscow Armistice in 1944. It's a story about how camaraderie, humor, and a desire to survive connect men on their journey. War upends the lives of both the individual soldiers and those left on the home front, and leaves its mark on the entire nation.</beq_overview>
-    <beq_rating />
-    <beq_author>aron7awol</beq_author>
+    <beq_rating>16</beq_rating>
+    <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>84706</beq_theMovieDB>
     <beq_poster>/otFtdZ0KS32XvVe5eZu1Y1OglRl.jpg</beq_poster>

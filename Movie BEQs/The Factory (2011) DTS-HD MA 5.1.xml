@@ -1416,11 +1416,12 @@
   <link />
   <beq_metadata>
     <beq_title>The Factory</beq_title>
-    <beq_alt_title>The Dream Factory</beq_alt_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>the factory</beq_sortTitle>
-    <beq_year>2012</beq_year>
+    <beq_year>2011</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Factory%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Factory%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,13 +1429,13 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Follow TGR's modern day athletes on this cinematic voyage through Alaska's awe-inspiring expanse, rich history, and colorful characters. Watch as the TGR crew ventures from AK training grounds Jackson Hole, WY, and Pemberton, BC, and delves deep into the Alaskan way of life during a record snowfall year in AK, skiing terrain most of us only dream about.  On Location: Jackson Hole, WY / Valdez, AK / Haines, AK / Anchorage, AK / Whittier, AK / Northern Chugach, AK / Valdez Heli Ski Guides / Alyeska Resort / SEABA Heli / Alaska Heli Skiing / Girdwood, AK / Pemberton, BC</beq_overview>
-    <beq_rating />
+    <beq_overview>136911</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>141245</beq_theMovieDB>
-    <beq_poster>/iqZoMpnHaeIiTEezTJDUxDmA6iS.jpg</beq_poster>
-    <beq_runtime>78</beq_runtime>
+    <beq_theMovieDB>136911</beq_theMovieDB>
+    <beq_poster>/ttf4YGncfIvR30J8p8vEu5NG9B8.jpg</beq_poster>
+    <beq_runtime>108</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>

@@ -1428,17 +1428,21 @@
     <beq_gain />
     <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Two African American social scientists pose as bank robbers in an effort to understand the racial dynamics of small-town law enforcement. However, their experiment takes an unplanned turn.</beq_overview>
-    <beq_rating />
+    <beq_overview>
+    </beq_overview>
+    <beq_rating>M</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>228245</beq_theMovieDB>
-    <beq_poster>/bNS5wYwYBzrsdPdqEPLK04CYStk.jpg</beq_poster>
-    <beq_runtime>89</beq_runtime>
+    <beq_theMovieDB>242454</beq_theMovieDB>
+    <beq_poster>/7IoCBE5ccxFJNEX74HePT79a8I.jpg</beq_poster>
+    <beq_runtime>137</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
+    </beq_genres>
+    <beq_genres>
+      <genre id="28">Action</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
   </beq_metadata>
