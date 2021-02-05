@@ -224,7 +224,7 @@ foreach ($file in $files) {
                 $content.Save($file.FullName)
             }
             if ($file.Name -eq "Three West (2016) DTS-HD MA 5.1.xml") {
-                break
+                #break
             }
         }
         else {
