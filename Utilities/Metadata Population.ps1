@@ -248,9 +248,6 @@ foreach ($file in $files) {
 	<beq_pvaURL />
 	<beq_edition />
     <beq_season>
-        <number></number>
-        <poster></poster>
-        <episodes></episodes>
     </beq_season>
 	<beq_note />
 	<beq_warning />
