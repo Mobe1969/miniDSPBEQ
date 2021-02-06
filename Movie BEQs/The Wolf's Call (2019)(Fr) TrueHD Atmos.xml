@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>30</freq>
+    <freq>13</freq>
     <q>0.8</q>
-    <boost>16.0</boost>
+    <boost>11.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.001171785344505,-1.9984469908110545,0.9972848820879135,1.9984510623011702,-0.9984525959423031,</dec>
-    <hex>3f802666,bfffcd1c,3f7f4e10,3fffcd3f,bf7f9a97,</hex>
+    <dec>1.000342494835218,-1.9992244973608437,0.9988833656508198,1.9992249868330016,-0.9992253710138795,</dec>
+    <hex>3f800b39,bfffe697,3f7fb6d2,3fffe69b,bf7fcd3c,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>50</freq>
-    <q>2.0</q>
-    <boost>8.0</boost>
-    <type>PK</type>
+    <freq>13</freq>
+    <q>0.8</q>
+    <boost>11.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0007800328947898,-1.9989574292802383,0.998188100056822,1.9989574292802383,-0.9989681329516119,</dec>
-    <hex>3f80198f,bfffddd6,3f7f8941,3fffddd6,bf7fbc60,</hex>
+    <dec>1.000342494835218,-1.9992244973608437,0.9988833656508198,1.9992249868330016,-0.9992253710138795,</dec>
+    <hex>3f800b39,bfffe697,3f7fb6d2,3fffe69b,bf7fcd3c,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
+    <freq>15</freq>
+    <q>3.5</q>
+    <boost>7.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001161006434631,-1.9998115838323354,0.9996964469270136,1.9998115838323354,-0.9998125475704768,</dec>
+    <hex>3f8003ce,bffff9d3,3f7fec1b,3ffff9d3,bf7ff3b7,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>30</freq>
+    <freq>13</freq>
     <q>0.8</q>
-    <boost>16.0</boost>
+    <boost>11.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.001171785344505,-1.9984469908110545,0.9972848820879135,1.9984510623011702,-0.9984525959423031,</dec>
-    <hex>3f802666,bfffcd1c,3f7f4e10,3fffcd3f,bf7f9a97,</hex>
+    <dec>1.000342494835218,-1.9992244973608437,0.9988833656508198,1.9992249868330016,-0.9992253710138795,</dec>
+    <hex>3f800b39,bfffe697,3f7fb6d2,3fffe69b,bf7fcd3c,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>50</freq>
-    <q>2.0</q>
-    <boost>8.0</boost>
-    <type>PK</type>
+    <freq>13</freq>
+    <q>0.8</q>
+    <boost>11.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0007800328947898,-1.9989574292802383,0.998188100056822,1.9989574292802383,-0.9989681329516119,</dec>
-    <hex>3f80198f,bfffddd6,3f7f8941,3fffddd6,bf7fbc60,</hex>
+    <dec>1.000342494835218,-1.9992244973608437,0.9988833656508198,1.9992249868330016,-0.9992253710138795,</dec>
+    <hex>3f800b39,bfffe697,3f7fb6d2,3fffe69b,bf7fcd3c,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
+    <freq>15</freq>
+    <q>3.5</q>
+    <boost>7.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001161006434631,-1.9998115838323354,0.9996964469270136,1.9998115838323354,-0.9998125475704768,</dec>
+    <hex>3f8003ce,bffff9d3,3f7fec1b,3ffff9d3,bf7ff3b7,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>1000</freq>
@@ -1415,34 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Thirst</beq_title>
+    <beq_title>The Wolf's Call</beq_title>
     <beq_alt_title>
     </beq_alt_title>
-    <beq_sortTitle>thirst</beq_sortTitle>
-    <beq_year>2009</beq_year>
+    <beq_sortTitle>the wolf's call</beq_sortTitle>
+    <beq_year>2019</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Thirst%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Wolf%27s%20Call%20%282019%29%28Fr%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>French</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Sang-hyun, a respected priest, volunteers for an experimental procedure that may lead to a cure for a deadly virus. He gets infected and dies, but a blood transfusion of unknown origin brings him back to life as a vampire. Now, Sang-hyun is torn between faith and bloodlust, and has a newfound desire for Tae-ju, the wife of his childhood friend.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>With nuclear war looming, a military expert in underwater acoustics strives to prove things aren't as they seemor soundusing only his ears.</beq_overview>
+    <beq_rating>15</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>22536</beq_theMovieDB>
-    <beq_poster>/sFgvkGpXLTydvHqBCXw54OB8R0h.jpg</beq_poster>
-    <beq_runtime>133</beq_runtime>
+    <beq_theMovieDB>484468</beq_theMovieDB>
+    <beq_poster>/8bxIzp9w9l9ZzGVwNaIKOaem05A.jpg</beq_poster>
+    <beq_runtime>115</beq_runtime>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>TrueHD Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="53">Thriller</genre>
-      <genre id="27">Horror</genre>
-      <genre id="18">Drama</genre>
+      <genre id="28">Action</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

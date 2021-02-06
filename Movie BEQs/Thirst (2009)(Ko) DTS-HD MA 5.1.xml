@@ -802,22 +802,22 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>22</freq>
+    <freq>30</freq>
     <q>0.8</q>
-    <boost>9.0</boost>
+    <boost>16.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004717055448968,-1.9986094831558106,0.9981412558634332,1.9986106052167878,-0.9986118393473529,</dec>
-    <hex>3f800f75,bfffd26f,3f7f862f,3fffd279,bf7fa507,</hex>
+    <dec>1.001171785344505,-1.9984469908110545,0.9972848820879135,1.9984510623011702,-0.9984525959423031,</dec>
+    <hex>3f802666,bfffcd1c,3f7f4e10,3fffcd3f,bf7f9a97,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>22</freq>
-    <q>0.8</q>
-    <boost>9.0</boost>
-    <type>SL</type>
+    <freq>50</freq>
+    <q>2.0</q>
+    <boost>8.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0004717055448968,-1.9986094831558106,0.9981412558634332,1.9986106052167878,-0.9986118393473529,</dec>
-    <hex>3f800f75,bfffd26f,3f7f862f,3fffd279,bf7fa507,</hex>
+    <dec>1.0007800328947898,-1.9989574292802383,0.998188100056822,1.9989574292802383,-0.9989681329516119,</dec>
+    <hex>3f80198f,bfffddd6,3f7f8941,3fffddd6,bf7fbc60,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>1000</freq>
@@ -892,22 +892,22 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>22</freq>
+    <freq>30</freq>
     <q>0.8</q>
-    <boost>9.0</boost>
+    <boost>16.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004717055448968,-1.9986094831558106,0.9981412558634332,1.9986106052167878,-0.9986118393473529,</dec>
-    <hex>3f800f75,bfffd26f,3f7f862f,3fffd279,bf7fa507,</hex>
+    <dec>1.001171785344505,-1.9984469908110545,0.9972848820879135,1.9984510623011702,-0.9984525959423031,</dec>
+    <hex>3f802666,bfffcd1c,3f7f4e10,3fffcd3f,bf7f9a97,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>22</freq>
-    <q>0.8</q>
-    <boost>9.0</boost>
-    <type>SL</type>
+    <freq>50</freq>
+    <q>2.0</q>
+    <boost>8.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0004717055448968,-1.9986094831558106,0.9981412558634332,1.9986106052167878,-0.9986118393473529,</dec>
-    <hex>3f800f75,bfffd26f,3f7f862f,3fffd279,bf7fa507,</hex>
+    <dec>1.0007800328947898,-1.9989574292802383,0.998188100056822,1.9989574292802383,-0.9989681329516119,</dec>
+    <hex>3f80198f,bfffddd6,3f7f8941,3fffddd6,bf7fbc60,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>1000</freq>
@@ -1415,32 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Wings of Honneamise</beq_title>
-    <beq_alt_title>Royal Space Force - The Wings Of Honneamise</beq_alt_title>
-    <beq_sortTitle>wings of honneamise</beq_sortTitle>
-    <beq_year>1987</beq_year>
+    <beq_title>Thirst</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
+    <beq_sortTitle>thirst</beq_sortTitle>
+    <beq_year>2009</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wings%20of%20Honneamise%20%281987%29%20TrueHD%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Thirst%20%282009%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>On a future Earth, war between the Kingdom of Honneamise and its rival, The Republic, is inevitable. As evolving technology creates new ways to wage war, a small group seeks to propel mankind into space in their worlds first spaceflight program. For astronaut candidate Shirotsugh Lhadatt, its a personal odyssey as he grows from an aimless young man into a leader willing to put everything on the line in order to move the human race forward and away from the brink of Armageddon.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_overview>Sang-hyun, a respected priest, volunteers for an experimental procedure that may lead to a cure for a deadly virus. He gets infected and dies, but a blood transfusion of unknown origin brings him back to life as a vampire. Now, Sang-hyun is torn between faith and bloodlust, and has a newfound desire for Tae-ju, the wife of his childhood friend.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>20043</beq_theMovieDB>
-    <beq_poster>/h5naABij9ghj6CLcpBYBkxMGYGX.jpg</beq_poster>
-    <beq_runtime>121</beq_runtime>
+    <beq_theMovieDB>22536</beq_theMovieDB>
+    <beq_poster>/sFgvkGpXLTydvHqBCXw54OB8R0h.jpg</beq_poster>
+    <beq_runtime>133</beq_runtime>
     <beq_audioTypes>
-      <audioType>TrueHD 5.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="878">Science Fiction</genre>
-      <genre id="16">Animation</genre>
+      <genre id="53">Thriller</genre>
+      <genre id="27">Horror</genre>
+      <genre id="18">Drama</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

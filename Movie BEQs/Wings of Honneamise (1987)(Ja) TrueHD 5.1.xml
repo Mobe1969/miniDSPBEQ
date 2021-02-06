@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>13</freq>
+    <freq>22</freq>
     <q>0.8</q>
-    <boost>11.0</boost>
+    <boost>9.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000342494835218,-1.9992244973608437,0.9988833656508198,1.9992249868330016,-0.9992253710138795,</dec>
-    <hex>3f800b39,bfffe697,3f7fb6d2,3fffe69b,bf7fcd3c,</hex>
+    <dec>1.0004717055448968,-1.9986094831558106,0.9981412558634332,1.9986106052167878,-0.9986118393473529,</dec>
+    <hex>3f800f75,bfffd26f,3f7f862f,3fffd279,bf7fa507,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>13</freq>
+    <freq>22</freq>
     <q>0.8</q>
-    <boost>11.0</boost>
+    <boost>9.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000342494835218,-1.9992244973608437,0.9988833656508198,1.9992249868330016,-0.9992253710138795,</dec>
-    <hex>3f800b39,bfffe697,3f7fb6d2,3fffe69b,bf7fcd3c,</hex>
+    <dec>1.0004717055448968,-1.9986094831558106,0.9981412558634332,1.9986106052167878,-0.9986118393473529,</dec>
+    <hex>3f800f75,bfffd26f,3f7f862f,3fffd279,bf7fa507,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
-    <freq>15</freq>
-    <q>3.5</q>
-    <boost>7.0</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001161006434631,-1.9998115838323354,0.9996964469270136,1.9998115838323354,-0.9998125475704768,</dec>
-    <hex>3f8003ce,bffff9d3,3f7fec1b,3ffff9d3,bf7ff3b7,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>13</freq>
+    <freq>22</freq>
     <q>0.8</q>
-    <boost>11.0</boost>
+    <boost>9.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000342494835218,-1.9992244973608437,0.9988833656508198,1.9992249868330016,-0.9992253710138795,</dec>
-    <hex>3f800b39,bfffe697,3f7fb6d2,3fffe69b,bf7fcd3c,</hex>
+    <dec>1.0004717055448968,-1.9986094831558106,0.9981412558634332,1.9986106052167878,-0.9986118393473529,</dec>
+    <hex>3f800f75,bfffd26f,3f7f862f,3fffd279,bf7fa507,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>13</freq>
+    <freq>22</freq>
     <q>0.8</q>
-    <boost>11.0</boost>
+    <boost>9.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000342494835218,-1.9992244973608437,0.9988833656508198,1.9992249868330016,-0.9992253710138795,</dec>
-    <hex>3f800b39,bfffe697,3f7fb6d2,3fffe69b,bf7fcd3c,</hex>
+    <dec>1.0004717055448968,-1.9986094831558106,0.9981412558634332,1.9986106052167878,-0.9986118393473529,</dec>
+    <hex>3f800f75,bfffd26f,3f7f862f,3fffd279,bf7fa507,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
-    <freq>15</freq>
-    <q>3.5</q>
-    <boost>7.0</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001161006434631,-1.9998115838323354,0.9996964469270136,1.9998115838323354,-0.9998125475704768,</dec>
-    <hex>3f8003ce,bffff9d3,3f7fec1b,3ffff9d3,bf7ff3b7,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>1000</freq>
@@ -1415,33 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Wolf's Call</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>the wolf's call</beq_sortTitle>
-    <beq_year>2019</beq_year>
+    <beq_title>Wings of Honneamise</beq_title>
+    <beq_alt_title>Royal Space Force - The Wings Of Honneamise</beq_alt_title>
+    <beq_sortTitle>wings of honneamise</beq_sortTitle>
+    <beq_year>1987</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Wolf%27s%20Call%20%282019%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wings%20of%20Honneamise%20%281987%29%28Ja%29%20TrueHD%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Japanese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>With nuclear war looming, a military expert in underwater acoustics strives to prove things aren't as they seemor soundusing only his ears.</beq_overview>
-    <beq_rating>15</beq_rating>
+    <beq_overview>On a future Earth, war between the Kingdom of Honneamise and its rival, The Republic, is inevitable. As evolving technology creates new ways to wage war, a small group seeks to propel mankind into space in their worlds first spaceflight program. For astronaut candidate Shirotsugh Lhadatt, its a personal odyssey as he grows from an aimless young man into a leader willing to put everything on the line in order to move the human race forward and away from the brink of Armageddon.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>484468</beq_theMovieDB>
-    <beq_poster>/8bxIzp9w9l9ZzGVwNaIKOaem05A.jpg</beq_poster>
-    <beq_runtime>115</beq_runtime>
+    <beq_theMovieDB>20043</beq_theMovieDB>
+    <beq_poster>/h5naABij9ghj6CLcpBYBkxMGYGX.jpg</beq_poster>
+    <beq_runtime>121</beq_runtime>
     <beq_audioTypes>
-      <audioType>TrueHD Atmos</audioType>
+      <audioType>TrueHD 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="53">Thriller</genre>
-      <genre id="28">Action</genre>
+      <genre id="878">Science Fiction</genre>
+      <genre id="16">Animation</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
