@@ -147,7 +147,7 @@ foreach ($file in $files) {
                     }
                 }
             }
-            elseif ([string]::IsNullOrWhitespace($beqMetadata.beq_genres) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster) -or [string]::IsNullOrWhitespace($beqMetadata.beq_rating)) {
+            elseif ([string]::IsNullOrWhitespace($beqMetadata.beq_genres) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster) -or [string]::IsNullOrWhitespace($beqMetadata.beq_overview) -or [string]::IsNullOrWhitespace($beqMetadata.beq_rating)) {
                 Write-Output "$($file.Name) missing TMDB metadata content"
                 Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing TMDB metadata content"
                 $url = "https://api.themoviedb.org/3/movie/" + $beqMetadata.beq_theMovieDB + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
@@ -198,6 +198,10 @@ foreach ($file in $files) {
                     }
                     if ([string]::IsNullOrWhitespace($beqMetadata.beq_poster) -and ![string]::IsNullOrWhitespace($result.poster_path)) {
                         $beqMetadata.beq_poster = $result.poster_path
+                        $save = $true
+                    }
+                    if ($beqMetadata.beq_overview -ne [Regex]::Replace($result.overview, "[^\u0000-\u007F]+", "") -and ![string]::IsNullOrWhitespace([Regex]::Replace($result.overview, "[^\u0000-\u007F]+", ""))) {
+                        $beqMetadata.beq_overview = [Regex]::Replace($result.overview, "[^\u0000-\u007F]+", "")
                         $save = $true
                     }
                 }
