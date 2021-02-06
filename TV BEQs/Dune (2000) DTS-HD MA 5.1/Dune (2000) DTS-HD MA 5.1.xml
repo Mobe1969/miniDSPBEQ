@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Dune</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>dune</beq_sortTitle>
     <beq_year>2000</beq_year>
     <beq_spectrumURL />
@@ -1428,13 +1429,13 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Follows five autistic children as they work together to create and perform a live musical production.</beq_overview>
-    <beq_rating />
+    <beq_overview>Frank Herbert's Dune is a three-part miniseries written and directed by John Harrison and based on Frank Herbert's 1965 novel Dune.</beq_overview>
+    <beq_rating>M</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>19566</beq_theMovieDB>
     <beq_poster>/msjhEr14RumTMiG8dQYFNa3XWYz.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
+    <beq_runtime>280</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>

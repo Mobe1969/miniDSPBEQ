@@ -133,6 +133,20 @@ foreach ($file in $files) {
                         $beqMetadata.beq_theMovieDB = $result.id.ToString()
                         $save = $true
                     }
+                }
+            }
+            if ([string]::IsNullOrWhitespace($beqMetadata.beq_title) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster) -or [string]::IsNullOrWhitespace($beqMetadata.beq_genres) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster) -or [string]::IsNullOrWhitespace($beqMetadata.beq_overview) -or [string]::IsNullOrWhitespace($beqMetadata.beq_rating)) {
+                Write-Output "$($file.Name) missing TMDB metadata content"
+                Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing TMDB metadata content"
+                if ($file.FullName.Contains("Movie")) {
+                    $ItemType = "movie"
+                }
+                else {
+                    $ItemType = "tv"
+                }
+                $url = "https://api.themoviedb.org/3/" + $ItemType + "/" + $beqMetadata.beq_theMovieDB + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
+                $result = Invoke-RestMethod -Uri $url
+                if ($null -ne $result) { 
                     if ($beqMetadata.beq_poster -ne $result.poster_path -and ![string]::IsNullOrWhitespace($result.poster_path)) {
                         $beqMetadata.beq_poster = $result.poster_path
                         $save = $true
@@ -145,14 +159,6 @@ foreach ($file in $files) {
                         $beqMetadata.beq_alt_title = [Regex]::Replace($result.title, "[^\u0000-\u007F]+", "")
                         $save = $true
                     }
-                }
-            }
-            elseif ([string]::IsNullOrWhitespace($beqMetadata.beq_genres) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster) -or [string]::IsNullOrWhitespace($beqMetadata.beq_overview) -or [string]::IsNullOrWhitespace($beqMetadata.beq_rating)) {
-                Write-Output "$($file.Name) missing TMDB metadata content"
-                Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing TMDB metadata content"
-                $url = "https://api.themoviedb.org/3/movie/" + $beqMetadata.beq_theMovieDB + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
-                $result = Invoke-RestMethod -Uri $url
-                if ($null -ne $result) { 
                     if ([string]::IsNullOrWhitespace($beqMetadata.beq_genres) -and $result.genres.Count -gt 0) {                    
                         $beq_genres = $content.CreateElement("beq_genres")
                         foreach ($genre in $result.genres) {
