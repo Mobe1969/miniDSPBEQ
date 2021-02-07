@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>10</freq>
-    <q>1.1</q>
-    <boost>5.0</boost>
+    <freq>23</freq>
+    <q>0.8</q>
+    <boost>11.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000859634051122,-1.9994844390416697,0.9993990467276632,1.999484564013158,-0.9994848851612871,</dec>
-    <hex>3f8002d1,bfffef1b,3f7fd89e,3fffef1c,bf7fde3e,</hex>
+    <dec>1.0006061048481159,-1.9986271769890538,0.9980253376941398,1.998628708667538,-0.9986299108637718,</dec>
+    <hex>3f8013dc,bfffd304,3f7f7e97,3fffd311,bf7fa636,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>21</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000133671089113,-1.9996546071080257,0.999522824798125,1.9996546071080257,-0.9996564958872382,</dec>
-    <hex>3f800461,bffff4af,3f7fe0ba,3ffff4af,bf7fe97d,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
-    <freq>22</freq>
+    <freq>1000</freq>
     <q>0.9</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002778438818796,-1.9986525733787883,0.9983776561443733,1.9986533033033473,-0.9986547701016939,</dec>
-    <hex>3f80091b,bfffd3d9,3f7f95ae,3fffd3df,bf7fa7d7,</hex>
+    <boost>0.0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>10</freq>
-    <q>1.1</q>
-    <boost>5.0</boost>
+    <freq>23</freq>
+    <q>0.8</q>
+    <boost>11.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000859634051122,-1.9994844390416697,0.9993990467276632,1.999484564013158,-0.9994848851612871,</dec>
-    <hex>3f8002d1,bfffef1b,3f7fd89e,3fffef1c,bf7fde3e,</hex>
+    <dec>1.0006061048481159,-1.9986271769890538,0.9980253376941398,1.998628708667538,-0.9986299108637718,</dec>
+    <hex>3f8013dc,bfffd304,3f7f7e97,3fffd311,bf7fa636,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>21</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000133671089113,-1.9996546071080257,0.999522824798125,1.9996546071080257,-0.9996564958872382,</dec>
-    <hex>3f800461,bffff4af,3f7fe0ba,3ffff4af,bf7fe97d,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
-    <freq>22</freq>
+    <freq>1000</freq>
     <q>0.9</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002778438818796,-1.9986525733787883,0.9983776561443733,1.9986533033033473,-0.9986547701016939,</dec>
-    <hex>3f80091b,bfffd3d9,3f7f95ae,3fffd3df,bf7fa7d7,</hex>
+    <boost>0.0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>1000</freq>
@@ -1415,33 +1415,36 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Himalayas</beq_title>
+    <beq_title>The Girl with the Dragon Tattoo</beq_title>
     <beq_alt_title>
     </beq_alt_title>
-    <beq_sortTitle>the himalayas</beq_sortTitle>
-    <beq_year>2015</beq_year>
+    <beq_sortTitle>the girl with the dragon tattoo</beq_sortTitle>
+    <beq_year>2009</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Himalayas%20%282015%29%20TrueHD%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Girl%20with%20the%20Dragon%20Tattoo%20%282009%29%28Se%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Swedish</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Based on true events, renowned mountaineer UM Hong-gil sets out on a mission to Everest to retrieve his late junior climber's body and faces the greatest challenge of his life.</beq_overview>
-    <beq_rating>12</beq_rating>
+    <beq_overview>Swedish thriller based on Stieg Larsson's novel about a male journalist and a young female hacker. In the opening of the movie, Mikael Blomkvist, a middle-aged publisher for the magazine Millennium, loses a libel case brought by corrupt Swedish industrialist Hans-Erik Wennerstrm. Nevertheless, he is hired by Henrik Vanger in order to solve a cold case, the disappearance of Vanger's niece</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>374111</beq_theMovieDB>
-    <beq_poster>/z6OWGaPZqpS4Ws5nhgB3MpVlWjr.jpg</beq_poster>
-    <beq_runtime>125</beq_runtime>
+    <beq_theMovieDB>15472</beq_theMovieDB>
+    <beq_poster>/j4Ra0SvYM08winX6fxn6AknlygV.jpg</beq_poster>
+    <beq_runtime>152</beq_runtime>
+    <beq_collection id="24761">The Millennium Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>TrueHD 5.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="12">Adventure</genre>
-      <genre id="10751">Family</genre>
+      <genre id="80">Crime</genre>
+      <genre id="9648">Mystery</genre>
+      <genre id="53">Thriller</genre>
+      <genre id="18">Drama</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

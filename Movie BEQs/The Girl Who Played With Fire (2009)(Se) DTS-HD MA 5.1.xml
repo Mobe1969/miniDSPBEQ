@@ -802,22 +802,22 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>23</freq>
+    <freq>10</freq>
     <q>0.8</q>
-    <boost>11.0</boost>
+    <boost>15.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006061048481159,-1.9986271769890538,0.9980253376941398,1.998628708667538,-0.9986299108637718,</dec>
-    <hex>3f8013dc,bfffd304,3f7f7e97,3fffd311,bf7fa636,</hex>
+    <dec>1.0003643996624945,-1.999468268916211,0.9991048848051713,1.999468686395226,-0.9994688669886505,</dec>
+    <hex>3f800bf1,bfffee94,3f7fc556,3fffee97,bf7fdd31,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <freq>10</freq>
+    <q>0.8</q>
+    <boost>15.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003643996624945,-1.999468268916211,0.9991048848051713,1.999468686395226,-0.9994688669886505,</dec>
+    <hex>3f800bf1,bfffee94,3f7fc556,3fffee97,bf7fdd31,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>1000</freq>
@@ -892,22 +892,22 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>23</freq>
+    <freq>10</freq>
     <q>0.8</q>
-    <boost>11.0</boost>
+    <boost>15.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006061048481159,-1.9986271769890538,0.9980253376941398,1.998628708667538,-0.9986299108637718,</dec>
-    <hex>3f8013dc,bfffd304,3f7f7e97,3fffd311,bf7fa636,</hex>
+    <dec>1.0003643996624945,-1.999468268916211,0.9991048848051713,1.999468686395226,-0.9994688669886505,</dec>
+    <hex>3f800bf1,bfffee94,3f7fc556,3fffee97,bf7fdd31,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <freq>10</freq>
+    <q>0.8</q>
+    <boost>15.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003643996624945,-1.999468268916211,0.9991048848051713,1.999468686395226,-0.9994688669886505,</dec>
+    <hex>3f800bf1,bfffee94,3f7fc556,3fffee97,bf7fdd31,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>1000</freq>
@@ -1415,36 +1415,37 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Girl with the Dragon Tattoo</beq_title>
+    <beq_title>The Girl Who Played with Fire</beq_title>
     <beq_alt_title>
     </beq_alt_title>
-    <beq_sortTitle>the girl with the dragon tattoo</beq_sortTitle>
+    <beq_sortTitle>the girl who played with fire</beq_sortTitle>
     <beq_year>2009</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Girl%20with%20the%20Dragon%20Tattoo%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Girl%20Who%20Played%20With%20Fire%20%282009%29%28Se%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Swedish</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Swedish thriller based on Stieg Larsson's novel about a male journalist and a young female hacker. In the opening of the movie, Mikael Blomkvist, a middle-aged publisher for the magazine Millennium, loses a libel case brought by corrupt Swedish industrialist Hans-Erik Wennerstrm. Nevertheless, he is hired by Henrik Vanger in order to solve a cold case, the disappearance of Vanger's niece</beq_overview>
+    <beq_overview>Mikael Blomkvist, publisher of Millennium magazine, has made his living exposing the crooked and corrupt practices of establishment Swedish figures. So when a young journalist approaches him with a meticulously researched thesis about sex trafficking in Sweden and those in high office who abuse underage girls, Blomkvist immediately throws himself into the investigation.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>15472</beq_theMovieDB>
-    <beq_poster>/j4Ra0SvYM08winX6fxn6AknlygV.jpg</beq_poster>
-    <beq_runtime>152</beq_runtime>
+    <beq_theMovieDB>24253</beq_theMovieDB>
+    <beq_poster>/3v9LgxjEPyJfDDOtkWUJNYnYcfu.jpg</beq_poster>
+    <beq_runtime>130</beq_runtime>
     <beq_collection id="24761">The Millennium Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="80">Crime</genre>
+      <genre id="28">Action</genre>
       <genre id="9648">Mystery</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="80">Crime</genre>
       <genre id="18">Drama</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
