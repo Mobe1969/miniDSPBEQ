@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>22</freq>
-    <q>2.0</q>
-    <boost>8.3</boost>
-    <type>PK</type>
+    <freq>15</freq>
+    <q>0.8</q>
+    <boost>12.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000357139203094,-1.999551547672994,0.9991964813091153,1.999551547672994,-0.9995536205122095,</dec>
-    <hex>3f800bb4,bffff14e,3f7fcb57,3ffff14e,bf7fe2bf,</hex>
+    <dec>1.0004325042044546,-1.9991303945227108,0.9986998125741179,1.9991311142262205,-0.9991315970750624,</dec>
+    <hex>3f800e2c,bfffe381,3f7faaca,3fffe387,bf7fc717,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>22</freq>
-    <q>0.8</q>
-    <boost>10.0</boost>
-    <type>SL</type>
+    <freq>25</freq>
+    <q>4.0</q>
+    <boost>2.7</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000525502346589,-1.9986487729531148,0.9981269550310834,1.99865003260672,-0.9986511977240667,</dec>
-    <hex>3f801138,bfffd3b9,3f7f8540,3fffd3c4,bf7fa79b,</hex>
+    <dec>1.0000638232634,-1.9996472067910076,0.9995860603598677,1.9996472067910076,-0.9996498836232678,</dec>
+    <hex>3f800217,bffff471,3f7fe4df,3ffff471,bf7fe90e,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
-    <freq>22</freq>
-    <q>0.8</q>
-    <boost>10.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000525502346589,-1.9986487729531148,0.9981269550310834,1.99865003260672,-0.9986511977240667,</dec>
-    <hex>3f801138,bfffd3b9,3f7f8540,3fffd3c4,bf7fa79b,</hex>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
-    <freq>30</freq>
-    <q>5.0</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001145779929854,-1.9997017060300526,0.9995909827824702,1.9997017060300526,-0.9997055607754555,</dec>
-    <hex>3f8003c1,bffff63a,3f7fe532,3ffff63a,bf7fecb4,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8300" name="PEQ_1_5">
-    <freq>40</freq>
-    <q>9.0</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000848757845282,-1.9997750355142367,0.9996970128702837,1.9997750355142367,-0.9997818886548117,</dec>
-    <hex>3f8002c8,bffff8a1,3f7fec25,3ffff8a1,bf7ff1b5,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8305" name="PEQ_1_6">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>22</freq>
-    <q>2.0</q>
-    <boost>8.3</boost>
-    <type>PK</type>
+    <freq>15</freq>
+    <q>0.8</q>
+    <boost>12.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000357139203094,-1.999551547672994,0.9991964813091153,1.999551547672994,-0.9995536205122095,</dec>
-    <hex>3f800bb4,bffff14e,3f7fcb57,3ffff14e,bf7fe2bf,</hex>
+    <dec>1.0004325042044546,-1.9991303945227108,0.9986998125741179,1.9991311142262205,-0.9991315970750624,</dec>
+    <hex>3f800e2c,bfffe381,3f7faaca,3fffe387,bf7fc717,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>22</freq>
-    <q>0.8</q>
-    <boost>10.0</boost>
-    <type>SL</type>
+    <freq>25</freq>
+    <q>4.0</q>
+    <boost>2.7</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000525502346589,-1.9986487729531148,0.9981269550310834,1.99865003260672,-0.9986511977240667,</dec>
-    <hex>3f801138,bfffd3b9,3f7f8540,3fffd3c4,bf7fa79b,</hex>
+    <dec>1.0000638232634,-1.9996472067910076,0.9995860603598677,1.9996472067910076,-0.9996498836232678,</dec>
+    <hex>3f800217,bffff471,3f7fe4df,3ffff471,bf7fe90e,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
-    <freq>22</freq>
-    <q>0.8</q>
-    <boost>10.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000525502346589,-1.9986487729531148,0.9981269550310834,1.99865003260672,-0.9986511977240667,</dec>
-    <hex>3f801138,bfffd3b9,3f7f8540,3fffd3c4,bf7fa79b,</hex>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
-    <freq>30</freq>
-    <q>5.0</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001145779929854,-1.9997017060300526,0.9995909827824702,1.9997017060300526,-0.9997055607754555,</dec>
-    <hex>3f8003c1,bffff63a,3f7fe532,3ffff63a,bf7fecb4,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8350" name="PEQ_2_5">
-    <freq>40</freq>
-    <q>9.0</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000848757845282,-1.9997750355142367,0.9996970128702837,1.9997750355142367,-0.9997818886548117,</dec>
-    <hex>3f8002c8,bffff8a1,3f7fec25,3ffff8a1,bf7ff1b5,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8355" name="PEQ_2_6">
     <freq>1000</freq>
@@ -1415,31 +1415,30 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Lebanon</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>lebanon</beq_sortTitle>
-    <beq_year>2009</beq_year>
+    <beq_title>71 Into The Fire</beq_title>
+    <beq_alt_title>71: Into the Fire</beq_alt_title>
+    <beq_sortTitle>71 into the fire</beq_sortTitle>
+    <beq_year>2010</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lebanon%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/71%20Into%20The%20Fire%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>During the First Lebanon War in 1982, a lone tank and a paratroopers platoon are dispatched to search a hostile town.</beq_overview>
-    <beq_rating>16</beq_rating>
+    <beq_overview>A civil war broke out in the 1950s between North and South Korea which changed the country forever. 71: Into the Fire centers on the struggles of 71 student soldiers who fought through the Korean War. Using real people and events based on the opening moves of the Battle of P'ohang-dong, the film exposes the personal and physical conflicts that these students faced when finding themselves on the last line of defense at P'ohang-dong Girl's Middle School against the NKPA's advancement, needing to hold out until back up from other Korean troops and the Allies arrived.</beq_overview>
+    <beq_rating>14A</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>32084</beq_theMovieDB>
-    <beq_poster>/ulWjW1KhMLHwWJ97593reBhnXlv.jpg</beq_poster>
-    <beq_runtime>93</beq_runtime>
+    <beq_theMovieDB>51200</beq_theMovieDB>
+    <beq_poster>/3p8nZAGiw8LT8TFpYOn7uoTUdvI.jpg</beq_poster>
+    <beq_runtime>120</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="18">Drama</genre>
       <genre id="10752">War</genre>
     </beq_genres>
   </beq_metadata>
