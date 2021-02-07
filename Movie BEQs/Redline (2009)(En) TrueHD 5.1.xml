@@ -1421,7 +1421,7 @@
     <beq_sortTitle>redline</beq_sortTitle>
     <beq_year>2009</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Redline%20%282009%29%20TrueHD%205.1%20En.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Redline%20%282009%29%28En%29%20TrueHD%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1437,7 +1437,7 @@
     <beq_poster>/yUkH0y9OsY7J08Dvfzi1P0di559.jpg</beq_poster>
     <beq_runtime>102</beq_runtime>
     <beq_audioTypes>
-      <audioType>TrueHD 5.1 En</audioType>
+      <audioType>TrueHD 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="28">Action</genre>
