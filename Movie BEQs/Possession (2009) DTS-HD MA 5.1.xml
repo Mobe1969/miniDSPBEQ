@@ -1418,9 +1418,9 @@
     <beq_title>Possession</beq_title>
     <beq_alt_title>P</beq_alt_title>
     <beq_sortTitle>possession</beq_sortTitle>
-    <beq_year>2008</beq_year>
+    <beq_year>2009</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Possession%20%282008%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Possession%20%282009%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,19 +1428,20 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Whilst growing up in rural Thailand, a young orphan girl is taught the ways of magic by her grandmother. But when grandmother falls sick, Dau is lured to Bangkok to find work so that she can buy medicine. She finds herself working in a go-go bar, and her journey from naivet to maturity is swift. She uses the magical skills her grandmother taught her to her advantage, but in doing so makes enemies within the bar. As her magic gets darker, and the consequences increasingly horrific, she gradually loses control, and something evil takes over.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>A woman's life is thrown into chaos after a freak car accident sends her husband and brother-in-law into comas. Thrills arrive after the brother-in-law wakes up, thinking he's his brother.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>135195</beq_theMovieDB>
-    <beq_poster>/7RriigvjDhvoOznISXidFou2oFq.jpg</beq_poster>
-    <beq_runtime>110</beq_runtime>
+    <beq_theMovieDB>33788</beq_theMovieDB>
+    <beq_poster>/8L0ZVI4OAm6nagDx5QM0ufUsqG8.jpg</beq_poster>
+    <beq_runtime>86</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="27">Horror</genre>
+    </beq_genres>
+    <beq_genres>
+      <genre id="53">Thriller</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
