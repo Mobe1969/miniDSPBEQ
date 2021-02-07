@@ -802,22 +802,22 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>10</freq>
+    <freq>20</freq>
     <q>0.8</q>
     <boost>10.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000238796412539,-1.99938618121655,0.9991481463288526,1.9993864415713212,-0.9993866823866208,</dec>
-    <hex>3f8007d3,bfffebe3,3f7fc82c,3fffebe5,bf7fd7ce,</hex>
+    <dec>1.000477706651817,-1.9987717368408013,0.9982970753546255,1.998772777940658,-0.9987737409065859,</dec>
+    <hex>3f800fa7,bfffd7c1,3f7f9066,3fffd7c9,bf7fafa3,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>13</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002471317347714,-1.9991547392686655,0.9989087544207287,1.9991550844201462,-0.999155541004019,</dec>
-    <hex>3f800819,bfffe44d,3f7fb87c,3fffe450,bf7fc8a8,</hex>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>1000</freq>
@@ -892,22 +892,22 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>10</freq>
+    <freq>20</freq>
     <q>0.8</q>
     <boost>10.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000238796412539,-1.99938618121655,0.9991481463288526,1.9993864415713212,-0.9993866823866208,</dec>
-    <hex>3f8007d3,bfffebe3,3f7fc82c,3fffebe5,bf7fd7ce,</hex>
+    <dec>1.000477706651817,-1.9987717368408013,0.9982970753546255,1.998772777940658,-0.9987737409065859,</dec>
+    <hex>3f800fa7,bfffd7c1,3f7f9066,3fffd7c9,bf7fafa3,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>13</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002471317347714,-1.9991547392686655,0.9989087544207287,1.9991550844201462,-0.999155541004019,</dec>
-    <hex>3f800819,bfffe44d,3f7fb87c,3fffe450,bf7fc8a8,</hex>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>1000</freq>
@@ -1415,35 +1415,35 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Operation Mekong</beq_title>
+    <beq_title>Operation Chromite</beq_title>
     <beq_alt_title>
     </beq_alt_title>
-    <beq_sortTitle>operation mekong</beq_sortTitle>
+    <beq_sortTitle>operation chromite</beq_sortTitle>
     <beq_year>2016</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Operation%20Mekong%20%282016%29%20DTS-X%20MA.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Operation%20Chromite%20%282016%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Chinese narco-cops take their mission to the Golden Triangle following the Mekong River massacre of innocent fishermen by the region's drug lord.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>A squad of soldiers fight in the Korean War's crucial Battle of Incheon.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>415214</beq_theMovieDB>
-    <beq_poster>/wghFabaZgRorsMQWuPtKUlzq4W1.jpg</beq_poster>
-    <beq_runtime>124</beq_runtime>
+    <beq_theMovieDB>407887</beq_theMovieDB>
+    <beq_poster>/kHnmjA8w4wf4fLsPB9Wmhy2qqTy.jpg</beq_poster>
+    <beq_runtime>111</beq_runtime>
     <beq_audioTypes>
-      <audioType>DTS-X MA</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="80">Crime</genre>
       <genre id="10752">War</genre>
-      <genre id="12">Adventure</genre>
       <genre id="28">Action</genre>
+      <genre id="18">Drama</genre>
+      <genre id="36">History</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

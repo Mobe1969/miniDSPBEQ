@@ -1416,8 +1416,7 @@
   <link />
   <beq_metadata>
     <beq_title>No Surrender</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
+    <beq_alt_title>Karamouz War</beq_alt_title>
     <beq_sortTitle>no surrender</beq_sortTitle>
     <beq_year>2018</beq_year>
     <beq_spectrumURL />
@@ -1440,11 +1439,13 @@
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
+    </beq_genres>
+    <beq_genres>
       <genre id="28">Action</genre>
       <genre id="53">Thriller</genre>
       <genre id="36">History</genre>
-      <genre id="10752">War</genre>
       <genre id="80">Crime</genre>
+      <genre id="10752">War</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
