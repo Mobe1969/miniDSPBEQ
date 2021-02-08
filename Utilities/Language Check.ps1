@@ -20,8 +20,8 @@
 
 
 $files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ" -Filter *.xml -Recurse
-if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
-    Clear-Content -Path "D:\BEQ\Errors.txt"
+if ([System.IO.File]::Exists("D:\BEQ\LanguageCheck.txt")) {
+    Clear-Content -Path "D:\BEQ\LanguageCheck.txt"
 }
 foreach ($file in $files) {
     $content = [System.Xml.XmlDocument](Get-Content $file.FullName)
@@ -78,7 +78,7 @@ foreach ($file in $files) {
             $cultureInfo = New-Object system.globalization.cultureinfo($result.original_language);
             if ($beqMetadata.beq_language -ne $cultureInfo.DisplayName) {
                 Write-Output "$($file.Name): Original language $($cultureInfo.DisplayName), file language $($beqMetadata.beq_language)"
-                Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name): Original language $($cultureInfo.DisplayName), file language $($beqMetadata.beq_language)"
+                Add-Content -Path "D:\BEQ\LanguageCheck.txt" -Value "$($file.Name): Original language $($cultureInfo.DisplayName), file language $($beqMetadata.beq_language)"
             }    
         }
     }
