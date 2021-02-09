@@ -159,6 +159,8 @@ foreach ($file in $files) {
                     }
                     if ($beqMetadata.beq_overview -ne [Regex]::Replace($result.overview, "[^\u0000-\u007F]+", "") -and ![string]::IsNullOrWhitespace([Regex]::Replace($result.overview, "[^\u0000-\u007F]+", ""))) {
                         $beqMetadata.beq_overview = [Regex]::Replace($result.overview, "[^\u0000-\u007F]+", "")
+                        Write-Output "$($beqMetadata.beq_overview)"
+                        Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($beqMetadata.beq_overview)"
                         $save = $true
                     }
                     if ($beqMetadata.beq_title -ne [Regex]::Replace($result.title, "[^\u0000-\u007F]+", "") -and $beqMetadata.beq_alt_title -ne [Regex]::Replace($result.title, "[^\u0000-\u007F]+", "") -and ![string]::IsNullOrWhitespace([Regex]::Replace($result.title, "[^\u0000-\u007F]+", ""))) {
