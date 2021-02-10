@@ -1,4 +1,5 @@
-﻿function Set-Rating {
+﻿
+function Set-Rating {
 	[CmdletBinding()]
 	param(
 		[Parameter(Mandatory)]
@@ -178,7 +179,7 @@ foreach ($file in $files) {
             }
         }
     }
-    if (![string]::IsNullOrWhitespace($beqMetadata.beq_theMovieDB) -and ([string]::IsNullOrWhitespace($beqMetadata.beq_title) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster) -or [string]::IsNullOrWhitespace($beqMetadata.beq_genres.genre) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster) -or [string]::IsNullOrWhitespace($beqMetadata.beq_overview) -or [string]::IsNullOrWhitespace($beqMetadata.beq_rating))) {
+    if (![string]::IsNullOrWhitespace($beqMetadata.beq_theMovieDB) -and ([string]::IsNullOrWhitespace($beqMetadata.beq_title) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster) -or [string]::IsNullOrWhitespace($beqMetadata.beq_genres.genre) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster) -or [string]::IsNullOrWhitespace($beqMetadata.beq_overview) -or [string]::IsNullOrWhitespace($beqMetadata.beq_rating) -or [string]::IsNullOrWhitespace($beqMetadata.beq_collection))) {
         Write-Output "$($file.Name) missing TMDB metadata content"
         Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing TMDB metadata content"
         if ($file.FullName.Contains("Movie")) {
