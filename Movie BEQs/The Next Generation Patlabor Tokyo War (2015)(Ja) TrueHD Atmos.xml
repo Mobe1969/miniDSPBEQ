@@ -1439,7 +1439,8 @@
       <audioType>TrueHD Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre />
+      <genre id="28">Action</genre>
+      <genre id="878">Science Fiction</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

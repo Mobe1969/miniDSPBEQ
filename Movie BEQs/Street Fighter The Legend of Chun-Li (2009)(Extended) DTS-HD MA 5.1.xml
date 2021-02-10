@@ -1415,9 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Street Fighter The Legend of Chun:Li</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>street fighter the legend of chun:li</beq_sortTitle>
+    <beq_title>Street Fighter The Legend of Chun-Li</beq_title>
+    <beq_alt_title>Street Fighter: The Legend of Chun-Li</beq_alt_title>
+    <beq_sortTitle>street fighter the legend of chun-li</beq_sortTitle>
     <beq_year>2009</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Street%20Fighter%20The%20Legend%20of%20Chun-Li%20%282009%29%28Extended%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1433,7 +1433,7 @@
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>15268</beq_theMovieDB>
-    <beq_poster>/nVYwz3sgE8tXxyTsGnf0n5kUVeg.jpg</beq_poster>
+    <beq_poster>/mLoSUrNME7L19fxu5dBUrU9UJ4h.jpg</beq_poster>
     <beq_runtime>97</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>

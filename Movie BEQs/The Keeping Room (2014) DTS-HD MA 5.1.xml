@@ -1439,7 +1439,8 @@
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre />
+      <genre id="18">Drama</genre>
+      <genre id="37">Western</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

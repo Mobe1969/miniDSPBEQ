@@ -1439,7 +1439,9 @@
       <audioType>LPCM 2.0</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre />
+      <genre id="80">Crime</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="18">Drama</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

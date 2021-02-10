@@ -1422,10 +1422,10 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Pacific%20%282010%29%28E05%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id = "28099">
-        <number>1</number>
-        <poster>/1AmsfHHyp76W71qiqLlvYMkSTie.jpg</poster>
-        <episodes count="1">5</episodes>
+    <beq_season id="28099">
+      <number>1</number>
+      <poster>/1AmsfHHyp76W71qiqLlvYMkSTie.jpg</poster>
+      <episodes count="1">5</episodes>
     </beq_season>
     <beq_note>E05</beq_note>
     <beq_warning />

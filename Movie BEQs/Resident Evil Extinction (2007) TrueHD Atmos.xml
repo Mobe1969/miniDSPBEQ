@@ -1439,7 +1439,10 @@
       <audioType>TrueHD Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre />
+      <genre id="27">Horror</genre>
+      <genre id="28">Action</genre>
+      <genre id="878">Science Fiction</genre>
     </beq_genres>
+    <beq_collection id="17255">Resident Evil Collection</beq_collection>
   </beq_metadata>
 </setting>

@@ -1439,7 +1439,10 @@
       <audioType>TrueHD Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre />
+      <genre id="28">Action</genre>
+      <genre id="36">History</genre>
+      <genre id="18">Drama</genre>
     </beq_genres>
+    <beq_collection id="70068">Ip Man Collection</beq_collection>
   </beq_metadata>
 </setting>

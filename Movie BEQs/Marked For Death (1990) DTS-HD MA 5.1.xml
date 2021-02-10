@@ -1440,7 +1440,7 @@
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre />
+      <genre id="28">Action</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

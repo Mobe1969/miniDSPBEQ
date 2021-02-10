@@ -1422,10 +1422,10 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E02%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id = "10774">
-        <number>1</number>
-        <poster>/sSnYvoVT2PYWJbF0aWdUFvLqKhR.jpg</poster>
-        <episodes count="1">2</episodes>
+    <beq_season id="10774">
+      <number>1</number>
+      <poster>/sSnYvoVT2PYWJbF0aWdUFvLqKhR.jpg</poster>
+      <episodes count="1">2</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

@@ -1423,10 +1423,10 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E5%29%20TrueHD%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id = "113850">
-        <number>1</number>
-        <poster>/gxWdhYnaHsKaFextP1JoweMGKRy.jpg</poster>
-        <episodes count="1">5</episodes>
+    <beq_season id="113850">
+      <number>1</number>
+      <poster>/gxWdhYnaHsKaFextP1JoweMGKRy.jpg</poster>
+      <episodes count="1">5</episodes>
     </beq_season>
     <beq_note>E5</beq_note>
     <beq_warning />

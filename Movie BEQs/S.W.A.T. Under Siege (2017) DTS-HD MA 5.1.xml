@@ -1439,7 +1439,10 @@
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre />
+      <genre id="28">Action</genre>
+      <genre id="80">Crime</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
+    <beq_collection id="221111">S.W.A.T. Collection</beq_collection>
   </beq_metadata>
 </setting>

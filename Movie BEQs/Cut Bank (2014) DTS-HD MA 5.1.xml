@@ -1428,7 +1428,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>25 year-old Dwayne McLaren, a former athlete turned auto mechanic, dreams of getting out of tiny Cut Bank, Montana the coldest town in America. But his effort to do so sets in moton a deadly series of events that change his life and the life of the town forever...</beq_overview>
+    <beq_overview>25-year-old Dwayne McLaren, a former athlete turned auto mechanic, dreams of getting out of tiny Cut Bank, Montana the coldest town in America. But his effort to do so sets in motion a deadly series of events that change his life and the life of the town forever...</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1439,7 +1439,7 @@
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre />
+      <genre id="53">Thriller</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

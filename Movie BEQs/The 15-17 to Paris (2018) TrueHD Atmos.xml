@@ -1439,7 +1439,9 @@
       <audioType>TrueHD Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre />
+      <genre id="36">History</genre>
+      <genre id="18">Drama</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
   </beq_metadata>
 </setting>

@@ -1422,10 +1422,10 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Generation%20Kill%20%282008%29%28E3%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id = "28116">
-        <number>1</number>
-        <poster>/7dhzDKmf8scFpqM0VE0H9VqKsED.jpg</poster>
-        <episodes count="1">3</episodes>
+    <beq_season id="28116">
+      <number>1</number>
+      <poster>/7dhzDKmf8scFpqM0VE0H9VqKsED.jpg</poster>
+      <episodes count="1">3</episodes>
     </beq_season>
     <beq_note>E3</beq_note>
     <beq_warning />
