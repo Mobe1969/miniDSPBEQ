@@ -24,6 +24,9 @@ if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
     Clear-Content -Path "D:\BEQ\Errors.txt"
 }
 foreach ($file in $files) {
+    if ($file.Name.Substring(0, 4).Equals("Flat", 3)) {
+        continue
+    }
     $content = [System.Xml.XmlDocument](Get-Content $file.FullName)
     $reportName = [io.path]::GetFileNameWithoutExtension($file.Name)
     $report = Get-ChildItem "D:\BEQ\Mobe\beq-reports" -Filter "$reportName.jpg" -Recurse
