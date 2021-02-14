@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Spacewalk</beq_title>
-    <beq_alt_title>The Spacewalker</beq_alt_title>
-    <beq_sortTitle>spacewalk</beq_sortTitle>
+    <beq_title>The Spacewalker</beq_title>
+    <beq_alt_title>Spacewalk</beq_alt_title>
+    <beq_sortTitle>the spacewalker</beq_sortTitle>
     <beq_year>2017</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Spacewalk%20%282017%29%28Ru%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Spacewalker%20%282017%29%28Ru%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
