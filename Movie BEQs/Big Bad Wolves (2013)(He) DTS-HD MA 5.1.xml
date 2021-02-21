@@ -1421,7 +1421,7 @@
     <beq_sortTitle>big bad wolves</beq_sortTitle>
     <beq_year>2013</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Big%20Bad%20Wolves%20%282013%29%20DTS-HD%20MA%205.1%20He.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Big%20Bad%20Wolves%20%282013%29%28He%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1437,7 +1437,7 @@
     <beq_poster>/7SEdoH6qBIYNhIV7H9cFSRe3wO1.jpg</beq_poster>
     <beq_runtime>106</beq_runtime>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1 He</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="53">Thriller</genre>
