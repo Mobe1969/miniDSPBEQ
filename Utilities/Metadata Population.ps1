@@ -142,6 +142,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(De)") -ge 0) {
         $language = "German"
     }
+    elseif ($fileName.IndexOf("(Da)") -ge 0) {
+        $language = "Danish"
+    }
     elseif ($fileName.IndexOf("(Po)") -ge 0) {
         $language = "Portuguese"
     }
@@ -283,6 +286,9 @@ foreach ($file in $files) {
     }
     elseif ($fileName.IndexOf("DTS-X") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("DTS-X"))
+    }
+    elseif ($fileName.IndexOf("Atmos") -ge 0) {
+        $audio = $fileName.SubString($fileName.IndexOf("Atmos"))
     }
     elseif ($fileName.IndexOf("TrueHD") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("TrueHD"))
