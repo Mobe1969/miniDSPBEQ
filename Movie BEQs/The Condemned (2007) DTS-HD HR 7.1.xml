@@ -802,22 +802,22 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>18</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
+    <freq>19</freq>
+    <q>0.8</q>
+    <boost>11.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001511100212626,-1.9988326115316486,0.9986832477707708,1.9988329337539334,-0.9988340355697485,</dec>
-    <hex>3f8004f4,bfffd9bf,3f7fa9b5,3fffd9c2,bf7fb396,</hex>
+    <dec>1.0005006449469407,-1.9988661864647885,0.9983684527619816,1.9988672318368166,-0.9988680523368942,</dec>
+    <hex>3f801068,bfffdad9,3f7f9513,3fffdae2,bf7fb5d1,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>20</freq>
-    <q>3.2</q>
-    <boost>15.0</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0003987344780905,-1.9998258017785435,0.9994287806254206,1.9998258017785435,-0.999827515103511,</dec>
-    <hex>3f800d11,bffffa4b,3f7fda91,3ffffa4b,bf7ff4b2,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>1000</freq>
@@ -892,22 +892,22 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>18</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
+    <freq>19</freq>
+    <q>0.8</q>
+    <boost>11.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001511100212626,-1.9988326115316486,0.9986832477707708,1.9988329337539334,-0.9988340355697485,</dec>
-    <hex>3f8004f4,bfffd9bf,3f7fa9b5,3fffd9c2,bf7fb396,</hex>
+    <dec>1.0005006449469407,-1.9988661864647885,0.9983684527619816,1.9988672318368166,-0.9988680523368942,</dec>
+    <hex>3f801068,bfffdad9,3f7f9513,3fffdae2,bf7fb5d1,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>20</freq>
-    <q>3.2</q>
-    <boost>15.0</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0003987344780905,-1.9998258017785435,0.9994287806254206,1.9998258017785435,-0.999827515103511,</dec>
-    <hex>3f800d11,bffffa4b,3f7fda91,3ffffa4b,bf7ff4b2,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Death Sentence</beq_title>
+    <beq_title>The Condemned</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>death sentence</beq_sortTitle>
+    <beq_sortTitle>the condemned</beq_sortTitle>
     <beq_year>2007</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Death%20Sentence%20%282007%29%20DTS-HD%20HRA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Condemned%20%282007%29%20DTS-HD%20HR%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,21 +1428,20 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Nick Hume is a mild-mannered executive with a perfect life, until one gruesome night he witnesses something that changes him forever. Transformed by grief, Hume eventually comes to the disturbing conclusion that no length is too great when protecting his family.</beq_overview>
+    <beq_overview>Jack Conrad is awaiting the death penalty in a corrupt Central American prison. He is "purchased" by a wealthy television producer and taken to a desolate island where he must fight to the death against nine other condemned killers from all corners of the world, with freedom going to the sole survivor.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>11835</beq_theMovieDB>
-    <beq_poster>/xadVdhlkfrjqqSQWWmCVF8lEVIT.jpg</beq_poster>
-    <beq_runtime>105</beq_runtime>
-    <beq_audioTypes>
-      <audioType>DTS-HD HRA 5.1</audioType>
-    </beq_audioTypes>
+    <beq_theMovieDB>14636</beq_theMovieDB>
+    <beq_poster>/oo6jokX6HjqpakYNyg42MxW0kel.jpg</beq_poster>
+    <beq_runtime>113</beq_runtime>
+    <beq_collection id="375228">The Condemned Collection</beq_collection>
     <beq_genres>
-      <genre id="80">Crime</genre>
-      <genre id="18">Drama</genre>
       <genre id="53">Thriller</genre>
       <genre id="28">Action</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>DTS-HD HR 7.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>

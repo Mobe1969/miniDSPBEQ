@@ -1420,7 +1420,7 @@
     <beq_sortTitle>john carter</beq_sortTitle>
     <beq_year>2012</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/John%20Carter%20%282012%29%20DTS-HD%20HRA%207.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/John%20Carter%20%282012%29%20DTS-HD%20HR%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1435,13 +1435,13 @@
     <beq_theMovieDB>49529</beq_theMovieDB>
     <beq_poster>/7GSSyUUgUEXm1rhmiPGSRuKoqnK.jpg</beq_poster>
     <beq_runtime>132</beq_runtime>
-    <beq_audioTypes>
-      <audioType>DTS-HD HRA 7.1</audioType>
-    </beq_audioTypes>
     <beq_genres>
       <genre id="28">Action</genre>
       <genre id="12">Adventure</genre>
       <genre id="878">Science Fiction</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>DTS-HD HR 7.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>

@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>10</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
+    <freq>23</freq>
+    <q>0.9</q>
+    <boost>10.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001900892257025,-1.9993498783967667,0.9991604678684562,1.9993500826483133,-0.9993503528426118,</dec>
-    <hex>3f80063b,bfffeab2,3f7fc8fb,3fffeab4,bf7fd56d,</hex>
+    <dec>1.0004884719938734,-1.9987438574821732,0.9982594126650474,1.998745234317994,-0.9987465078231001,</dec>
+    <hex>3f801002,bfffd6d7,3f7f8dee,3fffd6e2,bf7fadda,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>21</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
+    <freq>25</freq>
+    <q>3.0</q>
+    <boost>6.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0003992805758635,-1.9986341368424718,0.9982378482530916,1.9986350372700772,-0.9986362284013501,</dec>
-    <hex>3f800d15,bfffd33e,3f7f8c84,3fffd346,bf7fa6a0,</hex>
+    <dec>1.0001921104202949,-1.9996112733927844,0.9994218397566474,1.9996112733927844,-0.9996139501769423,</dec>
+    <hex>3f80064c,bffff343,3f7fda1c,3ffff343,bf7fe6b3,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
+    <freq>32</freq>
+    <q>5.0</q>
+    <boost>3.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000726850762451,-1.999643233865432,0.9995749345055718,1.999643233865432,-0.9996476195818169,</dec>
+    <hex>3f800262,bffff44f,3f7fe425,3ffff44f,bf7fe8e8,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>10</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
+    <freq>23</freq>
+    <q>0.9</q>
+    <boost>10.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001900892257025,-1.9993498783967667,0.9991604678684562,1.9993500826483133,-0.9993503528426118,</dec>
-    <hex>3f80063b,bfffeab2,3f7fc8fb,3fffeab4,bf7fd56d,</hex>
+    <dec>1.0004884719938734,-1.9987438574821732,0.9982594126650474,1.998745234317994,-0.9987465078231001,</dec>
+    <hex>3f801002,bfffd6d7,3f7f8dee,3fffd6e2,bf7fadda,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>21</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
+    <freq>25</freq>
+    <q>3.0</q>
+    <boost>6.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0003992805758635,-1.9986341368424718,0.9982378482530916,1.9986350372700772,-0.9986362284013501,</dec>
-    <hex>3f800d15,bfffd33e,3f7f8c84,3fffd346,bf7fa6a0,</hex>
+    <dec>1.0001921104202949,-1.9996112733927844,0.9994218397566474,1.9996112733927844,-0.9996139501769423,</dec>
+    <hex>3f80064c,bffff343,3f7fda1c,3ffff343,bf7fe6b3,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
+    <freq>32</freq>
+    <q>5.0</q>
+    <boost>3.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000726850762451,-1.999643233865432,0.9995749345055718,1.999643233865432,-0.9996476195818169,</dec>
+    <hex>3f800262,bffff44f,3f7fe425,3ffff44f,bf7fe8e8,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Silent Hill</beq_title>
+    <beq_title>The Gene Generation</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>silent hill</beq_sortTitle>
-    <beq_year>2006</beq_year>
+    <beq_sortTitle>the gene generation</beq_sortTitle>
+    <beq_year>2007</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Silent%20Hill%20%282006%29%20DTS-HD%20HRA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Gene%20Generation%20%282007%29%20DTS-HD%20HR%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,20 +1428,19 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In search for answers, a mother travels to the enigmatic town of Silent Hill when her daughter begins to suffer recurring nightmares related to the place. It doesn't take long for her to discover its home to beings as equally haunting as the town itself.</beq_overview>
+    <beq_overview>In a futuristic world, Michelle lives everyday battling with DNA Hackers who use their skills to hack into people's bodies and kill them. She is an assassin, trying to keep her younger brother, Jackie, out of trouble. When Jackie gets involved in a petty crime of robbery, he propels himself into the world of DNA Hackers, Shylocks (Loan Sharks) and Gangs</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>588</beq_theMovieDB>
-    <beq_poster>/bQkXL0cSlPviaQhxM090knCc5kS.jpg</beq_poster>
-    <beq_runtime>125</beq_runtime>
-    <beq_collection id="64748">Silent Hill Collection</beq_collection>
-    <beq_audioTypes>
-      <audioType>DTS-HD HRA 5.1</audioType>
-    </beq_audioTypes>
+    <beq_theMovieDB>15166</beq_theMovieDB>
+    <beq_poster>/7zoOytPe2KkWJZxIXS525cscSod.jpg</beq_poster>
+    <beq_runtime>96</beq_runtime>
     <beq_genres>
-      <genre id="9648">Mystery</genre>
-      <genre id="27">Horror</genre>
+      <genre id="878">Science Fiction</genre>
+      <genre id="28">Action</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>DTS-HD HR 5.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>

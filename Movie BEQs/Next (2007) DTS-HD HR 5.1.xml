@@ -1420,7 +1420,7 @@
     <beq_sortTitle>next</beq_sortTitle>
     <beq_year>2007</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Next%20%282007%29%20DTS-HD%20HRA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Next%20%282007%29%20DTS-HD%20HR%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1435,13 +1435,13 @@
     <beq_theMovieDB>1738</beq_theMovieDB>
     <beq_poster>/td5uOBW41ib1KGz3g1Kc33BdFyj.jpg</beq_poster>
     <beq_runtime>96</beq_runtime>
-    <beq_audioTypes>
-      <audioType>DTS-HD HRA 5.1</audioType>
-    </beq_audioTypes>
     <beq_genres>
       <genre id="878">Science Fiction</genre>
       <genre id="53">Thriller</genre>
       <genre id="28">Action</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>DTS-HD HR 5.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
