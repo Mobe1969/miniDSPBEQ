@@ -247,24 +247,10 @@ foreach ($file in $files) {
             Set-Rating -Code "GB"
             Set-Rating -Code "AU"
             Set-Rating -Code "CA"
-            Set-Rating -Code "DE"
-            Set-Rating -Code "FR"
-            Set-Rating -Code "NO"
-            Set-Rating -Code "ES"
-            Set-Rating -Code "FI"
-            Set-Rating -Code "JP"
-            Set-Rating -Code "KR"
-            Set-Rating -Code "IT"
-            Set-Rating -Code "CH"
-            Set-Rating -Code "CN"
-            Set-Rating -Code "TW"
-            Set-Rating -Code "IE"
-            Set-Rating -Code "RU"
-            Set-Rating -Code "HK"
-            Set-Rating -Code "NL"
-            Set-Rating -Code "NZ"
-            Set-Rating -Code "NL"
-            Set-Rating -Code "MX"
+            if ([string]::IsNullOrWhitespace($beqMetadata.beq_rating)) {
+                $beqMetadata.beq_rating = "NR"
+                $save = $true
+            }
             if ([string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -and ![string]::IsNullOrWhitespace($result.runtime.ToString())) {
                 $beqMetadata.beq_runtime = $result.runtime.ToString()
                 $save = $true
