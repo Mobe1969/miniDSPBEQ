@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>26.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001471077272976,-1.9980139047534364,0.9978701185168923,1.998014305694613,-0.998016825303014,</dec>
-    <hex>0x3f8004d2,0xbfffbeeb,0x3f7f746b,0x3fffbeef,0xbf7f7e08,</hex>
+    <dec>1.0001084126246087,-1.998222874526107,0.9981170022149818,1.9982231357614864,-0.9982251536042109,</dec>
+    <hex>0x3f80038d,0xbfffc5c4,0x3f7f8499,0x3fffc5c7,0xbf7f8baf,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>26.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001471077272976,-1.9980139047534364,0.9978701185168923,1.998014305694613,-0.998016825303014,</dec>
-    <hex>0x3f8004d2,0xbfffbeeb,0x3f7f746b,0x3fffbeef,0xbf7f7e08,</hex>
+    <dec>1.0001084126246087,-1.998222874526107,0.9981170022149818,1.9982231357614864,-0.9982251536042109,</dec>
+    <hex>0x3f80038d,0xbfffc5c4,0x3f7f8499,0x3fffc5c7,0xbf7f8baf,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>26.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001471077272976,-1.9980139047534364,0.9978701185168923,1.998014305694613,-0.998016825303014,</dec>
-    <hex>0x3f8004d2,0xbfffbeeb,0x3f7f746b,0x3fffbeef,0xbf7f7e08,</hex>
+    <dec>1.0001084126246087,-1.998222874526107,0.9981170022149818,1.9982231357614864,-0.9982251536042109,</dec>
+    <hex>0x3f80038d,0xbfffc5c4,0x3f7f8499,0x3fffc5c7,0xbf7f8baf,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>26.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001471077272976,-1.9980139047534364,0.9978701185168923,1.998014305694613,-0.998016825303014,</dec>
-    <hex>0x3f8004d2,0xbfffbeeb,0x3f7f746b,0x3fffbeef,0xbf7f7e08,</hex>
+    <dec>1.0001084126246087,-1.998222874526107,0.9981170022149818,1.9982231357614864,-0.9982251536042109,</dec>
+    <hex>0x3f80038d,0xbfffc5c4,0x3f7f8499,0x3fffc5c7,0xbf7f8baf,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>26.0</freq>
-    <q>0.8</q>
-    <boost>2.4</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001471077272976,-1.9980139047534364,0.9978701185168923,1.998014305694613,-0.998016825303014,</dec>
-    <hex>0x3f8004d2,0xbfffbeeb,0x3f7f746b,0x3fffbeef,0xbf7f7e08,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>26.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001471077272976,-1.9980139047534364,0.9978701185168923,1.998014305694613,-0.998016825303014,</dec>
-    <hex>0x3f8004d2,0xbfffbeeb,0x3f7f746b,0x3fffbeef,0xbf7f7e08,</hex>
+    <dec>1.0001084126246087,-1.998222874526107,0.9981170022149818,1.9982231357614864,-0.9982251536042109,</dec>
+    <hex>0x3f80038d,0xbfffc5c4,0x3f7f8499,0x3fffc5c7,0xbf7f8baf,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>26.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001471077272976,-1.9980139047534364,0.9978701185168923,1.998014305694613,-0.998016825303014,</dec>
-    <hex>0x3f8004d2,0xbfffbeeb,0x3f7f746b,0x3fffbeef,0xbf7f7e08,</hex>
+    <dec>1.0001084126246087,-1.998222874526107,0.9981170022149818,1.9982231357614864,-0.9982251536042109,</dec>
+    <hex>0x3f80038d,0xbfffc5c4,0x3f7f8499,0x3fffc5c7,0xbf7f8baf,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>26.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001471077272976,-1.9980139047534364,0.9978701185168923,1.998014305694613,-0.998016825303014,</dec>
-    <hex>0x3f8004d2,0xbfffbeeb,0x3f7f746b,0x3fffbeef,0xbf7f7e08,</hex>
+    <dec>1.0001084126246087,-1.998222874526107,0.9981170022149818,1.9982231357614864,-0.9982251536042109,</dec>
+    <hex>0x3f80038d,0xbfffc5c4,0x3f7f8499,0x3fffc5c7,0xbf7f8baf,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>26.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001471077272976,-1.9980139047534364,0.9978701185168923,1.998014305694613,-0.998016825303014,</dec>
-    <hex>0x3f8004d2,0xbfffbeeb,0x3f7f746b,0x3fffbeef,0xbf7f7e08,</hex>
+    <dec>1.0001084126246087,-1.998222874526107,0.9981170022149818,1.9982231357614864,-0.9982251536042109,</dec>
+    <hex>0x3f80038d,0xbfffc5c4,0x3f7f8499,0x3fffc5c7,0xbf7f8baf,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>26.0</freq>
-    <q>0.8</q>
-    <boost>2.4</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001471077272976,-1.9980139047534364,0.9978701185168923,1.998014305694613,-0.998016825303014,</dec>
-    <hex>0x3f8004d2,0xbfffbeeb,0x3f7f746b,0x3fffbeef,0xbf7f7e08,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Blues Brothers</beq_title>
+    <beq_title>Hickok</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>the blues brothers</beq_sortTitle>
-    <beq_year>1980</beq_year>
+    <beq_sortTitle>hickok</beq_sortTitle>
+    <beq_year>2017</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Blues%20Brothers%20%281980%29%20DTS-X.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hickok%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,22 +1428,19 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Jake Blues, just released from prison, puts his old band back togther to save the Catholic home where he and his brother Elwood were raised.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>Legendary Lawman and Gunslinger Wild Bill Hickok, is tasked with taming the wildest cow-town in the West, while delivering his own brand of frontier Justice and infamous gunfighter's reputation as the fastest draw in the West is put to the test</beq_overview>
+    <beq_rating>15</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>525</beq_theMovieDB>
-    <beq_poster>/3DiSrcYELCLkwnjl9EZp2pkKGep.jpg</beq_poster>
-    <beq_runtime>133</beq_runtime>
+    <beq_theMovieDB>455675</beq_theMovieDB>
+    <beq_poster>/6gWQsU4Fmpy5JrXxjrBoeyGfU31.jpg</beq_poster>
+    <beq_runtime>88</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="10402">Music</genre>
-      <genre id="35">Comedy</genre>
-      <genre id="28">Action</genre>
-      <genre id="80">Crime</genre>
+      <genre id="37">Western</genre>
     </beq_genres>
-    <beq_collection id="112636">The Blues Brothers Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-X</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
