@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>20.0</freq>
+    <freq>38.0</freq>
     <q>0.8</q>
-    <boost>3.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001604282301253,-1.9985156463861034,0.9983573005128926,1.998515983641531,-0.9985173914875897,</dec>
-    <hex>0x3f800542,0xbfffcf5c,0x3f7f9458,0x3fffcf5f,0xbf7f9ed6,</hex>
+    <dec>1.000358933780506,-1.997226712438045,0.9968755551387576,1.997228147364685,-0.9972330539926237,</dec>
+    <hex>0x3f800bc3,0xbfffa520,0x3f7f333d,0x3fffa52c,0xbf7f4aaa,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
+    <freq>38.0</freq>
     <q>0.8</q>
-    <boost>3.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001604282301253,-1.9985156463861034,0.9983573005128926,1.998515983641531,-0.9985173914875897,</dec>
-    <hex>0x3f800542,0xbfffcf5c,0x3f7f9458,0x3fffcf5f,0xbf7f9ed6,</hex>
+    <dec>1.000358933780506,-1.997226712438045,0.9968755551387576,1.997228147364685,-0.9972330539926237,</dec>
+    <hex>0x3f800bc3,0xbfffa520,0x3f7f333d,0x3fffa52c,0xbf7f4aaa,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
+    <freq>38.0</freq>
     <q>0.8</q>
-    <boost>3.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001604282301253,-1.9985156463861034,0.9983573005128926,1.998515983641531,-0.9985173914875897,</dec>
-    <hex>0x3f800542,0xbfffcf5c,0x3f7f9458,0x3fffcf5f,0xbf7f9ed6,</hex>
+    <dec>1.000358933780506,-1.997226712438045,0.9968755551387576,1.997228147364685,-0.9972330539926237,</dec>
+    <hex>0x3f800bc3,0xbfffa520,0x3f7f333d,0x3fffa52c,0xbf7f4aaa,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
+    <freq>38.0</freq>
     <q>0.8</q>
-    <boost>3.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001604282301253,-1.9985156463861034,0.9983573005128926,1.998515983641531,-0.9985173914875897,</dec>
-    <hex>0x3f800542,0xbfffcf5c,0x3f7f9458,0x3fffcf5f,0xbf7f9ed6,</hex>
+    <dec>1.000358933780506,-1.997226712438045,0.9968755551387576,1.997228147364685,-0.9972330539926237,</dec>
+    <hex>0x3f800bc3,0xbfffa520,0x3f7f333d,0x3fffa52c,0xbf7f4aaa,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>50.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000353916049756,-1.9962439594568637,0.9959027474823036,1.9962458145962216,-0.9962548083927016,</dec>
-    <hex>0x3f800b99,0xbfff84ec,0x3f7ef37c,0x3fff84fc,0xbf7f0a8e,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>20.0</freq>
+    <freq>38.0</freq>
     <q>0.8</q>
-    <boost>3.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001604282301253,-1.9985156463861034,0.9983573005128926,1.998515983641531,-0.9985173914875897,</dec>
-    <hex>0x3f800542,0xbfffcf5c,0x3f7f9458,0x3fffcf5f,0xbf7f9ed6,</hex>
+    <dec>1.000358933780506,-1.997226712438045,0.9968755551387576,1.997228147364685,-0.9972330539926237,</dec>
+    <hex>0x3f800bc3,0xbfffa520,0x3f7f333d,0x3fffa52c,0xbf7f4aaa,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
+    <freq>38.0</freq>
     <q>0.8</q>
-    <boost>3.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001604282301253,-1.9985156463861034,0.9983573005128926,1.998515983641531,-0.9985173914875897,</dec>
-    <hex>0x3f800542,0xbfffcf5c,0x3f7f9458,0x3fffcf5f,0xbf7f9ed6,</hex>
+    <dec>1.000358933780506,-1.997226712438045,0.9968755551387576,1.997228147364685,-0.9972330539926237,</dec>
+    <hex>0x3f800bc3,0xbfffa520,0x3f7f333d,0x3fffa52c,0xbf7f4aaa,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
+    <freq>38.0</freq>
     <q>0.8</q>
-    <boost>3.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001604282301253,-1.9985156463861034,0.9983573005128926,1.998515983641531,-0.9985173914875897,</dec>
-    <hex>0x3f800542,0xbfffcf5c,0x3f7f9458,0x3fffcf5f,0xbf7f9ed6,</hex>
+    <dec>1.000358933780506,-1.997226712438045,0.9968755551387576,1.997228147364685,-0.9972330539926237,</dec>
+    <hex>0x3f800bc3,0xbfffa520,0x3f7f333d,0x3fffa52c,0xbf7f4aaa,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
+    <freq>38.0</freq>
     <q>0.8</q>
-    <boost>3.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001604282301253,-1.9985156463861034,0.9983573005128926,1.998515983641531,-0.9985173914875897,</dec>
-    <hex>0x3f800542,0xbfffcf5c,0x3f7f9458,0x3fffcf5f,0xbf7f9ed6,</hex>
+    <dec>1.000358933780506,-1.997226712438045,0.9968755551387576,1.997228147364685,-0.9972330539926237,</dec>
+    <hex>0x3f800bc3,0xbfffa520,0x3f7f333d,0x3fffa52c,0xbf7f4aaa,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>50.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000353916049756,-1.9962439594568637,0.9959027474823036,1.9962458145962216,-0.9962548083927016,</dec>
-    <hex>0x3f800b99,0xbfff84ec,0x3f7ef37c,0x3fff84fc,0xbf7f0a8e,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Memories of Murder</beq_title>
-    <beq_alt_title></beq_alt_title>
-    <beq_sortTitle>memories of murder</beq_sortTitle>
-    <beq_year>2003</beq_year>
+    <beq_title>Barking Dogs Never Bite</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>barking dogs never bite</beq_sortTitle>
+    <beq_year>2000</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Memories%20of%20Murder%20%282003%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Barking%20Dogs%20Never%20Bite%20%282000%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,21 +1428,19 @@
     <beq_gain />
     <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>1986 Gyunggi Province. The body of a young woman is found brutally raped and murdered. Two months later, a series of rapes and murders commences under similar circumstances. And in a country that had never known such crimes, the dark whispers about a serial murderer grow louder. A special task force is set up in the area, with two local detectives Park Doo-Man and Jo Young-Goo joined by a detective from Seoul who requested to be assigned to the case.</beq_overview>
+    <beq_overview>An idle part-time college lecturer is annoyed by the yapping sound of a nearby dog. He decides to take drastic action.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>11423</beq_theMovieDB>
-    <beq_poster>/lp3Qzzq1zzy6ToJul9DGBBd8ua1.jpg</beq_poster>
-    <beq_runtime>131</beq_runtime>
+    <beq_theMovieDB>21531</beq_theMovieDB>
+    <beq_poster>/Aux3FmDUBctnWa94vxd6KpiuSkR.jpg</beq_poster>
+    <beq_runtime>110</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="80">Crime</genre>
-      <genre id="18">Drama</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="35">Comedy</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
