@@ -1418,11 +1418,15 @@
 		<beq_title>The Terror</beq_title>
 		<beq_alt_title />
 		<beq_sortTitle>terror infamy</beq_sortTitle>
-		<beq_year>2019</beq_year>
+		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Terror%20Infamy%20(2019)%20TrueHD%205.1/The%20Terror%20Infamy%20%282019%29%28Disc%201%29%20TrueHD%205.1.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>2</beq_season>
+		<beq_season id="75191">
+      		<number>2</number>
+      		<poster />
+      		<episodes count="10">1</episodes>
+    	</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain />

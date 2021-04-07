@@ -1422,7 +1422,11 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Braquo%20%282009%29%28S4-E5%29%28Fr%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>4</beq_season>
+    <beq_season id="37363">
+      <number>4</number>
+      <poster/ >
+      <episodes count="8">5</episodes>
+    </beq_season>
     <beq_note>S4-E5</beq_note>
     <beq_warning />
     <beq_gain />
