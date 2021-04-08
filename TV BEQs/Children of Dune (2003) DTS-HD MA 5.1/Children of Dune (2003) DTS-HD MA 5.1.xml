@@ -1424,7 +1424,7 @@
 		<beq_edition />
 		<beq_season id="9156">
       		<number>1</number>
-      		<poster/ >
+      		<poster />
       		<episodes count="3">1,2,3</episodes>
     	</beq_season>
 		<beq_note />
