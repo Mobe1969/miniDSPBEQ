@@ -1423,11 +1423,15 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dune%20%282000%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
+<<<<<<< HEAD
     <beq_season id="19566">
       <number>1</number>
       <poster />
       <episodes count="3">1,2,3</episodes>
     </beq_season>
+=======
+    <beq_season>1</beq_season>
+>>>>>>> 3ad6bd11d3ac6d8aff7dc141734ed1c8fd770d3b
     <beq_note />
     <beq_warning />
     <beq_gain />
