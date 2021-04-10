@@ -37,7 +37,7 @@ foreach ($file in $files) {
         $reportURL = ""
         continue
     } else {
-        $reportURL = [String]"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/" + [uri]::EscapeDataString($report.Name)
+        $reportURL = [String]"https://gitlab.com/Mobe1969/beq-reports/-/raw/master" + [uri]::EscapeDataString($report.FullName.Replace("D:\BEQ\Mobe\beq-reports", "").Replace("\", "/")).Replace("%2F", "/")
         $reportURL = [String]$reportURL.Replace("(", "%28").Replace(")", "%29")
     }
     if ($null -eq $content.setting.beq_metadata) {
