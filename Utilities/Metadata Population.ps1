@@ -251,7 +251,7 @@ foreach ($file in $files) {
                 $beqMetadata.beq_rating = "NR"
                 $save = $true
             }
-            if ([string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -and ![string]::IsNullOrWhitespace($result.runtime.ToString())) {
+            if ([string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -and ![string]::IsNullOrWhitespace($result.runtime)) {
                 $beqMetadata.beq_runtime = $result.runtime.ToString()
                 $save = $true
             }
