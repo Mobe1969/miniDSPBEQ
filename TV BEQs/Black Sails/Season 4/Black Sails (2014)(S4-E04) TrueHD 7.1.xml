@@ -1422,7 +1422,11 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Black%20Sails/Season%204/Black%20Sails%20%282014%29%28S4-E04%29%20TrueHD%207.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="76885">
+      <number>4</number>
+      <poster>/subOEoL9l6q03Qc4KktIvHpW632.jpg</poster>
+      <episodes count="10">4</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
