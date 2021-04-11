@@ -1422,7 +1422,11 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Black%20Sails/Season%202/Black%20Sails%20%282014%29%28S2-E05%29%20TrueHD%207.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="55146">
+      <number>2</number>
+      <poster>/fKSiM39cm7UFDjsl3zZpcggDTJt.jpg</poster>
+      <episodes count="10">5</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
