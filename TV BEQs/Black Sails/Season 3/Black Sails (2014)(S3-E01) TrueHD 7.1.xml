@@ -1422,7 +1422,11 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Black%20Sails/Season%203/Black%20Sails%20%282014%29%28S3-E01%29%20TrueHD%207.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="68865">
+      <number>3</number>
+      <poster>/trmGHtCxFSc7mPNFyDD8nRq5q5g.jpg</poster>
+      <episodes count="10">1</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
