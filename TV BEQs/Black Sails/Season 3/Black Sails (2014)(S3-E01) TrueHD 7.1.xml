@@ -1438,7 +1438,7 @@
     <beq_avs />
     <beq_theMovieDB>47665</beq_theMovieDB>
     <beq_poster>/mZcSwrDdw6cdOVgXm496DgwrQcQ.jpg</beq_poster>
-    <beq_runtime />
+    <beq_runtime>65</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="18">Drama</genre>
