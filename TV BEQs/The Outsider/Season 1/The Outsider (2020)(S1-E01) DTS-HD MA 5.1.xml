@@ -1423,9 +1423,9 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Outsider/Season%201/The%20Outsider%20%282020%29%28S1-E01%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="113758">
-        <number>1</number>
-        <poster>/aMiPwPQjQI1EZN3xP2V0sSU37dc.jpg</poster>
-        <episodes count="10">1</episodes>
+      <number>1</number>
+      <poster>/aMiPwPQjQI1EZN3xP2V0sSU37dc.jpg</poster>
+      <episodes count="10">1</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
@@ -1438,7 +1438,7 @@
     <beq_avs />
     <beq_theMovieDB>84661</beq_theMovieDB>
     <beq_poster>/aMiPwPQjQI1EZN3xP2V0sSU37dc.jpg</beq_poster>
-    <beq_runtime />
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="9648">Mystery</genre>

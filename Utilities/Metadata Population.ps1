@@ -251,8 +251,12 @@ foreach ($file in $files) {
                 $beqMetadata.beq_rating = "NR"
                 $save = $true
             }
-            if ([string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -and ![string]::IsNullOrWhitespace($result.runtime)) {
-                $beqMetadata.beq_runtime = $result.runtime.ToString()
+            if ([string]::IsNullOrWhitespace($beqMetadata.beq_runtime)) {
+                if (![string]::IsNullOrWhitespace($result.runtime)) {
+                    $beqMetadata.beq_runtime = $result.runtime.ToString()
+                } else {
+                    $beqMetadata.beq_runtime = "0"
+                }
                 $save = $true
             }
             if ([string]::IsNullOrWhitespace($beqMetadata.beq_poster) -and ![string]::IsNullOrWhitespace($result.poster_path)) {

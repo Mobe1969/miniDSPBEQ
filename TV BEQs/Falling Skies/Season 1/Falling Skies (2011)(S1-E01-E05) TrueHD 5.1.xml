@@ -1423,9 +1423,9 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Falling%20Skies/Season%201/Falling%20Skies%20%282011%29%28S1-E01-E05%29%20TrueHD%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="45751">
-        <number>1</number>
-        <poster>/5OqcyL2yCWPI5FeSUr68N3GIJod.jpg</poster>
-        <episodes count="10">1,2,3,4,5</episodes>
+      <number>1</number>
+      <poster>/5OqcyL2yCWPI5FeSUr68N3GIJod.jpg</poster>
+      <episodes count="10">1,2,3,4,5</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
@@ -1438,7 +1438,7 @@
     <beq_avs />
     <beq_theMovieDB>34967</beq_theMovieDB>
     <beq_poster>/i2ctkUM209mRyvWRrERXCbSarKr.jpg</beq_poster>
-    <beq_runtime />
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="10759">Action &amp; Adventure</genre>
