@@ -804,56 +804,56 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
+    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
+    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
+    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>10.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
+    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>22.0</freq>
-    <q>2.0</q>
-    <boost>6.0</boost>
+    <freq>24.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002535701177984,-1.9994883728826915,0.9992368755386184,1.9994883728826915,-0.9994904456564168,</dec>
-    <hex>0x3f80084f,0xbfffef3c,0x3f7fcdfd,0x3fffef3c,0xbf7fde9b,</hex>
+    <dec>1.0001527631960663,-1.9996049666246898,0.9994546703449072,1.9996049666246898,-0.9996074335409734,</dec>
+    <hex>0x3f800501,0xbffff30e,0x3f7fdc43,0x3ffff30e,0xbf7fe646,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>25.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001591270222547,-1.9995884032102795,0.9994319529415678,1.9995884032102795,-0.9995910799638225,</dec>
+    <hex>0x3f800537,0xbffff283,0x3f7fdac6,0x3ffff283,0xbf7fe533,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -894,56 +894,56 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
+    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
+    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
+    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>10.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
+    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>22.0</freq>
-    <q>2.0</q>
-    <boost>6.0</boost>
+    <freq>24.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002535701177984,-1.9994883728826915,0.9992368755386184,1.9994883728826915,-0.9994904456564168,</dec>
-    <hex>0x3f80084f,0xbfffef3c,0x3f7fcdfd,0x3fffef3c,0xbf7fde9b,</hex>
+    <dec>1.0001527631960663,-1.9996049666246898,0.9994546703449072,1.9996049666246898,-0.9996074335409734,</dec>
+    <hex>0x3f800501,0xbffff30e,0x3f7fdc43,0x3ffff30e,0xbf7fe646,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>25.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001591270222547,-1.9995884032102795,0.9994319529415678,1.9995884032102795,-0.9995910799638225,</dec>
+    <hex>0x3f800537,0xbffff283,0x3f7fdac6,0x3ffff283,0xbf7fe533,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,32 +1415,35 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Night Watch</beq_title>
+    <beq_title>Falling Skies</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>night watch</beq_sortTitle>
-    <beq_year>2004</beq_year>
+    <beq_sortTitle>falling skies</beq_sortTitle>
+    <beq_year>2011</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Night%20Watch%20%282004%29%28Ru%29%20TrueHD%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Falling%20Skies/Season%203/Falling%20Skies%20%282011%29%28S3-E07%29%20TrueHD%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="45750">
+		<number>3</number>
+		<poster>/1VHdrBRKUaSdHduOdt4dozgJCca.jpg</poster>
+		<episodes count="10">7</episodes>
+	</beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Russian</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Among normal humans live the "Others" possessing various supernatural powers. They are divided up into the forces of light and the forces of the dark, who signed a truce several centuries ago to end a devastating battle. Ever since, the forces of light govern the day while the night belongs to their dark opponents. In modern day Moscow the dark Others actually roam the night as vampires while a "Night Watch" of light forces, among them Anton, the movie's protagonist, try to control them and limit their outrage</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>Falling Skies opens in the chaotic aftermath of an alien attack that has left most of the world completely incapacitated. In the six months since the initial invasion, the few survivors have banded together outside major cities to begin the difficult task of fighting back. Each day is a test of survival as citizen soldiers work to protect the people in their care while also engaging in an insurgency campaign against the occupying alien force.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>3040</beq_theMovieDB>
-    <beq_poster>/inkEqKKVqJoLB3ioCnn4h0UC9GP.jpg</beq_poster>
-    <beq_runtime>114</beq_runtime>
+    <beq_theMovieDB>34967</beq_theMovieDB>
+    <beq_poster>/i2ctkUM209mRyvWRrERXCbSarKr.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="14">Fantasy</genre>
-      <genre id="28">Action</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="10759">Action &amp; Adventure</genre>
+      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
     </beq_genres>
-    <beq_collection id="3106">World of Watches Collection</beq_collection>
     <beq_audioTypes>
       <audioType>TrueHD 5.1</audioType>
     </beq_audioTypes>
