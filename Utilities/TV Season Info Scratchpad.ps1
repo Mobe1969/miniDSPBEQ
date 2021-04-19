@@ -5,8 +5,8 @@ $id = "1437"
 
 $id = "34967" # Falling skies
 
-$id = "65708" # Taboo
-$id = "84661" # The Outsider
+#$id = "65708" # Taboo
+#$id = "84661" # The Outsider
 
 $url = "https://api.themoviedb.org/3/tv/" + $id + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
 $result = Invoke-RestMethod -Uri $url
@@ -25,6 +25,18 @@ $x = '<beq_season id="' + $result.seasons[1].id + '">
 $x
 $x = '<beq_season id="' + $result.seasons[2].id + '">
     <number>3</number>
+    <poster>' + $result.seasons[2].poster_path + '</poster>
+    <episodes count="' + $result.seasons[2].episode_count + '"></episodes>
+</beq_season>'
+$x
+$x = '<beq_season id="' + $result.seasons[2].id + '">
+    <number>4</number>
+    <poster>' + $result.seasons[2].poster_path + '</poster>
+    <episodes count="' + $result.seasons[2].episode_count + '"></episodes>
+</beq_season>'
+$x
+$x = '<beq_season id="' + $result.seasons[2].id + '">
+    <number>5</number>
     <poster>' + $result.seasons[2].poster_path + '</poster>
     <episodes count="' + $result.seasons[2].episode_count + '"></episodes>
 </beq_season>'
