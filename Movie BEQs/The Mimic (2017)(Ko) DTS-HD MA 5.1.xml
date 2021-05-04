@@ -804,56 +804,56 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>1.8</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000424101767755,-1.99922305427999,0.9991811190539982,1.9992230987281365,-0.9992234847826277,</dec>
-    <hex>0x3f800164,0xbfffe68b,0x3f7fca55,0x3fffe68b,0xbf7fcd1c,</hex>
+    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
+    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>1.8</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000424101767755,-1.99922305427999,0.9991811190539982,1.9992230987281365,-0.9992234847826277,</dec>
-    <hex>0x3f800164,0xbfffe68b,0x3f7fca55,0x3fffe68b,0xbf7fcd1c,</hex>
+    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
+    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>31.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
+    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>31.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
+    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>31.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
+    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
+    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -894,56 +894,56 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>1.8</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000424101767755,-1.99922305427999,0.9991811190539982,1.9992230987281365,-0.9992234847826277,</dec>
-    <hex>0x3f800164,0xbfffe68b,0x3f7fca55,0x3fffe68b,0xbf7fcd1c,</hex>
+    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
+    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>1.8</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000424101767755,-1.99922305427999,0.9991811190539982,1.9992230987281365,-0.9992234847826277,</dec>
-    <hex>0x3f800164,0xbfffe68b,0x3f7fca55,0x3fffe68b,0xbf7fcd1c,</hex>
+    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
+    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>31.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
+    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>31.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
+    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>31.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
+    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
+    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,30 +1415,30 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Mind Blown</beq_title>
-    <beq_alt_title>Operation Mindcrime</beq_alt_title>
-    <beq_sortTitle>mind blown</beq_sortTitle>
-    <beq_year>2016</beq_year>
+    <beq_title>The Mimic</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>the mimic</beq_sortTitle>
+    <beq_year>2017</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mind%20Blown%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Mimic%20%282017%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In Los Angeles, the Earth shakes, people panic, buildings crumble and fold. But when a special OPS crew flies in to view the damage, it's as if nothing has happened. Buildings still stand, the ground is whole...but dead bodies litter the streets. Welcome to MIND BLOWN - a secret government program in psychotronic warfare that goes terribly wrong. Now the DOD must cover it up and terminate all involved. Fleeing for his life, Noah West knows he must uncover who has stolen the technology with plans on using it to bring America to its knees. When the disasters start for real, the darker secret of the experiment begins to unravel.</beq_overview>
+    <beq_overview>A story of the Jangsan Tiger, who mimics human voices to lure them close, and a family affected by the creature.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>429691</beq_theMovieDB>
-    <beq_poster>/59xSj93nnF9UG6kNoI62hlq11Gw.jpg</beq_poster>
-    <beq_runtime>82</beq_runtime>
+    <beq_theMovieDB>437108</beq_theMovieDB>
+    <beq_poster>/wWseLt8PzOgMMzE3Jnoz2PN11NP.jpg</beq_poster>
+    <beq_runtime>100</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="878">Science Fiction</genre>
-      <genre id="10770">TV Movie</genre>
+      <genre id="27">Horror</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>

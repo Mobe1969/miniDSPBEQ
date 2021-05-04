@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>1.8</boost>
-    <type>SL</type>
+    <freq>12.0</freq>
+    <q>3.0</q>
+    <boost>6.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000424101767755,-1.99922305427999,0.9991811190539982,1.9992230987281365,-0.9992234847826277,</dec>
-    <hex>0x3f800164,0xbfffe68b,0x3f7fca55,0x3fffe68b,0xbf7fcd1c,</hex>
+    <dec>1.0000922222900293,-1.9998140606268433,0.9997224551298994,1.9998140606268433,-0.9998146774199285,</dec>
+    <hex>0x3f800306,0xbffff9e8,0x3f7fedd0,0x3ffff9e8,0xbf7ff3db,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>1.8</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000424101767755,-1.99922305427999,0.9991811190539982,1.9992230987281365,-0.9992234847826277,</dec>
-    <hex>0x3f800164,0xbfffe68b,0x3f7fca55,0x3fffe68b,0xbf7fcd1c,</hex>
+    <dec>1.0002272490567132,-1.9988980605921092,0.9986723597035664,1.9988984467151332,-0.998899222637256,</dec>
+    <hex>0x3f800772,0xbfffdbe4,0x3f7fa8fe,0x3fffdbe8,0xbf7fb7dc,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>31.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0002272490567132,-1.9988980605921092,0.9986723597035664,1.9988984467151332,-0.998899222637256,</dec>
+    <hex>0x3f800772,0xbfffdbe4,0x3f7fa8fe,0x3fffdbe8,0xbf7fb7dc,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>31.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0002272490567132,-1.9988980605921092,0.9986723597035664,1.9988984467151332,-0.998899222637256,</dec>
+    <hex>0x3f800772,0xbfffdbe4,0x3f7fa8fe,0x3fffdbe8,0xbf7fb7dc,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>31.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0002272490567132,-1.9988980605921092,0.9986723597035664,1.9988984467151332,-0.998899222637256,</dec>
+    <hex>0x3f800772,0xbfffdbe4,0x3f7fa8fe,0x3fffdbe8,0xbf7fb7dc,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.8</q>
+    <boost>6.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002272490567132,-1.9988980605921092,0.9986723597035664,1.9988984467151332,-0.998899222637256,</dec>
+    <hex>0x3f800772,0xbfffdbe4,0x3f7fa8fe,0x3fffdbe8,0xbf7fb7dc,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>1.8</boost>
-    <type>SL</type>
+    <freq>12.0</freq>
+    <q>3.0</q>
+    <boost>6.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000424101767755,-1.99922305427999,0.9991811190539982,1.9992230987281365,-0.9992234847826277,</dec>
-    <hex>0x3f800164,0xbfffe68b,0x3f7fca55,0x3fffe68b,0xbf7fcd1c,</hex>
+    <dec>1.0000922222900293,-1.9998140606268433,0.9997224551298994,1.9998140606268433,-0.9998146774199285,</dec>
+    <hex>0x3f800306,0xbffff9e8,0x3f7fedd0,0x3ffff9e8,0xbf7ff3db,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>1.8</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000424101767755,-1.99922305427999,0.9991811190539982,1.9992230987281365,-0.9992234847826277,</dec>
-    <hex>0x3f800164,0xbfffe68b,0x3f7fca55,0x3fffe68b,0xbf7fcd1c,</hex>
+    <dec>1.0002272490567132,-1.9988980605921092,0.9986723597035664,1.9988984467151332,-0.998899222637256,</dec>
+    <hex>0x3f800772,0xbfffdbe4,0x3f7fa8fe,0x3fffdbe8,0xbf7fb7dc,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>31.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0002272490567132,-1.9988980605921092,0.9986723597035664,1.9988984467151332,-0.998899222637256,</dec>
+    <hex>0x3f800772,0xbfffdbe4,0x3f7fa8fe,0x3fffdbe8,0xbf7fb7dc,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>31.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0002272490567132,-1.9988980605921092,0.9986723597035664,1.9988984467151332,-0.998899222637256,</dec>
+    <hex>0x3f800772,0xbfffdbe4,0x3f7fa8fe,0x3fffdbe8,0xbf7fb7dc,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>31.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002413679292064,-1.9976920942709278,0.9974556984439803,1.9976928800827338,-0.9976962805613802,</dec>
-    <hex>0x3f8007e9,0xbfffb460,0x3f7f5942,0x3fffb466,0xbf7f6906,</hex>
+    <dec>1.0002272490567132,-1.9988980605921092,0.9986723597035664,1.9988984467151332,-0.998899222637256,</dec>
+    <hex>0x3f800772,0xbfffdbe4,0x3f7fa8fe,0x3fffdbe8,0xbf7fb7dc,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.8</q>
+    <boost>6.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002272490567132,-1.9988980605921092,0.9986723597035664,1.9988984467151332,-0.998899222637256,</dec>
+    <hex>0x3f800772,0xbfffdbe4,0x3f7fa8fe,0x3fffdbe8,0xbf7fb7dc,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Mind Blown</beq_title>
-    <beq_alt_title>Operation Mindcrime</beq_alt_title>
-    <beq_sortTitle>mind blown</beq_sortTitle>
-    <beq_year>2016</beq_year>
+    <beq_title>Black Mass</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>black mass</beq_sortTitle>
+    <beq_year>2015</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mind%20Blown%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Mass%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,17 +1428,18 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In Los Angeles, the Earth shakes, people panic, buildings crumble and fold. But when a special OPS crew flies in to view the damage, it's as if nothing has happened. Buildings still stand, the ground is whole...but dead bodies litter the streets. Welcome to MIND BLOWN - a secret government program in psychotronic warfare that goes terribly wrong. Now the DOD must cover it up and terminate all involved. Fleeing for his life, Noah West knows he must uncover who has stolen the technology with plans on using it to bring America to its knees. When the disasters start for real, the darker secret of the experiment begins to unravel.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>The true story of Whitey Bulger, the brother of a state senator and the most infamous violent criminal in the history of South Boston, who became an FBI informant to take down a Mafia family invading his turf.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>429691</beq_theMovieDB>
-    <beq_poster>/59xSj93nnF9UG6kNoI62hlq11Gw.jpg</beq_poster>
-    <beq_runtime>82</beq_runtime>
+    <beq_theMovieDB>261023</beq_theMovieDB>
+    <beq_poster>/zfwciv4LIJkNQsfuhYGv0Nkiweg.jpg</beq_poster>
+    <beq_runtime>123</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="878">Science Fiction</genre>
-      <genre id="10770">TV Movie</genre>
+      <genre id="18">Drama</genre>
+      <genre id="80">Crime</genre>
+      <genre id="36">History</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
