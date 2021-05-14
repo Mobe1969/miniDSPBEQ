@@ -1419,30 +1419,30 @@
     <beq_alt_title>
     </beq_alt_title>
     <beq_sortTitle>real</beq_sortTitle>
-    <beq_year>2013</beq_year>
+    <beq_year>2017</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/REAL%20%282013%29%28Ja%29%20TrueHD%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/REAL%20%282017%29%28Ko%29%20TrueHD%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Japanese</beq_language>
+    <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Koichi and Atsumi are lovers who have known each other all their lives. A year ago, however, a suicide attempt by Atsumi left her in a coma. Through 'sensing', a type of neurosurgical procedure allowing contact with the intentional aspect of a comatose patient's mind, Koishi tries to find out why Atsumi tried to kill herself, and to bring her back to consciousness. He enters her subconscious, and is told to find a picture of a plesiosaur she drew when she was a child. It turns out that a childhood incident buried in their past will bring their minds together.</beq_overview>
+    <beq_overview>Jang Tae-Young is a popular trouble shooter in the criminal world. He is cold and ambitious. He dreams of building a casino hotel one day. A reporter then goes to Jang Tae-Young.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>180891</beq_theMovieDB>
-    <beq_poster>/2Dqw2NX32mzpzBGXzBFSg9c1xIx.jpg</beq_poster>
-    <beq_runtime>127</beq_runtime>
+    <beq_theMovieDB>437633</beq_theMovieDB>
+    <beq_poster>/ccmDZaOKBwDKW8wPs4rV64ue9wN.jpg</beq_poster>
+    <beq_runtime>137</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
       <audioType>TrueHD 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="878">Science Fiction</genre>
+      <genre id="28">Action</genre>
+      <genre id="80">Crime</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
   </beq_metadata>
