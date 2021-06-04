@@ -277,6 +277,12 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("DTS-X") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("DTS-X"))
     }
+    elseif ($fileName.IndexOf("DTS-ES") -ge 0) {
+        $audio = $fileName.SubString($fileName.IndexOf("DTS-ES"))
+    }
+    elseif ($fileName.IndexOf("DTS") -ge 0) {
+        $audio = $fileName.SubString($fileName.IndexOf("DTS"))
+    }
     elseif ($fileName.IndexOf("Atmos") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("Atmos"))
     }
