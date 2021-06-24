@@ -81,7 +81,6 @@ foreach ($file in $files) {
         <audioType />
     </beq_audioTypes>
     <beq_genres>
-        <genre />
     </beq_genres>
 </beq_metadata>"
         $import = $content.ImportNode($beq_metadata.beq_metadata, $true)
