@@ -297,7 +297,13 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("LPCM") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("LPCM"))
     }
-    if ($beqMetadata.beq_audioTypes.audioType -ne $audio) {
+    $foundAudio = $false
+    foreach ($audioType in $beqMetadata.beq_audioTypes.audioType){
+        if ($audioType -eq $audio) {
+            $foundAudio = $true
+        }    
+    }
+    if ($foundAudio -eq $false) {
         if ($audio -ne "") {
             $beq_audioTypes = $content.CreateElement("beq_audioTypes")
             $audioType = $content.CreateElement("audioType")
