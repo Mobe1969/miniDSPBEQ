@@ -30,7 +30,12 @@ foreach ($file in $files) {
     $save = $false
     $content = [System.Xml.XmlDocument](Get-Content $file.FullName)
     $reportName = [io.path]::GetFileNameWithoutExtension($file.Name)
-    $report = Get-ChildItem "D:\BEQ\Mobe\beq-reports" -Filter "$reportName.jpg" -Recurse
+    if ($file.FullName.Contains("Movie")) {
+        $report = Get-ChildItem "D:\BEQ\Mobe\beq-reports\Movies" -Filter "$reportName.jpg"
+    }
+    else {
+        $report = Get-ChildItem "D:\BEQ\Mobe\beq-reports\TV Series" -Filter "$reportName.jpg" -Recurse
+    }
     if ($null -eq $report) {
         Write-Output "$($file.Name) Unable to find report"
         Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) Unable to find report"
