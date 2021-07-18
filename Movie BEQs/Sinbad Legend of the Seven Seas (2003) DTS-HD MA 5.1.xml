@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>1.8</q>
+    <freq>24.0</freq>
+    <q>3.0</q>
     <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001060919517815,-1.9997269396497588,0.9996212760078153,1.9997269396497588,-0.9997273679595967,</dec>
-    <hex>0x3f80037a,0xbffff70d,0x3f7fe72e,0x3ffff70d,0xbf7fee22,</hex>
+    <dec>1.0001527631960663,-1.9996049666246898,0.9994546703449072,1.9996049666246898,-0.9996074335409734,</dec>
+    <hex>0x3f800501,0xbffff30e,0x3f7fdc43,0x3ffff30e,0xbf7fe646,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>11.0</freq>
-    <q>2.0</q>
-    <boost>3.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000624653253498,-1.999696647132593,0.9996347000543159,1.999696647132593,-0.9996971653796656,</dec>
-    <hex>0x3f80020c,0xbffff60f,0x3f7fe80f,0x3ffff60f,0xbf7fec27,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>14.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
+    <freq>28.0</freq>
+    <q>0.9</q>
+    <boost>2.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001654423196833,-1.9990077659739216,0.9988434427261883,1.999008010859695,-0.9990086401600983,</dec>
-    <hex>0x3f80056c,0xbfffdf7d,0x3f7fb434,0x3fffdf7f,0xbf7fbf08,</hex>
+    <dec>1.0001291114724695,-1.9980871641815314,0.9979618608974504,1.998087590228098,-0.9980905463233536,</dec>
+    <hex>0x3f80043b,0xbfffc152,0x3f7f7a6e,0x3fffc156,0xbf7f82dd,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>28.0</freq>
+    <q>0.9</q>
+    <boost>2.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001291114724695,-1.9980871641815314,0.9979618608974504,1.998087590228098,-0.9980905463233536,</dec>
+    <hex>0x3f80043b,0xbfffc152,0x3f7f7a6e,0x3fffc156,0xbf7f82dd,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.9</q>
+    <boost>2.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001291114724695,-1.9980871641815314,0.9979618608974504,1.998087590228098,-0.9980905463233536,</dec>
+    <hex>0x3f80043b,0xbfffc152,0x3f7f7a6e,0x3fffc156,0xbf7f82dd,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.9</q>
+    <boost>2.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001291114724695,-1.9980871641815314,0.9979618608974504,1.998087590228098,-0.9980905463233536,</dec>
+    <hex>0x3f80043b,0xbfffc152,0x3f7f7a6e,0x3fffc156,0xbf7f82dd,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>33.0</freq>
+    <q>7.0</q>
+    <boost>4.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000716667237866,-1.9997502764607367,0.9996832740937502,1.9997502764607367,-0.9997549408175366,</dec>
+    <hex>0x3f800259,0xbffff7d1,0x3f7feb3e,0x3ffff7d1,0xbf7feff1,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>1.8</q>
+    <freq>24.0</freq>
+    <q>3.0</q>
     <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001060919517815,-1.9997269396497588,0.9996212760078153,1.9997269396497588,-0.9997273679595967,</dec>
-    <hex>0x3f80037a,0xbffff70d,0x3f7fe72e,0x3ffff70d,0xbf7fee22,</hex>
+    <dec>1.0001527631960663,-1.9996049666246898,0.9994546703449072,1.9996049666246898,-0.9996074335409734,</dec>
+    <hex>0x3f800501,0xbffff30e,0x3f7fdc43,0x3ffff30e,0xbf7fe646,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>11.0</freq>
-    <q>2.0</q>
-    <boost>3.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000624653253498,-1.999696647132593,0.9996347000543159,1.999696647132593,-0.9996971653796656,</dec>
-    <hex>0x3f80020c,0xbffff60f,0x3f7fe80f,0x3ffff60f,0xbf7fec27,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>14.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
+    <freq>28.0</freq>
+    <q>0.9</q>
+    <boost>2.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001654423196833,-1.9990077659739216,0.9988434427261883,1.999008010859695,-0.9990086401600983,</dec>
-    <hex>0x3f80056c,0xbfffdf7d,0x3f7fb434,0x3fffdf7f,0xbf7fbf08,</hex>
+    <dec>1.0001291114724695,-1.9980871641815314,0.9979618608974504,1.998087590228098,-0.9980905463233536,</dec>
+    <hex>0x3f80043b,0xbfffc152,0x3f7f7a6e,0x3fffc156,0xbf7f82dd,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>28.0</freq>
+    <q>0.9</q>
+    <boost>2.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001291114724695,-1.9980871641815314,0.9979618608974504,1.998087590228098,-0.9980905463233536,</dec>
+    <hex>0x3f80043b,0xbfffc152,0x3f7f7a6e,0x3fffc156,0xbf7f82dd,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.9</q>
+    <boost>2.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001291114724695,-1.9980871641815314,0.9979618608974504,1.998087590228098,-0.9980905463233536,</dec>
+    <hex>0x3f80043b,0xbfffc152,0x3f7f7a6e,0x3fffc156,0xbf7f82dd,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.9</q>
+    <boost>2.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001291114724695,-1.9980871641815314,0.9979618608974504,1.998087590228098,-0.9980905463233536,</dec>
+    <hex>0x3f80043b,0xbfffc152,0x3f7f7a6e,0x3fffc156,0xbf7f82dd,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>33.0</freq>
+    <q>7.0</q>
+    <boost>4.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000716667237866,-1.9997502764607367,0.9996832740937502,1.9997502764607367,-0.9997549408175366,</dec>
+    <hex>0x3f800259,0xbffff7d1,0x3f7feb3e,0x3ffff7d1,0xbf7feff1,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,31 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Handmaiden</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>the handmaiden</beq_sortTitle>
-    <beq_year>2016</beq_year>
+    <beq_title>Sinbad Legend of the Seven Seas</beq_title>
+    <beq_alt_title>Sinbad: Legend of the Seven Seas</beq_alt_title>
+    <beq_sortTitle>sinbad legend of the seven seas</beq_sortTitle>
+    <beq_year>2003</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Handmaiden%20%282016%29%28Ko%29%28EC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition>Extended</beq_edition>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sinbad%20Legend%20of%20the%20Seven%20Seas%20%282003%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Korean</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>1930s Korea, in the period of Japanese occupation, a young woman is hired as a handmaiden to a Japanese heiress who lives a secluded life on a large countryside estate with her domineering uncle, but she's involved in something greater that will soon be revealed.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>The sailor of legend is framed by the goddess Eris for the theft of the Book of Peace, and must travel to her realm at the end of the world to retrieve it and save the life of his childhood friend Prince Proteus.</beq_overview>
+    <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>290098</beq_theMovieDB>
-    <beq_poster>/dLlH4aNHdnmf62umnInL8xPlPzw.jpg</beq_poster>
-    <beq_runtime>168</beq_runtime>
+    <beq_theMovieDB>14411</beq_theMovieDB>
+    <beq_poster>/CQ1bthSN2uXDxovHUwH8mIB9zy.jpg</beq_poster>
+    <beq_runtime>90</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="53">Thriller</genre>
-      <genre id="18">Drama</genre>
-      <genre id="10749">Romance</genre>
+      <genre id="10751">Family</genre>
+      <genre id="16">Animation</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="14">Fantasy</genre>
+      <genre id="28">Action</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
