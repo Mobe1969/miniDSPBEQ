@@ -281,6 +281,9 @@ foreach ($file in $files) {
     if ($fileName.IndexOf("DTS-HD") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("DTS-HD"))
     }
+    elseif ($fileName.IndexOf("DD+") -ge 0) {
+        $audio = "DD+"
+    }
     elseif ($fileName.IndexOf("DTS-X") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("DTS-X"))
     }
