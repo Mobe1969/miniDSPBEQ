@@ -1420,14 +1420,15 @@
     <beq_sortTitle>triggered</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Triggered%20%282020%29%20AC3%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Triggered%20%282020%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source></beq_source>
+    <beq_source>
+    </beq_source>
     <beq_overview>Nine friends, all harboring a dark secret, go camping in the woods. After a wild night of partying, they wake up with suicide bombs strapped to their chests, all with varying times on their countdown clocks. They decide to work out how to disarm the bombs or find help - until they discover they can 'take' one another's time by killing each other.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
@@ -1441,7 +1442,7 @@
       <genre id="27">Horror</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>AC3 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
