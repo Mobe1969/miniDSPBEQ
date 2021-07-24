@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>1.4</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
-    <q>1.4</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
-    <q>1.4</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>10.0</freq>
+    <freq>22.0</freq>
     <q>3.0</q>
-    <boost>6.0</boost>
+    <boost>8.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000076853097656,-1.999845133791534,0.9997687090290313,1.999845133791534,-0.9998455621266872,</dec>
-    <hex>0x3f800285,0xbffffaed,0x3f7ff0d8,0x3ffffaed,0xbf7ff5e1,</hex>
+    <dec>1.000228893431367,-1.9996951351796957,0.9994683147363945,1.9996951351796957,-0.9996972081677613,</dec>
+    <hex>0x3f800780,0xbffff603,0x3f7fdd28,0x3ffff603,0xbf7fec28,</hex>
   </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>12.0</freq>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>35.0</freq>
     <q>3.0</q>
     <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000763891185402,-1.9998030806548055,0.9997273083259639,1.9998030806548055,-0.9998036974445041,</dec>
-    <hex>0x3f800281,0xbffff98c,0x3f7fee21,0x3ffff98c,0xbf7ff323,</hex>
+    <dec>1.000222759517587,-1.9994223130042537,0.9992047994934481,1.9994223130042537,-0.999427559011035,</dec>
+    <hex>0x3f80074d,0xbfffed12,0x3f7fcbe3,0x3fffed12,0xbf7fda7c,</hex>
   </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>12.0</freq>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>45.0</freq>
     <q>5.0</q>
-    <boost>7.0</boost>
+    <boost>6.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000650190454543,-1.9998944054863,0.9998300032587112,1.9998944054863,-0.9998950223041655,</dec>
-    <hex>0x3f800221,0xbffffc8a,0x3f7ff4dc,0x3ffffc8a,0xbf7ff91f,</hex>
+    <dec>1.0002074758427404,-1.9995744004035132,0.9993755972031896,1.9995744004035132,-0.9995830730459299,</dec>
+    <hex>0x3f8006cc,0xbffff20e,0x3f7fd714,0x3ffff20e,0xbf7fe4ad,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>1.4</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
-    <q>1.4</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
-    <q>1.4</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>10.0</freq>
+    <freq>22.0</freq>
     <q>3.0</q>
-    <boost>6.0</boost>
+    <boost>8.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000076853097656,-1.999845133791534,0.9997687090290313,1.999845133791534,-0.9998455621266872,</dec>
-    <hex>0x3f800285,0xbffffaed,0x3f7ff0d8,0x3ffffaed,0xbf7ff5e1,</hex>
+    <dec>1.000228893431367,-1.9996951351796957,0.9994683147363945,1.9996951351796957,-0.9996972081677613,</dec>
+    <hex>0x3f800780,0xbffff603,0x3f7fdd28,0x3ffff603,0xbf7fec28,</hex>
   </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>12.0</freq>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>35.0</freq>
     <q>3.0</q>
     <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000763891185402,-1.9998030806548055,0.9997273083259639,1.9998030806548055,-0.9998036974445041,</dec>
-    <hex>0x3f800281,0xbffff98c,0x3f7fee21,0x3ffff98c,0xbf7ff323,</hex>
+    <dec>1.000222759517587,-1.9994223130042537,0.9992047994934481,1.9994223130042537,-0.999427559011035,</dec>
+    <hex>0x3f80074d,0xbfffed12,0x3f7fcbe3,0x3fffed12,0xbf7fda7c,</hex>
   </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>12.0</freq>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>45.0</freq>
     <q>5.0</q>
-    <boost>7.0</boost>
+    <boost>6.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000650190454543,-1.9998944054863,0.9998300032587112,1.9998944054863,-0.9998950223041655,</dec>
-    <hex>0x3f800221,0xbffffc8a,0x3f7ff4dc,0x3ffffc8a,0xbf7ff91f,</hex>
+    <dec>1.0002074758427404,-1.9995744004035132,0.9993755972031896,1.9995744004035132,-0.9995830730459299,</dec>
+    <hex>0x3f8006cc,0xbffff20e,0x3f7fd714,0x3ffff20e,0xbf7fe4ad,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,35 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Kung Fu Yoga</beq_title>
+    <beq_title>Vanishing on 7th Street</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>kung fu yoga</beq_sortTitle>
-    <beq_year>2017</beq_year>
+    <beq_sortTitle>vanishing on 7th street</beq_sortTitle>
+    <beq_year>2010</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kung%20Fu%20Yoga%20%282017%29%28Ma%29%20DTS-X.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vanishing%20on%207th%20Street%20%282010%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Mandarin</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Two professors team up to locate a lost treasure and embark on an adventure that takes them from a Tibetan ice cave to Dubai, and to a mountain temple in India.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>A mysterious global blackout yields countless populations to simply vanish, leaving only their clothes and possessions behind. A small handful of survivors band together in a dimly-lit tavern on 7th Street, struggling to combat the apocalyptic horror. Realizing they may in fact be the last people on earth, a dark shadow hones in on them alone.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>383785</beq_theMovieDB>
-    <beq_poster>/rL6XM4fsr1cM5mN2flEhQ8jQter.jpg</beq_poster>
-    <beq_runtime>107</beq_runtime>
+    <beq_theMovieDB>43552</beq_theMovieDB>
+    <beq_poster>/8LkZFmL2UHbmP7UnjlRP5gqvvqh.jpg</beq_poster>
+    <beq_runtime>92</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="35">Comedy</genre>
       <genre id="9648">Mystery</genre>
-      <genre id="28">Action</genre>
-      <genre id="12">Adventure</genre>
+      <genre id="27">Horror</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DTS-X</audioType>
+      <audioType>DTS-HD MA 7.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

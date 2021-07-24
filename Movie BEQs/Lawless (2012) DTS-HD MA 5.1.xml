@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>1.4</q>
+    <freq>20.0</freq>
+    <q>0.8</q>
     <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
-    <q>1.4</q>
+    <freq>20.0</freq>
+    <q>0.8</q>
     <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
-    <q>1.4</q>
+    <freq>20.0</freq>
+    <q>0.8</q>
     <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>10.0</freq>
-    <q>3.0</q>
-    <boost>6.0</boost>
-    <type>PK</type>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000076853097656,-1.999845133791534,0.9997687090290313,1.999845133791534,-0.9998455621266872,</dec>
-    <hex>0x3f800285,0xbffffaed,0x3f7ff0d8,0x3ffffaed,0xbf7ff5e1,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>12.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
+    <freq>33.0</freq>
+    <q>7.0</q>
+    <boost>9.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000763891185402,-1.9998030806548055,0.9997273083259639,1.9998030806548055,-0.9998036974445041,</dec>
-    <hex>0x3f800281,0xbffff98c,0x3f7fee21,0x3ffff98c,0xbf7ff323,</hex>
+    <dec>1.0001670858375928,-1.9998115614065581,0.9996491400687106,1.9998115614065581,-0.9998162259063036,</dec>
+    <hex>0x3f80057a,0xbffff9d3,0x3f7fe902,0x3ffff9d3,0xbf7ff3f5,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>12.0</freq>
-    <q>5.0</q>
-    <boost>7.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000650190454543,-1.9998944054863,0.9998300032587112,1.9998944054863,-0.9998950223041655,</dec>
-    <hex>0x3f800221,0xbffffc8a,0x3f7ff4dc,0x3ffffc8a,0xbf7ff91f,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>1.4</q>
+    <freq>20.0</freq>
+    <q>0.8</q>
     <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
-    <q>1.4</q>
+    <freq>20.0</freq>
+    <q>0.8</q>
     <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
-    <q>1.4</q>
+    <freq>20.0</freq>
+    <q>0.8</q>
     <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000269450311627,-1.9995583188558514,0.9995318543557145,1.9995583682716838,-0.9995587499710454,</dec>
-    <hex>0x3f8000e2,0xbffff187,0x3f7fe152,0x3ffff187,0xbf7fe315,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>10.0</freq>
-    <q>3.0</q>
-    <boost>6.0</boost>
-    <type>PK</type>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000076853097656,-1.999845133791534,0.9997687090290313,1.999845133791534,-0.9998455621266872,</dec>
-    <hex>0x3f800285,0xbffffaed,0x3f7ff0d8,0x3ffffaed,0xbf7ff5e1,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>12.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
+    <freq>33.0</freq>
+    <q>7.0</q>
+    <boost>9.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000763891185402,-1.9998030806548055,0.9997273083259639,1.9998030806548055,-0.9998036974445041,</dec>
-    <hex>0x3f800281,0xbffff98c,0x3f7fee21,0x3ffff98c,0xbf7ff323,</hex>
+    <dec>1.0001670858375928,-1.9998115614065581,0.9996491400687106,1.9998115614065581,-0.9998162259063036,</dec>
+    <hex>0x3f80057a,0xbffff9d3,0x3f7fe902,0x3ffff9d3,0xbf7ff3f5,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>12.0</freq>
-    <q>5.0</q>
-    <boost>7.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000650190454543,-1.9998944054863,0.9998300032587112,1.9998944054863,-0.9998950223041655,</dec>
-    <hex>0x3f800221,0xbffffc8a,0x3f7ff4dc,0x3ffffc8a,0xbf7ff91f,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,35 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Kung Fu Yoga</beq_title>
+    <beq_title>Lawless</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>kung fu yoga</beq_sortTitle>
-    <beq_year>2017</beq_year>
+    <beq_sortTitle>lawless</beq_sortTitle>
+    <beq_year>2012</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kung%20Fu%20Yoga%20%282017%29%28Ma%29%20DTS-X.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lawless%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Mandarin</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Two professors team up to locate a lost treasure and embark on an adventure that takes them from a Tibetan ice cave to Dubai, and to a mountain temple in India.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>Set in the Depression-era Franklin County, Virginia, a bootlegging gang is threatened by authorities who want a cut of their profits.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>383785</beq_theMovieDB>
-    <beq_poster>/rL6XM4fsr1cM5mN2flEhQ8jQter.jpg</beq_poster>
-    <beq_runtime>107</beq_runtime>
+    <beq_theMovieDB>82633</beq_theMovieDB>
+    <beq_poster>/kmjy8rX4lY2x1UCJIH24VvUtDXJ.jpg</beq_poster>
+    <beq_runtime>115</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="35">Comedy</genre>
-      <genre id="9648">Mystery</genre>
-      <genre id="28">Action</genre>
-      <genre id="12">Adventure</genre>
+      <genre id="80">Crime</genre>
+      <genre id="18">Drama</genre>
+      <genre id="37">Western</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DTS-X</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
