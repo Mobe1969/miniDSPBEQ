@@ -1428,20 +1428,21 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Eight years after the disappearance of Cassandra, some disturbing incidents seem to indicate that she's still alive. Police, parents and Cassandra herself, will try to unravel the mystery of her disappearance.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>Based on a miraculous true story that drew the attention of the entire nation, is the dramatic, thrilling, and spiritual journey of Ashley Smith and Brian Nichols.  After being taken hostage by Brian in her own apartment, Ashley turns to Rick Warrens inspirational book, The Purpose Driven Life, for guidance.  In reading from the book, Ashley not only finds purpose in her own life, but helps Brian find a more peaceful resolution to a harrowing situation.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>244761</beq_theMovieDB>
-    <beq_poster>/wLoFxTZFEfAzFLk2qSoPbcz58Jb.jpg</beq_poster>
-    <beq_runtime>112</beq_runtime>
+    <beq_theMovieDB>331190</beq_theMovieDB>
+    <beq_poster>/az9yxqEmHLFKuaLuDXcpm6lJ4pB.jpg</beq_poster>
+    <beq_runtime>97</beq_runtime>
+    <beq_collection />
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
+      <genre id="80">Crime</genre>
       <genre id="18">Drama</genre>
       <genre id="53">Thriller</genre>
-      <genre id="80">Crime</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
