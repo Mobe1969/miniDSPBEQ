@@ -17,7 +17,7 @@
     }
 }
 
-
+clear
 
 $files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ" -Filter *.xml -Recurse
 if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
