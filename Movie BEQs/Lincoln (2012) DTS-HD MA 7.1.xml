@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Lincoln</beq_title>
-    <beq_alt_title>Abraham Lincoln: Vampire Hunter</beq_alt_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>lincoln</beq_sortTitle>
     <beq_year>2012</beq_year>
     <beq_spectrumURL />
@@ -1428,13 +1429,13 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>President Lincoln's mother is killed by a supernatural creature, which fuels his passion to crush vampires and their slave-owning helpers.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>The revealing story of the 16th US President's tumultuous final months in office. In a nation divided by war and the strong winds of change, Lincoln pursues a course of action designed to end the war, unite the country and abolish slavery. With the moral courage and fierce determination to succeed, his choices during this critical moment will change the fate of generations to come.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>72331</beq_theMovieDB>
-    <beq_poster>/qv8deK0ZmutAuEpejruQKApIy6r.jpg</beq_poster>
-    <beq_runtime>94</beq_runtime>
+    <beq_theMovieDB>72976</beq_theMovieDB>
+    <beq_poster>/oosQMP9sh9LF2xR2eKcQ1iSscWM.jpg</beq_poster>
+    <beq_runtime>149</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="28">Action</genre>
