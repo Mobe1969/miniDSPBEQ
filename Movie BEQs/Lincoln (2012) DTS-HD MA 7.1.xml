@@ -1437,13 +1437,12 @@
     <beq_poster>/oosQMP9sh9LF2xR2eKcQ1iSscWM.jpg</beq_poster>
     <beq_runtime>149</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="14">Fantasy</genre>
-      <genre id="27">Horror</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 7.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="36">History</genre>
+      <genre id="18">Drama</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
