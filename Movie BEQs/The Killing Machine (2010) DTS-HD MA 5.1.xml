@@ -1416,7 +1416,7 @@
   <link />
   <beq_metadata>
     <beq_title>The Killing Machine</beq_title>
-    <beq_alt_title>Re-Generator</beq_alt_title>
+    <beq_alt_title>Icarus</beq_alt_title>
     <beq_sortTitle>the killing machine</beq_sortTitle>
     <beq_year>2010</beq_year>
     <beq_spectrumURL />
@@ -1428,19 +1428,20 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A plane containing a highly classified government project crashes outside of a small town in the US. Realizing the level of danger, the government tries to secretly fix the problem. As tensions grow, the situation gets out of control, and civilians from the town find themselves facing their worst nightmare: a genetically enhanced killing machine that doesn't know how to stop.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>Trained KGB assassin, Edward Genn (code name ICARUS), worked years ago as a sleeper agent in America. But when the Soviet Union collapsed, he quickly found himself in a foreign country with no one to trust. Determined to escape his muddled existence, Edward tries to start over. He assumes a new identity, starts a family and tries to start his own legitimate business that could potentially pull him out of his world of being a hitman.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>194834</beq_theMovieDB>
-    <beq_poster>/91DuiopktCSjCi4ozPePJWTaIL5.jpg</beq_poster>
-    <beq_runtime>94</beq_runtime>
+    <beq_theMovieDB>35402</beq_theMovieDB>
+    <beq_poster>/iN0Omb5obgdVTDsAqKm3EjahYbr.jpg</beq_poster>
+    <beq_runtime>88</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="28">Action</genre>
-      <genre id="878">Science Fiction</genre>
+      <genre id="18">Drama</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
