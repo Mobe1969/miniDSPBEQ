@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Hydra</beq_title>
-    <beq_alt_title>The Hydra</beq_alt_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>hydra</beq_sortTitle>
     <beq_year>2019</beq_year>
     <beq_spectrumURL />
@@ -1428,19 +1429,22 @@
     <beq_gain />
     <beq_language>Japanese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>"The Hydra" is a fast-paced suspense thriller and feature documentary about the sudden rise of ecstasy in Europe to epidemic levels after the disintegration of the Soviet Union.</beq_overview>
+    <beq_overview>An assassin for a secret organization keeping Japan safe from underworld threats finds himself targeted by evil forces aiming to unleash an unstoppable criminal syndicate upon Japan.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>637261</beq_theMovieDB>
-    <beq_poster>/AwaCIQMICN4BaKcGgqXShZ7nWrR.jpg</beq_poster>
-    <beq_runtime>72</beq_runtime>
+    <beq_theMovieDB>606216</beq_theMovieDB>
+    <beq_poster>/iGb8K5mQBhpobYAcxIQMwNRkTYD.jpg</beq_poster>
+    <beq_runtime>77</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="99">Documentary</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="53">Thriller</genre>
+      <genre id="28">Action</genre>
+      <genre id="80">Crime</genre>
+      <genre id="18">Drama</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
