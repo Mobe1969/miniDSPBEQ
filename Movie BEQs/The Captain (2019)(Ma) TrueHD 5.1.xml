@@ -1428,21 +1428,20 @@
     <beq_gain />
     <beq_language>Mandarin</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Germany, 1945. Soldier Willi Herold, a deserter of the German army, stumbles into a uniform of Nazi captain abandoned during the last and desperate weeks of the Third Reich. Newly emboldened by the allure of a suit that he has stolen only to stay warm, Willi discovers that many Germans will follow the leader, whoever he is.</beq_overview>
+    <beq_overview>Based on the true story of a pilot who had to ensure the safety of 128 passengers and crew members on the plane when its windshield became damaged mid-flight. The incident is regarded as one of the miracles in aviation history.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>475094</beq_theMovieDB>
-    <beq_poster>/6sXGn6EkiPNDv1EAD5DZCrJTbin.jpg</beq_poster>
-    <beq_runtime>118</beq_runtime>
+    <beq_theMovieDB>589712</beq_theMovieDB>
+    <beq_poster>/qEuPU4RlKQmhwu8umm5ARMqxaRx.jpg</beq_poster>
+    <beq_runtime>111</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="10752">War</genre>
-      <genre id="18">Drama</genre>
-      <genre id="36">History</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>TrueHD 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="18">Drama</genre>
+      <genre id="53">Thriller</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
