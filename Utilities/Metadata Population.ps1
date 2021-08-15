@@ -174,6 +174,35 @@ foreach ($file in $files) {
         $beqMetadata.beq_language = $language
         $save = $true
     }
+    $edition = ""
+    if ($fileName.IndexOf("(TC)") -ge 0) {
+        $edition = "Theatrical Cut"
+    }
+    elseif ($fileName.IndexOf("(Theatrical)") -ge 0) {
+        $edition = "Theatrical Cut"
+    }
+    elseif ($fileName.IndexOf("(EC)") -ge 0) {
+        $edition = "Extended Cut"
+    }
+    elseif ($fileName.IndexOf("(Extended)") -ge 0) {
+        $edition = "Extended Cut"
+    }
+    elseif ($fileName.IndexOf("(UC)") -ge 0) {
+        $edition = "Unrated Cut"
+    }
+    elseif ($fileName.IndexOf("(UR)") -ge 0) {
+        $edition = "Unrated Cut"
+    }
+    elseif ($fileName.IndexOf("(Unrated)") -ge 0) {
+        $edition = "Unrated Cut"
+    }
+    elseif ($fileName.IndexOf("(DC)") -ge 0) {
+        $edition = "Director's Cut"
+    }
+    if ($beqMetadata.beq_edition -ne $edition -and "" -ne $edition) {
+        $beqMetadata.beq_edition = $edition
+        $save = $true
+    }
     if ([string]::IsNullOrWhitespace($beqMetadata.beq_theMovieDB)) {
         Write-Output "$($file.Name) missing TMDB metadata"
         Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing TMDB metadata"

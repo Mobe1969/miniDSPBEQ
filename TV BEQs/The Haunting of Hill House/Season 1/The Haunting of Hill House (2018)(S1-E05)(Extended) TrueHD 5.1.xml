@@ -1421,31 +1421,6 @@
     <beq_year>2018</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Haunting%20of%20Hill%20House/Season%201/The%20Haunting%20of%20Hill%20House%20%282018%29%28S1-E05%29%28Extended%29%20TrueHD%205.1.jpg</beq_pvaURL>
-    <beq_edition>Extended</beq_edition>/>
-    <beq_season id="90484">
-        <number>1</number>
-        <poster>/j3qAf9pxbn7uZGVPzUQ7C6vApig.jpg</poster>
-        <episodes count="10">5</episodes>
-    </beq_season>
-    <beq_note />
-    <beq_warning />
-    <beq_gain />
-    <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>The Crains, a fractured family, confront haunting memories of their old home and the terrifying events that drove them from it.</beq_overview>
-    <beq_rating>NR</beq_rating>
-    <beq_author>mobe1969</beq_author>
-    <beq_avs />
-    <beq_theMovieDB>72844</beq_theMovieDB>
-    <beq_poster>/38PkhBGRQtmVx2drvPik3F42qHO.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
-    <beq_collection />
-    <beq_genres>
-      <genre id="9648">Mystery</genre>
-      <genre id="18">Drama</genre>
-    </beq_genres>
-    <beq_audioTypes>
-      <audioType>TrueHD 5.1</audioType>
-    </beq_audioTypes>
-  </beq_metadata>
+    <beq_edition>Extended Cut</beq_edition>/&gt;
+    <beq_season id="90484"><number>1</number><poster>/j3qAf9pxbn7uZGVPzUQ7C6vApig.jpg</poster><episodes count="10">5</episodes></beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>The Crains, a fractured family, confront haunting memories of their old home and the terrifying events that drove them from it.</beq_overview><beq_rating>NR</beq_rating><beq_author>mobe1969</beq_author><beq_avs /><beq_theMovieDB>72844</beq_theMovieDB><beq_poster>/38PkhBGRQtmVx2drvPik3F42qHO.jpg</beq_poster><beq_runtime>0</beq_runtime><beq_collection /><beq_genres><genre id="9648">Mystery</genre><genre id="18">Drama</genre></beq_genres><beq_audioTypes><audioType>TrueHD 5.1</audioType></beq_audioTypes></beq_metadata>
 </setting>

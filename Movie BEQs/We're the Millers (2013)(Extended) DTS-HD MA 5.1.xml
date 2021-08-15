@@ -1421,27 +1421,6 @@
     <beq_year>2013</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/We%27re%20the%20Millers%20%282013%29%28Extended%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition>Extended</beq_edition>/>
-    <beq_season />
-    <beq_note />
-    <beq_warning />
-    <beq_gain />
-    <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.</beq_overview>
-    <beq_rating>R</beq_rating>
-    <beq_author>mobe1969</beq_author>
-    <beq_avs />
-    <beq_theMovieDB>138832</beq_theMovieDB>
-    <beq_poster>/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg</beq_poster>
-    <beq_runtime>110</beq_runtime>
-    <beq_collection />
-    <beq_genres>
-      <genre id="35">Comedy</genre>
-      <genre id="80">Crime</genre>
-    </beq_genres>
-    <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
-    </beq_audioTypes>
-  </beq_metadata>
+    <beq_edition>Extended Cut</beq_edition>/&gt;
+    <beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.</beq_overview><beq_rating>R</beq_rating><beq_author>mobe1969</beq_author><beq_avs /><beq_theMovieDB>138832</beq_theMovieDB><beq_poster>/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg</beq_poster><beq_runtime>110</beq_runtime><beq_collection /><beq_genres><genre id="35">Comedy</genre><genre id="80">Crime</genre></beq_genres><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes></beq_metadata>
 </setting>
