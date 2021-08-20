@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>19.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.000151861502306,-1.9982632253880914,0.9981140239743493,1.9982635919004672,-0.9982655189642796,</dec>
+    <hex>0x3f8004fa,0xbfffc717,0x3f7f8467,0x3fffc71a,0xbf7f8e54,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>19.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.000151861502306,-1.9982632253880914,0.9981140239743493,1.9982635919004672,-0.9982655189642796,</dec>
+    <hex>0x3f8004fa,0xbfffc717,0x3f7f8467,0x3fffc71a,0xbf7f8e54,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>19.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.000151861502306,-1.9982632253880914,0.9981140239743493,1.9982635919004672,-0.9982655189642796,</dec>
+    <hex>0x3f8004fa,0xbfffc717,0x3f7f8467,0x3fffc71a,0xbf7f8e54,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>19.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.000151861502306,-1.9982632253880914,0.9981140239743493,1.9982635919004672,-0.9982655189642796,</dec>
+    <hex>0x3f8004fa,0xbfffc717,0x3f7f8467,0x3fffc71a,0xbf7f8e54,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>23.0</freq>
+    <q>2.0</q>
+    <boost>3.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001305877078006,-1.99936463974962,0.999236317392098,1.99936463974962,-0.9993669050998986,</dec>
+    <hex>0x3f800447,0xbfffeb2e,0x3f7fcdf4,0x3fffeb2e,0xbf7fd682,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>19.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.000151861502306,-1.9982632253880914,0.9981140239743493,1.9982635919004672,-0.9982655189642796,</dec>
+    <hex>0x3f8004fa,0xbfffc717,0x3f7f8467,0x3fffc71a,0xbf7f8e54,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>19.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.000151861502306,-1.9982632253880914,0.9981140239743493,1.9982635919004672,-0.9982655189642796,</dec>
+    <hex>0x3f8004fa,0xbfffc717,0x3f7f8467,0x3fffc71a,0xbf7f8e54,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>19.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.000151861502306,-1.9982632253880914,0.9981140239743493,1.9982635919004672,-0.9982655189642796,</dec>
+    <hex>0x3f8004fa,0xbfffc717,0x3f7f8467,0x3fffc71a,0xbf7f8e54,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>19.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.000151861502306,-1.9982632253880914,0.9981140239743493,1.9982635919004672,-0.9982655189642796,</dec>
+    <hex>0x3f8004fa,0xbfffc717,0x3f7f8467,0x3fffc71a,0xbf7f8e54,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>23.0</freq>
+    <q>2.0</q>
+    <boost>3.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001305877078006,-1.99936463974962,0.999236317392098,1.99936463974962,-0.9993669050998986,</dec>
+    <hex>0x3f800447,0xbfffeb2e,0x3f7fcdf4,0x3fffeb2e,0xbf7fd682,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Overheard 2</beq_title>
+    <beq_title>City Under Siege</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>overheard 2</beq_sortTitle>
-    <beq_year>2013</beq_year>
+    <beq_sortTitle>city under siege</beq_sortTitle>
+    <beq_year>2010</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Overheard%202%20%282013%29%28Ca%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/City%20Under%20Siege%20%282010%29%28Ca%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,21 +1428,23 @@
     <beq_gain />
     <beq_language>Cantonese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Manson Law, a celebrated stockbroker in Hong Kong, is injured in a car accident. The police, led by Inspector Jack Ho, discovers a military surveillance device in the car wreck. Meanwhile, the wiretapper Joe Szema is unveiling his extensive plan that targets the mysterious financial conglomerate, the Landlord Club. The fate of these three men soon intertwines in the cat-and-mouse game that may bring down the entire stock market.</beq_overview>
+    <beq_overview>Sunny is a nave circus performer who dreams of inheriting his father's knife-throwing skills. However, his hostile colleagues continue to bully him, relegating him to a lowly clown. On a tour to Malaysia, Cheung and other performers discover a cave occupied by the Japanese army during World War II. Instead of finding treasure, the performers - including Sunny - are sprayed with a mysterious chemical that turns them into superhuman mutants...</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>74639</beq_theMovieDB>
-    <beq_poster>/bnQkYQMS1KduqbPNb46JWRtV9Bo.jpg</beq_poster>
-    <beq_runtime>121</beq_runtime>
-    <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
-    </beq_audioTypes>
+    <beq_theMovieDB>44263</beq_theMovieDB>
+    <beq_poster>/zJGglhvEbjMQAhVc4lzMHTeUyav.jpg</beq_poster>
+    <beq_runtime>111</beq_runtime>
+    <beq_collection />
     <beq_genres>
+      <genre id="878">Science Fiction</genre>
       <genre id="28">Action</genre>
-      <genre id="18">Drama</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
-    <beq_collection id="324703">Overheard Collection</beq_collection>
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 7.1</audioType>
+	  <audioType>TrueHD 7.1</audioType>
+	  <audioType>LPCM 7.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>

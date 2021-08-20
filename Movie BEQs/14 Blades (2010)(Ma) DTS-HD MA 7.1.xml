@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>19.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>2.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.0000636515256234,-1.9992429004978896,0.9991797491829035,1.9992429673198946,-0.9992433338865213,</dec>
+    <hex>0x3f800216,0xbfffe731,0x3f7fca3e,0x3fffe732,0xbf7fce69,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>19.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>2.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.0000636515256234,-1.9992429004978896,0.9991797491829035,1.9992429673198946,-0.9992433338865213,</dec>
+    <hex>0x3f800216,0xbfffe731,0x3f7fca3e,0x3fffe732,0xbf7fce69,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>19.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>2.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.0000636515256234,-1.9992429004978896,0.9991797491829035,1.9992429673198946,-0.9992433338865213,</dec>
+    <hex>0x3f800216,0xbfffe731,0x3f7fca3e,0x3fffe732,0xbf7fce69,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>19.0</freq>
+    <freq>35.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>4.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.0003471914290525,-1.9974604349097547,0.9971199177335391,1.997461714380703,-0.9974658296916433,</dec>
+    <hex>0x3f800b60,0xbfffacc9,0x3f7f4340,0x3fffacd3,0xbf7f59ec,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>19.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>2.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.0000636515256234,-1.9992429004978896,0.9991797491829035,1.9992429673198946,-0.9992433338865213,</dec>
+    <hex>0x3f800216,0xbfffe731,0x3f7fca3e,0x3fffe732,0xbf7fce69,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>19.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>2.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.0000636515256234,-1.9992429004978896,0.9991797491829035,1.9992429673198946,-0.9992433338865213,</dec>
+    <hex>0x3f800216,0xbfffe731,0x3f7fca3e,0x3fffe732,0xbf7fce69,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>19.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>2.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.0000636515256234,-1.9992429004978896,0.9991797491829035,1.9992429673198946,-0.9992433338865213,</dec>
+    <hex>0x3f800216,0xbfffe731,0x3f7fca3e,0x3fffe732,0xbf7fce69,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>19.0</freq>
+    <freq>35.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>4.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000125443409932,-1.9985653861503079,0.9984417583110009,1.998565636303296,-0.9985669515679451,</dec>
-    <hex>0x3f80041c,0xbfffd0fe,0x3f7f99e1,0x3fffd100,0xbf7fa215,</hex>
+    <dec>1.0003471914290525,-1.9974604349097547,0.9971199177335391,1.997461714380703,-0.9974658296916433,</dec>
+    <hex>0x3f800b60,0xbfffacc9,0x3f7f4340,0x3fffacd3,0xbf7f59ec,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,34 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Overheard 2</beq_title>
+    <beq_title>14 Blades</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>overheard 2</beq_sortTitle>
-    <beq_year>2013</beq_year>
+    <beq_sortTitle>14 blades</beq_sortTitle>
+    <beq_year>2010</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Overheard%202%20%282013%29%28Ca%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/14%20Blades%20%282010%29%28Ma%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Cantonese</beq_language>
+    <beq_language>Mandarin</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Manson Law, a celebrated stockbroker in Hong Kong, is injured in a car accident. The police, led by Inspector Jack Ho, discovers a military surveillance device in the car wreck. Meanwhile, the wiretapper Joe Szema is unveiling his extensive plan that targets the mysterious financial conglomerate, the Landlord Club. The fate of these three men soon intertwines in the cat-and-mouse game that may bring down the entire stock market.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>Trained in clandestine combat from childhood, the Jinyiwei were masters of the 14 Blades; eight being for torture, five for killing, and the last blade reserved for suicide when a mission failed. An elite force of secret agents with a license to kill, the Jinyiwei devoted their lives and lethal prowess to the service of the Emperor alone. When the Imperial Court is taken over by evil eunuch Jia (Law Kar Ying), the best of the Jinyiwei, Qinglong (Donnie Yen) is assigned to steal a list identifying those still loyal to the Emperor. However unbeknownst to Qinglong, the Jinyiwei have fallen under the control of Jia, and during the mission Qinglong is betrayed and barely escapes with his life. Now as the most wanted man in the land, Qinglong must seek out and rally the loyalists to rise against Jia and restore the Emperor to power. In his way are the deadliest assassins in the land, his former brethren, the Jinyiwei.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>74639</beq_theMovieDB>
-    <beq_poster>/bnQkYQMS1KduqbPNb46JWRtV9Bo.jpg</beq_poster>
-    <beq_runtime>121</beq_runtime>
-    <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
-    </beq_audioTypes>
+    <beq_theMovieDB>34179</beq_theMovieDB>
+    <beq_poster>/y1VWOEN0UXFiSgCNvWO3lQuzLx.jpg</beq_poster>
+    <beq_runtime>114</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="28">Action</genre>
       <genre id="18">Drama</genre>
+      <genre id="28">Action</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
-    <beq_collection id="324703">Overheard Collection</beq_collection>
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 7.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
