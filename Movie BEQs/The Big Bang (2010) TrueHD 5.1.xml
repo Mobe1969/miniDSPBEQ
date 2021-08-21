@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>The Big Bang</beq_title>
-    <beq_alt_title>Nanny McPhee and the Big Bang</beq_alt_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>the big bang</beq_sortTitle>
     <beq_year>2010</beq_year>
     <beq_spectrumURL />
@@ -1428,21 +1429,22 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Nanny McPhee appears at the door of a harried young mother who is trying to run the family farm while her husband is away at war. But once shes arrived, Nanny discovers that the children are fighting a war of their own against two spoiled city cousins who have just moved in. Relying on everything from a flying motorcycle and a statue that comes to life to a tree-climbing piglet and a baby elephant, Nanny uses her magic to teach her mischievous charges five new lessons.</beq_overview>
-    <beq_rating>PG</beq_rating>
+    <beq_overview>A private detective is hired to find a missing stripper but the job turns complicated when everyone he questions ends up dead. From the mean streets of Los Angeles to the desolate desert of New Mexico, Cruz must contend with a brutal Russian Boxer, three brash LAPD detectives, an aged billionaire looking for the Big Bang, and the billionaire's stunningly gorgeous wife. The solution to the mystery will cost ten lives, net $30 million and just might explain - well - everything.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>35019</beq_theMovieDB>
-    <beq_poster>/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg</beq_poster>
-    <beq_runtime>109</beq_runtime>
-    <beq_collection id="35792">Nanny McPhee Collection</beq_collection>
+    <beq_theMovieDB>54271</beq_theMovieDB>
+    <beq_poster>/tnr5dg4YGGCRgLr84noLmbQfiQS.jpg</beq_poster>
+    <beq_runtime>101</beq_runtime>
+    <beq_collection>
+    </beq_collection>
     <beq_audioTypes>
       <audioType>TrueHD 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="14">Fantasy</genre>
-      <genre id="10751">Family</genre>
-      <genre id="35">Comedy</genre>
+      <genre id="28">Action</genre>
+      <genre id="9648">Mystery</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
