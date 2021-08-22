@@ -103,9 +103,11 @@ foreach ($file in $files) {
             $title = $title.Replace("-", ":")
         }
     }
-    if (!$beqMetadata.beq_title.Equals($title, 3)) {
-        $beqMetadata.beq_title = $title
-        $save = $true
+    if ($beqMetadata.beq_title -eq "") {
+        if (!$beqMetadata.beq_title.Equals($title, 3)) {
+            $beqMetadata.beq_title = $title
+            $save = $true
+        }
     }
     if (!$beqMetadata.beq_sortTitle.Equals($title.ToLower(), 3)) {
         $beqMetadata.beq_sortTitle = $title.ToLower()
