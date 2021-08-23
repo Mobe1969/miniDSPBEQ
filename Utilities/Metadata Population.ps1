@@ -358,6 +358,8 @@ foreach ($file in $files) {
     }
     if ($save) {
         $content.Save($file.FullName)
+    } else {
+        Write-Output "No Change: $($file.Name)"
     }
     if ($file.Name -eq "009 Re Cyborg (2012)(Ja) DTS-HD MA 5.1.xml") {
         #break
