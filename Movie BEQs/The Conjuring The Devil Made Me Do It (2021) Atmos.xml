@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>27.0</freq>
+    <freq>10.0</freq>
     <q>3.0</q>
     <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001022060943585,-1.999501378369068,0.9994022943047405,1.999501378369068,-0.9995045003990991,</dec>
-    <hex>0x3f800359,0xbfffefa9,0x3f7fd8d4,0x3fffefa9,0xbf7fdf87,</hex>
+    <dec>1.0000378600318292,-1.9998160245863494,0.9997785928834387,1.9998160245863494,-0.9998164529152679,</dec>
+    <hex>0x3f80013e,0xbffff9f9,0x3f7ff17d,0x3ffff9f9,0xbf7ff3f9,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>5.9</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000124123880984,-1.999386091590256,0.9992625691378189,1.999386239845187,-0.9993865447638716,</dec>
+    <hex>0x3f800411,0xbfffebe2,0x3f7fcfac,0x3fffebe3,0xbf7fd7cc,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>21.0</freq>
+    <q>0.8</q>
+    <boost>5.8</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002882538942235,-1.9985451510921173,0.9982595331666108,1.9985457931331938,-0.9985471450197578,</dec>
+    <hex>0x3f800972,0xbfffd054,0x3f7f8df0,0x3fffd059,0xbf7fa0c9,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>21.0</freq>
+    <q>0.8</q>
+    <boost>5.8</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002882538942235,-1.9985451510921173,0.9982595331666108,1.9985457931331938,-0.9985471450197578,</dec>
+    <hex>0x3f800972,0xbfffd054,0x3f7f8df0,0x3fffd059,0xbf7fa0c9,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>21.0</freq>
+    <q>0.8</q>
+    <boost>5.8</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002882538942235,-1.9985451510921173,0.9982595331666108,1.9985457931331938,-0.9985471450197578,</dec>
+    <hex>0x3f800972,0xbfffd054,0x3f7f8df0,0x3fffd059,0xbf7fa0c9,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>27.0</freq>
+    <freq>10.0</freq>
     <q>3.0</q>
     <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001022060943585,-1.999501378369068,0.9994022943047405,1.999501378369068,-0.9995045003990991,</dec>
-    <hex>0x3f800359,0xbfffefa9,0x3f7fd8d4,0x3fffefa9,0xbf7fdf87,</hex>
+    <dec>1.0000378600318292,-1.9998160245863494,0.9997785928834387,1.9998160245863494,-0.9998164529152679,</dec>
+    <hex>0x3f80013e,0xbffff9f9,0x3f7ff17d,0x3ffff9f9,0xbf7ff3f9,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>5.9</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000124123880984,-1.999386091590256,0.9992625691378189,1.999386239845187,-0.9993865447638716,</dec>
+    <hex>0x3f800411,0xbfffebe2,0x3f7fcfac,0x3fffebe3,0xbf7fd7cc,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>21.0</freq>
+    <q>0.8</q>
+    <boost>5.8</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002882538942235,-1.9985451510921173,0.9982595331666108,1.9985457931331938,-0.9985471450197578,</dec>
+    <hex>0x3f800972,0xbfffd054,0x3f7f8df0,0x3fffd059,0xbf7fa0c9,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>21.0</freq>
+    <q>0.8</q>
+    <boost>5.8</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002882538942235,-1.9985451510921173,0.9982595331666108,1.9985457931331938,-0.9985471450197578,</dec>
+    <hex>0x3f800972,0xbfffd054,0x3f7f8df0,0x3fffd059,0xbf7fa0c9,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>21.0</freq>
+    <q>0.8</q>
+    <boost>5.8</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002882538942235,-1.9985451510921173,0.9982595331666108,1.9985457931331938,-0.9985471450197578,</dec>
+    <hex>0x3f800972,0xbfffd054,0x3f7f8df0,0x3fffd059,0xbf7fa0c9,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Halo: The Fall of Reach</beq_title>
-    <beq_alt_title>F9</beq_alt_title>
-    <beq_sortTitle>halo the fall of reach</beq_sortTitle>
-    <beq_year>2015</beq_year>
+    <beq_title>The Conjuring: The Devil Made Me Do It</beq_title>
+    <beq_alt_title></beq_alt_title>
+    <beq_sortTitle>the conjuring the devil made me do it</beq_sortTitle>
+    <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Halo%20The%20Fall%20of%20Reach%20%282015%29%20AC3%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Conjuring%20The%20Devil%20Made%20Me%20Do%20It%20%282021%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,21 +1428,21 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>849591</beq_theMovieDB>
-    <beq_poster>/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
-    <beq_audioTypes>
-      <audioType>AC3 5.1</audioType>
-    </beq_audioTypes>
+    <beq_theMovieDB>423108</beq_theMovieDB>
+    <beq_poster>/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg</beq_poster>
+    <beq_runtime>111</beq_runtime>
     <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="80">Crime</genre>
+      <genre id="27">Horror</genre>
+      <genre id="9648">Mystery</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
-    <beq_collection id="9485">The Fast and the Furious Collection</beq_collection>
+    <beq_collection id="313086">The Conjuring Collection</beq_collection>
+    <beq_audioTypes>
+      <audioType>Atmos</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
