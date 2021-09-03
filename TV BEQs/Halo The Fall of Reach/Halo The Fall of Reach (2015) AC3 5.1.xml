@@ -1416,25 +1416,29 @@
   <link />
   <beq_metadata>
     <beq_title>Halo: The Fall of Reach</beq_title>
-    <beq_alt_title>F9</beq_alt_title>
+    <beq_alt_title></beq_alt_title>
     <beq_sortTitle>halo the fall of reach</beq_sortTitle>
     <beq_year>2015</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Halo%20The%20Fall%20of%20Reach%20%282015%29%20AC3%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL></beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="99478">
+        <number>1</number>
+        <poster></poster>
+        <episodes count="3">1,2,3</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview></beq_overview>
+    <beq_rating></beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>849591</beq_theMovieDB>
-    <beq_poster>/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
+    <beq_theMovieDB>77184</beq_theMovieDB>
+    <beq_poster></beq_poster>
+    <beq_runtime></beq_runtime>
     <beq_audioTypes>
       <audioType>AC3 5.1</audioType>
     </beq_audioTypes>
