@@ -1420,25 +1420,32 @@
     <beq_sortTitle>halo 4 forward unto dawn</beq_sortTitle>
     <beq_year>2012</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Halo%204%20Forward%20Unto%20Dawn%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Halo/Halo%204%20Forward%20Unto%20Dawn%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="75925">
+        <number>1</number>
+        <poster></poster>
+        <episodes count="5">1,2,3,4,5</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview />
-    <beq_rating />
+    <beq_overview>A coming-of-age story, Forward Unto Dawn follows a cadet, Thomas Lasky, at a twenty-sixth century military training academy as it is attacked by the Covenant, an alliance of alien zealots. Lasky is unsure of his future within the military but feels pressured to follow in the footsteps of his mother and brother. Lasky and his surviving squad mates are rescued by the Master Chief and, after the death of his romantic interest, Chyler Silva, Lasky is inspired by the Chief to take initiative and aids him in saving the remaining cadets.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB />
-    <beq_poster />
-    <beq_runtime />
+    <beq_theMovieDB>56295</beq_theMovieDB>
+    <beq_poster>/Am1yFF4Ye0eJ8fd6mK7HAvHt3FE.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
-    <beq_genres />
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
+      <genre id="10759">Action &amp; Adventure</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
