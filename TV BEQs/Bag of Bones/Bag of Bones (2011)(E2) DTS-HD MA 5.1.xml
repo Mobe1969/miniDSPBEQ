@@ -1422,7 +1422,11 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Bag%20of%20Bones/Bag%20of%20Bones%20%282011%29%28E2%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="59537">
+        <number>1</number>
+        <poster>/9gUYPwLG1BpVSAM6R58PnJx5ota.jpg</poster>
+        <episodes count="2">2</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
