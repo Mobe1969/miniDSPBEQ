@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>20.0</freq>
-    <q>3.6</q>
-    <boost>8.0</boost>
+    <freq>23.0</freq>
+    <q>2.5</q>
+    <boost>9.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001734104895887,-1.9997688905390314,0.9995971933256521,1.9997688905390314,-0.9997706038152409,</dec>
-    <hex>0x3f8005af,0xbffff86d,0x3f7fe59a,0x3ffff86d,0xbf7ff0f7,</hex>
+    <dec>1.0003260421675175,-1.9996391276207242,0.9993153511144895,1.9996391276207242,-0.9996413932820071,</dec>
+    <hex>0x3f800aaf,0xbffff42d,0x3f7fd321,0x3ffff42d,0xbf7fe880,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001319896712193,-1.9978363574775062,0.9977081319301179,1.9978367445645029,-0.9978397345143404,</dec>
+    <hex>0x3f800453,0xbfffb91a,0x3f7f69cd,0x3fffb91d,0xbf7f726d,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001319896712193,-1.9978363574775062,0.9977081319301179,1.9978367445645029,-0.9978397345143404,</dec>
+    <hex>0x3f800453,0xbfffb91a,0x3f7f69cd,0x3fffb91d,0xbf7f726d,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001319896712193,-1.9978363574775062,0.9977081319301179,1.9978367445645029,-0.9978397345143404,</dec>
+    <hex>0x3f800453,0xbfffb91a,0x3f7f69cd,0x3fffb91d,0xbf7f726d,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001319896712193,-1.9978363574775062,0.9977081319301179,1.9978367445645029,-0.9978397345143404,</dec>
+    <hex>0x3f800453,0xbfffb91a,0x3f7f69cd,0x3fffb91d,0xbf7f726d,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>20.0</freq>
-    <q>3.6</q>
-    <boost>8.0</boost>
+    <freq>23.0</freq>
+    <q>2.5</q>
+    <boost>9.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001734104895887,-1.9997688905390314,0.9995971933256521,1.9997688905390314,-0.9997706038152409,</dec>
-    <hex>0x3f8005af,0xbffff86d,0x3f7fe59a,0x3ffff86d,0xbf7ff0f7,</hex>
+    <dec>1.0003260421675175,-1.9996391276207242,0.9993153511144895,1.9996391276207242,-0.9996413932820071,</dec>
+    <hex>0x3f800aaf,0xbffff42d,0x3f7fd321,0x3ffff42d,0xbf7fe880,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001319896712193,-1.9978363574775062,0.9977081319301179,1.9978367445645029,-0.9978397345143404,</dec>
+    <hex>0x3f800453,0xbfffb91a,0x3f7f69cd,0x3fffb91d,0xbf7f726d,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001319896712193,-1.9978363574775062,0.9977081319301179,1.9978367445645029,-0.9978397345143404,</dec>
+    <hex>0x3f800453,0xbfffb91a,0x3f7f69cd,0x3fffb91d,0xbf7f726d,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001319896712193,-1.9978363574775062,0.9977081319301179,1.9978367445645029,-0.9978397345143404,</dec>
+    <hex>0x3f800453,0xbfffb91a,0x3f7f69cd,0x3fffb91d,0xbf7f726d,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001319896712193,-1.9978363574775062,0.9977081319301179,1.9978367445645029,-0.9978397345143404,</dec>
+    <hex>0x3f800453,0xbfffb91a,0x3f7f69cd,0x3fffb91d,0xbf7f726d,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,34 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Asura: The City of Madness</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>asura</beq_sortTitle>
-    <beq_year>2016</beq_year>
+    <beq_title>Bloodsport</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>bloodsport</beq_sortTitle>
+    <beq_year>1988</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Asura%20%282016%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bloodsport%20%281988%29%20DTS-HD%20MA%202.0.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Korean</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A shady cop finds himself in over his head when he gets caught between Internal Affairs and the citys corrupt mayor.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>U.S. soldier Frank Dux has come to Hong Kong to be accepted into the Kumite, a highly secret and extremely violent martial arts competition. While trying to gain access into the underground world of clandestine fighters, he also has to avoid military officers who consider him to be AWOL. After enduring a difficult training and beginning a romance with journalist Janice Kent, Frank is given the opportunity to fight. But can he survive?</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>408620</beq_theMovieDB>
-    <beq_poster>/cAYOQDnLScLe9GXtolRuiXXK5mJ.jpg</beq_poster>
-    <beq_runtime>136</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>11690</beq_theMovieDB>
+    <beq_poster>/kndxR9TRK0kJ5hxzDprRSS80F2W.jpg</beq_poster>
+    <beq_runtime>92</beq_runtime>
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 2.0</audioType>
+    </beq_audioTypes>
     <beq_genres>
       <genre id="28">Action</genre>
-      <genre id="80">Crime</genre>
+      <genre id="18">Drama</genre>
     </beq_genres>
-    <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
-    </beq_audioTypes>
+    <beq_collection id="36694">Bloodsport Collection</beq_collection>
   </beq_metadata>
 </setting>

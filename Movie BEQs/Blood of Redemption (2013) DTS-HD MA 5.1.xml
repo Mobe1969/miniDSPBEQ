@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>20.0</freq>
-    <q>3.6</q>
-    <boost>8.0</boost>
-    <type>PK</type>
+    <freq>35.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001734104895887,-1.9997688905390314,0.9995971933256521,1.9997688905390314,-0.9997706038152409,</dec>
-    <hex>0x3f8005af,0xbffff86d,0x3f7fe59a,0x3ffff86d,0xbf7ff0f7,</hex>
+    <dec>1.000165002971707,-1.997295122640634,0.9971359995240346,1.9972957273007237,-0.9973003978356516,</dec>
+    <hex>0x3f800568,0xbfffa75e,0x3f7f444e,0x3fffa763,0xbf7f4f14,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>35.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000165002971707,-1.997295122640634,0.9971359995240346,1.9972957273007237,-0.9973003978356516,</dec>
+    <hex>0x3f800568,0xbfffa75e,0x3f7f444e,0x3fffa763,0xbf7f4f14,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>35.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000165002971707,-1.997295122640634,0.9971359995240346,1.9972957273007237,-0.9973003978356516,</dec>
+    <hex>0x3f800568,0xbfffa75e,0x3f7f444e,0x3fffa763,0xbf7f4f14,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>20.0</freq>
-    <q>3.6</q>
-    <boost>8.0</boost>
-    <type>PK</type>
+    <freq>35.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001734104895887,-1.9997688905390314,0.9995971933256521,1.9997688905390314,-0.9997706038152409,</dec>
-    <hex>0x3f8005af,0xbffff86d,0x3f7fe59a,0x3ffff86d,0xbf7ff0f7,</hex>
+    <dec>1.000165002971707,-1.997295122640634,0.9971359995240346,1.9972957273007237,-0.9973003978356516,</dec>
+    <hex>0x3f800568,0xbfffa75e,0x3f7f444e,0x3fffa763,0xbf7f4f14,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>35.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000165002971707,-1.997295122640634,0.9971359995240346,1.9972957273007237,-0.9973003978356516,</dec>
+    <hex>0x3f800568,0xbfffa75e,0x3f7f444e,0x3fffa763,0xbf7f4f14,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>35.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000165002971707,-1.997295122640634,0.9971359995240346,1.9972957273007237,-0.9973003978356516,</dec>
+    <hex>0x3f800568,0xbfffa75e,0x3f7f444e,0x3fffa763,0xbf7f4f14,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>1000</freq>
@@ -1415,30 +1415,31 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Asura: The City of Madness</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>asura</beq_sortTitle>
-    <beq_year>2016</beq_year>
+    <beq_title>Blood of Redemption</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>blood of redemption</beq_sortTitle>
+    <beq_year>2013</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Asura%20%282016%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20of%20Redemption%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Korean</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A shady cop finds himself in over his head when he gets caught between Internal Affairs and the citys corrupt mayor.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>Quinn Forte had it all: power, money, a brother who idolized him, and a woman who loved him. He also had enemies. In the course of one night, he loses everything. Betrayed by someone in his inner circle, Quinn is set up and arrested. His father, the patriarch of the criminal empire is killed and his brother suspects that Quinn is behind it all. When he's released from jail he tries to escape the demons from his past, but that becomes an impossible task. Campbell, the ruthless new leader of "The Company" won't let him leave in peace. So instead of escaping them, Quinn fights back. He joins forces with his former henchman and friend, The Swede, and takes on his enemies head on.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>408620</beq_theMovieDB>
-    <beq_poster>/cAYOQDnLScLe9GXtolRuiXXK5mJ.jpg</beq_poster>
-    <beq_runtime>136</beq_runtime>
+    <beq_theMovieDB>220820</beq_theMovieDB>
+    <beq_poster>/vxMQiHh2lP6Dq46R2OyvXYA8XqB.jpg</beq_poster>
+    <beq_runtime>85</beq_runtime>
     <beq_collection />
     <beq_genres>
+      <genre id="18">Drama</genre>
       <genre id="28">Action</genre>
+      <genre id="53">Thriller</genre>
       <genre id="80">Crime</genre>
     </beq_genres>
     <beq_audioTypes>
