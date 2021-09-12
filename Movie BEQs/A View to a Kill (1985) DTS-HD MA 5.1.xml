@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>6.0</boost>
-    <type>PK</type>
+    <freq>32.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001536942942857,-1.9996894349605934,0.9995374538744446,1.9996894349605934,-0.9996911481687305,</dec>
-    <hex>0x3f800509,0xbffff5d3,0x3f7fe1b0,0x3ffff5d3,0xbf7febc2,</hex>
+    <dec>1.0003098223090157,-1.997671617114554,0.9973673424963845,1.9976726608159587,-0.9976761211039958,</dec>
+    <hex>0x3f800a27,0xbfffb3b4,0x3f7f5377,0x3fffb3bd,0xbf7f67b4,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
-    <q>1.7</q>
-    <boost>6.0</boost>
-    <type>PK</type>
+    <freq>32.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002711931998953,-1.9994533187062622,0.9991838385122146,1.9994533187062622,-0.9994550317121097,</dec>
-    <hex>0x3f8008e3,0xbfffee16,0x3f7fca83,0x3fffee16,0xbf7fdc49,</hex>
+    <dec>1.0003098223090157,-1.997671617114554,0.9973673424963845,1.9976726608159587,-0.9976761211039958,</dec>
+    <hex>0x3f800a27,0xbfffb3b4,0x3f7f5377,0x3fffb3bd,0xbf7f67b4,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>32.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003098223090157,-1.997671617114554,0.9973673424963845,1.9976726608159587,-0.9976761211039958,</dec>
+    <hex>0x3f800a27,0xbfffb3b4,0x3f7f5377,0x3fffb3bd,0xbf7f67b4,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>32.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003098223090157,-1.997671617114554,0.9973673424963845,1.9976726608159587,-0.9976761211039958,</dec>
+    <hex>0x3f800a27,0xbfffb3b4,0x3f7f5377,0x3fffb3bd,0xbf7f67b4,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>32.0</freq>
+    <q>3.0</q>
+    <boost>8.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000332912862001,-1.9995552204694516,0.9992266931308001,1.9995552204694516,-0.9995596059928011,</dec>
+    <hex>0x3f800ae9,0xbffff16d,0x3f7fcd52,0x3ffff16d,0xbf7fe323,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>6.0</boost>
-    <type>PK</type>
+    <freq>32.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001536942942857,-1.9996894349605934,0.9995374538744446,1.9996894349605934,-0.9996911481687305,</dec>
-    <hex>0x3f800509,0xbffff5d3,0x3f7fe1b0,0x3ffff5d3,0xbf7febc2,</hex>
+    <dec>1.0003098223090157,-1.997671617114554,0.9973673424963845,1.9976726608159587,-0.9976761211039958,</dec>
+    <hex>0x3f800a27,0xbfffb3b4,0x3f7f5377,0x3fffb3bd,0xbf7f67b4,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
-    <q>1.7</q>
-    <boost>6.0</boost>
-    <type>PK</type>
+    <freq>32.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002711931998953,-1.9994533187062622,0.9991838385122146,1.9994533187062622,-0.9994550317121097,</dec>
-    <hex>0x3f8008e3,0xbfffee16,0x3f7fca83,0x3fffee16,0xbf7fdc49,</hex>
+    <dec>1.0003098223090157,-1.997671617114554,0.9973673424963845,1.9976726608159587,-0.9976761211039958,</dec>
+    <hex>0x3f800a27,0xbfffb3b4,0x3f7f5377,0x3fffb3bd,0xbf7f67b4,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>32.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003098223090157,-1.997671617114554,0.9973673424963845,1.9976726608159587,-0.9976761211039958,</dec>
+    <hex>0x3f800a27,0xbfffb3b4,0x3f7f5377,0x3fffb3bd,0xbf7f67b4,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>32.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003098223090157,-1.997671617114554,0.9973673424963845,1.9976726608159587,-0.9976761211039958,</dec>
+    <hex>0x3f800a27,0xbfffb3b4,0x3f7f5377,0x3fffb3bd,0xbf7f67b4,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>32.0</freq>
+    <q>3.0</q>
+    <boost>8.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000332912862001,-1.9995552204694516,0.9992266931308001,1.9995552204694516,-0.9995596059928011,</dec>
+    <hex>0x3f800ae9,0xbffff16d,0x3f7fcd52,0x3ffff16d,0xbf7fe323,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,35 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Creepy</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>creepy</beq_sortTitle>
-    <beq_year>2016</beq_year>
+    <beq_title>A View to a Kill</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>a view to a kill</beq_sortTitle>
+    <beq_year>1985</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Creepy%20%282016%29%28Ja%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20View%20to%20a%20Kill%20%281985%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Japanese</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>After having narrowly escaped an attempt on his life at the hands of a psychopath, detective inspector Takakura quits active service in the police force and takes up a position as a university lecturer in criminal psychology. But his desire to get to the bottom of criminals motives remains, and he does not hesitate long when former colleague Nogami asks him to reopen an old case.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>A newly-developed microchip designed by Zorin Industries for the British Government that can survive the electromagnetic radiation caused by a nuclear explosion has landed in the hands of the KGB. James Bond must find out how and why. His suspicions soon lead him to big industry leader Max Zorin.</beq_overview>
+    <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>380620</beq_theMovieDB>
-    <beq_poster>/hWBLD0lzALjp8Q7oKTBu00XPqEZ.jpg</beq_poster>
-    <beq_runtime>130</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>707</beq_theMovieDB>
+    <beq_poster>/arJF829RP9cYvh0NU70dC5TtXSa.jpg</beq_poster>
+    <beq_runtime>131</beq_runtime>
+    <beq_genres>
+      <genre id="12">Adventure</genre>
+      <genre id="28">Action</genre>
+      <genre id="53">Thriller</genre>
+    </beq_genres>
+    <beq_collection id="645">James Bond Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
-    <beq_genres>
-      <genre id="9648">Mystery</genre>
-      <genre id="53">Thriller</genre>
-      <genre id="27">Horror</genre>
-    </beq_genres>
   </beq_metadata>
 </setting>
