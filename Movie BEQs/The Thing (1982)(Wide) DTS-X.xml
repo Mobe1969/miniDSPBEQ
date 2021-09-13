@@ -1424,7 +1424,7 @@
     <beq_edition />
     <beq_season />
     <beq_note />
-    <beq_warning />
+    <beq_warning>Has some PEQs above 35Hz. Not tested by me</beq_warning>
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
