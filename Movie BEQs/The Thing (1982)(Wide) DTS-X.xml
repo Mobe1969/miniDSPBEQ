@@ -1421,7 +1421,7 @@
     <beq_year>1982</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Thing%20%281982%29%28Wide%29%20DTS-X.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_edition>>35Hz</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning>Has some PEQs above 35Hz. Not tested by me</beq_warning>
