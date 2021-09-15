@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>1.4</q>
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001654423196833,-1.9990077659739216,0.9988434427261883,1.999008010859695,-0.9990086401600983,</dec>
+    <hex>0x3f80056c,0xbfffdf7d,0x3f7fb434,0x3fffdf7f,0xbf7fbf08,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001654423196833,-1.9990077659739216,0.9988434427261883,1.999008010859695,-0.9990086401600983,</dec>
+    <hex>0x3f80056c,0xbfffdf7d,0x3f7fb434,0x3fffdf7f,0xbf7fbf08,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001654423196833,-1.9990077659739216,0.9988434427261883,1.999008010859695,-0.9990086401600983,</dec>
+    <hex>0x3f80056c,0xbfffdf7d,0x3f7fb434,0x3fffdf7f,0xbf7fbf08,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001654423196833,-1.9990077659739216,0.9988434427261883,1.999008010859695,-0.9990086401600983,</dec>
+    <hex>0x3f80056c,0xbfffdf7d,0x3f7fb434,0x3fffdf7f,0xbf7fbf08,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>25.0</freq>
+    <q>0.8</q>
     <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000539802870896,-1.999582988282801,0.9995295471670498,1.999583087771412,-0.9995834279655279,</dec>
-    <hex>0x3f8001c5,0xbffff256,0x3f7fe12b,0x3ffff257,0xbf7fe4b3,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>32.0</freq>
-    <q>0.8</q>
-    <boost>2.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001735145773218,-1.9975482837533756,0.9973797705045238,1.9975488655041787,-0.9975527033310423,</dec>
-    <hex>0x3f8005b0,0xbfffafaa,0x3f7f5448,0x3fffafae,0xbf7f5f9d,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>32.0</freq>
-    <q>0.8</q>
-    <boost>2.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001735145773218,-1.9975482837533756,0.9973797705045238,1.9975488655041787,-0.9975527033310423,</dec>
-    <hex>0x3f8005b0,0xbfffafaa,0x3f7f5448,0x3fffafae,0xbf7f5f9d,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <dec>1.000236091001685,-1.9981760319905075,0.9979433084422452,1.9981766533574843,-0.9981787780769534,</dec>
+    <hex>0x3f8007bc,0xbfffc43b,0x3f7f7936,0x3fffc441,0xbf7f88a5,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>1.4</q>
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001654423196833,-1.9990077659739216,0.9988434427261883,1.999008010859695,-0.9990086401600983,</dec>
+    <hex>0x3f80056c,0xbfffdf7d,0x3f7fb434,0x3fffdf7f,0xbf7fbf08,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001654423196833,-1.9990077659739216,0.9988434427261883,1.999008010859695,-0.9990086401600983,</dec>
+    <hex>0x3f80056c,0xbfffdf7d,0x3f7fb434,0x3fffdf7f,0xbf7fbf08,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001654423196833,-1.9990077659739216,0.9988434427261883,1.999008010859695,-0.9990086401600983,</dec>
+    <hex>0x3f80056c,0xbfffdf7d,0x3f7fb434,0x3fffdf7f,0xbf7fbf08,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001654423196833,-1.9990077659739216,0.9988434427261883,1.999008010859695,-0.9990086401600983,</dec>
+    <hex>0x3f80056c,0xbfffdf7d,0x3f7fb434,0x3fffdf7f,0xbf7fbf08,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>25.0</freq>
+    <q>0.8</q>
     <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000539802870896,-1.999582988282801,0.9995295471670498,1.999583087771412,-0.9995834279655279,</dec>
-    <hex>0x3f8001c5,0xbffff256,0x3f7fe12b,0x3ffff257,0xbf7fe4b3,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>32.0</freq>
-    <q>0.8</q>
-    <boost>2.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001735145773218,-1.9975482837533756,0.9973797705045238,1.9975488655041787,-0.9975527033310423,</dec>
-    <hex>0x3f8005b0,0xbfffafaa,0x3f7f5448,0x3fffafae,0xbf7f5f9d,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>32.0</freq>
-    <q>0.8</q>
-    <boost>2.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001735145773218,-1.9975482837533756,0.9973797705045238,1.9975488655041787,-0.9975527033310423,</dec>
-    <hex>0x3f8005b0,0xbfffafaa,0x3f7f5448,0x3fffafae,0xbf7f5f9d,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <dec>1.000236091001685,-1.9981760319905075,0.9979433084422452,1.9981766533574843,-0.9981787780769534,</dec>
+    <hex>0x3f8007bc,0xbfffc43b,0x3f7f7936,0x3fffc441,0xbf7f88a5,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Lost Boys: The Tribe</beq_title>
-    <beq_alt_title></beq_alt_title>
-    <beq_sortTitle>lost boys the tribe</beq_sortTitle>
-    <beq_year>2008</beq_year>
+    <beq_title>Never Grow Old</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>never grow old</beq_sortTitle>
+    <beq_year>2019</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lost%20Boys%20The%20Tribe%20%282008%29%20AC3%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Never%20Grow%20Old%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,23 +1428,19 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>The sequel to the 1987 cult hit The Lost Boys takes us to the shady surf city of Luna Bay, California, where vampires quickly dispatch anyone who crosses their path. Into this dark world arrive Chris Emerson (Hilgenbrink) and his younger sister, Nicole (Reeser). Having just lost their parents in a car accident, the siblings move in with their eccentric Aunt Jillian and become new prey...</beq_overview>
+    <beq_overview>An Irish undertaker profits when outlaws take over a peaceful town, but his own family come under threat as the death toll increases dramatically.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>13489</beq_theMovieDB>
-    <beq_poster>/9JNiL8IIvDTs1M4eFw8IUKmItKk.jpg</beq_poster>
-    <beq_runtime>94</beq_runtime>
+    <beq_theMovieDB>498743</beq_theMovieDB>
+    <beq_poster>/3WGh8RtXOCG6Onrju1SBO67fCGb.jpg</beq_poster>
+    <beq_runtime>101</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="80">Crime</genre>
-      <genre id="18">Drama</genre>
-      <genre id="27">Horror</genre>
-      <genre id="53">Thriller</genre>
-      <genre id="35">Comedy</genre>
+      <genre id="37">Western</genre>
     </beq_genres>
-    <beq_collection id="109076">Lost Boys Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>AC3 5.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
