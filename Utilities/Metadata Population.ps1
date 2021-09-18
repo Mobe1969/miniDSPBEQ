@@ -30,6 +30,9 @@ foreach ($file in $files) {
     $save = $false
     $content = [System.Xml.XmlDocument](Get-Content $file.FullName)
     $reportName = [io.path]::GetFileNameWithoutExtension($file.Name)
+    if ($reportName -eq "Alone and Distracted (2014) DTS-HD MA 5.1") {
+        $reportName = "Edge of Tomorrow (2014)(40s) DTS-HD MA 5.1"
+    }
     if ($file.FullName.Contains("Movie")) {
         $report = Get-ChildItem "D:\BEQ\Mobe\beq-reports\Movies" -Filter "$reportName.jpg"
     }
@@ -96,6 +99,7 @@ foreach ($file in $files) {
     $beqMetadata = $content.setting.beq_metadata
     $fileName = [io.path]::GetFileNameWithoutExtension($file.Name)
     $title = $file.Name.SubString(0, $file.Name.IndexOf("(")).Trim()
+
     if ($title.Contains("-")) {
         $dash = $title.IndexOf("-")
         $dashToColon = '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ' '
@@ -208,7 +212,11 @@ foreach ($file in $files) {
     if ([string]::IsNullOrWhitespace($beqMetadata.beq_theMovieDB)) {
         Write-Output "$($file.Name) missing TMDB metadata"
         Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing TMDB metadata"
-        $safeTitle = [uri]::EscapeDataString($beqMetadata.beq_title)
+        if ($beqMetadata.beq_title -eq "Alone and Distracted") {
+            $safeTitle = [uri]::EscapeDataString("Edge of Tomorrow")
+        } else {
+            $safeTitle = [uri]::EscapeDataString($beqMetadata.beq_title)
+        }
         $year = $beqMetadata.beq_year
         if ($file.FullName.Contains("Movie")) {
             $ItemType = "movie"
