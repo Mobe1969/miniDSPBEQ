@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
+    <freq>20.0</freq>
+    <q>2.0</q>
+    <boost>9.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.000354388167501,-1.9996085029917992,0.9992558279630979,1.9996085029917992,-0.9996102161305986,</dec>
+    <hex>0x3f800b9d,0xbffff32c,0x3f7fcf3b,0x3ffff32c,0xbf7fe675,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
+    <freq>30.0</freq>
+    <q>3.0</q>
+    <boost>8.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.000312110131108,-1.9995832703824918,0.9992750147684831,1.9995832703824918,-0.9995871248995912,</dec>
+    <hex>0x3f800a3a,0xbffff258,0x3f7fd07d,0x3ffff258,0xbf7fe4f1,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
+    <freq>20.0</freq>
+    <q>2.0</q>
+    <boost>9.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.000354388167501,-1.9996085029917992,0.9992558279630979,1.9996085029917992,-0.9996102161305986,</dec>
+    <hex>0x3f800b9d,0xbffff32c,0x3f7fcf3b,0x3ffff32c,0xbf7fe675,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
+    <freq>30.0</freq>
+    <q>3.0</q>
+    <boost>8.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.000312110131108,-1.9995832703824918,0.9992750147684831,1.9995832703824918,-0.9995871248995912,</dec>
+    <hex>0x3f800a3a,0xbffff258,0x3f7fd07d,0x3ffff258,0xbf7fe4f1,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>1000</freq>
@@ -1415,31 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Painted Skin: The Resurrection</beq_title>
+    <beq_title>Pathfinders: In the Company of Strangers</beq_title>
     <beq_alt_title></beq_alt_title>
-    <beq_sortTitle>painted skin the resurrection</beq_sortTitle>
-    <beq_year>2012</beq_year>
+    <beq_sortTitle>pathfinders in the company of strangers</beq_sortTitle>
+    <beq_year>2011</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Painted%20Skin%20The%20Resurrection%20%282012%29%28Ma%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pathfinders%20In%20the%20Company%20of%20Strangers%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Mandarin</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>According to demon lore, it takes hundreds of years to attain human form. Even then, lacking a human heart, a demon cannot experience the true pains and passions of existence. However, there is a legend that if a pure human heart is freely offered to a demon, it can become a mortal and experience true life.  Sequel of Painted Skin (2008).</beq_overview>
-    <beq_rating>M</beq_rating>
+    <beq_overview>Untold and lost history. A true story of the American Pathfinders, the volunteer paratroopers whose deadly mission was to land 30 minutes before the Normandy invasion, locate and mark strategic "drop zones" and set up the top-secret navigation equipment needed to guide the main airborne assault on D-Day.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>124471</beq_theMovieDB>
-    <beq_poster>/cuHLSpqCjoU1AcyQhS2acB3g2cO.jpg</beq_poster>
-    <beq_runtime>131</beq_runtime>
+    <beq_theMovieDB>61346</beq_theMovieDB>
+    <beq_poster>/tjJ32u2veqqpcom2FwGbsdwdSLq.jpg</beq_poster>
+    <beq_runtime>91</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="14">Fantasy</genre>
+      <genre id="28">Action</genre>
+      <genre id="36">History</genre>
+      <genre id="10752">War</genre>
     </beq_genres>
-    <beq_collection id="132877">Painted Skin Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>

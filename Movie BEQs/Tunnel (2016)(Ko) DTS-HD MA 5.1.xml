@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>19.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0000494727966804,-1.9988210100777806,0.9987725813853947,1.9988210877914874,-0.9988219764683683,</dec>
+    <hex>0x3f80019f,0xbfffd95e,0x3f7faf8f,0x3fffd95f,0xbf7fb2cc,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>19.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0000494727966804,-1.9988210100777806,0.9987725813853947,1.9988210877914874,-0.9988219764683683,</dec>
+    <hex>0x3f80019f,0xbfffd95e,0x3f7faf8f,0x3fffd95f,0xbf7fb2cc,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>19.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0000494727966804,-1.9988210100777806,0.9987725813853947,1.9988210877914874,-0.9988219764683683,</dec>
+    <hex>0x3f80019f,0xbfffd95e,0x3f7faf8f,0x3fffd95f,0xbf7fb2cc,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>15.0</freq>
+    <q>0.8</q>
+    <boost>1.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000494727966804,-1.9988210100777806,0.9987725813853947,1.9988210877914874,-0.9988219764683683,</dec>
+    <hex>0x3f80019f,0xbfffd95e,0x3f7faf8f,0x3fffd95f,0xbf7fb2cc,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>19.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0000494727966804,-1.9988210100777806,0.9987725813853947,1.9988210877914874,-0.9988219764683683,</dec>
+    <hex>0x3f80019f,0xbfffd95e,0x3f7faf8f,0x3fffd95f,0xbf7fb2cc,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>19.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0000494727966804,-1.9988210100777806,0.9987725813853947,1.9988210877914874,-0.9988219764683683,</dec>
+    <hex>0x3f80019f,0xbfffd95e,0x3f7faf8f,0x3fffd95f,0xbf7fb2cc,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>19.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0000494727966804,-1.9988210100777806,0.9987725813853947,1.9988210877914874,-0.9988219764683683,</dec>
+    <hex>0x3f80019f,0xbfffd95e,0x3f7faf8f,0x3fffd95f,0xbf7fb2cc,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>15.0</freq>
+    <q>0.8</q>
+    <boost>1.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000494727966804,-1.9988210100777806,0.9987725813853947,1.9988210877914874,-0.9988219764683683,</dec>
+    <hex>0x3f80019f,0xbfffd95e,0x3f7faf8f,0x3fffd95f,0xbf7fb2cc,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,33 +1415,35 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Painted Skin: The Resurrection</beq_title>
-    <beq_alt_title></beq_alt_title>
-    <beq_sortTitle>painted skin the resurrection</beq_sortTitle>
-    <beq_year>2012</beq_year>
+    <beq_title>Tunnel</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
+    <beq_sortTitle>tunnel</beq_sortTitle>
+    <beq_year>2016</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Painted%20Skin%20The%20Resurrection%20%282012%29%28Ma%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tunnel%20%282016%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Mandarin</beq_language>
+    <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>According to demon lore, it takes hundreds of years to attain human form. Even then, lacking a human heart, a demon cannot experience the true pains and passions of existence. However, there is a legend that if a pure human heart is freely offered to a demon, it can become a mortal and experience true life.  Sequel of Painted Skin (2008).</beq_overview>
-    <beq_rating>M</beq_rating>
+    <beq_overview>A man is on his way home when the poorly constructed tunnel he is driving through collapses, leaving him trapped leaving himself for the unexpected whilst emergency services struggle to help.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>124471</beq_theMovieDB>
-    <beq_poster>/cuHLSpqCjoU1AcyQhS2acB3g2cO.jpg</beq_poster>
-    <beq_runtime>131</beq_runtime>
-    <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="14">Fantasy</genre>
-    </beq_genres>
-    <beq_collection id="132877">Painted Skin Collection</beq_collection>
+    <beq_theMovieDB>390497</beq_theMovieDB>
+    <beq_poster>/rpsEci5qoJxUdTHFo5MHwhLDafV.jpg</beq_poster>
+    <beq_runtime>126</beq_runtime>
+    <beq_collection />
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="53">Thriller</genre>
+      <genre id="18">Drama</genre>
+      <genre id="28">Action</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>

@@ -804,47 +804,47 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>19.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0001794117257858,-1.9986139821090823,0.9984365158496384,1.9986143410891148,-0.9986155685953917,</dec>
+    <hex>0x3f8005e1,0xbfffd295,0x3f7f9989,0x3fffd298,0xbf7fa545,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>19.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0001794117257858,-1.9986139821090823,0.9984365158496384,1.9986143410891148,-0.9986155685953917,</dec>
+    <hex>0x3f8005e1,0xbfffd295,0x3f7f9989,0x3fffd298,0xbf7fa545,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>19.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0001794117257858,-1.9986139821090823,0.9984365158496384,1.9986143410891148,-0.9986155685953917,</dec>
+    <hex>0x3f8005e1,0xbfffd295,0x3f7f9989,0x3fffd298,0xbf7fa545,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001794117257858,-1.9986139821090823,0.9984365158496384,1.9986143410891148,-0.9986155685953917,</dec>
+    <hex>0x3f8005e1,0xbfffd295,0x3f7f9989,0x3fffd298,0xbf7fa545,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001794117257858,-1.9986139821090823,0.9984365158496384,1.9986143410891148,-0.9986155685953917,</dec>
+    <hex>0x3f8005e1,0xbfffd295,0x3f7f9989,0x3fffd298,0xbf7fa545,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -894,47 +894,47 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>19.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0001794117257858,-1.9986139821090823,0.9984365158496384,1.9986143410891148,-0.9986155685953917,</dec>
+    <hex>0x3f8005e1,0xbfffd295,0x3f7f9989,0x3fffd298,0xbf7fa545,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>19.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0001794117257858,-1.9986139821090823,0.9984365158496384,1.9986143410891148,-0.9986155685953917,</dec>
+    <hex>0x3f8005e1,0xbfffd295,0x3f7f9989,0x3fffd298,0xbf7fa545,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>19.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089553319761,-1.998532040551036,0.9984442210587975,1.9985322188507197,-0.9985335960788746,</dec>
-    <hex>0x3f8002ef,0xbfffcfe6,0x3f7f9a0a,0x3fffcfe7,0xbf7f9fe6,</hex>
+    <dec>1.0001794117257858,-1.9986139821090823,0.9984365158496384,1.9986143410891148,-0.9986155685953917,</dec>
+    <hex>0x3f8005e1,0xbfffd295,0x3f7f9989,0x3fffd298,0xbf7fa545,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001794117257858,-1.9986139821090823,0.9984365158496384,1.9986143410891148,-0.9986155685953917,</dec>
+    <hex>0x3f8005e1,0xbfffd295,0x3f7f9989,0x3fffd298,0xbf7fa545,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001794117257858,-1.9986139821090823,0.9984365158496384,1.9986143410891148,-0.9986155685953917,</dec>
+    <hex>0x3f8005e1,0xbfffd295,0x3f7f9989,0x3fffd298,0xbf7fa545,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,33 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Painted Skin: The Resurrection</beq_title>
-    <beq_alt_title></beq_alt_title>
-    <beq_sortTitle>painted skin the resurrection</beq_sortTitle>
-    <beq_year>2012</beq_year>
+    <beq_title>Under Suspicion</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>under suspicion</beq_sortTitle>
+    <beq_year>1991</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Painted%20Skin%20The%20Resurrection%20%282012%29%28Ma%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Under%20Suspicion%20%281991%29%20LPCM%202.0.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Mandarin</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>According to demon lore, it takes hundreds of years to attain human form. Even then, lacking a human heart, a demon cannot experience the true pains and passions of existence. However, there is a legend that if a pure human heart is freely offered to a demon, it can become a mortal and experience true life.  Sequel of Painted Skin (2008).</beq_overview>
-    <beq_rating>M</beq_rating>
+    <beq_overview>In the late 1950s, British police officer Tony Aaron resigns from the force after sleeping with Hazel, wife of the man whose house he was supposed to guard. In his new job as a fake private investigator, he helps couples get divorces by photographing Hazel having "affairs" with the husband. When she is murdered during a job, Tony begins having an affair with the dead man's mistress, Angeline, while trying to prove his innocence.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>124471</beq_theMovieDB>
-    <beq_poster>/cuHLSpqCjoU1AcyQhS2acB3g2cO.jpg</beq_poster>
-    <beq_runtime>131</beq_runtime>
+    <beq_theMovieDB>26850</beq_theMovieDB>
+    <beq_poster>/wnAcBVWvcQzHQEqS8SXXX3YyHbA.jpg</beq_poster>
+    <beq_runtime>99</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="14">Fantasy</genre>
+      <genre id="80">Crime</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
-    <beq_collection id="132877">Painted Skin Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>LPCM 2.0</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
