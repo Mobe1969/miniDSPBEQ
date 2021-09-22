@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000989871885002,-1.9984591846584756,0.9983621296290686,1.9984593921379366,-0.9984609093381085,</dec>
-    <hex>0x3f80033e,0xbfffcd83,0x3f7f94a9,0x3fffcd84,0xbf7f9b22,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000989871885002,-1.9984591846584756,0.9983621296290686,1.9984593921379366,-0.9984609093381085,</dec>
-    <hex>0x3f80033e,0xbfffcd83,0x3f7f94a9,0x3fffcd84,0xbf7f9b22,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
+    <freq>25.0</freq>
+    <q>1.0</q>
+    <boost>8.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001013417894207,-1.9996517558994313,0.9995521272858667,1.9996517558994313,-0.9996534690752875,</dec>
-    <hex>0x3f800352,0xbffff497,0x3f7fe2a6,0x3ffff497,0xbf7fe94a,</hex>
+    <dec>1.000780033938444,-1.9989654556513807,0.9981880976325694,1.9989654556513807,-0.9989681315710134,</dec>
+    <hex>0x3f80198f,0xbfffde1a,0x3f7f8941,0x3fffde1a,0xbf7fbc60,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000989871885002,-1.9984591846584756,0.9983621296290686,1.9984593921379366,-0.9984609093381085,</dec>
-    <hex>0x3f80033e,0xbfffcd83,0x3f7f94a9,0x3fffcd84,0xbf7f9b22,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000989871885002,-1.9984591846584756,0.9983621296290686,1.9984593921379366,-0.9984609093381085,</dec>
-    <hex>0x3f80033e,0xbfffcd83,0x3f7f94a9,0x3fffcd84,0xbf7f9b22,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
+    <freq>25.0</freq>
+    <q>1.0</q>
+    <boost>8.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001013417894207,-1.9996517558994313,0.9995521272858667,1.9996517558994313,-0.9996534690752875,</dec>
-    <hex>0x3f800352,0xbffff497,0x3f7fe2a6,0x3ffff497,0xbf7fe94a,</hex>
+    <dec>1.000780033938444,-1.9989654556513807,0.9981880976325694,1.9989654556513807,-0.9989681315710134,</dec>
+    <hex>0x3f80198f,0xbfffde1a,0x3f7f8941,0x3fffde1a,0xbf7fbc60,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Stratton</beq_title>
+    <beq_title>Savannah</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>stratton</beq_sortTitle>
-    <beq_year>2017</beq_year>
+    <beq_sortTitle>savannah</beq_sortTitle>
+    <beq_year>2013</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stratton%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Savannah%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,17 +1428,19 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A British Special Boat Service commando tracks down an international terrorist cell.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>Savannah is the true story of Ward Allen, a romantic and bombastic character who rejects his plantation heritage for the freedom of life on a river. Ward navigates the change of early 20th century America on the wrong side of the law and society, his long-time friend, a freed slave named Christmas Moultrie, at his side. Master of Shakespeare, and the shotgun that provides Savannah's markets with fowl, Ward fights for his rights as a hunter. His charisma and eloquent rhetoric win the heart of a society woman who defies her father to marry him. An elderly Moultrie tells the story of life on the river with his friend to a little boy, who passes the legendary Ward Allen down to the next generation.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>348389</beq_theMovieDB>
-    <beq_poster>/mibBHS9mVV2z5rdeFdOkH94Sw1c.jpg</beq_poster>
-    <beq_runtime>94</beq_runtime>
+    <beq_theMovieDB>207871</beq_theMovieDB>
+    <beq_poster>/6MAuG6SU0yTIvCweElDNBXcofwQ.jpg</beq_poster>
+    <beq_runtime>101</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="10749">Romance</genre>
+      <genre id="36">History</genre>
+      <genre id="18">Drama</genre>
+      <genre id="10751">Family</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
