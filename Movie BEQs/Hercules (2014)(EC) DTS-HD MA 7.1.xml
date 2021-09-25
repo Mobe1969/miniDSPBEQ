@@ -839,12 +839,12 @@
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>17.0</freq>
-    <q>4.0</q>
-    <boost>2.0</boost>
+    <q>3.9</q>
+    <boost>3.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000320913750151,-1.9997508809374918,0.9997200273931449,1.9997508809374918,-0.9997521187681601,</dec>
-    <hex>0x3f80010d,0xbffff7d6,0x3f7feda7,0x3ffff7d6,0xbf7fefc1,</hex>
+    <dec>1.000061217959423,-1.9997682240124712,0.9997082438944517,1.9997682240124712,-0.9997694618538749,</dec>
+    <hex>0x3f800202,0xbffff868,0x3f7fece1,0x3ffff868,0xbf7ff0e4,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -929,12 +929,12 @@
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>17.0</freq>
-    <q>4.0</q>
-    <boost>2.0</boost>
+    <q>3.9</q>
+    <boost>3.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000320913750151,-1.9997508809374918,0.9997200273931449,1.9997508809374918,-0.9997521187681601,</dec>
-    <hex>0x3f80010d,0xbffff7d6,0x3f7feda7,0x3ffff7d6,0xbf7fefc1,</hex>
+    <dec>1.000061217959423,-1.9997682240124712,0.9997082438944517,1.9997682240124712,-0.9997694618538749,</dec>
+    <hex>0x3f800202,0xbffff868,0x3f7fece1,0x3ffff868,0xbf7ff0e4,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1420,8 +1420,8 @@
     <beq_sortTitle>hercules</beq_sortTitle>
     <beq_year>2014</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hercules%20%282014%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
-    <beq_edition>Theatrical Cut</beq_edition>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hercules%20%282014%29%28EC%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
+    <beq_edition>Extended Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
