@@ -1428,24 +1428,20 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!</beq_overview>
-    <beq_rating>G</beq_rating>
+    <beq_overview>Fourteen hundred years ago, a tormented soul walked the earth that was neither man nor god. Hercules was the powerful son of the god king Zeus, for this he received nothing but suffering his entire life. After twelve arduous labors and the loss of his family, this dark, world-weary soul turned his back on the gods finding his only solace in bloody battle. Over the years he warmed to the company of six similar souls, their only bond being their love of fighting and presence of death. These men and woman never question where they go to fight or why or whom, just how much they will be paid. Now the King of Thrace has hired these mercenaries to train his men to become the greatest army of all time. It is time for this bunch of lost souls to finally have their eyes opened to how far they have fallen when they must train an army to become as ruthless and blood thirsty as their reputation has become.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>11970</beq_theMovieDB>
-    <beq_poster>/56fdvq2e2M1ohnDAI10V1H1usaP.jpg</beq_poster>
-    <beq_runtime>93</beq_runtime>
+    <beq_theMovieDB>184315</beq_theMovieDB>
+    <beq_poster>/5X3VOy9lD44VclKsWTi8gHZGjhL.jpg</beq_poster>
+    <beq_runtime>102</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="16">Animation</genre>
-      <genre id="10751">Family</genre>
-      <genre id="14">Fantasy</genre>
-      <genre id="12">Adventure</genre>
-      <genre id="35">Comedy</genre>
-      <genre id="10749">Romance</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 7.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="28">Action</genre>
+      <genre id="12">Adventure</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
