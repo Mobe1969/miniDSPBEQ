@@ -803,48 +803,48 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
+    <q>1.1</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.000051463301265,-1.999453936367349,0.9994029820437954,1.9994540106918923,-0.9994543710205173,</dec>
+    <hex>0x3f8001b0,0xbfffee1b,0x3f7fd8e0,0x3fffee1c,0xbf7fdc3e,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.0001074652914843,-1.9981402449744767,0.9980355297052129,1.9981405151282414,-0.9981427248429323,</dec>
+    <hex>0x3f800385,0xbfffc30f,0x3f7f7f42,0x3fffc312,0xbf7f8648,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>1.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0001074652914843,-1.9981402449744767,0.9980355297052129,1.9981405151282414,-0.9981427248429323,</dec>
+    <hex>0x3f800385,0xbfffc30f,0x3f7f7f42,0x3fffc312,0xbf7f8648,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>1.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0001074652914843,-1.9981402449744767,0.9980355297052129,1.9981405151282414,-0.9981427248429323,</dec>
+    <hex>0x3f800385,0xbfffc30f,0x3f7f7f42,0x3fffc312,0xbf7f8648,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -893,48 +893,48 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
+    <q>1.1</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.000051463301265,-1.999453936367349,0.9994029820437954,1.9994540106918923,-0.9994543710205173,</dec>
+    <hex>0x3f8001b0,0xbfffee1b,0x3f7fd8e0,0x3fffee1c,0xbf7fdc3e,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.0001074652914843,-1.9981402449744767,0.9980355297052129,1.9981405151282414,-0.9981427248429323,</dec>
+    <hex>0x3f800385,0xbfffc30f,0x3f7f7f42,0x3fffc312,0xbf7f8648,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>1.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0001074652914843,-1.9981402449744767,0.9980355297052129,1.9981405151282414,-0.9981427248429323,</dec>
+    <hex>0x3f800385,0xbfffc30f,0x3f7f7f42,0x3fffc312,0xbf7f8648,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>1.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0001074652914843,-1.9981402449744767,0.9980355297052129,1.9981405151282414,-0.9981427248429323,</dec>
+    <hex>0x3f800385,0xbfffc30f,0x3f7f7f42,0x3fffc312,0xbf7f8648,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>My Way</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>my way</beq_sortTitle>
-    <beq_year>2011</beq_year>
+    <beq_title>Tae Guk Gi: The Brotherhood of War</beq_title>
+    <beq_alt_title></beq_alt_title>
+    <beq_sortTitle>tae guk gi the brotherhood of war</beq_sortTitle>
+    <beq_year>2004</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/My%20Way%20%282011%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tae%20Guk%20Gi%20The%20Brotherhood%20of%20War%20%282004%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,17 +1428,18 @@
     <beq_gain />
     <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Jun-shik, who works for Tatsuos grandfathers farm while Korea is colonized by Japan, dreams about participating in the Tokyo Olympics as a marathon runner. Tatsuo also aims to become a marathon runner, so the two become rivals. But the war breaks out and they both are forced to enlist in the army. Tatsuo becomes the head of defense in Jun-shiks unit and he devises a scheme but fails. Jun-shik and Tatsuo are held captive by the Soviets. They run away but soon are captured by the Germans and forced to separate. In 1944, they meet again on the shores of Normandy.</beq_overview>
+    <beq_overview>When two brothers are forced to fight in the Korean War, the elder decides to take the riskiest missions if it will help shield the younger from battle.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>94047</beq_theMovieDB>
-    <beq_poster>/wsaE80TSff98gr4OBQ0KEJZ2PRO.jpg</beq_poster>
-    <beq_runtime>143</beq_runtime>
+    <beq_theMovieDB>11658</beq_theMovieDB>
+    <beq_poster>/vyG8qpimh3XSlxc6OmPq8LJRJl.jpg</beq_poster>
+    <beq_runtime>149</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="18">Drama</genre>
       <genre id="28">Action</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="18">Drama</genre>
       <genre id="36">History</genre>
       <genre id="10752">War</genre>
     </beq_genres>

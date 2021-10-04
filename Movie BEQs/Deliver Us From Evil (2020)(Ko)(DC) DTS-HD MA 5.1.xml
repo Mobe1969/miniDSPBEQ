@@ -803,48 +803,48 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
+    <q>2.6</q>
+    <boost>3.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.0000436840353353,-1.9997877895695142,0.9997445338570499,1.9997877895695142,-0.9997882178923851,</dec>
+    <hex>0x3f80016e,0xbffff90c,0x3f7fef42,0x3ffff90c,0xbf7ff21f,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.0000395747467066,-1.998893282880075,0.9988546072853659,1.9988933408917475,-0.9988941240203992,</dec>
+    <hex>0x3f80014c,0xbfffdbbc,0x3f7fb4ef,0x3fffdbbd,0xbf7fb786,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>1.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0000395747467066,-1.998893282880075,0.9988546072853659,1.9988933408917475,-0.9988941240203992,</dec>
+    <hex>0x3f80014c,0xbfffdbbc,0x3f7fb4ef,0x3fffdbbd,0xbf7fb786,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>1.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0000395747467066,-1.998893282880075,0.9988546072853659,1.9988933408917475,-0.9988941240203992,</dec>
+    <hex>0x3f80014c,0xbfffdbbc,0x3f7fb4ef,0x3fffdbbd,0xbf7fb786,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>1.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0000395747467066,-1.998893282880075,0.9988546072853659,1.9988933408917475,-0.9988941240203992,</dec>
+    <hex>0x3f80014c,0xbfffdbbc,0x3f7fb4ef,0x3fffdbbd,0xbf7fb786,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -893,48 +893,48 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
+    <q>2.6</q>
+    <boost>3.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.0000436840353353,-1.9997877895695142,0.9997445338570499,1.9997877895695142,-0.9997882178923851,</dec>
+    <hex>0x3f80016e,0xbffff90c,0x3f7fef42,0x3ffff90c,0xbf7ff21f,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.0000395747467066,-1.998893282880075,0.9988546072853659,1.9988933408917475,-0.9988941240203992,</dec>
+    <hex>0x3f80014c,0xbfffdbbc,0x3f7fb4ef,0x3fffdbbd,0xbf7fb786,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>1.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0000395747467066,-1.998893282880075,0.9988546072853659,1.9988933408917475,-0.9988941240203992,</dec>
+    <hex>0x3f80014c,0xbfffdbbc,0x3f7fb4ef,0x3fffdbbd,0xbf7fb786,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>1.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0000395747467066,-1.998893282880075,0.9988546072853659,1.9988933408917475,-0.9988941240203992,</dec>
+    <hex>0x3f80014c,0xbfffdbbc,0x3f7fb4ef,0x3fffdbbd,0xbf7fb786,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>1.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0000395747467066,-1.998893282880075,0.9988546072853659,1.9988933408917475,-0.9988941240203992,</dec>
+    <hex>0x3f80014c,0xbfffdbbc,0x3f7fb4ef,0x3fffdbbd,0xbf7fb786,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,32 +1415,29 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>My Way</beq_title>
+    <beq_title>Deliver Us From Evil</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>my way</beq_sortTitle>
-    <beq_year>2011</beq_year>
+    <beq_sortTitle>deliver us from evil</beq_sortTitle>
+    <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/My%20Way%20%282011%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deliver%20Us%20From%20Evil%20%282020%29%28Ko%29%28DC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition>Director's Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Jun-shik, who works for Tatsuos grandfathers farm while Korea is colonized by Japan, dreams about participating in the Tokyo Olympics as a marathon runner. Tatsuo also aims to become a marathon runner, so the two become rivals. But the war breaks out and they both are forced to enlist in the army. Tatsuo becomes the head of defense in Jun-shiks unit and he devises a scheme but fails. Jun-shik and Tatsuo are held captive by the Soviets. They run away but soon are captured by the Germans and forced to separate. In 1944, they meet again on the shores of Normandy.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>A retired contract killer goes on a bloody rampage when a young girl finds herself at the mercy of gangland human traffickers and only one man can come to her rescue, with an arsenal of weapons and years of experience in the art of killing.</beq_overview>
+    <beq_rating>MA15+</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>94047</beq_theMovieDB>
-    <beq_poster>/wsaE80TSff98gr4OBQ0KEJZ2PRO.jpg</beq_poster>
-    <beq_runtime>143</beq_runtime>
+    <beq_theMovieDB>581526</beq_theMovieDB>
+    <beq_poster>/hngKHgBHRD5nbTx92zatBC6eMSP.jpg</beq_poster>
+    <beq_runtime>114</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="18">Drama</genre>
       <genre id="28">Action</genre>
-      <genre id="36">History</genre>
-      <genre id="10752">War</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
