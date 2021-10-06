@@ -15,4 +15,8 @@ foreach ($file in $files) {
         Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) to $($file.Name.Replace("DTS-X MA", "DTS-X"))"
         #Rename-Item -Path $file.FullName -NewName $file.Name.Replace("DTS-X MA", "DTS-X")
     }
+    if ($file.Name -like '*DTS-HD HRA*') {
+        Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) to $($file.Name.Replace("DTS-HD HRA", "DTS-HD HR"))"
+        #Rename-Item -Path $file.FullName -NewName $file.FullName.Replace("TrueHD Atmos", "Atmos")
+    }
 }
