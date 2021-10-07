@@ -205,6 +205,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(Unrated)") -ge 0) {
         $edition = "Unrated Cut"
     }
+    elseif ($fileName.IndexOf("(Uncut)") -ge 0) {
+        $edition = "Unrated Cut"
+    }
     elseif ($fileName.IndexOf("(DC)") -ge 0) {
         $edition = "Director's Cut"
     }
