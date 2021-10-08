@@ -1437,6 +1437,7 @@
     <beq_runtime>93</beq_runtime>
     <beq_audioTypes>
       <audioType>AC3 5.1</audioType>
+      <audioType>DTS 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="28">Action</genre>

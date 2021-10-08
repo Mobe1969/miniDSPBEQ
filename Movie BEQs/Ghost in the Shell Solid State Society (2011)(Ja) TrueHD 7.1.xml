@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>12</freq>
+    <freq>10</freq>
     <q>0.8</q>
-    <boost>9.6</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002748087779447,-1.9992548322484631,0.9989810950344388,1.999255190616342,-0.9992555454445047,</dec>
-    <hex>3f800901,bfffe795,3f7fbd3a,3fffe798,bf7fcf36,</hex>
+    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
+    <hex>3f8004a7,bfffe970,3f7fc99b,3fffe971,bf7fd2e7,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>12</freq>
+    <freq>35</freq>
     <q>0.8</q>
-    <boost>9.6</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002748087779447,-1.9992548322484631,0.9989810950344388,1.999255190616342,-0.9992555454445047,</dec>
-    <hex>3f800901,bfffe795,3f7fbd3a,3fffe798,bf7fcf36,</hex>
+    <dec>1.0003305808751821,-1.9974458380721771,0.9971218550019502,1.9974470555079076,-0.9974512184414014,</dec>
+    <hex>3f800ad5,bfffac4e,3f7f4361,3fffac58,bf7f58f7,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
-    <freq>26</freq>
-    <q>2.5</q>
-    <boost>3.7</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001460354796496,-1.9994471561390175,0.9993040156317534,1.9994471561390175,-0.9994500511114033,</dec>
-    <hex>3f8004c9,bfffede2,3f7fd263,3fffede2,bf7fdbf5,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8295" name="PEQ_1_4">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>12</freq>
+    <freq>10</freq>
     <q>0.8</q>
-    <boost>9.6</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002748087779447,-1.9992548322484631,0.9989810950344388,1.999255190616342,-0.9992555454445047,</dec>
-    <hex>3f800901,bfffe795,3f7fbd3a,3fffe798,bf7fcf36,</hex>
+    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
+    <hex>3f8004a7,bfffe970,3f7fc99b,3fffe971,bf7fd2e7,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>12</freq>
+    <freq>35</freq>
     <q>0.8</q>
-    <boost>9.6</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002748087779447,-1.9992548322484631,0.9989810950344388,1.999255190616342,-0.9992555454445047,</dec>
-    <hex>3f800901,bfffe795,3f7fbd3a,3fffe798,bf7fcf36,</hex>
+    <dec>1.0003305808751821,-1.9974458380721771,0.9971218550019502,1.9974470555079076,-0.9974512184414014,</dec>
+    <hex>3f800ad5,bfffac4e,3f7f4361,3fffac58,bf7f58f7,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
-    <freq>26</freq>
-    <q>2.5</q>
-    <boost>3.7</boost>
+    <freq>1000</freq>
+    <q>0.9</q>
+    <boost>0.0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001460354796496,-1.9994471561390175,0.9993040156317534,1.9994471561390175,-0.9994500511114033,</dec>
-    <hex>3f8004c9,bfffede2,3f7fd263,3fffede2,bf7fdbf5,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8345" name="PEQ_2_4">
     <freq>1000</freq>
@@ -1415,32 +1415,37 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Hell</beq_title>
-    <beq_alt_title>Drag Me to Hell</beq_alt_title>
-    <beq_sortTitle>hell</beq_sortTitle>
+    <beq_title>Ghost in the Shell: Solid State Society</beq_title>
+    <beq_alt_title>Ghost in the Shell: Stand Alone Complex - Solid State Society</beq_alt_title>
+    <beq_sortTitle>ghost in the shell solid state society</beq_sortTitle>
     <beq_year>2011</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hell%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20Solid%20State%20Society%20%282011%29%28Ja%29%20TrueHD%207.1.jpg</beq_pvaURL>
+    <beq_edition>The 2011 Remaster</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Japanese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>After denying a woman the extension she needs to keep her home, loan officer Christine Brown sees her once-promising life take a startling turn for the worse. Christine is convinced she's been cursed by a Gypsy, but her boyfriend is skeptical. Her only hope seems to lie in a psychic who claims he can help her lift the curse and keep her soul from being dragged straight to hell.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_overview>The story takes place in the year 2034, two years after the events in Ghost in the Shell: S.A.C. 2nd GIG. Female cyborg Major Motoko Kusanagi has left Public Security Section 9, an elite counter-terrorist and anti-crime unit specializing in cyber-warfare, which has expanded to a team of 20 field operatives with Togusa acting as the field lead.</beq_overview>
+    <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>16871</beq_theMovieDB>
-    <beq_poster>/fdyejM5Zd6dsa0YyWa02ZAKwQzK.jpg</beq_poster>
-    <beq_runtime>99</beq_runtime>
+    <beq_theMovieDB>18874</beq_theMovieDB>
+    <beq_poster>/Ah6chL2eSxhks4AVyyoZebK4LUo.jpg</beq_poster>
+    <beq_runtime>109</beq_runtime>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>TrueHD 7.1</audioType>
     </beq_audioTypes>
+    <beq_genres />
     <beq_genres>
-      <genre id="27">Horror</genre>
+      <genre id="16">Animation</genre>
+      <genre id="28">Action</genre>
       <genre id="53">Thriller</genre>
+      <genre id="80">Crime</genre>
+      <genre id="878">Science Fiction</genre>
     </beq_genres>
+    <beq_collection id="443996">Ghost in the Shell: Stand Alone Complex Collection</beq_collection>
   </beq_metadata>
 </setting>

@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>22.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002077499892728,-1.9983950226456646,0.9981898806973618,1.9983955038848473,-0.9983971494474521,</dec>
-    <hex>0x3f8006cf,0xbfffcb68,0x3f7f895f,0x3fffcb6d,0xbf7f96f5,</hex>
+    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
+    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>22.0</freq>
+    <freq>30.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002077499892728,-1.9983950226456646,0.9981898806973618,1.9983955038848473,-0.9983971494474521,</dec>
-    <hex>0x3f8006cf,0xbfffcb68,0x3f7f895f,0x3fffcb6d,0xbf7f96f5,</hex>
+    <dec>1.0002122862079046,-1.9977472900974804,0.997539580786282,1.9977479584484692,-0.9977511986431982,</dec>
+    <hex>0x3f8006f5,0xbfffb62f,0x3f7f5ec1,0x3fffb635,0xbf7f6c9f,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>22.0</freq>
+    <freq>30.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002077499892728,-1.9983950226456646,0.9981898806973618,1.9983955038848473,-0.9983971494474521,</dec>
-    <hex>0x3f8006cf,0xbfffcb68,0x3f7f895f,0x3fffcb6d,0xbf7f96f5,</hex>
+    <dec>1.0002122862079046,-1.9977472900974804,0.997539580786282,1.9977479584484692,-0.9977511986431982,</dec>
+    <hex>0x3f8006f5,0xbfffb62f,0x3f7f5ec1,0x3fffb635,0xbf7f6c9f,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>22.0</freq>
+    <freq>30.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002077499892728,-1.9983950226456646,0.9981898806973618,1.9983955038848473,-0.9983971494474521,</dec>
-    <hex>0x3f8006cf,0xbfffcb68,0x3f7f895f,0x3fffcb6d,0xbf7f96f5,</hex>
+    <dec>1.0002122862079046,-1.9977472900974804,0.997539580786282,1.9977479584484692,-0.9977511986431982,</dec>
+    <hex>0x3f8006f5,0xbfffb62f,0x3f7f5ec1,0x3fffb635,0xbf7f6c9f,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>22.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002077499892728,-1.9983950226456646,0.9981898806973618,1.9983955038848473,-0.9983971494474521,</dec>
-    <hex>0x3f8006cf,0xbfffcb68,0x3f7f895f,0x3fffcb6d,0xbf7f96f5,</hex>
+    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
+    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>22.0</freq>
+    <freq>30.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002077499892728,-1.9983950226456646,0.9981898806973618,1.9983955038848473,-0.9983971494474521,</dec>
-    <hex>0x3f8006cf,0xbfffcb68,0x3f7f895f,0x3fffcb6d,0xbf7f96f5,</hex>
+    <dec>1.0002122862079046,-1.9977472900974804,0.997539580786282,1.9977479584484692,-0.9977511986431982,</dec>
+    <hex>0x3f8006f5,0xbfffb62f,0x3f7f5ec1,0x3fffb635,0xbf7f6c9f,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>22.0</freq>
+    <freq>30.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002077499892728,-1.9983950226456646,0.9981898806973618,1.9983955038848473,-0.9983971494474521,</dec>
-    <hex>0x3f8006cf,0xbfffcb68,0x3f7f895f,0x3fffcb6d,0xbf7f96f5,</hex>
+    <dec>1.0002122862079046,-1.9977472900974804,0.997539580786282,1.9977479584484692,-0.9977511986431982,</dec>
+    <hex>0x3f8006f5,0xbfffb62f,0x3f7f5ec1,0x3fffb635,0xbf7f6c9f,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>22.0</freq>
+    <freq>30.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002077499892728,-1.9983950226456646,0.9981898806973618,1.9983955038848473,-0.9983971494474521,</dec>
-    <hex>0x3f8006cf,0xbfffcb68,0x3f7f895f,0x3fffcb6d,0xbf7f96f5,</hex>
+    <dec>1.0002122862079046,-1.9977472900974804,0.997539580786282,1.9977479584484692,-0.9977511986431982,</dec>
+    <hex>0x3f8006f5,0xbfffb62f,0x3f7f5ec1,0x3fffb635,0xbf7f6c9f,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,34 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Cowboy Bebop The Movie</beq_title>
-    <beq_alt_title>Cowboy Bebop: The Movie</beq_alt_title>
-    <beq_sortTitle>cowboy bebop the movie</beq_sortTitle>
-    <beq_year>2001</beq_year>
+    <beq_title>Pineapple Express</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>pineapple express</beq_sortTitle>
+    <beq_year>2008</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cowboy%20Bebop%20The%20Movie%20%282001%29%20AC3%205.1.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pineapple%20Express%20%282008%29%28TC%29%20Atmos.jpg</beq_pvaURL>
+    <beq_edition>Theatrical Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.</beq_overview>
+    <beq_overview>A stoner and his dealer are forced to go on the run from the police after the pothead witnesses a cop commit a murder.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>11299</beq_theMovieDB>
-    <beq_poster>/7i9sIU6ASTw2zwvvNuM0FJzmpKs.jpg</beq_poster>
-    <beq_runtime>115</beq_runtime>
+    <beq_theMovieDB>10189</beq_theMovieDB>
+    <beq_poster>/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg</beq_poster>
+    <beq_runtime>111</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="28">Action</genre>
-      <genre id="16">Animation</genre>
-      <genre id="878">Science Fiction</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="80">Crime</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>AC3 5.1</audioType>
+      <audioType>Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
