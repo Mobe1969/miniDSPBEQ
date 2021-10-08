@@ -211,6 +211,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(DC)") -ge 0) {
         $edition = "Director's Cut"
     }
+    elseif ($fileName.IndexOf("(AC)") -ge 0) {
+        $edition = "Alternate Cut"
+    }
     if ($beqMetadata.beq_edition -ne $edition -and "" -ne $edition) {
         $beqMetadata.beq_edition = $edition
         $save = $true
