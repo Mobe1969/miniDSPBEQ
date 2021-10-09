@@ -1415,8 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>J Edgar</beq_title>
-    <beq_alt_title>J. Edgar</beq_alt_title>
+    <beq_title>J. Edgar</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>j edgar</beq_sortTitle>
     <beq_year>2011</beq_year>
     <beq_spectrumURL />

@@ -1415,8 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Invasion USA</beq_title>
-    <beq_alt_title>Invasion U.S.A.</beq_alt_title>
+    <beq_title>Invasion U.S.A.</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>invasion usa</beq_sortTitle>
     <beq_year>1985</beq_year>
     <beq_spectrumURL />

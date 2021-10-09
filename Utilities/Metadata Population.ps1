@@ -382,7 +382,7 @@ foreach ($file in $files) {
             $save = $true
         }
     }
-    if ($beqMetadata.beq_title -eq [Regex]::Replace($beqMetadata.beq_alt_title, ":", "")) {
+    if ($beqMetadata.beq_title -eq [Regex]::Replace($beqMetadata.beq_alt_title, "[\-():!.,]", "")) {
         $beqMetadata.beq_title = $beqMetadata.beq_alt_title
         $beqMetadata.beq_alt_title = ""
         Write-Output "Updating title to $($beqMetadata.beq_title)"
@@ -390,6 +390,7 @@ foreach ($file in $files) {
     }
     if ($beqMetadata.beq_title -ne $beqMetadata.beq_alt_title -and "" -ne $beqMetadata.beq_alt_title) {
         Write-Output "Title $($beqMetadata.beq_title), Alt Title $($beqMetadata.beq_alt_title)"
+        Add-Content -Path "D:\BEQ\Errors.txt" -Value "Title $($beqMetadata.beq_title), Alt Title $($beqMetadata.beq_alt_title)"
     }
     if ($save) {
         $content.Save($file.FullName)

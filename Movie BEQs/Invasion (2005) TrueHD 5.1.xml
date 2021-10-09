@@ -1416,7 +1416,7 @@
   <link />
   <beq_metadata>
     <beq_title>Invasion</beq_title>
-    <beq_alt_title>The Land Before Time XI: Invasion of the Tinysauruses</beq_alt_title>
+    <beq_alt_title>Infection</beq_alt_title>
     <beq_sortTitle>invasion</beq_sortTitle>
     <beq_year>2005</beq_year>
     <beq_spectrumURL />
@@ -1428,22 +1428,19 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>While trying to obtain "Tree Sweets", Littlefoot into the tree and knocks down all the blossoms, attracting the Tinysauruses. They devour the plants and disappear. But Littlefoot isn't blamed for the disappearance, instead he accidentally makes the adults believe the tiny dinosaurs were the main cause. Now Littlefoot and his friends must protect the tiny herd and learn the value of honesty.</beq_overview>
+    <beq_overview>A meteor carrying an unknown infection, lands outside a Small Californian community, bringing terror and death. Just after midnight, a local rancher named Larry Jenkins discovers the meteor and calls the police. Inspector Bardo is sent to the scene to investigate. The small Lawton police department is short-handed, as it is the night of the high school prom. Arriving at a desolate forest road miles out of town, Bardo discovers that Jenkins has been infected by the alien organism. The officer is savagely attacked and infected. Both men head towards Lawton, terrorizing and contaminating everyone they encounter. Meanwhile, Cheryl and Timmy have left the prom and are parked atop Lover's Lane. Bardo comes upon the lovebirds and attacks them, infecting Timmy. Now Cheryl must run for her life through the pitch-black forest, escaping her pursuers and trying to reach the authorities before the infection spreads to L.A.</beq_overview>
     <beq_rating>G</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>24556</beq_theMovieDB>
-    <beq_poster>/dDJBMsf4ycUNMIPB8tUR6Dx22m5.jpg</beq_poster>
-    <beq_runtime>82</beq_runtime>
-    <beq_collection id="19163">The Land Before Time Collection</beq_collection>
+    <beq_theMovieDB>36965</beq_theMovieDB>
+    <beq_poster>/nZwQvVEySo7rGI0JR06penAVmr1.jpg</beq_poster>
+    <beq_runtime>81</beq_runtime>
+    <beq_collection />
     <beq_audioTypes>
       <audioType>TrueHD 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="10751">Family</genre>
-      <genre id="14">Fantasy</genre>
-      <genre id="16">Animation</genre>
-      <genre id="878">Science Fiction</genre>
+      <genre id="27">Horror</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
