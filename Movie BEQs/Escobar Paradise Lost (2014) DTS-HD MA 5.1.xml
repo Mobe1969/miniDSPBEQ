@@ -1415,8 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Escobar Paradise Lost</beq_title>
-    <beq_alt_title>Escobar: Paradise Lost</beq_alt_title>
+    <beq_title>Escobar: Paradise Lost</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>escobar paradise lost</beq_sortTitle>
     <beq_year>2014</beq_year>
     <beq_spectrumURL />

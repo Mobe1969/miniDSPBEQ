@@ -1415,8 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Halloween The Curse of Michael Myers</beq_title>
-    <beq_alt_title>Halloween: The Curse of Michael Myers</beq_alt_title>
+    <beq_title>Halloween: The Curse of Michael Myers</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>halloween the curse of michael myers</beq_sortTitle>
     <beq_year>1995</beq_year>
     <beq_spectrumURL />

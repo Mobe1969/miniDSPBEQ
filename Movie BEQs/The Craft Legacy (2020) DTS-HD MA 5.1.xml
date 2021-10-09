@@ -1415,8 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Craft Legacy</beq_title>
-    <beq_alt_title>The Craft: Legacy</beq_alt_title>
+    <beq_title>The Craft: Legacy</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>the craft legacy</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
