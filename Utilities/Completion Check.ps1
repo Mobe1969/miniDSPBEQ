@@ -1,7 +1,7 @@
 ﻿$signals = "D:\Video\Temp\BEQ\Complete"
 $done = "D:\BEQ\Mobe1969_miniDSPBEQ\Movie BEQs"
 
-$files = Get-ChildItem $signals -Filter *.wav
+$files = Get-ChildItem $signals -Filter *signal
 if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
     Clear-Content -Path "D:\BEQ\Errors.txt"
 }
