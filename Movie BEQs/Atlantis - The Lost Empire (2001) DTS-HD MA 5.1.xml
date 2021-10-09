@@ -1415,8 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Atlantis : The Lost Empire</beq_title>
-    <beq_alt_title>Atlantis: The Lost Empire</beq_alt_title>
+    <beq_title>Atlantis: The Lost Empire</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>atlantis : the lost empire</beq_sortTitle>
     <beq_year>2001</beq_year>
     <beq_spectrumURL />
