@@ -1418,9 +1418,9 @@
     <beq_title>Jungle Cruise</beq_title>
     <beq_alt_title />
     <beq_sortTitle>jungle cruise</beq_sortTitle>
-    <beq_year>2012</beq_year>
+    <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jungle%20Cruise%20%282012%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jungle%20Cruise%20%282021%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,15 +1428,20 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview />
-    <beq_rating />
+    <beq_overview>Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal  a discovery that will change the future of medicine.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB />
-    <beq_poster />
-    <beq_runtime />
-    <beq_collection />
-    <beq_genres />
+    <beq_theMovieDB>451048</beq_theMovieDB>
+    <beq_poster>/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg</beq_poster>
+    <beq_runtime>127</beq_runtime>
+    <beq_genres>
+      <genre id="12">Adventure</genre>
+      <genre id="14">Fantasy</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="28">Action</genre>
+    </beq_genres>
+    <beq_collection id="861429">Jungle Cruise Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-HD MA 7.1</audioType>
     </beq_audioTypes>
