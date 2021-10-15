@@ -1433,7 +1433,7 @@
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>927</beq_theMovieDB>
-    <beq_poster>/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ.jpg</beq_poster>
+    <beq_poster>/9r68GDQTrGWeQI13GkoVjQe2yJf.jpg</beq_poster>
     <beq_runtime>106</beq_runtime>
     <beq_genres>
       <genre id="14">Fantasy</genre>
@@ -1443,7 +1443,7 @@
     <beq_collection id="89151">The Gremlins Collection</beq_collection>
     <beq_audioTypes>
       <audioType>TrueHD 5.1</audioType>
-	  <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

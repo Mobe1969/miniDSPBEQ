@@ -1428,7 +1428,7 @@
     <beq_gain />
     <beq_language>Cantonese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Sunny is a nave circus performer who dreams of inheriting his father's knife-throwing skills. However, his hostile colleagues continue to bully him, relegating him to a lowly clown. On a tour to Malaysia, Cheung and other performers discover a cave occupied by the Japanese army during World War II. Instead of finding treasure, the performers - including Sunny - are sprayed with a mysterious chemical that turns them into superhuman mutants...</beq_overview>
+    <beq_overview>Sunny is a naïve circus performer who dreams of inheriting his father's knife-throwing skills. However, his hostile colleagues continue to bully him, relegating him to a lowly clown. On a tour to Malaysia, Cheung and other performers discover a cave occupied by the Japanese army during World War II. Instead of finding treasure, the performers - including Sunny - are sprayed with a mysterious chemical that turns them into superhuman mutants...</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1443,8 +1443,8 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 7.1</audioType>
-	  <audioType>TrueHD 7.1</audioType>
-	  <audioType>LPCM 7.1</audioType>
+      <audioType>TrueHD 7.1</audioType>
+      <audioType>LPCM 7.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

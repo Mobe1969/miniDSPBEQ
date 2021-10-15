@@ -243,7 +243,7 @@ foreach ($file in $files) {
             }
         }
     }
-    if (![string]::IsNullOrWhitespace($beqMetadata.beq_theMovieDB) -and ([string]::IsNullOrWhitespace($beqMetadata.beq_title)-or [string]::IsNullOrWhitespace($beqMetadata.beq_genres.genre) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_poster) -or [string]::IsNullOrWhitespace($beqMetadata.beq_overview) -or [string]::IsNullOrWhitespace($beqMetadata.beq_rating))) {
+    if (![string]::IsNullOrWhitespace($beqMetadata.beq_theMovieDB) -and ([string]::IsNullOrWhitespace($beqMetadata.beq_title)-or [string]::IsNullOrWhitespace($beqMetadata.beq_genres.genre) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_overview) -or [string]::IsNullOrWhitespace($beqMetadata.beq_rating))) {
         Write-Output "$($file.Name) missing TMDB metadata content"
         Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing TMDB metadata content"
         if ($file.FullName.Contains("Movie")) {
@@ -259,14 +259,14 @@ foreach ($file in $files) {
                 $beqMetadata.beq_poster = $result.poster_path
                 $save = $true
             }
-            if ($beqMetadata.beq_overview -ne [Regex]::Replace($result.overview, "[^\u0000-\u007F]+", "") -and ![string]::IsNullOrWhitespace([Regex]::Replace($result.overview, "[^\u0000-\u007F]+", ""))) {
-                $beqMetadata.beq_overview = [Regex]::Replace($result.overview, "[^\u0000-\u007F]+", "")
+            if ($beqMetadata.beq_overview -ne $result.overview) { # -and ![string]::IsNullOrWhitespace($result.overview)) {
+                $beqMetadata.beq_overview = $result.overview
                 Write-Output "$($beqMetadata.beq_overview)"
                 Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($beqMetadata.beq_overview)"
                 $save = $true
             }
-            if ($beqMetadata.beq_title -ne [Regex]::Replace($result.title, "[^\u0000-\u007F]+", "") -and $beqMetadata.beq_alt_title -ne [Regex]::Replace($result.title, "[^\u0000-\u007F]+", "") -and ![string]::IsNullOrWhitespace([Regex]::Replace($result.title, "[^\u0000-\u007F]+", ""))) {
-                $beqMetadata.beq_alt_title = [Regex]::Replace($result.title, "[^\u0000-\u007F]+", "")
+            if ($beqMetadata.beq_title -ne $result.title -and $beqMetadata.beq_alt_title -ne $result.title -and ![string]::IsNullOrWhitespace($result.title)) {
+                $beqMetadata.beq_alt_title = $result.title
                 $save = $true
             }
             if ($beqMetadata.beq_title -eq [Regex]::Replace($beqMetadata.beq_alt_title, ":", "")) {
@@ -327,8 +327,8 @@ foreach ($file in $files) {
                 $beqMetadata.beq_poster = $result.poster_path
                 $save = $true
             }
-            if ($beqMetadata.beq_overview -ne [Regex]::Replace($result.overview, "[^\u0000-\u007F]+", "") -and ![string]::IsNullOrWhitespace([Regex]::Replace($result.overview, "[^\u0000-\u007F]+", ""))) {
-                $beqMetadata.beq_overview = [Regex]::Replace($result.overview, "[^\u0000-\u007F]+", "")
+            if ($beqMetadata.beq_overview -ne $result.overview -and ![string]::IsNullOrWhitespace($result.overview)) {
+                $beqMetadata.beq_overview = $result.overview
                 Write-Output "$($beqMetadata.beq_overview)"
                 Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($beqMetadata.beq_overview)"
                 $save = $true
@@ -388,7 +388,7 @@ foreach ($file in $files) {
         Write-Output "Updating title to $($beqMetadata.beq_title)"
         $save = $true
     }
-    #if ($beqMetadata.beq_title -ne $beqMetadata.beq_alt_title -and "" -ne $beqMetadata.beq_alt_title) {
+    #if ($beqMdescretadata.beq_title -ne $beqMetadata.beq_alt_title -and "" -ne $beqMetadata.beq_alt_title) {
     #    Write-Output "Title $($beqMetadata.beq_title), Alt Title $($beqMetadata.beq_alt_title)"
     #    Add-Content -Path "D:\BEQ\Errors.txt" -Value "Title $($beqMetadata.beq_title), Alt Title $($beqMetadata.beq_alt_title)"
     #}

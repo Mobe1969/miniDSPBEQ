@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Mojin: The Worm Valley</beq_title>
-    <beq_alt_title></beq_alt_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>mojin the worm valley</beq_sortTitle>
     <beq_year>2018</beq_year>
     <beq_spectrumURL />
@@ -1433,7 +1434,7 @@
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>571446</beq_theMovieDB>
-    <beq_poster>/Acwua30iAaIiNTBac68iVZTyYrH.jpg</beq_poster>
+    <beq_poster>/5Prd1caZOtSM9mOSBHyiRWpSgjV.jpg</beq_poster>
     <beq_runtime>110</beq_runtime>
     <beq_genres>
       <genre id="28">Action</genre>

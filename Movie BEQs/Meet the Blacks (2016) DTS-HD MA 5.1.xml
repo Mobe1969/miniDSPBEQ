@@ -1433,9 +1433,8 @@
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>377587</beq_theMovieDB>
-    <beq_poster>/oD7imkEyxuxssqCi0vEUkDw82g2.jpg</beq_poster>
+    <beq_poster>/4pemUf5lKEzgxGebxxMVKL5NHSW.jpg</beq_poster>
     <beq_runtime>90</beq_runtime>
-    <beq_collection />
     <beq_genres>
       <genre id="35">Comedy</genre>
       <genre id="27">Horror</genre>
@@ -1443,5 +1442,6 @@
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
+    <beq_collection id="826725">Meet the Blacks Collection</beq_collection>
   </beq_metadata>
 </setting>
