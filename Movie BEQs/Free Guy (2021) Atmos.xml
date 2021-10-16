@@ -1419,7 +1419,7 @@
     <beq_alt_title />
     <beq_sortTitle>free guy</beq_sortTitle>
     <beq_year>2021</beq_year>
-    <beq_spectrumURL />
+    <beq_spectrumURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Free%20Guy%20%282021%29%20DTS-HD%20MA%207.1.jpg</beq_spectrumURL>
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Free%20Guy%20%282021%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
@@ -1444,6 +1444,7 @@
     <beq_collection id="861415">Free Guy Collection</beq_collection>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>DTS-HD MA 7.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
