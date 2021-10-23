@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
-    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
-    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
-    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
+    <freq>10.0</freq>
+    <q>4.0</q>
+    <boost>-6.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001013417894207,-1.9996517558994313,0.9995521272858667,1.9996517558994313,-0.9996534690752875,</dec>
-    <hex>0x3f800352,0xbffff497,0x3f7fe2a6,0x3ffff497,0xbf7fe94a,</hex>
+    <dec>0.9999423623863011,-1.9997684724890061,0.9998265384214385,1.9997684724890061,-0.9997689008077395,</dec>
+    <hex>0x3f7ffc39,0xbffff86a,0x3f7ff4a2,0x3ffff86a,0xbf7ff0db,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>3.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000216601551338,-1.9979958184033175,0.997783010962842,1.9979964328918685,-0.997998998025629,</dec>
+    <hex>0x3f800719,0xbfffbe54,0x3f7f6eb5,0x3fffbe59,0xbf7f7cdd,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>3.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000216601551338,-1.9979958184033175,0.997783010962842,1.9979964328918685,-0.997998998025629,</dec>
+    <hex>0x3f800719,0xbfffbe54,0x3f7f6eb5,0x3fffbe59,0xbf7f7cdd,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>3.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000216601551338,-1.9979958184033175,0.997783010962842,1.9979964328918685,-0.997998998025629,</dec>
+    <hex>0x3f800719,0xbfffbe54,0x3f7f6eb5,0x3fffbe59,0xbf7f7cdd,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
-    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
-    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
-    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
+    <freq>10.0</freq>
+    <q>4.0</q>
+    <boost>-6.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001013417894207,-1.9996517558994313,0.9995521272858667,1.9996517558994313,-0.9996534690752875,</dec>
-    <hex>0x3f800352,0xbffff497,0x3f7fe2a6,0x3ffff497,0xbf7fe94a,</hex>
+    <dec>0.9999423623863011,-1.9997684724890061,0.9998265384214385,1.9997684724890061,-0.9997689008077395,</dec>
+    <hex>0x3f7ffc39,0xbffff86a,0x3f7ff4a2,0x3ffff86a,0xbf7ff0db,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>3.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000216601551338,-1.9979958184033175,0.997783010962842,1.9979964328918685,-0.997998998025629,</dec>
+    <hex>0x3f800719,0xbfffbe54,0x3f7f6eb5,0x3fffbe59,0xbf7f7cdd,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>3.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000216601551338,-1.9979958184033175,0.997783010962842,1.9979964328918685,-0.997998998025629,</dec>
+    <hex>0x3f800719,0xbfffbe54,0x3f7f6eb5,0x3fffbe59,0xbf7f7cdd,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>3.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000216601551338,-1.9979958184033175,0.997783010962842,1.9979964328918685,-0.997998998025629,</dec>
+    <hex>0x3f800719,0xbfffbe54,0x3f7f6eb5,0x3fffbe59,0xbf7f7cdd,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,33 +1415,35 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Guard Post</beq_title>
-    <beq_alt_title>GP506</beq_alt_title>
-    <beq_sortTitle>the guard post</beq_sortTitle>
-    <beq_year>2008</beq_year>
+    <beq_title>Pride and Prejudice and Zombies</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>pride and prejudice and zombies</beq_sortTitle>
+    <beq_year>2016</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Guard%20Post%20%282008%29%28Ko%29%20AC3%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pride%20and%20Prejudice%20and%20Zombies%20%282016%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Korean</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>The plot concerns Guard Point 506, where an entire squad of soldiers have been killed in mysterious circumstances, bar one survivor who's in a coma. Military Investigators are dispatched to the base, and discover they're dealing with a virus that turns humans into ravenous flesh-eating killers!</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>A zombie outbreak has fallen upon the land in this reimagining of Jane Austen's classic tale of the tangled relationships between lovers from different social classes in 19th century England. Feisty heroine Elizabeth Bennet is a master of martial arts and weaponry and the handsome Mr. Darcy is a fierce zombie killer, yet the epitome of upper class prejudice. As the zombie outbreak intensifies, they must swallow their pride and join forces on the blood-soaked battlefield in order to conquer the undead once and for all.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>16882</beq_theMovieDB>
-    <beq_poster>/90Fvcl9S2nACk3anNcUefEBi4m.jpg</beq_poster>
-    <beq_runtime>121</beq_runtime>
+    <beq_theMovieDB>58431</beq_theMovieDB>
+    <beq_poster>/jsJlOhVHiz1xXr36616EI8tJ4b2.jpg</beq_poster>
+    <beq_runtime>108</beq_runtime>
     <beq_collection />
     <beq_genres>
+      <genre id="10749">Romance</genre>
       <genre id="27">Horror</genre>
-      <genre id="9648">Mystery</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>AC3 5.1</audioType>
+      <audioType>Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
