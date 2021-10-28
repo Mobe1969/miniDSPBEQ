@@ -388,11 +388,6 @@ foreach ($file in $files) {
         Write-Output "Updating title to $($beqMetadata.beq_title)"
         $save = $true
     }
-    if ($beqMetadata.beq_title -ne [Regex]::Replace($beqMetadata.beq_title, "[\-():!.,]", "")) {
-        $beqMetadata.beq_alt_title = [Regex]::Replace($beqMetadata.beq_title, "[\-():!.,]", "")
-        Write-Output "Updating alt title to $($beqMetadata.beq_alt_title)"
-        $save = $true
-    }
     #if ($beqMdescretadata.beq_title -ne $beqMetadata.beq_alt_title -and "" -ne $beqMetadata.beq_alt_title) {
     #    Write-Output "Title $($beqMetadata.beq_title), Alt Title $($beqMetadata.beq_alt_title)"
     #    Add-Content -Path "D:\BEQ\Errors.txt" -Value "Title $($beqMetadata.beq_title), Alt Title $($beqMetadata.beq_alt_title)"
