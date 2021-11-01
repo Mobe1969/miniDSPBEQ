@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>20.0</freq>
-    <q>0.8</q>
+    <freq>13.0</freq>
+    <q>4.0</q>
     <boost>3.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0000369136139071,-1.9998203173130937,0.9997841275767017,1.9998203173130937,-0.999821041190609,</dec>
+    <hex>0x3f800136,0xbffffa1d,0x3f7ff1da,0x3ffffa1d,0xbf7ff446,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0001605210781255,-1.998759937748025,0.9986009742343006,1.9987602251518763,-0.9987612079085747,</dec>
+    <hex>0x3f800543,0xbfffd75e,0x3f7fa450,0x3fffd760,0xbf7faed1,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
+    <freq>30.0</freq>
+    <q>1.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0004557615026803,-1.9984377041717134,0.9979857949778698,1.9984377041717134,-0.9984415564805504,</dec>
+    <hex>0x3f800eef,0xbfffcccf,0x3f7f7bff,0x3fffcccf,0xbf7f99de,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
-    <q>0.8</q>
+    <freq>49.0</freq>
+    <q>9.0</q>
     <boost>3.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0000618343564023,-1.9996899407734567,0.9996383899882264,1.9996899407734567,-0.9997002243446286,</dec>
+    <hex>0x3f800207,0xbffff5d7,0x3f7fe84d,0x3ffff5d7,0xbf7fec5b,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>20.0</freq>
-    <q>0.8</q>
+    <freq>13.0</freq>
+    <q>4.0</q>
     <boost>3.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0000369136139071,-1.9998203173130937,0.9997841275767017,1.9998203173130937,-0.999821041190609,</dec>
+    <hex>0x3f800136,0xbffffa1d,0x3f7ff1da,0x3ffffa1d,0xbf7ff446,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0001605210781255,-1.998759937748025,0.9986009742343006,1.9987602251518763,-0.9987612079085747,</dec>
+    <hex>0x3f800543,0xbfffd75e,0x3f7fa450,0x3fffd760,0xbf7faed1,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
+    <freq>30.0</freq>
+    <q>1.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0004557615026803,-1.9984377041717134,0.9979857949778698,1.9984377041717134,-0.9984415564805504,</dec>
+    <hex>0x3f800eef,0xbfffcccf,0x3f7f7bff,0x3fffcccf,0xbf7f99de,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
-    <q>0.8</q>
+    <freq>49.0</freq>
+    <q>9.0</q>
     <boost>3.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
-    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+    <dec>1.0000618343564023,-1.9996899407734567,0.9996383899882264,1.9996899407734567,-0.9997002243446286,</dec>
+    <hex>0x3f800207,0xbffff5d7,0x3f7fe84d,0x3ffff5d7,0xbf7fec5b,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,37 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Haunting of Hill House</beq_title>
+    <beq_title>Reset</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>the haunting of hill house</beq_sortTitle>
-    <beq_year>2018</beq_year>
+    <beq_sortTitle>reset</beq_sortTitle>
+    <beq_year>2017</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Haunting%20of%20Hill%20House/Season%201/The%20Haunting%20of%20Hill%20House%20%282018%29%28S1-E10%29%28Extended%29%20TrueHD%205.1.jpg</beq_pvaURL>
-    <beq_edition>Extended Cut</beq_edition>
-    <beq_season id="90484">
-      <number>1</number>
-      <poster>/j3qAf9pxbn7uZGVPzUQ7C6vApig.jpg</poster>
-      <episodes count="10">10</episodes>
-    </beq_season>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Reset%20%282017%29%28Ma%29%20DTS-X.jpg</beq_pvaURL>
+    <beq_edition />
+    <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Mandarin</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>The Crains, a fractured family, confront haunting memories of their old home and the terrifying events that drove them from it.</beq_overview>
+    <beq_overview>When your life doesn't go the way you planned, it might be time to consider a reset. Matt and Amy have the kids from hell, and perhaps it is time to start over! In this dark comedy, Matt has to convince his wife their life would be better without the kids, and they should consider selling them...</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>72844</beq_theMovieDB>
-    <beq_poster>/38PkhBGRQtmVx2drvPik3F42qHO.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
+    <beq_theMovieDB>492626</beq_theMovieDB>
+    <beq_poster>/zDZEvIm2BE2Ga24MKx316zXImlX.jpg</beq_poster>
+    <beq_runtime>10</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="9648">Mystery</genre>
-      <genre id="18">Drama</genre>
+      <genre id="35">Comedy</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>TrueHD 5.1</audioType>
+      <audioType>DTS-X</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
