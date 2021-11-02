@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>19.0</freq>
+    <freq>14.0</freq>
     <q>2.0</q>
-    <boost>9.0</boost>
+    <boost>7.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0003366720492317,-1.999628155582498,0.9992930296561209,1.999628155582498,-0.9996297017053525,</dec>
-    <hex>0x3f800b08,0xbffff3d1,0x3f7fd1ab,0x3ffff3d1,0xbf7fe7bb,</hex>
+    <dec>1.0001896197990963,-1.9996930063922165,0.9995042260663008,1.9996930063922165,-0.9996938458653972,</dec>
+    <hex>0x3f800637,0xbffff5f1,0x3f7fdf82,0x3ffff5f1,0xbf7febf0,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
+    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>20.0</freq>
+    <q>4.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000760096345265,-1.999738377298065,0.9996640809136061,1.999738377298065,-0.9997400905481328,</dec>
+    <hex>0x3f80027e,0xbffff76d,0x3f7fe9fc,0x3ffff76d,0xbf7feef7,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>45.0</freq>
+    <q>7.0</q>
+    <boost>6.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0001482058578168,-1.9996935041351926,0.999553971436374,1.9996935041351926,-0.999702177294191,</dec>
+    <hex>0x3f8004db,0xbffff5f5,0x3f7fe2c5,0x3ffff5f5,0xbf7fec7b,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>19.0</freq>
+    <freq>14.0</freq>
     <q>2.0</q>
-    <boost>9.0</boost>
+    <boost>7.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0003366720492317,-1.999628155582498,0.9992930296561209,1.999628155582498,-0.9996297017053525,</dec>
-    <hex>0x3f800b08,0xbffff3d1,0x3f7fd1ab,0x3ffff3d1,0xbf7fe7bb,</hex>
+    <dec>1.0001896197990963,-1.9996930063922165,0.9995042260663008,1.9996930063922165,-0.9996938458653972,</dec>
+    <hex>0x3f800637,0xbffff5f1,0x3f7fdf82,0x3ffff5f1,0xbf7febf0,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
+    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>20.0</freq>
+    <q>4.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000760096345265,-1.999738377298065,0.9996640809136061,1.999738377298065,-0.9997400905481328,</dec>
+    <hex>0x3f80027e,0xbffff76d,0x3f7fe9fc,0x3ffff76d,0xbf7feef7,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>45.0</freq>
+    <q>7.0</q>
+    <boost>6.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0001482058578168,-1.9996935041351926,0.999553971436374,1.9996935041351926,-0.999702177294191,</dec>
+    <hex>0x3f8004db,0xbffff5f5,0x3f7fe2c5,0x3ffff5f5,0xbf7fec7b,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,30 +1415,30 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Amelie</beq_title>
-    <beq_alt_title>Amélie</beq_alt_title>
-    <beq_sortTitle>amelie</beq_sortTitle>
-    <beq_year>2001</beq_year>
+    <beq_title>Lady Vengeance</beq_title>
+    <beq_alt_title>Sympathy for Lady Vengeance</beq_alt_title>
+    <beq_sortTitle>lady vengeance</beq_sortTitle>
+    <beq_year>2005</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Amelie%20%282001%29%28Fr%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lady%20Vengeance%20%282005%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>French</beq_language>
+    <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?</beq_overview>
+    <beq_overview>After a 13-year imprisonment for the kidnap and murder of a 6 year old boy, beautiful Lee Guem-ja starts seeking revenge on the man that was really responsible for the boy's death. With the help of fellow inmates and reunited with her daughter, she gets closer and closer to her goal. But will her actions lead to the relief she seeks?</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>194</beq_theMovieDB>
-    <beq_poster>/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg</beq_poster>
-    <beq_runtime>116</beq_runtime>
+    <beq_theMovieDB>4550</beq_theMovieDB>
+    <beq_poster>/pxgjBSwsa2IBSJoVrsLT6qxOO6N.jpg</beq_poster>
+    <beq_runtime>115</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="35">Comedy</genre>
-      <genre id="10749">Romance</genre>
+      <genre id="18">Drama</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
