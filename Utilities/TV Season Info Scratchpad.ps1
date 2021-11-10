@@ -8,7 +8,7 @@ $id = "72844"
 $id = "77236"
 #$id = "65708" # Taboo
 #$id = "84661" # The Outsider
-$id = "88448"
+$id = "88052"
 $url = "https://api.themoviedb.org/3/tv/" + $id + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
 $result = Invoke-RestMethod -Uri $url
 
