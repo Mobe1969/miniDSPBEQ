@@ -803,57 +803,57 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
+    <q>0.6</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.0000942969791076,-1.998999473016329,0.9989056848992455,1.9989995473239788,-0.9989999075707033,</dec>
+    <hex>0x3f800317,0xbfffdf37,0x3f7fb848,0x3fffdf38,0xbf7fbe75,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
     <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.0001536223308785,-1.9990786651830674,0.9989260078004348,1.9990788763420528,-0.999079418972328,</dec>
+    <hex>0x3f800509,0xbfffe1cf,0x3f7fb99d,0x3fffe1d1,0xbf7fc3ab,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>27.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000254986536324,-1.9980300208995794,0.9977789618747571,1.9980307456092166,-0.9980332237014438,</dec>
-    <hex>0x3f80085b,0xbfffbf73,0x3f7f6e71,0x3fffbf79,0xbf7f7f1b,</hex>
+    <dec>1.0001536223308785,-1.9990786651830674,0.9989260078004348,1.9990788763420528,-0.999079418972328,</dec>
+    <hex>0x3f800509,0xbfffe1cf,0x3f7fb99d,0x3fffe1d1,0xbf7fc3ab,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>27.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000254986536324,-1.9980300208995794,0.9977789618747571,1.9980307456092166,-0.9980332237014438,</dec>
-    <hex>0x3f80085b,0xbfffbf73,0x3f7f6e71,0x3fffbf79,0xbf7f7f1b,</hex>
+    <dec>1.0001536223308785,-1.9990786651830674,0.9989260078004348,1.9990788763420528,-0.999079418972328,</dec>
+    <hex>0x3f800509,0xbfffe1cf,0x3f7fb99d,0x3fffe1d1,0xbf7fc3ab,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>27.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000254986536324,-1.9980300208995794,0.9977789618747571,1.9980307456092166,-0.9980332237014438,</dec>
-    <hex>0x3f80085b,0xbfffbf73,0x3f7f6e71,0x3fffbf79,0xbf7f7f1b,</hex>
+    <dec>1.0001536223308785,-1.9990786651830674,0.9989260078004348,1.9990788763420528,-0.999079418972328,</dec>
+    <hex>0x3f800509,0xbfffe1cf,0x3f7fb99d,0x3fffe1d1,0xbf7fc3ab,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>55.0</freq>
-    <q>3.0</q>
-    <boost>7.0</boost>
+    <freq>14.0</freq>
+    <q>2.0</q>
+    <boost>4.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0004964992287895,-1.9991854151056336,0.9987018688084867,1.9991854151056336,-0.9991983680372758,</dec>
-    <hex>0x3f801045,0xbfffe54f,0x3f7faaed,0x3fffe54f,0xbf7fcb77,</hex>
+    <dec>1.0001064079725457,-1.9996353061792793,0.9995297376556919,1.9996353061792793,-0.9996361456282373,</dec>
+    <hex>0x3f80037d,0xbffff40d,0x3f7fe12e,0x3ffff40d,0xbf7fe828,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -893,57 +893,57 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
+    <q>0.6</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.0000942969791076,-1.998999473016329,0.9989056848992455,1.9989995473239788,-0.9989999075707033,</dec>
+    <hex>0x3f800317,0xbfffdf37,0x3f7fb848,0x3fffdf38,0xbf7fbe75,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
     <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.0001536223308785,-1.9990786651830674,0.9989260078004348,1.9990788763420528,-0.999079418972328,</dec>
+    <hex>0x3f800509,0xbfffe1cf,0x3f7fb99d,0x3fffe1d1,0xbf7fc3ab,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>27.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000254986536324,-1.9980300208995794,0.9977789618747571,1.9980307456092166,-0.9980332237014438,</dec>
-    <hex>0x3f80085b,0xbfffbf73,0x3f7f6e71,0x3fffbf79,0xbf7f7f1b,</hex>
+    <dec>1.0001536223308785,-1.9990786651830674,0.9989260078004348,1.9990788763420528,-0.999079418972328,</dec>
+    <hex>0x3f800509,0xbfffe1cf,0x3f7fb99d,0x3fffe1d1,0xbf7fc3ab,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>27.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000254986536324,-1.9980300208995794,0.9977789618747571,1.9980307456092166,-0.9980332237014438,</dec>
-    <hex>0x3f80085b,0xbfffbf73,0x3f7f6e71,0x3fffbf79,0xbf7f7f1b,</hex>
+    <dec>1.0001536223308785,-1.9990786651830674,0.9989260078004348,1.9990788763420528,-0.999079418972328,</dec>
+    <hex>0x3f800509,0xbfffe1cf,0x3f7fb99d,0x3fffe1d1,0xbf7fc3ab,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>27.0</freq>
+    <freq>13.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000254986536324,-1.9980300208995794,0.9977789618747571,1.9980307456092166,-0.9980332237014438,</dec>
-    <hex>0x3f80085b,0xbfffbf73,0x3f7f6e71,0x3fffbf79,0xbf7f7f1b,</hex>
+    <dec>1.0001536223308785,-1.9990786651830674,0.9989260078004348,1.9990788763420528,-0.999079418972328,</dec>
+    <hex>0x3f800509,0xbfffe1cf,0x3f7fb99d,0x3fffe1d1,0xbf7fc3ab,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>55.0</freq>
-    <q>3.0</q>
-    <boost>7.0</boost>
+    <freq>14.0</freq>
+    <q>2.0</q>
+    <boost>4.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0004964992287895,-1.9991854151056336,0.9987018688084867,1.9991854151056336,-0.9991983680372758,</dec>
-    <hex>0x3f801045,0xbfffe54f,0x3f7faaed,0x3fffe54f,0xbf7fcb77,</hex>
+    <dec>1.0001064079725457,-1.9996353061792793,0.9995297376556919,1.9996353061792793,-0.9996361456282373,</dec>
+    <hex>0x3f80037d,0xbffff40d,0x3f7fe12e,0x3ffff40d,0xbf7fe828,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,31 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Triggered</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>triggered</beq_sortTitle>
-    <beq_year>2020</beq_year>
+    <beq_title>Evangelion 3.0+1.01 Thrice Upon a Time</beq_title>
+    <beq_alt_title>Evangelion: 3.0+1.0 Thrice Upon a Time</beq_alt_title>
+    <beq_sortTitle>evangelion 3.0+1.01 thrice upon a time</beq_sortTitle>
+    <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Triggered%20%282020%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Evangelion%203.0%2B1.01%20Thrice%20Upon%20a%20Time%20%282021%29%28Ja%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Japanese</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Nine friends, all harboring a dark secret, go camping in the woods. After a wild night of partying, they wake up with suicide bombs strapped to their chests, all with varying times on their countdown clocks. They decide to work out how to disarm the bombs or find help - until they discover they can 'take' one another's time by killing each other.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka, and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each of them live a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizonâ€”one that will prove to be the true end of Evangelion.</beq_overview>
+    <beq_rating>MA15+</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>715239</beq_theMovieDB>
-    <beq_poster>/KvhqUA8EtywXYCHb9up4cnG5en.jpg</beq_poster>
-    <beq_runtime>90</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>283566</beq_theMovieDB>
+    <beq_poster>/jDwZavHo99JtGsCyRzp4epeeBHx.jpg</beq_poster>
+    <beq_runtime>155</beq_runtime>
     <beq_genres>
-      <genre id="53">Thriller</genre>
-      <genre id="27">Horror</genre>
+      <genre id="16">Animation</genre>
+      <genre id="28">Action</genre>
+      <genre id="18">Drama</genre>
+      <genre id="878">Science Fiction</genre>
     </beq_genres>
+    <beq_collection id="210303">Rebuild of Evangelion Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>

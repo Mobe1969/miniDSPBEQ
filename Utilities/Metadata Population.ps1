@@ -343,6 +343,10 @@ foreach ($file in $files) {
     }
     elseif ($fileName.IndexOf("DD+") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("DD+"))
+        if ($beqMetadata.beq_source -ne "Streaming") {
+            $beqMetadata.beq_source = "Streaming"
+            $save = $true
+        }
     }
     elseif ($fileName.IndexOf("DTS-X") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("DTS-X"))
