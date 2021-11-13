@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
-    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
+    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
+    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
-    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
+    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
+    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>28.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>2.2</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000145206449556,-1.9978487392052529,0.9977073404896671,1.9978491652009804,-0.9978521209434953,</dec>
-    <hex>0x3f8004c2,0xbfffb982,0x3f7f69c0,0x3fffb985,0xbf7f733d,</hex>
+    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
+    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>28.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>2.2</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000145206449556,-1.9978487392052529,0.9977073404896671,1.9978491652009804,-0.9978521209434953,</dec>
-    <hex>0x3f8004c2,0xbfffb982,0x3f7f69c0,0x3fffb985,0xbf7f733d,</hex>
+    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
+    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>2.2</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000145206449556,-1.9978487392052529,0.9977073404896671,1.9978491652009804,-0.9978521209434953,</dec>
-    <hex>0x3f8004c2,0xbfffb982,0x3f7f69c0,0x3fffb985,0xbf7f733d,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
-    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
+    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
+    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
-    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
+    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
+    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>28.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>2.2</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000145206449556,-1.9978487392052529,0.9977073404896671,1.9978491652009804,-0.9978521209434953,</dec>
-    <hex>0x3f8004c2,0xbfffb982,0x3f7f69c0,0x3fffb985,0xbf7f733d,</hex>
+    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
+    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>28.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>2.2</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000145206449556,-1.9978487392052529,0.9977073404896671,1.9978491652009804,-0.9978521209434953,</dec>
-    <hex>0x3f8004c2,0xbfffb982,0x3f7f69c0,0x3fffb985,0xbf7f733d,</hex>
+    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
+    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>2.2</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000145206449556,-1.9978487392052529,0.9977073404896671,1.9978491652009804,-0.9978521209434953,</dec>
-    <hex>0x3f8004c2,0xbfffb982,0x3f7f69c0,0x3fffb985,0xbf7f733d,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,33 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Connected</beq_title>
+    <beq_title>Don't Breathe 2</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>connected</beq_sortTitle>
-    <beq_year>2008</beq_year>
+    <beq_sortTitle>don't breathe 2</beq_sortTitle>
+    <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Connected%20%282008%29%28Ca%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Don%27t%20Breathe%202%20%282021%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Cantonese</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>A debt collector receives a call from a woman who is kidnapped by an unknown gang. He thinks it is a joke but soon, he realises that it is not a prank.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_language>English</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>19611</beq_theMovieDB>
-    <beq_poster>/ypZQQ9R8uXiRpTKtRoT5gcQM5RM.jpg</beq_poster>
-    <beq_runtime>110</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>482373</beq_theMovieDB>
+    <beq_poster>/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg</beq_poster>
+    <beq_runtime>98</beq_runtime>
     <beq_genres>
       <genre id="53">Thriller</genre>
-      <genre id="28">Action</genre>
+      <genre id="27">Horror</genre>
     </beq_genres>
+    <beq_collection id="748919">Don't Breathe Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
