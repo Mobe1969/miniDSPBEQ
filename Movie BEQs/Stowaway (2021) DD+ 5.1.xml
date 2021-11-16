@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>16.0</freq>
+    <freq>10.0</freq>
     <q>0.9</q>
-    <boost>5.8</boost>
+    <boost>5.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001952342984242,-1.9990146673224627,0.9988209635597474,1.999015040113986,-0.9990158250666481,</dec>
-    <hex>0x3f800666,0xbfffdfb6,0x3f7fb2bb,0x3fffdfba,0xbf7fbf80,</hex>
+    <dec>1.000115635465688,-1.9993789936140214,0.9992639458846064,1.9993791314721356,-0.9993794434921807,</dec>
+    <hex>0x3f8003ca,0xbfffeba7,0x3f7fcfc3,0x3fffeba8,0xbf7fd755,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>16.0</freq>
+    <freq>10.0</freq>
     <q>0.9</q>
-    <boost>5.8</boost>
+    <boost>5.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001952342984242,-1.9990146673224627,0.9988209635597474,1.999015040113986,-0.9990158250666481,</dec>
-    <hex>0x3f800666,0xbfffdfb6,0x3f7fb2bb,0x3fffdfba,0xbf7fbf80,</hex>
+    <dec>1.000115635465688,-1.9993789936140214,0.9992639458846064,1.9993791314721356,-0.9993794434921807,</dec>
+    <hex>0x3f8003ca,0xbfffeba7,0x3f7fcfc3,0x3fffeba8,0xbf7fd755,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>16.0</freq>
+    <freq>10.0</freq>
     <q>0.9</q>
-    <boost>5.8</boost>
+    <boost>5.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001952342984242,-1.9990146673224627,0.9988209635597474,1.999015040113986,-0.9990158250666481,</dec>
-    <hex>0x3f800666,0xbfffdfb6,0x3f7fb2bb,0x3fffdfba,0xbf7fbf80,</hex>
+    <dec>1.000115635465688,-1.9993789936140214,0.9992639458846064,1.9993791314721356,-0.9993794434921807,</dec>
+    <hex>0x3f8003ca,0xbfffeba7,0x3f7fcfc3,0x3fffeba8,0xbf7fd755,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>38.0</freq>
-    <q>1.0</q>
-    <boost>0.4</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>5.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000572029461932,-1.997566293398458,0.9975152685786551,1.997566293398458,-0.9975724715248482,</dec>
-    <hex>0x3f8001e0,0xbfffb041,0x3f7f5d29,0x3fffb041,0xbf7f60e9,</hex>
+    <dec>1.000115635465688,-1.9993789936140214,0.9992639458846064,1.9993791314721356,-0.9993794434921807,</dec>
+    <hex>0x3f8003ca,0xbfffeba7,0x3f7fcfc3,0x3fffeba8,0xbf7fd755,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>55.0</freq>
-    <q>1.0</q>
-    <boost>0.4</boost>
+    <freq>12.0</freq>
+    <q>3.0</q>
+    <boost>7.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000827487120882,-1.9964754473367672,0.9964056339981564,1.9964754473367672,-0.9964883827102446,</dec>
-    <hex>0x3f8002b6,0xbfff8c82,0x3f7f1471,0x3fff8c82,0xbf7f19dd,</hex>
+    <dec>1.0001083612839177,-1.9998244264995106,0.9997166820118751,1.9998244264995106,-0.9998250432957929,</dec>
+    <hex>0x3f80038d,0xbffffa3f,0x3f7fed6f,0x3ffffa3f,0xbf7ff489,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>16.0</freq>
+    <freq>10.0</freq>
     <q>0.9</q>
-    <boost>5.8</boost>
+    <boost>5.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001952342984242,-1.9990146673224627,0.9988209635597474,1.999015040113986,-0.9990158250666481,</dec>
-    <hex>0x3f800666,0xbfffdfb6,0x3f7fb2bb,0x3fffdfba,0xbf7fbf80,</hex>
+    <dec>1.000115635465688,-1.9993789936140214,0.9992639458846064,1.9993791314721356,-0.9993794434921807,</dec>
+    <hex>0x3f8003ca,0xbfffeba7,0x3f7fcfc3,0x3fffeba8,0xbf7fd755,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>16.0</freq>
+    <freq>10.0</freq>
     <q>0.9</q>
-    <boost>5.8</boost>
+    <boost>5.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001952342984242,-1.9990146673224627,0.9988209635597474,1.999015040113986,-0.9990158250666481,</dec>
-    <hex>0x3f800666,0xbfffdfb6,0x3f7fb2bb,0x3fffdfba,0xbf7fbf80,</hex>
+    <dec>1.000115635465688,-1.9993789936140214,0.9992639458846064,1.9993791314721356,-0.9993794434921807,</dec>
+    <hex>0x3f8003ca,0xbfffeba7,0x3f7fcfc3,0x3fffeba8,0xbf7fd755,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>16.0</freq>
+    <freq>10.0</freq>
     <q>0.9</q>
-    <boost>5.8</boost>
+    <boost>5.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001952342984242,-1.9990146673224627,0.9988209635597474,1.999015040113986,-0.9990158250666481,</dec>
-    <hex>0x3f800666,0xbfffdfb6,0x3f7fb2bb,0x3fffdfba,0xbf7fbf80,</hex>
+    <dec>1.000115635465688,-1.9993789936140214,0.9992639458846064,1.9993791314721356,-0.9993794434921807,</dec>
+    <hex>0x3f8003ca,0xbfffeba7,0x3f7fcfc3,0x3fffeba8,0xbf7fd755,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>38.0</freq>
-    <q>1.0</q>
-    <boost>0.4</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>5.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000572029461932,-1.997566293398458,0.9975152685786551,1.997566293398458,-0.9975724715248482,</dec>
-    <hex>0x3f8001e0,0xbfffb041,0x3f7f5d29,0x3fffb041,0xbf7f60e9,</hex>
+    <dec>1.000115635465688,-1.9993789936140214,0.9992639458846064,1.9993791314721356,-0.9993794434921807,</dec>
+    <hex>0x3f8003ca,0xbfffeba7,0x3f7fcfc3,0x3fffeba8,0xbf7fd755,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>55.0</freq>
-    <q>1.0</q>
-    <boost>0.4</boost>
+    <freq>12.0</freq>
+    <q>3.0</q>
+    <boost>7.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000827487120882,-1.9964754473367672,0.9964056339981564,1.9964754473367672,-0.9964883827102446,</dec>
-    <hex>0x3f8002b6,0xbfff8c82,0x3f7f1471,0x3fff8c82,0xbf7f19dd,</hex>
+    <dec>1.0001083612839177,-1.9998244264995106,0.9997166820118751,1.9998244264995106,-0.9998250432957929,</dec>
+    <hex>0x3f80038d,0xbffffa3f,0x3f7fed6f,0x3ffffa3f,0xbf7ff489,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,34 +1414,37 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata>
-  <beq_title>Midway</beq_title>
-  <beq_alt_title />
-  <beq_sortTitle>midway</beq_sortTitle>
-  <beq_year>2019</beq_year>
-  <beq_spectrumURL>https://i.imgur.com/mdtgqGV.png</beq_spectrumURL>
-  <beq_pvaURL>https://i.imgur.com/HFkFWit.jpg</beq_pvaURL>
-  <beq_edition />
-  <beq_note />
-  <beq_warning></beq_warning>
-  <beq_gain />
-  <beq_language>Italian</beq_language>
-  <beq_source>Disc</beq_source>
-  <beq_overview>The story of the Battle of Midway, and the leaders and soldiers who used their instincts, fortitude and bravery to overcome massive odds.</beq_overview>
-  <beq_rating>PG-13</beq_rating>
-  <beq_author>Fil8</beq_author>
-  <beq_avs />
-  <beq_theMovieDB>522162</beq_theMovieDB>
-  <beq_poster>/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg</beq_poster>
-  <beq_runtime>138</beq_runtime>
-  <beq_audioTypes>
-    <audioType>DTS-HD MA 5.1</audioType>
-  </beq_audioTypes>
-  <beq_genres>
-    <genre id="10752">War</genre>
-    <genre id="36">History</genre>
-    <genre id="28">Action</genre>
-    <genre id="18">Drama</genre>
-  </beq_genres>
+  <beq_metadata>
+    <beq_title>Stowaway</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>stowaway</beq_sortTitle>
+    <beq_year>2021</beq_year>
+    <beq_spectrumURL />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stowaway%20%282021%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_edition />
+    <beq_season>
+    </beq_season>
+    <beq_note />
+    <beq_warning />
+    <beq_gain />
+    <beq_language>English</beq_language>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.</beq_overview>
+    <beq_rating>M</beq_rating>
+    <beq_author>mobe1969</beq_author>
+    <beq_avs />
+    <beq_theMovieDB>559581</beq_theMovieDB>
+    <beq_poster>/yOscLK7KzEPDdi1P8RmevGIjOSp.jpg</beq_poster>
+    <beq_runtime>117</beq_runtime>
+    <beq_collection>
+    </beq_collection>
+    <beq_audioTypes>
+      <audioType>DD+ 5.1</audioType>
+    </beq_audioTypes>
+    <beq_genres>
+      <genre id="878">Science Fiction</genre>
+      <genre id="18">Drama</genre>
+      <genre id="53">Thriller</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
