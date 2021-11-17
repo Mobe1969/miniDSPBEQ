@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>13.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>1.4</boost>
+    <boost>1.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000042875302386,-1.9989782401259961,0.9989361491235536,1.99897829850221,-0.9989789660497252,</dec>
-    <hex>0x3f800168,0xbfffde85,0x3f7fba48,0x3fffde85,0xbf7fbd16,</hex>
+    <dec>1.0000480637794862,-1.999064950211096,0.9990175663813158,1.9990650106441252,-0.9990655697277728,</dec>
+    <hex>0x3f800193,0xbfffe15c,0x3f7fbf9d,0x3fffe15d,0xbf7fc2c3,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>13.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>1.4</boost>
+    <boost>1.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000042875302386,-1.9989782401259961,0.9989361491235536,1.99897829850221,-0.9989789660497252,</dec>
-    <hex>0x3f800168,0xbfffde85,0x3f7fba48,0x3fffde85,0xbf7fbd16,</hex>
+    <dec>1.0000480637794862,-1.999064950211096,0.9990175663813158,1.9990650106441252,-0.9990655697277728,</dec>
+    <hex>0x3f800193,0xbfffe15c,0x3f7fbf9d,0x3fffe15d,0xbf7fc2c3,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>13.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>1.4</boost>
+    <boost>1.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000042875302386,-1.9989782401259961,0.9989361491235536,1.99897829850221,-0.9989789660497252,</dec>
-    <hex>0x3f800168,0xbfffde85,0x3f7fba48,0x3fffde85,0xbf7fbd16,</hex>
+    <dec>1.0000480637794862,-1.999064950211096,0.9990175663813158,1.9990650106441252,-0.9990655697277728,</dec>
+    <hex>0x3f800193,0xbfffe15c,0x3f7fbf9d,0x3fffe15d,0xbf7fc2c3,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>1.4</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000042875302386,-1.9989782401259961,0.9989361491235536,1.99897829850221,-0.9989789660497252,</dec>
-    <hex>0x3f800168,0xbfffde85,0x3f7fba48,0x3fffde85,0xbf7fbd16,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>13.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>1.4</boost>
+    <boost>1.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000042875302386,-1.9989782401259961,0.9989361491235536,1.99897829850221,-0.9989789660497252,</dec>
-    <hex>0x3f800168,0xbfffde85,0x3f7fba48,0x3fffde85,0xbf7fbd16,</hex>
+    <dec>1.0000480637794862,-1.999064950211096,0.9990175663813158,1.9990650106441252,-0.9990655697277728,</dec>
+    <hex>0x3f800193,0xbfffe15c,0x3f7fbf9d,0x3fffe15d,0xbf7fc2c3,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>13.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>1.4</boost>
+    <boost>1.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000042875302386,-1.9989782401259961,0.9989361491235536,1.99897829850221,-0.9989789660497252,</dec>
-    <hex>0x3f800168,0xbfffde85,0x3f7fba48,0x3fffde85,0xbf7fbd16,</hex>
+    <dec>1.0000480637794862,-1.999064950211096,0.9990175663813158,1.9990650106441252,-0.9990655697277728,</dec>
+    <hex>0x3f800193,0xbfffe15c,0x3f7fbf9d,0x3fffe15d,0xbf7fc2c3,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>13.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>1.4</boost>
+    <boost>1.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000042875302386,-1.9989782401259961,0.9989361491235536,1.99897829850221,-0.9989789660497252,</dec>
-    <hex>0x3f800168,0xbfffde85,0x3f7fba48,0x3fffde85,0xbf7fbd16,</hex>
+    <dec>1.0000480637794862,-1.999064950211096,0.9990175663813158,1.9990650106441252,-0.9990655697277728,</dec>
+    <hex>0x3f800193,0xbfffe15c,0x3f7fbf9d,0x3fffe15d,0xbf7fc2c3,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>1.4</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000042875302386,-1.9989782401259961,0.9989361491235536,1.99897829850221,-0.9989789660497252,</dec>
-    <hex>0x3f800168,0xbfffde85,0x3f7fba48,0x3fffde85,0xbf7fbd16,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,34 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Dracula</beq_title>
+    <beq_title>Bag of Bones</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>dracula</beq_sortTitle>
-    <beq_year>2013</beq_year>
+    <beq_sortTitle>bag of bones</beq_sortTitle>
+    <beq_year>2011</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Dracula/Dracula%20%282013%29%28S1-E1-5%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Bag%20of%20Bones%20%282011%29%28E1%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="59231">
-		<number>1</number>
-		<poster></poster>
-		<episodes count="10">1,2,3,4,5</episodes>
-	</beq_season>
+    <beq_season id="59537">
+      <number>1</number>
+      <poster>/9gUYPwLG1BpVSAM6R58PnJx5ota.jpg</poster>
+      <episodes count="2">1</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Transylvania, 1897. The blood-drinking Count Dracula is drawing his plans against Victorian London. And be warned: the dead travel fast.</beq_overview>
+    <beq_overview>Bestselling novelist Mike Noonan, unable to cope after his wife's sudden death, returns to the couple's lakeside retreat in Maine, where he becomes involved in a custody battle between a young widow and her child's enormously wealthy grandfather. Mike inexplicably receives mysterious ghostly visitations, escalating nightmares and the realization that his late wife still has something to tell him.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>86850</beq_theMovieDB>
-    <beq_poster>/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg</beq_poster>
+    <beq_theMovieDB>39758</beq_theMovieDB>
+    <beq_poster>/ziIOygc0X8rOSRw3AIGzDJdq7F.jpg</beq_poster>
     <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="18">Drama</genre>
-      <genre id="10759">Action &amp; Adventure</genre>
+      <genre id="9648">Mystery</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>

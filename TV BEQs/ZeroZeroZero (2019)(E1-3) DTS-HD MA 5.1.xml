@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001060826097952,-1.9986291567841707,0.9985246758139031,1.998629357073831,-0.9986305581340382,</dec>
-    <hex>0x3f80037a,0xbfffd315,0x3f7f9f50,0x3fffd316,0xbf7fa641,</hex>
+    <dec>1.0000329797073417,-1.9992140671021392,0.9991815515322939,1.9992141016483482,-0.9992144966934263,</dec>
+    <hex>0x3f800115,0xbfffe63f,0x3f7fca5d,0x3fffe63f,0xbf7fcc85,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001060826097952,-1.9986291567841707,0.9985246758139031,1.998629357073831,-0.9986305581340382,</dec>
-    <hex>0x3f80037a,0xbfffd315,0x3f7f9f50,0x3fffd316,0xbf7fa641,</hex>
+    <dec>1.0000329797073417,-1.9992140671021392,0.9991815515322939,1.9992141016483482,-0.9992144966934263,</dec>
+    <hex>0x3f800115,0xbfffe63f,0x3f7fca5d,0x3fffe63f,0xbf7fcc85,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001060826097952,-1.9986291567841707,0.9985246758139031,1.998629357073831,-0.9986305581340382,</dec>
-    <hex>0x3f80037a,0xbfffd315,0x3f7f9f50,0x3fffd316,0xbf7fa641,</hex>
+    <dec>1.0000329797073417,-1.9992140671021392,0.9991815515322939,1.9992141016483482,-0.9992144966934263,</dec>
+    <hex>0x3f800115,0xbfffe63f,0x3f7fca5d,0x3fffe63f,0xbf7fcc85,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>1.4</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000127306844082,-1.9996711373482583,0.9995455436966374,1.9996711373482583,-0.9996728505407192,</dec>
-    <hex>0x3f80042c,0xbffff539,0x3f7fe237,0x3ffff539,0xbf7fea8f,</hex>
+    <dec>1.0000329797073417,-1.9992140671021392,0.9991815515322939,1.9992141016483482,-0.9992144966934263,</dec>
+    <hex>0x3f800115,0xbfffe63f,0x3f7fca5d,0x3fffe63f,0xbf7fcc85,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001060826097952,-1.9986291567841707,0.9985246758139031,1.998629357073831,-0.9986305581340382,</dec>
-    <hex>0x3f80037a,0xbfffd315,0x3f7f9f50,0x3fffd316,0xbf7fa641,</hex>
+    <dec>1.0000329797073417,-1.9992140671021392,0.9991815515322939,1.9992141016483482,-0.9992144966934263,</dec>
+    <hex>0x3f800115,0xbfffe63f,0x3f7fca5d,0x3fffe63f,0xbf7fcc85,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001060826097952,-1.9986291567841707,0.9985246758139031,1.998629357073831,-0.9986305581340382,</dec>
-    <hex>0x3f80037a,0xbfffd315,0x3f7f9f50,0x3fffd316,0xbf7fa641,</hex>
+    <dec>1.0000329797073417,-1.9992140671021392,0.9991815515322939,1.9992141016483482,-0.9992144966934263,</dec>
+    <hex>0x3f800115,0xbfffe63f,0x3f7fca5d,0x3fffe63f,0xbf7fcc85,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>1.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001060826097952,-1.9986291567841707,0.9985246758139031,1.998629357073831,-0.9986305581340382,</dec>
-    <hex>0x3f80037a,0xbfffd315,0x3f7f9f50,0x3fffd316,0xbf7fa641,</hex>
+    <dec>1.0000329797073417,-1.9992140671021392,0.9991815515322939,1.9992141016483482,-0.9992144966934263,</dec>
+    <hex>0x3f800115,0xbfffe63f,0x3f7fca5d,0x3fffe63f,0xbf7fcc85,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>1.4</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000127306844082,-1.9996711373482583,0.9995455436966374,1.9996711373482583,-0.9996728505407192,</dec>
-    <hex>0x3f80042c,0xbffff539,0x3f7fe237,0x3ffff539,0xbf7fea8f,</hex>
+    <dec>1.0000329797073417,-1.9992140671021392,0.9991815515322939,1.9992141016483482,-0.9992144966934263,</dec>
+    <hex>0x3f800115,0xbfffe63f,0x3f7fca5d,0x3fffe63f,0xbf7fcc85,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,37 +1415,37 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Halo 4 Forward Unto Dawn</beq_title>
+    <beq_title>ZeroZeroZero</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>halo 4 forward unto dawn</beq_sortTitle>
-    <beq_year>2012</beq_year>
+    <beq_sortTitle>zerozerozero</beq_sortTitle>
+    <beq_year>2019</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Halo/Halo%204%20Forward%20Unto%20Dawn%20%282012%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/ZeroZeroZero%20%282019%29%28E1-3%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="75925">
-        <number>1</number>
-        <poster></poster>
-        <episodes count="5">1,2,3,4,5</episodes>
+    <beq_season id="129376">
+      <number>1</number>
+      <poster>/q1X7Ev3Hcr0Q7aUiWgw1ZUZf1QZ.jpg</poster>
+      <episodes count="8">1,2,3</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A coming-of-age story, Forward Unto Dawn follows a cadet, Thomas Lasky, at a twenty-sixth century military training academy as it is attacked by the Covenant, an alliance of alien zealots. Lasky is unsure of his future within the military but feels pressured to follow in the footsteps of his mother and brother. Lasky and his surviving squad mates are rescued by the Master Chief and, after the death of his romantic interest, Chyler Silva, Lasky is inspired by the Chief to take initiative and aids him in saving the remaining cadets.</beq_overview>
+    <beq_overview>Based on the book of the same name by bestselling author Roberto Saviano, ZeroZeroZero is an unforgettable exploration of the inner workings of the global cocaine trade.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>56295</beq_theMovieDB>
-    <beq_poster>/Am1yFF4Ye0eJ8fd6mK7HAvHt3FE.jpg</beq_poster>
+    <beq_theMovieDB>92137</beq_theMovieDB>
+    <beq_poster>/wW7UyfeeFPctvLbpP5Sf2c1vmPo.jpg</beq_poster>
     <beq_runtime>0</beq_runtime>
     <beq_collection />
+    <beq_genres>
+      <genre id="80">Crime</genre>
+      <genre id="18">Drama</genre>
+    </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
-    <beq_genres>
-      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
-      <genre id="10759">Action &amp; Adventure</genre>
-    </beq_genres>
   </beq_metadata>
 </setting>

@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>18.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001145780400966,-1.9997041729457596,0.9995909826142931,1.9997041729457596,-0.99970556065439,</dec>
-    <hex>0x3f8003c1,0xbffff64e,0x3f7fe532,0x3ffff64e,0xbf7fecb4,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>32.0</freq>
-    <q>5.0</q>
+    <freq>10.0</freq>
+    <q>2.0</q>
     <boost>4.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000972887487802,-1.9996629423952246,0.999570039406055,1.9996629423952246,-0.9996673281548353,</dec>
-    <hex>0x3f800330,0xbffff4f5,0x3f7fe3d2,0x3ffff4f5,0xbf7fea33,</hex>
+    <dec>1.0000760096508046,-1.9997396621799088,0.999664080841667,1.9997396621799088,-0.9997400904924716,</dec>
+    <hex>0x3f80027e,0xbffff778,0x3f7fe9fc,0x3ffff778,0xbf7feef7,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.7</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000076384067785,-1.9990914453538076,0.9990157815348346,1.9990915415702137,-0.9990920693862132,</dec>
+    <hex>0x3f800281,0xbfffe23a,0x3f7fbf80,0x3fffe23b,0xbf7fc47f,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.7</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000076384067785,-1.9990914453538076,0.9990157815348346,1.9990915415702137,-0.9990920693862132,</dec>
+    <hex>0x3f800281,0xbfffe23a,0x3f7fbf80,0x3fffe23b,0xbf7fc47f,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>14.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000530020952523,-1.9997422040378732,0.9996900414364548,1.9997422040378732,-0.9997430435317071,</dec>
+    <hex>0x3f8001bd,0xbffff78d,0x3f7febb0,0x3ffff78d,0xbf7fef29,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>18.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001145780400966,-1.9997041729457596,0.9995909826142931,1.9997041729457596,-0.99970556065439,</dec>
-    <hex>0x3f8003c1,0xbffff64e,0x3f7fe532,0x3ffff64e,0xbf7fecb4,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>32.0</freq>
-    <q>5.0</q>
+    <freq>10.0</freq>
+    <q>2.0</q>
     <boost>4.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000972887487802,-1.9996629423952246,0.999570039406055,1.9996629423952246,-0.9996673281548353,</dec>
-    <hex>0x3f800330,0xbffff4f5,0x3f7fe3d2,0x3ffff4f5,0xbf7fea33,</hex>
+    <dec>1.0000760096508046,-1.9997396621799088,0.999664080841667,1.9997396621799088,-0.9997400904924716,</dec>
+    <hex>0x3f80027e,0xbffff778,0x3f7fe9fc,0x3ffff778,0xbf7feef7,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.7</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000076384067785,-1.9990914453538076,0.9990157815348346,1.9990915415702137,-0.9990920693862132,</dec>
+    <hex>0x3f800281,0xbfffe23a,0x3f7fbf80,0x3fffe23b,0xbf7fc47f,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.7</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000076384067785,-1.9990914453538076,0.9990157815348346,1.9990915415702137,-0.9990920693862132,</dec>
+    <hex>0x3f800281,0xbfffe23a,0x3f7fbf80,0x3fffe23b,0xbf7fc47f,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>14.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000530020952523,-1.9997422040378732,0.9996900414364548,1.9997422040378732,-0.9997430435317071,</dec>
+    <hex>0x3f8001bd,0xbffff78d,0x3f7febb0,0x3ffff78d,0xbf7fef29,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,33 +1415,36 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>D.P.</beq_title>
+    <beq_title>Resident Evil Infinite Darkness</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>d.p.</beq_sortTitle>
+    <beq_sortTitle>resident evil infinite darkness</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/D.P/D.P.%20%282021%29%28S1-E1-6%29%28Ko%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Resident%20Evil%20Infinite%20Darkness%20%282021%29%28S1E1-4%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-        <beq_season id="163859">
-        <number>1</number>
-        <poster>/7hiktXMGSkV14MJlZOV1Tn7IT2L.jpg</poster>
-        <episodes count="6">1,2,3,4,5,6</episodes>
+    <beq_season id="164077">
+      <number>1</number>
+      <poster>/cDl03r3KB54sOsAeCCak5yQAPJa.jpg</poster>
+      <episodes count="4">1,2,3,4</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Korean</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>A young private’s assignment to capture army deserters reveals the painful reality endured by each enlistee during his compulsory call of duty.</beq_overview>
+    <beq_overview>Years after the horrors of Raccoon City, Leon and Claire find themselves consumed by a dark conspiracy when a viral attack ravages the White House.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>110534</beq_theMovieDB>
-    <beq_poster>/iJYqTUHHEzaTJQNr4LdPMb3imSQ.jpg</beq_poster>
+    <beq_theMovieDB>110642</beq_theMovieDB>
+    <beq_poster>/xCHJq63FrXCJAF7v69Obd24siDF.jpg</beq_poster>
     <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
+      <genre id="16">Animation</genre>
       <genre id="18">Drama</genre>
+      <genre id="10759">Action &amp; Adventure</genre>
+      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>

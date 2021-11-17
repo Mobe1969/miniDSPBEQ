@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>27.0</freq>
-    <q>3.0</q>
-    <boost>3.0</boost>
+    <freq>28.0</freq>
+    <q>3.7</q>
+    <boost>4.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001022060943585,-1.999501378369068,0.9994022943047405,1.999501378369068,-0.9995045003990991,</dec>
-    <hex>0x3f800359,0xbfffefa9,0x3f7fd8d4,0x3fffefa9,0xbf7fdf87,</hex>
+    <dec>1.0001150339008646,-1.9996032921441687,0.9994916159889027,1.9996032921441687,-0.9996066498897672,</dec>
+    <hex>0x3f8003c5,0xbffff300,0x3f7fdeaf,0x3ffff300,0xbf7fe639,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>1.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000777493095656,-1.9976210868956301,0.9975474400391493,1.9976213308913386,-0.9976249453530058,</dec>
+    <hex>0x3f80028c,0xbfffb20c,0x3f7f5f45,0x3fffb20e,0xbf7f6459,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>1.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000777493095656,-1.9976210868956301,0.9975474400391493,1.9976213308913386,-0.9976249453530058,</dec>
+    <hex>0x3f80028c,0xbfffb20c,0x3f7f5f45,0x3fffb20e,0xbf7f6459,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>1.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000777493095656,-1.9976210868956301,0.9975474400391493,1.9976213308913386,-0.9976249453530058,</dec>
+    <hex>0x3f80028c,0xbfffb20c,0x3f7f5f45,0x3fffb20e,0xbf7f6459,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000325062013173,-1.9981499774558564,0.9981198147895619,1.998150055666298,-0.9981522427804373,</dec>
-    <hex>0x3f800111,0xbfffc361,0x3f7f84c8,0x3fffc362,0xbf7f86e8,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>27.0</freq>
-    <q>3.0</q>
-    <boost>3.0</boost>
+    <freq>28.0</freq>
+    <q>3.7</q>
+    <boost>4.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001022060943585,-1.999501378369068,0.9994022943047405,1.999501378369068,-0.9995045003990991,</dec>
-    <hex>0x3f800359,0xbfffefa9,0x3f7fd8d4,0x3fffefa9,0xbf7fdf87,</hex>
+    <dec>1.0001150339008646,-1.9996032921441687,0.9994916159889027,1.9996032921441687,-0.9996066498897672,</dec>
+    <hex>0x3f8003c5,0xbffff300,0x3f7fdeaf,0x3ffff300,0xbf7fe639,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>1.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000777493095656,-1.9976210868956301,0.9975474400391493,1.9976213308913386,-0.9976249453530058,</dec>
+    <hex>0x3f80028c,0xbfffb20c,0x3f7f5f45,0x3fffb20e,0xbf7f6459,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>1.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000777493095656,-1.9976210868956301,0.9975474400391493,1.9976213308913386,-0.9976249453530058,</dec>
+    <hex>0x3f80028c,0xbfffb20c,0x3f7f5f45,0x3fffb20e,0xbf7f6459,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>1.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000777493095656,-1.9976210868956301,0.9975474400391493,1.9976213308913386,-0.9976249453530058,</dec>
+    <hex>0x3f80028c,0xbfffb20c,0x3f7f5f45,0x3fffb20e,0xbf7f6459,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,41 +1415,37 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Halo: The Fall of Reach</beq_title>
-    <beq_alt_title>Halo The Fall of Reach</beq_alt_title>
-    <beq_sortTitle>halo the fall of reach</beq_sortTitle>
-    <beq_year>2015</beq_year>
+    <beq_title>Bag of Bones</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>bag of bones</beq_sortTitle>
+    <beq_year>2011</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Halo/Halo%20The%20Fall%20of%20Reach%20%282015%29%20AC3%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Bag%20of%20Bones%20%282011%29%28E2%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="99478">
+    <beq_season id="59537">
       <number>1</number>
-      <poster>
-      </poster>
-      <episodes count="3">1,2,3</episodes>
+      <poster>/9gUYPwLG1BpVSAM6R58PnJx5ota.jpg</poster>
+      <episodes count="2">2</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Kidnapped as children and conscripted into a brutal military training and augmentation program, the Spartans were designed to be the ultimate weapon against chaos and insurgencybut when a dangerous alien alliance known as the Covenant declares war on humanity, the Spartans might be our only hope.</beq_overview>
+    <beq_overview>Bestselling novelist Mike Noonan, unable to cope after his wife's sudden death, returns to the couple's lakeside retreat in Maine, where he becomes involved in a custody battle between a young widow and her child's enormously wealthy grandfather. Mike inexplicably receives mysterious ghostly visitations, escalating nightmares and the realization that his late wife still has something to tell him.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>77184</beq_theMovieDB>
-    <beq_poster>/2N3sCxDhZo1vQqN7xc1UCyH4KHt.jpg</beq_poster>
+    <beq_theMovieDB>39758</beq_theMovieDB>
+    <beq_poster>/ziIOygc0X8rOSRw3AIGzDJdq7F.jpg</beq_poster>
     <beq_runtime>0</beq_runtime>
-    <beq_audioTypes>
-      <audioType>AC3 5.1</audioType>
-    </beq_audioTypes>
-    <beq_collection id="9485">The Fast and the Furious Collection</beq_collection>
+    <beq_collection />
     <beq_genres>
-      <genre id="16">Animation</genre>
-      <genre id="10759">Action &amp; Adventure</genre>
-      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
-      <genre id="10751">Family</genre>
-      <genre id="10768">War &amp; Politics</genre>
+      <genre id="18">Drama</genre>
+      <genre id="9648">Mystery</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 5.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
