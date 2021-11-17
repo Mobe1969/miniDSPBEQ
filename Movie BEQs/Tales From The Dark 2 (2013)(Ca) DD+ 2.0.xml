@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>18.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001145780400966,-1.9997041729457596,0.9995909826142931,1.9997041729457596,-0.99970556065439,</dec>
-    <hex>0x3f8003c1,0xbffff64e,0x3f7fe532,0x3ffff64e,0xbf7fecb4,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>28.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>28.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>28.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>32.0</freq>
-    <q>5.0</q>
-    <boost>4.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000972887487802,-1.9996629423952246,0.999570039406055,1.9996629423952246,-0.9996673281548353,</dec>
-    <hex>0x3f800330,0xbffff4f5,0x3f7fe3d2,0x3ffff4f5,0xbf7fea33,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>18.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001145780400966,-1.9997041729457596,0.9995909826142931,1.9997041729457596,-0.99970556065439,</dec>
-    <hex>0x3f8003c1,0xbffff64e,0x3f7fe532,0x3ffff64e,0xbf7fecb4,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>28.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>28.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>28.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>32.0</freq>
-    <q>5.0</q>
-    <boost>4.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000972887487802,-1.9996629423952246,0.999570039406055,1.9996629423952246,-0.9996673281548353,</dec>
-    <hex>0x3f800330,0xbffff4f5,0x3f7fe3d2,0x3ffff4f5,0xbf7fea33,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,36 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>D.P.</beq_title>
+    <beq_title>Tales From The Dark 2</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>d.p.</beq_sortTitle>
-    <beq_year>2021</beq_year>
+    <beq_sortTitle>tales from the dark 2</beq_sortTitle>
+    <beq_year>2013</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/D.P.%20%282021%29%28S1-E1-6%29%28Ko%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tales%20From%20The%20Dark%202%20%282013%29%28Ca%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="163859">
-      <number>1</number>
-      <poster>/7hiktXMGSkV14MJlZOV1Tn7IT2L.jpg</poster>
-      <episodes count="6">1,2,3,4,5,6</episodes>
-    </beq_season>
+    <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Korean</beq_language>
+    <beq_language>Cantonese</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>A young privateâ€™s assignment to capture army deserters reveals the painful reality endured by each enlistee during his compulsory call of duty.</beq_overview>
+    <beq_overview>In "Haunted Pillow," TVB starlet Fala Chen is still obsessed with her lover (Gordon Lam) after their breakup and invariably suffers from insomnia. She gets hold of a Chinese herbal pillow that eventually helps her fall asleep again but it also draws her near something unexpected. "Hide And Seek" casts a group of young newcomers into an abandoned school campus where they meet longtime janitor Mr. Chan who takes shelter at the school. Playing hide-and-seek after midnight, the teenagers go missing, one after another. In his self-directed piece "Black Umbrella," Teddy Robin makes solving conflicts on the street at night his mission and marks each closed case with his signature black umbrella. Before he calls it a day, he meets a prostitute who forcefully pulls him upstairs for business and unfortunately things spiral out of control.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>110534</beq_theMovieDB>
-    <beq_poster>/iJYqTUHHEzaTJQNr4LdPMb3imSQ.jpg</beq_poster>
-    <beq_runtime>301</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>222832</beq_theMovieDB>
+    <beq_poster>/ho41qnfgmY8nkOylJlR323wnJ4.jpg</beq_poster>
+    <beq_runtime>90</beq_runtime>
     <beq_genres>
-      <genre id="18">Drama</genre>
+      <genre id="27">Horror</genre>
     </beq_genres>
+    <beq_collection id="385709">Tales From The Dark</beq_collection>
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>DD+ 2.0</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

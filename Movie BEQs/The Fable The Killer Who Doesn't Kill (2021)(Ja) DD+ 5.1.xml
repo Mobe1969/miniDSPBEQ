@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>18.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>7.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001145780400966,-1.9997041729457596,0.9995909826142931,1.9997041729457596,-0.99970556065439,</dec>
-    <hex>0x3f8003c1,0xbffff64e,0x3f7fe532,0x3ffff64e,0xbf7fecb4,</hex>
+    <dec>1.0001328129290172,-1.9994646120578645,0.9993324398972645,1.999464789331704,-0.999465075552442,</dec>
+    <hex>0x3f80045a,0xbfffee75,0x3f7fd440,0x3fffee76,0xbf7fdcf1,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>28.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>5.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0003193155568337,-1.9982478375203603,0.9979321721683481,1.9982486824847447,-0.9982506427607973,</dec>
+    <hex>0x3f800a77,0xbfffc696,0x3f7f787c,0x3fffc69d,0xbf7f8d5b,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>28.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>5.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0003193155568337,-1.9982478375203603,0.9979321721683481,1.9982486824847447,-0.9982506427607973,</dec>
+    <hex>0x3f800a77,0xbfffc696,0x3f7f787c,0x3fffc69d,0xbf7f8d5b,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>28.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>5.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0003193155568337,-1.9982478375203603,0.9979321721683481,1.9982486824847447,-0.9982506427607973,</dec>
+    <hex>0x3f800a77,0xbfffc696,0x3f7f787c,0x3fffc69d,0xbf7f8d5b,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>32.0</freq>
-    <q>5.0</q>
-    <boost>4.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000972887487802,-1.9996629423952246,0.999570039406055,1.9996629423952246,-0.9996673281548353,</dec>
-    <hex>0x3f800330,0xbffff4f5,0x3f7fe3d2,0x3ffff4f5,0xbf7fea33,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>18.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>7.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001145780400966,-1.9997041729457596,0.9995909826142931,1.9997041729457596,-0.99970556065439,</dec>
-    <hex>0x3f8003c1,0xbffff64e,0x3f7fe532,0x3ffff64e,0xbf7fecb4,</hex>
+    <dec>1.0001328129290172,-1.9994646120578645,0.9993324398972645,1.999464789331704,-0.999465075552442,</dec>
+    <hex>0x3f80045a,0xbfffee75,0x3f7fd440,0x3fffee76,0xbf7fdcf1,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>28.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>5.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0003193155568337,-1.9982478375203603,0.9979321721683481,1.9982486824847447,-0.9982506427607973,</dec>
+    <hex>0x3f800a77,0xbfffc696,0x3f7f787c,0x3fffc69d,0xbf7f8d5b,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>28.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>5.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0003193155568337,-1.9982478375203603,0.9979321721683481,1.9982486824847447,-0.9982506427607973,</dec>
+    <hex>0x3f800a77,0xbfffc696,0x3f7f787c,0x3fffc69d,0xbf7f8d5b,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>28.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>5.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002179997198655,-1.9979155733596317,0.9977016304169392,1.9979162145096385,-0.9979189889867974,</dec>
-    <hex>0x3f800725,0xbfffbbb3,0x3f7f6960,0x3fffbbb8,0xbf7f779e,</hex>
+    <dec>1.0003193155568337,-1.9982478375203603,0.9979321721683481,1.9982486824847447,-0.9982506427607973,</dec>
+    <hex>0x3f800a77,0xbfffc696,0x3f7f787c,0x3fffc69d,0xbf7f8d5b,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>32.0</freq>
-    <q>5.0</q>
-    <boost>4.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000972887487802,-1.9996629423952246,0.999570039406055,1.9996629423952246,-0.9996673281548353,</dec>
-    <hex>0x3f800330,0xbffff4f5,0x3f7fe3d2,0x3ffff4f5,0xbf7fea33,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,34 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>D.P.</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>d.p.</beq_sortTitle>
+    <beq_title>The Fable: The Killer Who Doesn't Kill</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
+    <beq_sortTitle>the fable the killer who doesn't kill</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/D.P.%20%282021%29%28S1-E1-6%29%28Ko%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Fable%20The%20Killer%20Who%20Doesn%27t%20Kill%20%282021%29%28Ja%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="163859">
-      <number>1</number>
-      <poster>/7hiktXMGSkV14MJlZOV1Tn7IT2L.jpg</poster>
-      <episodes count="6">1,2,3,4,5,6</episodes>
-    </beq_season>
+    <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Korean</beq_language>
+    <beq_language>Japanese</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>A young privateâ€™s assignment to capture army deserters reveals the painful reality endured by each enlistee during his compulsory call of duty.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>Akira is the legendary killer known as The Fable. Following the order of his boss and due to being overworked, he lives peacefully with his partner Yoko as ordinary siblings. Akira still works part-time at design company Octopus with CEO Takoda and employee Misaki. CEO Takoda and Misaki are unaware of Akira's background as an assassin.  Meanwhile, Utsubo is a representative for an NPO. But, Utsubo works with contract killer Suzuki to set people up for extortion purposes. They target someone at design company Octopus.</beq_overview>
+    <beq_rating>15</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>110534</beq_theMovieDB>
-    <beq_poster>/iJYqTUHHEzaTJQNr4LdPMb3imSQ.jpg</beq_poster>
-    <beq_runtime>301</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>734519</beq_theMovieDB>
+    <beq_poster>/x2ECd4S1cYAzK4xjTvi7PQcKjeE.jpg</beq_poster>
+    <beq_runtime>132</beq_runtime>
     <beq_genres>
-      <genre id="18">Drama</genre>
+      <genre id="28">Action</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="80">Crime</genre>
     </beq_genres>
+    <beq_collection id="734521">The Fable</beq_collection>
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
