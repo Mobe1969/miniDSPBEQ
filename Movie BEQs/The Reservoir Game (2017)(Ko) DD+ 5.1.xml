@@ -1437,7 +1437,6 @@
     <beq_runtime>100</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="99">Documentary</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
