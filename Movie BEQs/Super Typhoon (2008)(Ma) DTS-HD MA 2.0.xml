@@ -803,57 +803,57 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>5.0</boost>
+    <q>0.8</q>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001350297716542,-1.9991902068871046,0.999055748122518,1.999190331840203,-0.9991906529410738,</dec>
-    <hex>0x3f80046d,0xbfffe577,0x3f7fc21e,0x3fffe578,0xbf7fcaf5,</hex>
+    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
+    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>3.7</boost>
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001397313835412,-1.9988225115052816,0.998684496475494,1.9988228091806208,-0.9988239301836959,</dec>
-    <hex>0x3f800494,0xbfffd96b,0x3f7fa9ca,0x3fffd96d,0xbf7fb2ed,</hex>
+    <dec>1.0002122862079046,-1.9977472900974804,0.997539580786282,1.9977479584484692,-0.9977511986431982,</dec>
+    <hex>0x3f8006f5,0xbfffb62f,0x3f7f5ec1,0x3fffb635,0xbf7f6c9f,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>3.7</boost>
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001397313835412,-1.9988225115052816,0.998684496475494,1.9988228091806208,-0.9988239301836959,</dec>
-    <hex>0x3f800494,0xbfffd96b,0x3f7fa9ca,0x3fffd96d,0xbf7fb2ed,</hex>
+    <dec>1.0002122862079046,-1.9977472900974804,0.997539580786282,1.9977479584484692,-0.9977511986431982,</dec>
+    <hex>0x3f8006f5,0xbfffb62f,0x3f7f5ec1,0x3fffb635,0xbf7f6c9f,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>3.7</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001397313835412,-1.9988225115052816,0.998684496475494,1.9988228091806208,-0.9988239301836959,</dec>
-    <hex>0x3f800494,0xbfffd96b,0x3f7fa9ca,0x3fffd96d,0xbf7fb2ed,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>3.7</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001397313835412,-1.9988225115052816,0.998684496475494,1.9988228091806208,-0.9988239301836959,</dec>
-    <hex>0x3f800494,0xbfffd96b,0x3f7fa9ca,0x3fffd96d,0xbf7fb2ed,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>20.0</freq>
-    <q>2.5</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001527632152578,-1.9996057203552393,0.9994546702763972,1.9996057203552393,-0.999607433491655,</dec>
-    <hex>0x3f800501,0xbffff315,0x3f7fdc43,0x3ffff315,0xbf7fe646,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -893,57 +893,57 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>5.0</boost>
+    <q>0.8</q>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001350297716542,-1.9991902068871046,0.999055748122518,1.999190331840203,-0.9991906529410738,</dec>
-    <hex>0x3f80046d,0xbfffe577,0x3f7fc21e,0x3fffe578,0xbf7fcaf5,</hex>
+    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
+    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>3.7</boost>
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001397313835412,-1.9988225115052816,0.998684496475494,1.9988228091806208,-0.9988239301836959,</dec>
-    <hex>0x3f800494,0xbfffd96b,0x3f7fa9ca,0x3fffd96d,0xbf7fb2ed,</hex>
+    <dec>1.0002122862079046,-1.9977472900974804,0.997539580786282,1.9977479584484692,-0.9977511986431982,</dec>
+    <hex>0x3f8006f5,0xbfffb62f,0x3f7f5ec1,0x3fffb635,0xbf7f6c9f,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>3.7</boost>
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001397313835412,-1.9988225115052816,0.998684496475494,1.9988228091806208,-0.9988239301836959,</dec>
-    <hex>0x3f800494,0xbfffd96b,0x3f7fa9ca,0x3fffd96d,0xbf7fb2ed,</hex>
+    <dec>1.0002122862079046,-1.9977472900974804,0.997539580786282,1.9977479584484692,-0.9977511986431982,</dec>
+    <hex>0x3f8006f5,0xbfffb62f,0x3f7f5ec1,0x3fffb635,0xbf7f6c9f,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>3.7</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001397313835412,-1.9988225115052816,0.998684496475494,1.9988228091806208,-0.9988239301836959,</dec>
-    <hex>0x3f800494,0xbfffd96b,0x3f7fa9ca,0x3fffd96d,0xbf7fb2ed,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>3.7</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001397313835412,-1.9988225115052816,0.998684496475494,1.9988228091806208,-0.9988239301836959,</dec>
-    <hex>0x3f800494,0xbfffd96b,0x3f7fa9ca,0x3fffd96d,0xbf7fb2ed,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>20.0</freq>
-    <q>2.5</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001527632152578,-1.9996057203552393,0.9994546702763972,1.9996057203552393,-0.999607433491655,</dec>
-    <hex>0x3f800501,0xbffff315,0x3f7fdc43,0x3ffff315,0xbf7fe646,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,38 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Chilling Adventures of Sabrina</beq_title>
+    <beq_title>Super Typhoon</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>chilling adventures of sabrina</beq_sortTitle>
-    <beq_year>2018</beq_year>
+    <beq_sortTitle>super typhoon</beq_sortTitle>
+    <beq_year>2008</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Chilling%20Adventures%20of%20Sabrina%20%282018%29%28S4-E1-8%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Super%20Typhoon%20%282008%29%28Ma%29%20DTS-HD%20MA%202.0.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="0">
-      <number>4</number>
-      <poster></poster>
-      <episodes count="8">1,2,3,4,5,6,7,8</episodes>
-    </beq_season>
+    <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.</beq_overview>
+    <beq_language>Mandarin</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>When a super typhoon strikes the city of a million people, only the heroic mayor can save the day.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>79242</beq_theMovieDB>
-    <beq_poster>/56q7oUcw5jd32lMCo8U5CDkbYik.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
+    <beq_theMovieDB>84163</beq_theMovieDB>
+    <beq_poster>/fEocybemCqooBptut8oIP83y5kk.jpg</beq_poster>
+    <beq_runtime>94</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="9648">Mystery</genre>
-      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
       <genre id="18">Drama</genre>
+      <genre id="28">Action</genre>
+      <genre id="878">Science Fiction</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>DTS-HD MA 2.0</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
