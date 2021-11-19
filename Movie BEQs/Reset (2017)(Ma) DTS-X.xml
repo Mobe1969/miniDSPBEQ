@@ -1428,19 +1428,20 @@
     <beq_gain />
     <beq_language>Mandarin</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>When your life doesn't go the way you planned, it might be time to consider a reset. Matt and Amy have the kids from hell, and perhaps it is time to start over! In this dark comedy, Matt has to convince his wife their life would be better without the kids, and they should consider selling them...</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>492626</beq_theMovieDB>
-    <beq_poster>/zDZEvIm2BE2Ga24MKx316zXImlX.jpg</beq_poster>
-    <beq_runtime>10</beq_runtime>
+    <beq_theMovieDB>457832</beq_theMovieDB>
+    <beq_poster>/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg</beq_poster>
+    <beq_runtime>106</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="35">Comedy</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-X</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="28">Action</genre>
+      <genre id="878">Science Fiction</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>

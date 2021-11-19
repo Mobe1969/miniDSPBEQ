@@ -19,7 +19,9 @@
 
 clear
 
-$files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ" -Filter *.xml -Recurse
+$files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ\TV BEQs" -Filter *.xml -Recurse
+#$files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ\Movie BEQs" -Filter *.xml -Recurse
+#$files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ" -Filter *.xml -Recurse
 if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
     Clear-Content -Path "D:\BEQ\Errors.txt"
 }
@@ -140,6 +142,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(No)") -ge 0) {
         $language = "Norwegian"
     }
+    elseif ($fileName.IndexOf("(Ic)") -ge 0) {
+        $language = "Icelandic"
+    }
     elseif ($fileName.IndexOf("(Ma)") -ge 0) {
         $language = "Mandarin"
     }
@@ -178,6 +183,9 @@ foreach ($file in $files) {
     }
     elseif ($fileName.IndexOf("(In)") -ge 0) {
         $language = "Indonesian"
+    }
+    elseif ($fileName.IndexOf("(Ab)") -ge 0) {
+        $language = "Arabic"
     }
     else {
         $language = "English"
@@ -343,6 +351,10 @@ foreach ($file in $files) {
     }
     elseif ($fileName.IndexOf("DD+") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("DD+"))
+        if ($beqMetadata.beq_source -ne "Streaming") {
+            $beqMetadata.beq_source = "Streaming"
+            $save = $true
+        }
     }
     elseif ($fileName.IndexOf("DTS-X") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("DTS-X"))
@@ -361,6 +373,9 @@ foreach ($file in $files) {
     }
     elseif ($fileName.IndexOf("AC3") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("AC3"))
+    }
+    elseif ($fileName.IndexOf("DD 5") -ge 0) {
+        $audio = $fileName.SubString($fileName.IndexOf("DD 5"))
     }
     elseif ($fileName.IndexOf("LPCM") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("LPCM"))
