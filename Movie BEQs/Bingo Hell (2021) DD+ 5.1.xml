@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>22.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001973189593576,-1.9983857821642401,0.9981910413799135,1.9983862389469496,-0.9983879035565616,</dec>
-    <hex>0x3f800677,0xbfffcb1b,0x3f7f8973,0x3fffcb1f,0xbf7f965a,</hex>
+    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
+    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>22.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001973189593576,-1.9983857821642401,0.9981910413799135,1.9983862389469496,-0.9983879035565616,</dec>
-    <hex>0x3f800677,0xbfffcb1b,0x3f7f8973,0x3fffcb1f,0xbf7f965a,</hex>
+    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
+    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>3.8</boost>
-    <type>SL</type>
+    <freq>13.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001973189593576,-1.9983857821642401,0.9981910413799135,1.9983862389469496,-0.9983879035565616,</dec>
-    <hex>0x3f800677,0xbfffcb1b,0x3f7f8973,0x3fffcb1f,0xbf7f965a,</hex>
+    <dec>1.0000827542000725,-1.9997866167760907,0.9997045864413346,1.9997866167760907,-0.9997873406414072,</dec>
+    <hex>0x3f8002b6,0xbffff902,0x3f7feca4,0x3ffff902,0xbf7ff210,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
+    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
+    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>22.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001973189593576,-1.9983857821642401,0.9981910413799135,1.9983862389469496,-0.9983879035565616,</dec>
-    <hex>0x3f800677,0xbfffcb1b,0x3f7f8973,0x3fffcb1f,0xbf7f965a,</hex>
+    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
+    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>22.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001973189593576,-1.9983857821642401,0.9981910413799135,1.9983862389469496,-0.9983879035565616,</dec>
-    <hex>0x3f800677,0xbfffcb1b,0x3f7f8973,0x3fffcb1f,0xbf7f965a,</hex>
+    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
+    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>3.8</boost>
-    <type>SL</type>
+    <freq>13.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001973189593576,-1.9983857821642401,0.9981910413799135,1.9983862389469496,-0.9983879035565616,</dec>
-    <hex>0x3f800677,0xbfffcb1b,0x3f7f8973,0x3fffcb1f,0xbf7f965a,</hex>
+    <dec>1.0000827542000725,-1.9997866167760907,0.9997045864413346,1.9997866167760907,-0.9997873406414072,</dec>
+    <hex>0x3f8002b6,0xbffff902,0x3f7feca4,0x3ffff902,0xbf7ff210,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
+    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
+    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,32 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Sword Master</beq_title>
+    <beq_title>Bingo Hell</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>sword master</beq_sortTitle>
-    <beq_year>2016</beq_year>
+    <beq_sortTitle>bingo hell</beq_sortTitle>
+    <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sword%20Master%20%282016%29%28Ma%29%20DTS-X.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bingo%20Hell%20%282021%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Mandarin</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>Weary of the bloodshed and violence from the martial arts world, a powerful swordsman banishes himself to the humble life a vagrant, wandering the fringes of society. But his violent past refuses to let him go quietly. The master swordsman must regain the ability to wield his sword and fight those disrupting the peace he so desperately craves.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_language>English</beq_language>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.</beq_overview>
+    <beq_rating>15</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>367206</beq_theMovieDB>
-    <beq_poster>/sCsFOWDTETklLlVj34msCn0S6JP.jpg</beq_poster>
-    <beq_runtime>108</beq_runtime>
+    <beq_theMovieDB>802226</beq_theMovieDB>
+    <beq_poster>/86VKuiaox9eVJTETel0ld7XZtiO.jpg</beq_poster>
+    <beq_runtime>85</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="28">Action</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DTS-X</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
