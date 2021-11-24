@@ -1421,7 +1421,7 @@
     <beq_year>2018</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/High%20Society%20%282018%29%28Ko%29%20DD%2B%205.1.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_edition>Extended Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>543753</beq_theMovieDB>
     <beq_poster>/jiNYN0LDfBllYAYOkT4NJPaOvuH.jpg</beq_poster>
-    <beq_runtime>119</beq_runtime>
+    <beq_runtime>137</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="18">Drama</genre>
