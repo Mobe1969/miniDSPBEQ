@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000755462101154,-1.9994164080906258,0.9993414010069319,1.999416507570949,-0.999416847736724,</dec>
-    <hex>0x3f80027a,0xbfffece0,0x3f7fd4d7,0x3fffece1,0xbf7fd9c8,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
     <freq>16.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001245483349956,-1.9988092041982501,0.99868598111628,1.9988094136467731,-0.9988103200027525,</dec>
-    <hex>0x3f800415,0xbfffd8fb,0x3f7fa9e2,0x3fffd8fd,0xbf7fb208,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>16.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001245483349956,-1.9988092041982501,0.99868598111628,1.9988094136467731,-0.9988103200027525,</dec>
-    <hex>0x3f800415,0xbfffd8fb,0x3f7fa9e2,0x3fffd8fd,0xbf7fb208,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>16.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001245483349956,-1.9988092041982501,0.99868598111628,1.9988094136467731,-0.9988103200027525,</dec>
-    <hex>0x3f800415,0xbfffd8fb,0x3f7fa9e2,0x3fffd8fd,0xbf7fb208,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>17.0</freq>
-    <q>1.5</q>
+    <q>5.0</q>
     <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002163968741433,-1.9994426719089133,0.9992275126746593,1.9994426719089133,-0.9994439095488025,</dec>
-    <hex>0x3f800717,0xbfffedbd,0x3f7fcd60,0x3fffedbd,0xbf7fdb8e,</hex>
+    <dec>1.0000611124895997,-1.9998418583488227,0.9997818423957242,1.9998418583488227,-0.9998429548853239,</dec>
+    <hex>0x3f800201,0xbffffad1,0x3f7ff1b4,0x3ffffad1,0xbf7ff5b5,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>3.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001925257850517,-1.9982186211115929,0.9980290934759023,1.9982191066874033,-0.9982211336851436,</dec>
+    <hex>0x3f80064f,0xbfffc5a1,0x3f7f7ed6,0x3fffc5a5,0xbf7f8b6c,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>3.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001925257850517,-1.9982186211115929,0.9980290934759023,1.9982191066874033,-0.9982211336851436,</dec>
+    <hex>0x3f80064f,0xbfffc5a1,0x3f7f7ed6,0x3fffc5a5,0xbf7f8b6c,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>38.0</freq>
+    <q>7.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0001036672164294,-1.9997274141642676,0.9996299317582005,1.9997274141642676,-0.9997335989746299,</dec>
+    <hex>0x3f800366,0xbffff711,0x3f7fe7bf,0x3ffff711,0xbf7fee8b,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000755462101154,-1.9994164080906258,0.9993414010069319,1.999416507570949,-0.999416847736724,</dec>
-    <hex>0x3f80027a,0xbfffece0,0x3f7fd4d7,0x3fffece1,0xbf7fd9c8,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
     <freq>16.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001245483349956,-1.9988092041982501,0.99868598111628,1.9988094136467731,-0.9988103200027525,</dec>
-    <hex>0x3f800415,0xbfffd8fb,0x3f7fa9e2,0x3fffd8fd,0xbf7fb208,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>16.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001245483349956,-1.9988092041982501,0.99868598111628,1.9988094136467731,-0.9988103200027525,</dec>
-    <hex>0x3f800415,0xbfffd8fb,0x3f7fa9e2,0x3fffd8fd,0xbf7fb208,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>16.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001245483349956,-1.9988092041982501,0.99868598111628,1.9988094136467731,-0.9988103200027525,</dec>
-    <hex>0x3f800415,0xbfffd8fb,0x3f7fa9e2,0x3fffd8fd,0xbf7fb208,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>17.0</freq>
-    <q>1.5</q>
+    <q>5.0</q>
     <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002163968741433,-1.9994426719089133,0.9992275126746593,1.9994426719089133,-0.9994439095488025,</dec>
-    <hex>0x3f800717,0xbfffedbd,0x3f7fcd60,0x3fffedbd,0xbf7fdb8e,</hex>
+    <dec>1.0000611124895997,-1.9998418583488227,0.9997818423957242,1.9998418583488227,-0.9998429548853239,</dec>
+    <hex>0x3f800201,0xbffffad1,0x3f7ff1b4,0x3ffffad1,0xbf7ff5b5,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>3.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001925257850517,-1.9982186211115929,0.9980290934759023,1.9982191066874033,-0.9982211336851436,</dec>
+    <hex>0x3f80064f,0xbfffc5a1,0x3f7f7ed6,0x3fffc5a5,0xbf7f8b6c,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>3.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001925257850517,-1.9982186211115929,0.9980290934759023,1.9982191066874033,-0.9982211336851436,</dec>
+    <hex>0x3f80064f,0xbfffc5a1,0x3f7f7ed6,0x3fffc5a5,0xbf7f8b6c,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>38.0</freq>
+    <q>7.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0001036672164294,-1.9997274141642676,0.9996299317582005,1.9997274141642676,-0.9997335989746299,</dec>
+    <hex>0x3f800366,0xbffff711,0x3f7fe7bf,0x3ffff711,0xbf7fee8b,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,32 +1415,38 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Hide and Seek</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>hide and seek</beq_sortTitle>
-    <beq_year>2013</beq_year>
+    <beq_title>Chosen</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
+    <beq_sortTitle>chosen</beq_sortTitle>
+    <beq_year>2018</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hide%20and%20Seek%20%282013%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Chosen%20%282018%29%28Ma%29%28S2-E1-3%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="140812">
+      <number>2</number>
+      <poster>
+      </poster>
+      <episodes count="3">1,2,3</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Korean</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>Sun-mi always feels worried whenever her daughter goes out. She accidentally finds out that there is a man near her daughter. One day, she has a nightmare that her daughter never comes back. The next day, she rushes out to see her daughter during work.</beq_overview>
+    <beq_language>Mandarin</beq_language>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>When a mysterious box arrives at his door, a doctor and father is forced to participate in a twisted killing game, or risk losing everything.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>365069</beq_theMovieDB>
-    <beq_poster>/pN3uRRrsNqRHdaJ10YaUzKG7XYc.jpg</beq_poster>
-    <beq_runtime>107</beq_runtime>
+    <beq_theMovieDB>80145</beq_theMovieDB>
+    <beq_poster>/7kuCCX7fjcMY9GnuSS2vcmHEIb.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="18">Drama</genre>
-    </beq_genres>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ 2.0</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="10759">Action &amp; Adventure</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
