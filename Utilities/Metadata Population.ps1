@@ -152,6 +152,14 @@ foreach ($file in $files) {
         $language = "Cantonese"
     }
     elseif ($fileName.IndexOf("(Es)") -ge 0) {
+        $language = "Spanish"
+    }
+    elseif ($fileName.IndexOf("(De)") -ge 0) {
+        $language = "German"
+    }
+    elseif ($fileName.IndexOf("(Da)") -ge 0) {
+        $language = "Danish"
+    }
     elseif ($fileName.IndexOf("(Du)") -ge 0) {
         $language = "Dutch"
     }
@@ -178,14 +186,6 @@ foreach ($file in $files) {
     }
     elseif ($fileName.IndexOf("(Ab)") -ge 0) {
         $language = "Arabic"
-    }
-        $language = "Spanish"
-    }
-    elseif ($fileName.IndexOf("(De)") -ge 0) {
-        $language = "German"
-    }
-    elseif ($fileName.IndexOf("(Da)") -ge 0) {
-        $language = "Danish"
     }
     else {
         $language = "English"
