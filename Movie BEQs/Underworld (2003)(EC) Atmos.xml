@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>24.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
-    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
+    <dec>1.000096245019046,-1.9991095424968353,0.9990140473486635,1.9991096639448067,-0.999110170919738,</dec>
+    <hex>0x3f800327,0xbfffe2d2,0x3f7fbf62,0x3fffe2d3,0xbf7fc5af,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>24.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
-    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
+    <dec>1.000096245019046,-1.9991095424968353,0.9990140473486635,1.9991096639448067,-0.999110170919738,</dec>
+    <hex>0x3f800327,0xbfffe2d2,0x3f7fbf62,0x3fffe2d3,0xbf7fc5af,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>24.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
-    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
+    <dec>1.000096245019046,-1.9991095424968353,0.9990140473486635,1.9991096639448067,-0.999110170919738,</dec>
+    <hex>0x3f800327,0xbfffe2d2,0x3f7fbf62,0x3fffe2d3,0xbf7fc5af,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>24.0</freq>
-    <q>5.0</q>
-    <boost>8.0</boost>
+    <freq>13.0</freq>
+    <q>2.7</q>
+    <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001498289813535,-1.999799331473467,0.9996519696481853,1.999799331473467,-0.9998017986295388,</dec>
-    <hex>0x3f8004e9,0xbffff96d,0x3f7fe931,0x3ffff96d,0xbf7ff303,</hex>
+    <dec>1.00009194802488,-1.999762990758593,0.9996717665904776,1.999762990758593,-0.9997637146153577,</dec>
+    <hex>0x3f800303,0xbffff83c,0x3f7fea7d,0x3ffff83c,0xbf7ff084,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>24.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
-    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
+    <dec>1.000096245019046,-1.9991095424968353,0.9990140473486635,1.9991096639448067,-0.999110170919738,</dec>
+    <hex>0x3f800327,0xbfffe2d2,0x3f7fbf62,0x3fffe2d3,0xbf7fc5af,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>24.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
-    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
+    <dec>1.000096245019046,-1.9991095424968353,0.9990140473486635,1.9991096639448067,-0.999110170919738,</dec>
+    <hex>0x3f800327,0xbfffe2d2,0x3f7fbf62,0x3fffe2d3,0xbf7fc5af,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>24.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002266436922136,-1.9982490323403193,0.9980254922062455,1.998249605012988,-0.9982515632257903,</dec>
-    <hex>0x3f80076d,0xbfffc6a0,0x3f7f7e99,0x3fffc6a5,0xbf7f8d6a,</hex>
+    <dec>1.000096245019046,-1.9991095424968353,0.9990140473486635,1.9991096639448067,-0.999110170919738,</dec>
+    <hex>0x3f800327,0xbfffe2d2,0x3f7fbf62,0x3fffe2d3,0xbf7fc5af,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>24.0</freq>
-    <q>5.0</q>
-    <boost>8.0</boost>
+    <freq>13.0</freq>
+    <q>2.7</q>
+    <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001498289813535,-1.999799331473467,0.9996519696481853,1.999799331473467,-0.9998017986295388,</dec>
-    <hex>0x3f8004e9,0xbffff96d,0x3f7fe931,0x3ffff96d,0xbf7ff303,</hex>
+    <dec>1.00009194802488,-1.999762990758593,0.9996717665904776,1.999762990758593,-0.9997637146153577,</dec>
+    <hex>0x3f800303,0xbffff83c,0x3f7fea7d,0x3ffff83c,0xbf7ff084,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,34 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Leal</beq_title>
-    <beq_alt_title>The Last Runway</beq_alt_title>
-    <beq_sortTitle>leal</beq_sortTitle>
-    <beq_year>2018</beq_year>
+    <beq_title>Underworld</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>underworld</beq_sortTitle>
+    <beq_year>2003</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Leal%20%282018%29%28Es%29%20DD%2B%205.1.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Underworld%20%282003%29%28EC%29%20Atmos.jpg</beq_pvaURL>
+    <beq_edition>Extended Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Spanish</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>Former Colonel Fernandez is appointed Minister of the National Anti-Drug Agency (SENAD) and purges the special forces to fight the first of many battles against drug trafficking on the border of Paraguay and Argentina.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_language>English</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>Vampires and werewolves have waged a nocturnal war against each other for centuries. But all bets are off when a female vampire warrior named Selene, who's famous for her strength and werewolf-hunting prowess, becomes smitten with a peace-loving male werewolf, Michael, who wants to end the war.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>540871</beq_theMovieDB>
-    <beq_poster>/5AhtbvxwpQD80UuAUuZ3WnUHsre.jpg</beq_poster>
-    <beq_runtime>107</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>277</beq_theMovieDB>
+    <beq_poster>/zsnQ41UZ3jo1wEeemF0eA9cAIU0.jpg</beq_poster>
+    <beq_runtime>134</beq_runtime>
     <beq_genres>
+      <genre id="14">Fantasy</genre>
       <genre id="28">Action</genre>
-      <genre id="80">Crime</genre>
-      <genre id="18">Drama</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
+    <beq_collection id="2326">Underworld Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

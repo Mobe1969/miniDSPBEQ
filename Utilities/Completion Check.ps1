@@ -1,4 +1,5 @@
 ﻿$signals = "D:\Video\Temp\BEQ\Complete"
+$reports = "D:\BEQ\Mobe\beq-reports\Movies"
 $done = "D:\BEQ\Mobe1969_miniDSPBEQ\Movie BEQs"
 
 $files = Get-ChildItem $signals -Filter *signal
