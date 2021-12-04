@@ -11,6 +11,9 @@ foreach ($file in $files) {
     if ($file.Name.Substring(0, 4).Equals("Flat", 3)) {
         continue
     }
+    if ($file.Name.Contains("(S")) {
+        continue
+    }
     $signalName = [io.path]::GetFileNameWithoutExtension($file.Name)
     $filter = Get-ChildItem $done -Filter "$signalName.xml"
     if ($null -eq $filter) {
