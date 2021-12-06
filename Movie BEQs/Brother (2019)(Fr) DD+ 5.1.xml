@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Brother</beq_title>
-    <beq_alt_title>Undercover Brother 2</beq_alt_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>brother</beq_sortTitle>
     <beq_year>2019</beq_year>
     <beq_spectrumURL />
@@ -1428,20 +1429,19 @@
     <beq_gain />
     <beq_language>French</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Sixteen years ago, Undercover Brother and his younger brother were hot on the heels of the leader of a racist, worldwide syndicate, but accidentally got caught in an avalanche of white snow. After they were discovered and thawed out, Undercover Brother remained in a coma. Now, it is up to his little brother to finish the job they started.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>Because he wanted to protect his little brother, Teddy, a young man without a history, is accused of the murder of his father and sent to a closed educational center, waiting for his trial for parricide. He then plunges into a brutal universe of which he does not know the rules.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>639832</beq_theMovieDB>
-    <beq_poster>/qHoCC9A8s00VqulXvSJOrnVXQgB.jpg</beq_poster>
-    <beq_runtime>85</beq_runtime>
-    <beq_genres>
-      <genre id="35">Comedy</genre>
-      <genre id="28">Action</genre>
-    </beq_genres>
-    <beq_collection id="645393">Undercover Brother Collection</beq_collection>
+    <beq_theMovieDB>570137</beq_theMovieDB>
+    <beq_poster>/tMW0B2Hou4nXnZGCPkucRSgI3U0.jpg</beq_poster>
+    <beq_runtime>96</beq_runtime>
+    <beq_collection />
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="18">Drama</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
