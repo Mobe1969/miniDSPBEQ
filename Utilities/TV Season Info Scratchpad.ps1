@@ -1,7 +1,7 @@
 ﻿if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
     Clear-Content -Path "D:\BEQ\Errors.txt"
 }
-$id = "83110"
+$id = "92891"
 $url = "https://api.themoviedb.org/3/tv/" + $id + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
 $result = Invoke-RestMethod -Uri $url
 

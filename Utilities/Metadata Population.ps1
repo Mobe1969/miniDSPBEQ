@@ -104,7 +104,7 @@ foreach ($file in $files) {
 
     if ($title.Contains("-")) {
         $dash = $title.IndexOf("-")
-        $dashToColon = '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ' '
+        $dashToColon = '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'
         if ($title.Substring($dash + 1, 1).IndexOfAny($dashToColon) -ge 0 -and $title.Substring($dash - 1, 1).IndexOfAny($dashToColon) -ge 0) {
             $title = $title.Replace("-", ":")
         }
@@ -115,8 +115,13 @@ foreach ($file in $files) {
             $save = $true
         }
     }
-    if (!$beqMetadata.beq_sortTitle.Equals($title.ToLower(), 3)) {
-        $beqMetadata.beq_sortTitle = $title.ToLower()
+    $alphaNumeric = $title.ToLower() -replace "[^a-zA-Z0-9&\.:\-' ]"
+    if (!$beqMetadata.beq_sortTitle.Equals($alphaNumeric)) {
+        $beqMetadata.beq_sortTitle = $alphaNumeric
+        $save = $true
+    }
+    if (!$beqMetadata.beq_sortTitle.Equals($beqMetadata.beq_sortTitle.Replace("  ", " "))) {
+        $beqMetadata.beq_sortTitle = $beqMetadata.beq_sortTitle.Replace("  ", " ")
         $save = $true
     }
     if (!$beqMetadata.beq_year.Equals($file.Name.SubString($file.Name.IndexOf("(") + 1, 4), 3)) {

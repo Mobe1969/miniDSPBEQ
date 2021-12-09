@@ -1417,15 +1417,15 @@
   <beq_metadata>
     <beq_title>Love, Death &amp; Robots</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>love, death &amp; robots</beq_sortTitle>
+    <beq_sortTitle>love death &amp; robots</beq_sortTitle>
     <beq_year>2019</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Love%2C%20Death%20%26%20Robots%20%282019%29%28S1-E1-18%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-     <beq_season id="118866">
-        <number>1</number>
-        <poster>/rlrRI2b6RvM9I9xOBTKqcTaehkE.jpg</poster>
-        <episodes count="18">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</episodes>
+    <beq_season id="118866">
+      <number>1</number>
+      <poster>/rlrRI2b6RvM9I9xOBTKqcTaehkE.jpg</poster>
+      <episodes count="18">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

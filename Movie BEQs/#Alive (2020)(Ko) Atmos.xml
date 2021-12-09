@@ -1417,7 +1417,7 @@
   <beq_metadata>
     <beq_title>#Alive</beq_title>
     <beq_alt_title>Alive</beq_alt_title>
-    <beq_sortTitle>#alive</beq_sortTitle>
+    <beq_sortTitle>alive</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/%23Alive%20%282020%29%28Ko%29%20Atmos.jpg</beq_pvaURL>
