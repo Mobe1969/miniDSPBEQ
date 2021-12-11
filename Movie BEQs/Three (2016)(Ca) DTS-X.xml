@@ -803,39 +803,39 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>1.5</q>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
+    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
+    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>22.0</freq>
+    <q>3.0</q>
     <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001273068713445,-1.9996724221724993,0.999545543599316,1.9996724221724993,-0.9996728504706603,</dec>
-    <hex>0x3f80042c,0xbffff544,0x3f7fe237,0x3ffff544,0xbf7fea8f,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>15.0</freq>
-    <q>1.3</q>
-    <boost>6.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0002659793730266,-1.9994645454330566,0.9991995296309285,1.9994645454330566,-0.9994655090039553,</dec>
-    <hex>0x3f8008b7,0xbfffee74,0x3f7fcb8a,0x3fffee74,0xbf7fdcf9,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>23.0</freq>
-    <q>1.8</q>
-    <boost>7.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0003460875691041,-1.9994389525146987,0.9990951303800719,1.9994389525146987,-0.9994412179491761,</dec>
-    <hex>0x3f800b57,0xbfffed9e,0x3f7fc4b3,0x3fffed9e,0xbf7fdb61,</hex>
+    <dec>1.000140035229471,-1.999638068573837,0.9995001062732739,1.999638068573837,-0.9996401415027445,</dec>
+    <hex>0x3f800497,0xbffff424,0x3f7fdf3d,0x3ffff424,0xbf7fe86b,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>24.0</freq>
-    <q>1.1</q>
-    <boost>3.0</boost>
+    <freq>25.0</freq>
+    <q>0.8</q>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000123589552476,-1.998688488105369,0.9985678291449385,1.9986889160512498,-0.9986909907515339,</dec>
-    <hex>0x3f80040d,0xbfffd506,0x3f7fa224,0x3fffd50a,0xbf7faa36,</hex>
+    <dec>1.0003551363336547,-1.9982777318041391,0.9979263740080605,1.9982786741955296,-0.9982805679503245,</dec>
+    <hex>0x3f800ba3,0xbfffc791,0x3f7f781a,0x3fffc798,0xbf7f8f51,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -893,39 +893,39 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>1.5</q>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
+    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
+    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>22.0</freq>
+    <q>3.0</q>
     <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001273068713445,-1.9996724221724993,0.999545543599316,1.9996724221724993,-0.9996728504706603,</dec>
-    <hex>0x3f80042c,0xbffff544,0x3f7fe237,0x3ffff544,0xbf7fea8f,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>15.0</freq>
-    <q>1.3</q>
-    <boost>6.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0002659793730266,-1.9994645454330566,0.9991995296309285,1.9994645454330566,-0.9994655090039553,</dec>
-    <hex>0x3f8008b7,0xbfffee74,0x3f7fcb8a,0x3fffee74,0xbf7fdcf9,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>23.0</freq>
-    <q>1.8</q>
-    <boost>7.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0003460875691041,-1.9994389525146987,0.9990951303800719,1.9994389525146987,-0.9994412179491761,</dec>
-    <hex>0x3f800b57,0xbfffed9e,0x3f7fc4b3,0x3fffed9e,0xbf7fdb61,</hex>
+    <dec>1.000140035229471,-1.999638068573837,0.9995001062732739,1.999638068573837,-0.9996401415027445,</dec>
+    <hex>0x3f800497,0xbffff424,0x3f7fdf3d,0x3ffff424,0xbf7fe86b,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>24.0</freq>
-    <q>1.1</q>
-    <boost>3.0</boost>
+    <freq>25.0</freq>
+    <q>0.8</q>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000123589552476,-1.998688488105369,0.9985678291449385,1.9986889160512498,-0.9986909907515339,</dec>
-    <hex>0x3f80040d,0xbfffd506,0x3f7fa224,0x3fffd50a,0xbf7faa36,</hex>
+    <dec>1.0003551363336547,-1.9982777318041391,0.9979263740080605,1.9982786741955296,-0.9982805679503245,</dec>
+    <hex>0x3f800ba3,0xbfffc791,0x3f7f781a,0x3fffc798,0xbf7f8f51,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,32 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Howling</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>the howling</beq_sortTitle>
-    <beq_year>1981</beq_year>
+    <beq_title>Three</beq_title>
+    <beq_alt_title></beq_alt_title>
+    <beq_sortTitle>three</beq_sortTitle>
+    <beq_year>2016</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Howling%20%281981%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition>Blu-Ray Only</beq_edition>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Three%20%282016%29%28Ca%29%20DTS-X.jpg</beq_pvaURL>
+    <beq_edition />
     <beq_season />
     <beq_note />
-    <beq_warning>BLU-RAY ONLY</beq_warning>
+    <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Cantonese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>After a bizarre and near fatal encounter with a serial killer, a newswoman is sent to a rehabilitation center whose inhabitants may not be what they seem.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>Realising that he will be defeated in no time during a police showdown, a thug shoots himself to force the cops to cease fire and take him to the hospital. In the hospital, he claims human rights to refuse immediate treatment in order to buy time for his underlings to rescue him. The detective in charge sees through his scheme but decides to play along so as to capture his whole gang once and for all.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>11298</beq_theMovieDB>
-    <beq_poster>/3jL3dlTRnqvJkNED2UXi2PYtGZq.jpg</beq_poster>
-    <beq_runtime>91</beq_runtime>
+    <beq_theMovieDB>373922</beq_theMovieDB>
+    <beq_poster>/cncPvHcSLCxMqUiQ31kqEk0n10i.jpg</beq_poster>
+    <beq_runtime>88</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="27">Horror</genre>
+      <genre id="53">Thriller</genre>
+      <genre id="80">Crime</genre>
+      <genre id="28">Action</genre>
     </beq_genres>
-    <beq_collection id="174218">The Howling Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DTS-X</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
