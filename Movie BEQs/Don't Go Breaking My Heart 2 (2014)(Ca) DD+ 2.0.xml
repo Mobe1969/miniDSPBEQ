@@ -1420,7 +1420,7 @@
     <beq_sortTitle>don't go breaking my heart 2</beq_sortTitle>
     <beq_year>2014</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Don%27t%20Go%20Breaking%20My%20Heart%202%20%282014%29%28Ca%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Don%27t%20Go%20Breaking%20My%20Heart%202%20%282014%29%28Ca%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1441,7 +1441,7 @@
     </beq_genres>
     <beq_collection id="397341">Don't Go Breaking My Heart Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>DD+ 2.0</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

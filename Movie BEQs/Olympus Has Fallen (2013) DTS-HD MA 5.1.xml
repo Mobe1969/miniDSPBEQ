@@ -802,67 +802,67 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>14.0</freq>
+    <q>1.0</q>
+    <boost>2.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001846295066747,-1.999104758843211,0.9989211514749167,1.9991050137710478,-0.9991055260537551,</dec>
-    <hex>0x3f80060d,0xbfffe2aa,0x3f7fb94c,0x3fffe2ac,0xbf7fc561,</hex>
+    <dec>1.0000766091500974,-1.9991565836226988,0.9990809661954664,1.9991567243762338,-0.9991574345920285,</dec>
+    <hex>0x3f800283,0xbfffe45d,0x3f7fc3c5,0x3fffe45e,0xbf7fc8c8,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>14.0</freq>
+    <q>1.0</q>
+    <boost>2.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001846295066747,-1.999104758843211,0.9989211514749167,1.9991050137710478,-0.9991055260537551,</dec>
-    <hex>0x3f80060d,0xbfffe2aa,0x3f7fb94c,0x3fffe2ac,0xbf7fc561,</hex>
+    <dec>1.0000766091500974,-1.9991565836226988,0.9990809661954664,1.9991567243762338,-0.9991574345920285,</dec>
+    <hex>0x3f800283,0xbfffe45d,0x3f7fc3c5,0x3fffe45e,0xbf7fc8c8,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>14.0</freq>
+    <q>1.0</q>
+    <boost>2.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
-    <hex>0x3f80094f,0xbfffd2dc,0x3f7f9342,0x3fffd2e1,0xbf7fa5d6,</hex>
+    <dec>1.0000766091500974,-1.9991565836226988,0.9990809661954664,1.9991567243762338,-0.9991574345920285,</dec>
+    <hex>0x3f800283,0xbfffe45d,0x3f7fc3c5,0x3fffe45e,0xbf7fc8c8,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>37.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
-    <type>SL</type>
+    <freq>16.0</freq>
+    <q>5.0</q>
+    <boost>1.9</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0005257194094117,-1.997450081289536,0.9969326349745565,1.997452144652096,-0.9974562910214079,</dec>
-    <hex>0x3f80113a,0xbfffac72,0x3f7f36fa,0x3fffac83,0xbf7f594c,</hex>
+    <dec>1.0000229505231741,-1.9998111803581067,0.9997893263546128,1.9998111803581067,-0.999812276877787,</dec>
+    <hex>0x3f8000c1,0xbffff9d0,0x3f7ff231,0x3ffff9d0,0xbf7ff3b3,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>37.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0005257194094117,-1.997450081289536,0.9969326349745565,1.997452144652096,-0.9974562910214079,</dec>
-    <hex>0x3f80113a,0xbfffac72,0x3f7f36fa,0x3fffac83,0xbf7f594c,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>37.0</freq>
-    <q>7.0</q>
-    <boost>8.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001649884994108,-1.9997758811322413,0.999616756351297,1.9997758811322413,-0.9997817448507078,</dec>
-    <hex>0x3f800568,0xbffff8a8,0x3f7fe6e2,0x3ffff8a8,0xbf7ff1b2,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>44.0</freq>
-    <q>5.0</q>
-    <boost>16.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0006086541066783,-1.9997624410789354,0.999162079225102,1.9997624410789354,-0.9997707333317805,</dec>
-    <hex>0x3f8013f2,0xbffff837,0x3f7fc916,0x3ffff837,0xbf7ff0fa,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>1000</freq>
@@ -892,67 +892,67 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>14.0</freq>
+    <q>1.0</q>
+    <boost>2.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001846295066747,-1.999104758843211,0.9989211514749167,1.9991050137710478,-0.9991055260537551,</dec>
-    <hex>0x3f80060d,0xbfffe2aa,0x3f7fb94c,0x3fffe2ac,0xbf7fc561,</hex>
+    <dec>1.0000766091500974,-1.9991565836226988,0.9990809661954664,1.9991567243762338,-0.9991574345920285,</dec>
+    <hex>0x3f800283,0xbfffe45d,0x3f7fc3c5,0x3fffe45e,0xbf7fc8c8,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>14.0</freq>
+    <q>1.0</q>
+    <boost>2.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001846295066747,-1.999104758843211,0.9989211514749167,1.9991050137710478,-0.9991055260537551,</dec>
-    <hex>0x3f80060d,0xbfffe2aa,0x3f7fb94c,0x3fffe2ac,0xbf7fc561,</hex>
+    <dec>1.0000766091500974,-1.9991565836226988,0.9990809661954664,1.9991567243762338,-0.9991574345920285,</dec>
+    <hex>0x3f800283,0xbfffe45d,0x3f7fc3c5,0x3fffe45e,0xbf7fc8c8,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>14.0</freq>
+    <q>1.0</q>
+    <boost>2.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
-    <hex>0x3f80094f,0xbfffd2dc,0x3f7f9342,0x3fffd2e1,0xbf7fa5d6,</hex>
+    <dec>1.0000766091500974,-1.9991565836226988,0.9990809661954664,1.9991567243762338,-0.9991574345920285,</dec>
+    <hex>0x3f800283,0xbfffe45d,0x3f7fc3c5,0x3fffe45e,0xbf7fc8c8,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>37.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
-    <type>SL</type>
+    <freq>16.0</freq>
+    <q>5.0</q>
+    <boost>1.9</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0005257194094117,-1.997450081289536,0.9969326349745565,1.997452144652096,-0.9974562910214079,</dec>
-    <hex>0x3f80113a,0xbfffac72,0x3f7f36fa,0x3fffac83,0xbf7f594c,</hex>
+    <dec>1.0000229505231741,-1.9998111803581067,0.9997893263546128,1.9998111803581067,-0.999812276877787,</dec>
+    <hex>0x3f8000c1,0xbffff9d0,0x3f7ff231,0x3ffff9d0,0xbf7ff3b3,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>37.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0005257194094117,-1.997450081289536,0.9969326349745565,1.997452144652096,-0.9974562910214079,</dec>
-    <hex>0x3f80113a,0xbfffac72,0x3f7f36fa,0x3fffac83,0xbf7f594c,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>37.0</freq>
-    <q>7.0</q>
-    <boost>8.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001649884994108,-1.9997758811322413,0.999616756351297,1.9997758811322413,-0.9997817448507078,</dec>
-    <hex>0x3f800568,0xbffff8a8,0x3f7fe6e2,0x3ffff8a8,0xbf7ff1b2,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>44.0</freq>
-    <q>5.0</q>
-    <boost>16.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0006086541066783,-1.9997624410789354,0.999162079225102,1.9997624410789354,-0.9997707333317805,</dec>
-    <hex>0x3f8013f2,0xbffff837,0x3f7fc916,0x3ffff837,0xbf7ff0fa,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>1000</freq>
@@ -1415,33 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Don't Go Breaking My Heart</beq_title>
+    <beq_title>Olympus Has Fallen</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>don't go breaking my heart</beq_sortTitle>
-    <beq_year>2011</beq_year>
+    <beq_sortTitle>olympus has fallen</beq_sortTitle>
+    <beq_year>2013</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Don%27t%20Go%20Breaking%20My%20Heart%20%282011%29%28Ca%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Olympus%20Has%20Fallen%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Cantonese</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>Mainlander &amp; financial analyst Cheng Zixin, who followed her then boyfriend Owen to Hong Kong, runs into her ex-boyfriend while riding the bus. Owen is now with his pregnant wife and when his wife spots Owen talking to his ex she she freaks out. Cheng hurriedly gets off the bus and, being in a daze, is almost run over by a car. A haggard drunk named Fang (Daniel Wu) then saves Cheng.  Meanwhile, in a nearby car, sits CEO Cheung Shen who watches everything that transpires. CEO Cheung Shen is a playboy who also works in an office building directly adjacent to Cheng Zixin. Cheung Shen soon starts to woo Cheng Zixin by sending messages to her through the window of his office building. The drunk haggard Fang, who saved Cheng Zixin's life, runs into Cheng Zixin a few weeks later. It turns out that the drunk haggard is a Canadian-born top architect going through personal problems. They soon become friends.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_language>English</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>When the White House (Secret Service Code: "Olympus") is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential guard Mike Banning finds himself trapped within the building. As the national security team scrambles to respond, they are forced to rely on Banning's inside knowledge to help retake the White House, save the President and avert an even bigger disaster.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>67793</beq_theMovieDB>
-    <beq_poster>/slRDQhiZo9B4056mRWIo3F0yUyM.jpg</beq_poster>
-    <beq_runtime>115</beq_runtime>
+    <beq_theMovieDB>117263</beq_theMovieDB>
+    <beq_poster>/gKnx04MxnKcf5uOdhHhAAkqcCg.jpg</beq_poster>
+    <beq_runtime>120</beq_runtime>
     <beq_genres>
-      <genre id="35">Comedy</genre>
-      <genre id="10749">Romance</genre>
+      <genre id="28">Action</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
-    <beq_collection id="397341">Don't Go Breaking My Heart Collection</beq_collection>
+    <beq_collection id="386534">Has Fallen Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
