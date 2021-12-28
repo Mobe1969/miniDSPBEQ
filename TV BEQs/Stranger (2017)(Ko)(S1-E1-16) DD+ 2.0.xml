@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>2.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0001286940717742,-1.9979967302398123,0.997871300763018,1.997997080799147,-0.9979996442754577,</dec>
+    <hex>0x3f800438,0xbfffbe5b,0x3f7f747e,0x3fffbe5e,0xbf7f7ce8,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>2.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0001286940717742,-1.9979967302398123,0.997871300763018,1.997997080799147,-0.9979996442754577,</dec>
+    <hex>0x3f800438,0xbfffbe5b,0x3f7f747e,0x3fffbe5e,0xbf7f7ce8,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>24.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>2.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001131277748767,-1.998145576404885,0.998035214535671,1.998145860839235,-0.9981480578761974,</dec>
-    <hex>0x3f8003b5,0xbfffc33c,0x3f7f7f3c,0x3fffc33e,0xbf7f86a2,</hex>
+    <dec>1.0001286940717742,-1.9979967302398123,0.997871300763018,1.997997080799147,-0.9979996442754577,</dec>
+    <hex>0x3f800438,0xbfffbe5b,0x3f7f747e,0x3fffbe5e,0xbf7f7ce8,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>24.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001131277748767,-1.998145576404885,0.998035214535671,1.998145860839235,-0.9981480578761974,</dec>
-    <hex>0x3f8003b5,0xbfffc33c,0x3f7f7f3c,0x3fffc33e,0xbf7f86a2,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>24.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001131277748767,-1.998145576404885,0.998035214535671,1.998145860839235,-0.9981480578761974,</dec>
-    <hex>0x3f8003b5,0xbfffc33c,0x3f7f7f3c,0x3fffc33e,0xbf7f86a2,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>2.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0001286940717742,-1.9979967302398123,0.997871300763018,1.997997080799147,-0.9979996442754577,</dec>
+    <hex>0x3f800438,0xbfffbe5b,0x3f7f747e,0x3fffbe5e,0xbf7f7ce8,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>2.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000707408662124,-1.9992494022902672,0.9991791703497003,1.9992494766072075,-0.9992498368989726,</dec>
-    <hex>0x3f800251,0xbfffe768,0x3f7fca35,0x3fffe768,0xbf7fced6,</hex>
+    <dec>1.0001286940717742,-1.9979967302398123,0.997871300763018,1.997997080799147,-0.9979996442754577,</dec>
+    <hex>0x3f800438,0xbfffbe5b,0x3f7f747e,0x3fffbe5e,0xbf7f7ce8,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>24.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>2.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001131277748767,-1.998145576404885,0.998035214535671,1.998145860839235,-0.9981480578761974,</dec>
-    <hex>0x3f8003b5,0xbfffc33c,0x3f7f7f3c,0x3fffc33e,0xbf7f86a2,</hex>
+    <dec>1.0001286940717742,-1.9979967302398123,0.997871300763018,1.997997080799147,-0.9979996442754577,</dec>
+    <hex>0x3f800438,0xbfffbe5b,0x3f7f747e,0x3fffbe5e,0xbf7f7ce8,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>24.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001131277748767,-1.998145576404885,0.998035214535671,1.998145860839235,-0.9981480578761974,</dec>
-    <hex>0x3f8003b5,0xbfffc33c,0x3f7f7f3c,0x3fffc33e,0xbf7f86a2,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>24.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001131277748767,-1.998145576404885,0.998035214535671,1.998145860839235,-0.9981480578761974,</dec>
-    <hex>0x3f8003b5,0xbfffc33c,0x3f7f7f3c,0x3fffc33e,0xbf7f86a2,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,37 +1415,38 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Forbidden Kingdom</beq_title>
-    <beq_alt_title>Forbidden Empire</beq_alt_title>
-    <beq_sortTitle>forbidden kingdom</beq_sortTitle>
-    <beq_year>2014</beq_year>
+    <beq_title>Stranger</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>stranger</beq_sortTitle>
+    <beq_year>2017</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Forbidden%20Kingdom%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Stranger%20%282017%29%28Ko%29%28S1-E1-16%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="85995">
+      <number>1</number>
+      <poster>/hTL59sifNwRRFkiNxxO3Qq14qkl.jpg</poster>
+      <episodes count="16">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>Early 18th century. Cartographer Jonathan Green undertakes a scientific voyage from Europe to the East. Having passed through Transylvania and crossed the Carpathian Mountains, he finds himself in a small village lost in impassible woods. Nothing but chance and heavy fog could bring him to this cursed place. People who live here do not resemble any other people which the traveler saw before that. The villagers, having dug a deep moat to fend themselves from the rest of the world, share a naive belief that they could save themselves from evil, failing to understand that evil has made its nest in their souls and is waiting for an opportunity to gush out upon the world.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_language>Korean</beq_language>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>With the help of a gutsy female detective, a prosecutor who has lost the ability to feel empathy tackles a murder case amid political corruption.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>208763</beq_theMovieDB>
-    <beq_poster>/q0o9JQDp6PHY4zK0Aw1NHpyQyeo.jpg</beq_poster>
-    <beq_runtime>128</beq_runtime>
-    <beq_genres>
-      <genre id="53">Thriller</genre>
-      <genre id="12">Adventure</genre>
-      <genre id="9648">Mystery</genre>
-      <genre id="14">Fantasy</genre>
-      <genre id="27">Horror</genre>
-      <genre id="878">Science Fiction</genre>
-    </beq_genres>
-    <beq_collection id="428046">Viy Collection</beq_collection>
+    <beq_theMovieDB>70626</beq_theMovieDB>
+    <beq_poster>/blbbtx7DyvZ3JTGyc9MCArDL79b.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
+    <beq_collection />
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ 2.0</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="80">Crime</genre>
+      <genre id="18">Drama</genre>
+      <genre id="9648">Mystery</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
