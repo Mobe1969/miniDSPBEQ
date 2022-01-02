@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>14.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>1.0</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
-    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
+    <dec>1.0000754102030538,-1.9987638872704598,0.9986897067384523,1.998764013724767,-0.9987649904871989,</dec>
+    <hex>0x3f800279,0xbfffd77f,0x3f7faa21,0x3fffd780,0xbf7faf10,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>14.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>1.0</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
-    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
+    <dec>1.0000754102030538,-1.9987638872704598,0.9986897067384523,1.998764013724767,-0.9987649904871989,</dec>
+    <hex>0x3f800279,0xbfffd77f,0x3f7faa21,0x3fffd780,0xbf7faf10,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>14.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>1.0</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
-    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
+    <dec>1.0000754102030538,-1.9987638872704598,0.9986897067384523,1.998764013724767,-0.9987649904871989,</dec>
+    <hex>0x3f800279,0xbfffd77f,0x3f7faa21,0x3fffd780,0xbf7faf10,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>14.0</freq>
+    <freq>33.0</freq>
     <q>0.8</q>
-    <boost>1.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
-    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
+    <dec>1.0002335253064383,-1.9975218680627527,0.9972938801785062,1.9975226766765002,-0.9975265968711969,</dec>
+    <hex>0x3f8007a7,0xbfffaecc,0x3f7f4ea7,0x3fffaed3,0xbf7f5de7,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>33.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002335253064383,-1.9975218680627527,0.9972938801785062,1.9975226766765002,-0.9975265968711969,</dec>
+    <hex>0x3f8007a7,0xbfffaecc,0x3f7f4ea7,0x3fffaed3,0xbf7f5de7,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>14.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>1.0</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
-    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
+    <dec>1.0000754102030538,-1.9987638872704598,0.9986897067384523,1.998764013724767,-0.9987649904871989,</dec>
+    <hex>0x3f800279,0xbfffd77f,0x3f7faa21,0x3fffd780,0xbf7faf10,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>14.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>1.0</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
-    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
+    <dec>1.0000754102030538,-1.9987638872704598,0.9986897067384523,1.998764013724767,-0.9987649904871989,</dec>
+    <hex>0x3f800279,0xbfffd77f,0x3f7faa21,0x3fffd780,0xbf7faf10,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>14.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>1.0</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
-    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
+    <dec>1.0000754102030538,-1.9987638872704598,0.9986897067384523,1.998764013724767,-0.9987649904871989,</dec>
+    <hex>0x3f800279,0xbfffd77f,0x3f7faa21,0x3fffd780,0xbf7faf10,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>14.0</freq>
+    <freq>33.0</freq>
     <q>0.8</q>
-    <boost>1.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
-    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
+    <dec>1.0002335253064383,-1.9975218680627527,0.9972938801785062,1.9975226766765002,-0.9975265968711969,</dec>
+    <hex>0x3f8007a7,0xbfffaecc,0x3f7f4ea7,0x3fffaed3,0xbf7f5de7,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>33.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002335253064383,-1.9975218680627527,0.9972938801785062,1.9975226766765002,-0.9975265968711969,</dec>
+    <hex>0x3f8007a7,0xbfffaecc,0x3f7f4ea7,0x3fffaed3,0xbf7f5de7,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,36 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Illang: The Wolf Brigade</beq_title>
-    <beq_alt_title>Illang The Wolf Brigade</beq_alt_title>
-    <beq_sortTitle>illang the wolf brigade</beq_sortTitle>
-    <beq_year>2018</beq_year>
+    <beq_title>SDU: Sex Duties Unit</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
+    <beq_sortTitle>sdu sex duties unit</beq_sortTitle>
+    <beq_year>2013</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Illang%20The%20Wolf%20Brigade%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/SDU%20Sex%20Duties%20Unit%20%282013%29%28Ca%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Korean</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>In 2029, the elite police squad Illang combats a terrorist group opposing reunification of the two Koreas. But another enemy may be lurking nearby.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_language>Cantonese</beq_language>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>The Special Duties Unit (SDU) is an elite paramilitary tactical unit of the Hong Kong Police Force and is considered one of the world's finest in its role. But being the best carries its own burdens. Like everyone else, they go through troubles with love, with family and with their jobs. And sometimes they get horny.  This touching story is about Special Duties Unit Team B and their trip to Macau for a weekend of unadulterated debauchery.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>467824</beq_theMovieDB>
-    <beq_poster>/71JMWqNDRz2Au59JYosfn5W8nuS.jpg</beq_poster>
-    <beq_runtime>140</beq_runtime>
+    <beq_theMovieDB>210498</beq_theMovieDB>
+    <beq_poster>/5NgsDJhQVwDqrz8rhHuxwan58w7.jpg</beq_poster>
+    <beq_runtime>94</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="878">Science Fiction</genre>
-      <genre id="28">Action</genre>
-      <genre id="53">Thriller</genre>
-      <genre id="18">Drama</genre>
+      <genre id="35">Comedy</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>DD+ 2.0</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
