@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>14.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
-    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
+    <dec>1.0002345930687662,-1.9989846122831703,0.9987514277877532,1.9989849871502177,-0.9989856459894719,</dec>
+    <hex>0x3f8007b0,0xbfffdeba,0x3f7fae2c,0x3fffdebd,0xbf7fbd86,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>14.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
-    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
+    <dec>1.0002345930687662,-1.9989846122831703,0.9987514277877532,1.9989849871502177,-0.9989856459894719,</dec>
+    <hex>0x3f8007b0,0xbfffdeba,0x3f7fae2c,0x3fffdebd,0xbf7fbd86,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>14.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
-    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
+    <dec>1.0002345930687662,-1.9989846122831703,0.9987514277877532,1.9989849871502177,-0.9989856459894719,</dec>
+    <hex>0x3f8007b0,0xbfffdeba,0x3f7fae2c,0x3fffdebd,0xbf7fbd86,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>14.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
-    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
+    <dec>1.0002345930687662,-1.9989846122831703,0.9987514277877532,1.9989849871502177,-0.9989856459894719,</dec>
+    <hex>0x3f8007b0,0xbfffdeba,0x3f7fae2c,0x3fffdebd,0xbf7fbd86,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>14.0</freq>
-    <q>4.0</q>
+    <freq>15.0</freq>
+    <q>2.0</q>
     <boost>9.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001240515915146,-1.9998627187970188,0.9997395067499302,1.9998627187970188,-0.999863558341445,</dec>
-    <hex>0x3f800411,0xbffffb80,0x3f7feeee,0x3ffffb80,0xbf7ff70f,</hex>
+    <dec>1.0002658041095982,-1.9997066841295699,0.9994418437075604,1.9997066841295699,-0.9997076478171587,</dec>
+    <hex>0x3f8008b6,0xbffff663,0x3f7fdb6c,0x3ffff663,0xbf7fecd7,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>27.0</freq>
-    <q>6.0</q>
-    <boost>6.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001037488312672,-1.9997883921211275,0.9996877657680354,1.9997883921211275,-0.9997915145993029,</dec>
-    <hex>0x3f800366,0xbffff911,0x3f7feb8a,0x3ffff911,0xbf7ff256,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>14.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
-    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
+    <dec>1.0002345930687662,-1.9989846122831703,0.9987514277877532,1.9989849871502177,-0.9989856459894719,</dec>
+    <hex>0x3f8007b0,0xbfffdeba,0x3f7fae2c,0x3fffdebd,0xbf7fbd86,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>14.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
-    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
+    <dec>1.0002345930687662,-1.9989846122831703,0.9987514277877532,1.9989849871502177,-0.9989856459894719,</dec>
+    <hex>0x3f8007b0,0xbfffdeba,0x3f7fae2c,0x3fffdebd,0xbf7fbd86,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>14.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
-    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
+    <dec>1.0002345930687662,-1.9989846122831703,0.9987514277877532,1.9989849871502177,-0.9989856459894719,</dec>
+    <hex>0x3f8007b0,0xbfffdeba,0x3f7fae2c,0x3fffdebd,0xbf7fbd86,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>14.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001988354929021,-1.9990358637623984,0.9988382136673088,1.9990361594081796,-0.99903675351443,</dec>
-    <hex>0x3f800684,0xbfffe068,0x3f7fb3dc,0x3fffe06b,0xbf7fc0df,</hex>
+    <dec>1.0002345930687662,-1.9989846122831703,0.9987514277877532,1.9989849871502177,-0.9989856459894719,</dec>
+    <hex>0x3f8007b0,0xbfffdeba,0x3f7fae2c,0x3fffdebd,0xbf7fbd86,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>14.0</freq>
-    <q>4.0</q>
+    <freq>15.0</freq>
+    <q>2.0</q>
     <boost>9.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001240515915146,-1.9998627187970188,0.9997395067499302,1.9998627187970188,-0.999863558341445,</dec>
-    <hex>0x3f800411,0xbffffb80,0x3f7feeee,0x3ffffb80,0xbf7ff70f,</hex>
+    <dec>1.0002658041095982,-1.9997066841295699,0.9994418437075604,1.9997066841295699,-0.9997076478171587,</dec>
+    <hex>0x3f8008b6,0xbffff663,0x3f7fdb6c,0x3ffff663,0xbf7fecd7,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>27.0</freq>
-    <q>6.0</q>
-    <boost>6.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001037488312672,-1.9997883921211275,0.9996877657680354,1.9997883921211275,-0.9997915145993029,</dec>
-    <hex>0x3f800366,0xbffff911,0x3f7feb8a,0x3ffff911,0xbf7ff256,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,34 +1415,37 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>A Call To Spy</beq_title>
+    <beq_title>Barbarians</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>a call to spy</beq_sortTitle>
+    <beq_sortTitle>barbarians</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Call%20To%20Spy%20%282020%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Barbarians%20%282020%29%28De%29%28S1-E1-6%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="132909">
+      <number>1</number>
+      <poster>/trfHliK2hhw2xOJVztHqKylyzrD.jpg</poster>
+      <episodes count="6">1,2,3,4,5,6</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>German</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>The story of Vera Atkins, a crafty spy recruiter, and two of the first women she selects for Churchill's "secret army": Virginia Hall, a daring American undaunted by a disability and Noor Inayat Khan, a pacifist. These civilian women form an unlikely sisterhood while entangled in dangerous missions to turn the tide of the war.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_overview>Three people's fates are interwoven in the Battle of the Teutoburg Forest in 9 A.D., during which Germanic warriors halt the spread of the Roman Empire.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>589612</beq_theMovieDB>
-    <beq_poster>/cK5D0ss2LLSZtOZKvgOVTcCdXIE.jpg</beq_poster>
-    <beq_runtime>124</beq_runtime>
+    <beq_theMovieDB>93785</beq_theMovieDB>
+    <beq_poster>/trfHliK2hhw2xOJVztHqKylyzrD.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="10752">War</genre>
-      <genre id="18">Drama</genre>
-      <genre id="53">Thriller</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="10759">Action &amp; Adventure</genre>
+      <genre id="18">Drama</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
