@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.0001131955739293,-1.998798896848898,0.998687003831444,1.9987990870574528,-0.9988000091968184,</dec>
+    <hex>0x3f8003b6,0xbfffd8a4,0x3f7fa9f4,0x3fffd8a6,0xbf7fb15b,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>30.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001839218463913,-1.9977212942711797,0.9975418450802892,1.9977218727862658,-0.997725188411594,</dec>
-    <hex>0x3f800607,0xbfffb555,0x3f7f5ee7,0x3fffb55a,0xbf7f6aeb,</hex>
+    <dec>1.0001131955739293,-1.998798896848898,0.998687003831444,1.9987990870574528,-0.9988000091968184,</dec>
+    <hex>0x3f8003b6,0xbfffd8a4,0x3f7fa9f4,0x3fffd8a6,0xbf7fb15b,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>30.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001839218463913,-1.9977212942711797,0.9975418450802892,1.9977218727862658,-0.997725188411594,</dec>
-    <hex>0x3f800607,0xbfffb555,0x3f7f5ee7,0x3fffb55a,0xbf7f6aeb,</hex>
+    <dec>1.0001131955739293,-1.998798896848898,0.998687003831444,1.9987990870574528,-0.9988000091968184,</dec>
+    <hex>0x3f8003b6,0xbfffd8a4,0x3f7fa9f4,0x3fffd8a6,0xbf7fb15b,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>30.0</freq>
-    <q>0.8</q>
-    <boost>2.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001839218463913,-1.9977212942711797,0.9975418450802892,1.9977218727862658,-0.997725188411594,</dec>
-    <hex>0x3f800607,0xbfffb555,0x3f7f5ee7,0x3fffb55a,0xbf7f6aeb,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.0001131955739293,-1.998798896848898,0.998687003831444,1.9987990870574528,-0.9988000091968184,</dec>
+    <hex>0x3f8003b6,0xbfffd8a4,0x3f7fa9f4,0x3fffd8a6,0xbf7fb15b,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>30.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001839218463913,-1.9977212942711797,0.9975418450802892,1.9977218727862658,-0.997725188411594,</dec>
-    <hex>0x3f800607,0xbfffb555,0x3f7f5ee7,0x3fffb55a,0xbf7f6aeb,</hex>
+    <dec>1.0001131955739293,-1.998798896848898,0.998687003831444,1.9987990870574528,-0.9988000091968184,</dec>
+    <hex>0x3f8003b6,0xbfffd8a4,0x3f7fa9f4,0x3fffd8a6,0xbf7fb15b,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>30.0</freq>
+    <freq>16.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001839218463913,-1.9977212942711797,0.9975418450802892,1.9977218727862658,-0.997725188411594,</dec>
-    <hex>0x3f800607,0xbfffb555,0x3f7f5ee7,0x3fffb55a,0xbf7f6aeb,</hex>
+    <dec>1.0001131955739293,-1.998798896848898,0.998687003831444,1.9987990870574528,-0.9988000091968184,</dec>
+    <hex>0x3f8003b6,0xbfffd8a4,0x3f7fa9f4,0x3fffd8a6,0xbf7fb15b,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>30.0</freq>
-    <q>0.8</q>
-    <boost>2.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001839218463913,-1.9977212942711797,0.9975418450802892,1.9977218727862658,-0.997725188411594,</dec>
-    <hex>0x3f800607,0xbfffb555,0x3f7f5ee7,0x3fffb55a,0xbf7f6aeb,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,38 +1415,37 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Hotel Del Luna</beq_title>
+    <beq_title>The Master's Sun</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>hotel del luna</beq_sortTitle>
-    <beq_year>2019</beq_year>
+    <beq_sortTitle>the master's sun</beq_sortTitle>
+    <beq_year>2013</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Hotel%20Del%20Luna%20%282019%29%28Ko%29%28S1-E1-16%29%20DD%2B%202.0.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Master%27s%20Sun%20%282013%29%28Ko%29%28S1-E1-17%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="126122">
-      <number>1</number>
-      <poster>/3PcOKiki5Eg1k9aTUTyBza4HCHA.jpg</poster>
-      <episodes count="16">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</episodes>
+    <beq_season id="58801">
+        <number>1</number>
+        <poster>/1i1b68qpnt4Ue1Q34AfkUJ0OJZy.jpg</poster>
+        <episodes count="17">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Korean</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>The Hotel Del Luna, located in Seoul, is not like any other hotel: its clients are all ghosts. Jang Man-wol, stuck in the hotel for the past millennium, meets Goo Chan-sung, the new manager.</beq_overview>
+    <beq_overview>Joo Joong-won is the arrogant, greedy CEO of Kingdom, a  conglomerate that includes a supermall and a hotel. "Ghost whisperer”  Tae Gong-shil, is a misunderstood outcast who can't keep a  boyfriend or a job since a near death experience left her seeing needy  ghosts. She feels compelled to help them resolve their earthly issues so  they can move on to the afterlife... and he feels compelled to think  she's crazy. Soon their lives merge into a complicated web of hijinx,  misunderstandings, and... yes, love.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>90447</beq_theMovieDB>
-    <beq_poster>/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg</beq_poster>
+    <beq_theMovieDB>57646</beq_theMovieDB>
+    <beq_poster>/8dNQTTHAirWwCpQM85amONPcZSA.jpg</beq_poster>
     <beq_runtime>0</beq_runtime>
     <beq_collection />
+    <beq_genres>
+      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
+      <genre id="35">Comedy</genre>
+    </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ 2.0</audioType>
     </beq_audioTypes>
-    <beq_genres>
-      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
-      <genre id="18">Drama</genre>
-      <genre id="35">Comedy</genre>
-    </beq_genres>
   </beq_metadata>
 </setting>
