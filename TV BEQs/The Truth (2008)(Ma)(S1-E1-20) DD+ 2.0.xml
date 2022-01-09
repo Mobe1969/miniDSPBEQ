@@ -1422,7 +1422,7 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Truth%20%282008%29%28Ma%29%28S1-E1-20%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>
+    <beq_season id="0">
         <number>1</number>
         <poster></poster>
         <episodes count="20">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</episodes>
