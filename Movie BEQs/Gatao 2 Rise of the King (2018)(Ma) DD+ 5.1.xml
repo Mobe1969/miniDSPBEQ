@@ -1421,7 +1421,7 @@
     <beq_sortTitle>gatao 2 rise of the king</beq_sortTitle>
     <beq_year>2018</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gatao%202%20Rise%20of%20the%20King%20%282018%29%28Ma%29%20DD%2B5.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gatao%202%20Rise%20of%20the%20King%20%282018%29%28Ma%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1443,7 +1443,7 @@
     </beq_genres>
     <beq_collection id="717062">Gatao Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DD+5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
