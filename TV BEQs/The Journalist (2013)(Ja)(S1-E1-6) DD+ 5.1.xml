@@ -1422,7 +1422,11 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Journalist%20%282013%29%28Ja%29%28S1-E1-6%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="218372">
+        <number>1</number>
+        <poster></poster>
+        <episodes count="6">1,2,3,4,5,6</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />

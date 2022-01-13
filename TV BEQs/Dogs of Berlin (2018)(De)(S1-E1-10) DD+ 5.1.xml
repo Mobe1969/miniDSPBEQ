@@ -1422,7 +1422,11 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Dogs%20of%20Berlin%20%282018%29%28De%29%28S1-E1-10%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="98447">
+        <number>1</number>
+        <poster>/u4l8O78xeoWU31rrMEW5FW0wXNl.jpg</poster>
+        <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
