@@ -36,7 +36,7 @@ foreach ($file in $files) {
         $reportName = "Edge of Tomorrow (2014)(40s) DTS-HD MA 5.1"
     }
     if ($file.FullName.Contains("Movie")) {
-        $report = Get-ChildItem "D:\BEQ\Mobe\beq-reports\Movies" -Filter "$reportName.jpg"
+        $report = Get-ChildItem "D:\BEQ\Mobe\beq-reports\Movies" -Filter "$reportName.jpg" -Recurse
     }
     else {
         $report = Get-ChildItem "D:\BEQ\Mobe\beq-reports\TV Series" -Filter "$reportName.jpg" -Recurse
