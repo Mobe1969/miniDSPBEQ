@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.9</q>
-    <boost>6.4</boost>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000134757787394,-1.999394849590618,0.9992607107965152,1.9993950109528553,-0.9993953072216715,</dec>
-    <hex>0x3f80046a,0xbfffec2c,0x3f7fcf8d,0x3fffec2d,0xbf7fd85f,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
-    <q>0.9</q>
-    <boost>6.4</boost>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000134757787394,-1.999394849590618,0.9992607107965152,1.9993950109528553,-0.9993953072216715,</dec>
-    <hex>0x3f80046a,0xbfffec2c,0x3f7fcf8d,0x3fffec2d,0xbf7fd85f,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>20.0</freq>
     <q>0.8</q>
-    <boost>5.4</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000255429556615,-1.998598473543064,0.9983453805263158,1.9985990144148966,-0.9986002692110986,</dec>
-    <hex>0x3f80085f,0xbfffd213,0x3f7f9390,0x3fffd218,0xbf7fa444,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>20.0</freq>
     <q>0.8</q>
-    <boost>5.4</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000255429556615,-1.998598473543064,0.9983453805263158,1.9985990144148966,-0.9986002692110986,</dec>
-    <hex>0x3f80085f,0xbfffd213,0x3f7f9390,0x3fffd218,0xbf7fa444,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>5.4</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000255429556615,-1.998598473543064,0.9983453805263158,1.9985990144148966,-0.9986002692110986,</dec>
-    <hex>0x3f80085f,0xbfffd213,0x3f7f9390,0x3fffd218,0xbf7fa444,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>5.4</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000255429556615,-1.998598473543064,0.9983453805263158,1.9985990144148966,-0.9986002692110986,</dec>
-    <hex>0x3f80085f,0xbfffd213,0x3f7f9390,0x3fffd218,0xbf7fa444,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.9</q>
-    <boost>6.4</boost>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000134757787394,-1.999394849590618,0.9992607107965152,1.9993950109528553,-0.9993953072216715,</dec>
-    <hex>0x3f80046a,0xbfffec2c,0x3f7fcf8d,0x3fffec2d,0xbf7fd85f,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
-    <q>0.9</q>
-    <boost>6.4</boost>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000134757787394,-1.999394849590618,0.9992607107965152,1.9993950109528553,-0.9993953072216715,</dec>
-    <hex>0x3f80046a,0xbfffec2c,0x3f7fcf8d,0x3fffec2d,0xbf7fd85f,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>20.0</freq>
     <q>0.8</q>
-    <boost>5.4</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000255429556615,-1.998598473543064,0.9983453805263158,1.9985990144148966,-0.9986002692110986,</dec>
-    <hex>0x3f80085f,0xbfffd213,0x3f7f9390,0x3fffd218,0xbf7fa444,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>20.0</freq>
     <q>0.8</q>
-    <boost>5.4</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000255429556615,-1.998598473543064,0.9983453805263158,1.9985990144148966,-0.9986002692110986,</dec>
-    <hex>0x3f80085f,0xbfffd213,0x3f7f9390,0x3fffd218,0xbf7fa444,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>5.4</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000255429556615,-1.998598473543064,0.9983453805263158,1.9985990144148966,-0.9986002692110986,</dec>
-    <hex>0x3f80085f,0xbfffd213,0x3f7f9390,0x3fffd218,0xbf7fa444,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>5.4</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000255429556615,-1.998598473543064,0.9983453805263158,1.9985990144148966,-0.9986002692110986,</dec>
-    <hex>0x3f80085f,0xbfffd213,0x3f7f9390,0x3fffd218,0xbf7fa444,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,34 +1415,36 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Prisoners</beq_title>
+    <beq_title>Circle</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>prisoners</beq_sortTitle>
-    <beq_year>2013</beq_year>
+    <beq_sortTitle>circle</beq_sortTitle>
+    <beq_year>2015</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Prisoners%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Circle%20%282015%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>Keller Dover faces a parent's worst nightmare when his 6-year-old daughter, Anna, and her friend go missing. The only lead is an old motorhome that had been parked on their street. The head of the investigation, Detective Loki, arrests the driver, but a lack of evidence forces Loki to release his only suspect. Dover, knowing that his daughter's life is at stake, decides that he has no choice but to take matters into his own hands.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>In a massive, mysterious chamber, fifty strangers awaken to find themselves trapped with no memory of how they got there. Organized in an inward-facing circle and unable to move, they quickly learn that every two minutes, one of them must die... executed by a strange device in the center of the room.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>146233</beq_theMovieDB>
-    <beq_poster>/tuZhZ6biFMr5n9YSVuHOJnNL1uU.jpg</beq_poster>
-    <beq_runtime>153</beq_runtime>
+    <beq_theMovieDB>335866</beq_theMovieDB>
+    <beq_poster>/hbIL53MdZFJXsgxXaSOVuApWTs8.jpg</beq_poster>
+    <beq_runtime>87</beq_runtime>
     <beq_collection />
     <beq_genres>
+      <genre id="878">Science Fiction</genre>
+      <genre id="9648">Mystery</genre>
       <genre id="18">Drama</genre>
       <genre id="53">Thriller</genre>
-      <genre id="80">Crime</genre>
+      <genre id="27">Horror</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
