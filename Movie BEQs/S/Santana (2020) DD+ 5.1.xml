@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Santana</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>santana</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Two brothers â€” one a narcotics agent and the other a general â€” finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.</beq_overview>
+    <beq_overview>Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Spectre</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>spectre</beq_sortTitle>
     <beq_year>2015</beq_year>
     <beq_spectrumURL />
@@ -1428,12 +1429,12 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A cryptic message from Bondâ€™s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.</beq_overview>
+    <beq_overview>A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.</beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>206647</beq_theMovieDB>
-    <beq_poster>/672kUEMtTHcaVYSVY4eiHEliHFa.jpg</beq_poster>
+    <beq_poster>/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg</beq_poster>
     <beq_runtime>148</beq_runtime>
     <beq_genres>
       <genre id="28">Action</genre>

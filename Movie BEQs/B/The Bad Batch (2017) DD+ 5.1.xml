@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>The Bad Batch</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>the bad batch</beq_sortTitle>
     <beq_year>2017</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>In a desert wasteland in Texas, a muscled cannibal breaks one important rule: donÃ¢â‚¬â„¢t play with your food.</beq_overview>
+    <beq_overview>In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

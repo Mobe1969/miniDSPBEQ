@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Jungle Cruise</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>jungle cruise</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal â€“ a discovery that will change the future of medicine.</beq_overview>
+    <beq_overview>Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.</beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

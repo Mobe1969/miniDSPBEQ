@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Spy Game</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>spy game</beq_sortTitle>
     <beq_year>2001</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>On the day of his retirement, a veteran CIA agent learns that his former protÃ©gÃ© has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal.</beq_overview>
+    <beq_overview>On the day of his retirement, a veteran CIA agent learns that his former protégé has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

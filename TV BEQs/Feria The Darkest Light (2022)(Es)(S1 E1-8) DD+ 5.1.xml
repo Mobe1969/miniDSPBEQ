@@ -1415,17 +1415,17 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Feria The Darkest Light</beq_title>
-    <beq_alt_title />
+    <beq_title>Feria: The Darkest Light</beq_title>
+    <beq_alt_title>Feria The Darkest Light</beq_alt_title>
     <beq_sortTitle>feria the darkest light</beq_sortTitle>
     <beq_year>2022</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Feria%20The%20Darkest%20Light%20%282022%29%28Es%29%28S1%20E1-8%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="182224">
-        <number>1</number>
-        <poster>/k1m4aydO6752Czydk3Z8dR4yP0L.jpg</poster>
-        <episodes count="8">1,2,3,4,5,6,7,8</episodes>
+      <number>1</number>
+      <poster>/k1m4aydO6752Czydk3Z8dR4yP0L.jpg</poster>
+      <episodes count="8">1,2,3,4,5,6,7,8</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

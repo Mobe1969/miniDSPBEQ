@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Back to the Outback</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>back to the outback</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australiaâ€™s deadliest creatures plot an escape from their zoo to the Outback, a place where theyâ€™ll fit in without being judged.</beq_overview>
+    <beq_overview>Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia’s deadliest creatures plot an escape from their zoo to the Outback, a place where they’ll fit in without being judged.</beq_overview>
     <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

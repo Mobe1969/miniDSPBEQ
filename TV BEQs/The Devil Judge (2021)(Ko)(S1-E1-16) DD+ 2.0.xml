@@ -1416,23 +1416,24 @@
   <link />
   <beq_metadata>
     <beq_title>The Devil Judge</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>the devil judge</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Devil%20Judge%20%282021%29%28Ko%29%28S1-E1-16%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="183759">
-        <number>1</number>
-        <poster>/nPn7nPzWDXTzqwnQt2Jq9t8e3Ae.jpg</poster>
-        <episodes count="16">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</episodes>
+      <number>1</number>
+      <poster>/nPn7nPzWDXTzqwnQt2Jq9t8e3Ae.jpg</poster>
+      <episodes count="16">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Korean</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>The court system is corrupted and old-fashioned. People desire a new system that can satisfy the crowds. However, are the crowds always correct? The drama shows how judges discover the truth about people in court. It centers around a chief judge who doesn’t believe in justice, but only makes judgements that the crowds will satisfy with. An assistant judge starts to question his motives and tries to find the truth.</beq_overview>
+    <beq_overview>The court system is corrupted and old-fashioned. People desire a new system that can satisfy the crowds. However, are the crowds always correct? The drama shows how judges discover the truth about people in court. It centers around a chief judge who doesn’t believe in justice, but only makes judgements that the crowds will be satisfied with. An assistant judge starts to question his motives and tries to find the truth.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

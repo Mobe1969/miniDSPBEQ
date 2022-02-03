@@ -1416,16 +1416,17 @@
   <link />
   <beq_metadata>
     <beq_title>Midnight Mass</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>midnight mass</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Midnight%20Mass%20%282021%29%28S1-E1-7%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="163922">
-        <number>1</number>
-        <poster>/ktHziCcGTs97OPx2Ck0VNH1v6p0.jpg</poster>
-        <episodes count="7">1,2,3,4,5,6,7</episodes>
+      <number>1</number>
+      <poster>/ktHziCcGTs97OPx2Ck0VNH1v6p0.jpg</poster>
+      <episodes count="7">1,2,3,4,5,6,7</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>ARQ</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>arq</beq_sortTitle>
     <beq_year>2016</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Two old friends living in a dystopic future become trapped in a mysterious time loop â€” one that may have something to do with an ongoing battle between an omnipotent corporation and a ragtag band of rebels.</beq_overview>
+    <beq_overview>Two old friends living in a dystopic future become trapped in a mysterious time loop — one that may have something to do with an ongoing battle between an omnipotent corporation and a ragtag band of rebels.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

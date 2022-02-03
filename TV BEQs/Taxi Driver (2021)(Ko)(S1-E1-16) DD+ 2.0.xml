@@ -1416,16 +1416,17 @@
   <link />
   <beq_metadata>
     <beq_title>Taxi Driver</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>taxi driver</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Taxi%20Driver%20%282021%29%28Ko%29%28S1-E1-16%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="183744">
-        <number>1</number>
-        <poster>/n2dY1qJUbTbGqk2FnFVsKOy4hCL.jpg</poster>
-        <episodes count="16">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</episodes>
+      <number>1</number>
+      <poster>/n2dY1qJUbTbGqk2FnFVsKOy4hCL.jpg</poster>
+      <episodes count="16">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

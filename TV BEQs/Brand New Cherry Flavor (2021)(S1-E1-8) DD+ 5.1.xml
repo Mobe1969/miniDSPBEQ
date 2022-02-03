@@ -1416,16 +1416,17 @@
   <link />
   <beq_metadata>
     <beq_title>Brand New Cherry Flavor</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>brand new cherry flavor</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Brand%20New%20Cherry%20Flavor%20%282021%29%28S1-E1-8%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="202843">
-        <number>1</number>
-        <poster>/cX4acZbi2l4v051NJZfonqY0E3X.jpg</poster>
-        <episodes count="8">1,2,3,4,5,6,7,8</episodes>
+      <number>1</number>
+      <poster>/cX4acZbi2l4v051NJZfonqY0E3X.jpg</poster>
+      <episodes count="8">1,2,3,4,5,6,7,8</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

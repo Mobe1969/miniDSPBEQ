@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Romeo Must Die</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>romeo must die</beq_sortTitle>
     <beq_year>2000</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Two warring gang families (one African-American, the other Chinese) maneuver for bragging rights to the Oakland, California, docks. Hang Sing and Trish O'Day uncover a trail of deceit that leaves most of the warring factions dead â€¦ or worse!</beq_overview>
+    <beq_overview>Two warring gang families (one African-American, the other Chinese) maneuver for bragging rights to the Oakland, California, docks. Hang Sing and Trish O'Day uncover a trail of deceit that leaves most of the warring factions dead … or worse!</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

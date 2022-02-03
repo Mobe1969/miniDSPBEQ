@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Forrest Gump</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>forrest gump</beq_sortTitle>
     <beq_year>1994</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A man with a low IQ has accomplished great things in his life and been present during significant historic eventsâ€”in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.</beq_overview>
+    <beq_overview>A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.</beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

@@ -1416,16 +1416,17 @@
   <link />
   <beq_metadata>
     <beq_title>All of Us Are Dead</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>all of us are dead</beq_sortTitle>
     <beq_year>2022</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/All%20of%20Us%20Are%20Dead%20%282022%29%28Ko%29%28S1%20E1-12%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="144348">
-        <number>1</number>
-        <poster>/bCtbo4Z4azfC2JKd3mRzdXT2eEg.jpg</poster>
-        <episodes count="12">1,2,3,4,5,6,7,8,9,10,11,12</episodes>
+      <number>1</number>
+      <poster>/bCtbo4Z4azfC2JKd3mRzdXT2eEg.jpg</poster>
+      <episodes count="12">1,2,3,4,5,6,7,8,9,10,11,12</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

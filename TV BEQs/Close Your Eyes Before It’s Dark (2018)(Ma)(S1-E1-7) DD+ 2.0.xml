@@ -1415,17 +1415,17 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Close Your Eyes Before It’s Dark</beq_title>
-    <beq_alt_title />
+    <beq_title>Close Your Eyes Before It's Dark</beq_title>
+    <beq_alt_title>Close Your Eyes Before It’s Dark</beq_alt_title>
     <beq_sortTitle>close your eyes before its dark</beq_sortTitle>
     <beq_year>2018</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Close%20Your%20Eyes%20Before%20It%E2%80%99s%20Dark%20%282018%29%28Ma%29%28S1-E1-7%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="108414">
-        <number>1</number>
-        <poster>/jklBqb7YFXbyHFwyw2rOJRx88ST.jpg</poster>
-        <episodes count="7">1,2,3,4,5,6,7</episodes>
+      <number>1</number>
+      <poster>/jklBqb7YFXbyHFwyw2rOJRx88ST.jpg</poster>
+      <episodes count="7">1,2,3,4,5,6,7</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

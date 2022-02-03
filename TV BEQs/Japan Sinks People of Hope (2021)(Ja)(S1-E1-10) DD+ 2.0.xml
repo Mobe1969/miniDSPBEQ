@@ -1415,17 +1415,17 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Japan Sinks People of Hope</beq_title>
-    <beq_alt_title />
+    <beq_title>JAPAN SINKS: People of Hope</beq_title>
+    <beq_alt_title>Japan Sinks People of Hope</beq_alt_title>
     <beq_sortTitle>japan sinks people of hope</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Japan%20Sinks%20People%20of%20Hope%20%282021%29%28Ja%29%28S1-E1-10%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="213431">
-        <number>1</number>
-        <poster>/whiIWK9SeRpgOGnumLcEnY1tkNn.jpg</poster>
-        <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+      <number>1</number>
+      <poster>/whiIWK9SeRpgOGnumLcEnY1tkNn.jpg</poster>
+      <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

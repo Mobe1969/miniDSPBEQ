@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Hereafter</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>hereafter</beq_sortTitle>
     <beq_year>2010</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Three people â€” a blue-collar American, a French journalist and a London school boy â€” are touched by death in different ways.</beq_overview>
+    <beq_overview>Three people — a blue-collar American, a French journalist and a London school boy — are touched by death in different ways.</beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

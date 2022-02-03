@@ -251,6 +251,11 @@ foreach ($file in $files) {
         } else {
             $safeTitle = [uri]::EscapeDataString($beqMetadata.beq_title)
         }
+        if ($beqMetadata.beq_title -eq "Alone and Distracted") {
+            $fileTitle = "Edge of Tomorrow"
+        } else {
+            $fileTitle = $file.Name.SubString(0, $file.Name.IndexOf("(")).Trim()
+        }
         $year = $beqMetadata.beq_year
         if ($file.FullName.Contains("Movie")) {
             $ItemType = "movie"
@@ -280,28 +285,33 @@ foreach ($file in $files) {
         $url = "https://api.themoviedb.org/3/" + $ItemType + "/" + $beqMetadata.beq_theMovieDB + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
         $result = Invoke-RestMethod -Uri $url
         if ($null -ne $result) { 
+            if ($ItemType -eq "tv") {
+                if ($beqMetadata.beq_title -ne $result.name) {
+                    $beqMetadata.beq_title = $result.name
+                    Write-Output "Updating title to $($beqMetadata.beq_title)"
+                    $save = $true
+                }
+            } else {
+                if ($beqMetadata.beq_title -ne $result.title) {
+                    $beqMetadata.beq_title = $result.title
+                    Write-Output "Updating title to $($beqMetadata.beq_title)"
+                    $save = $true
+                }
+            }
+            if ($beqMetadata.beq_title -ne $fileTitle -and $beqMetadata.beq_alt_title -ne $fileTitle) {
+                $beqMetadata.beq_alt_title = $fileTitle
+                Write-Output "Updating alt title to $($beqMetadata.beq_alt_title)"
+                $save = $true
+            }
             if ($beqMetadata.beq_poster -ne $result.poster_path -and ![string]::IsNullOrWhitespace($result.poster_path)) {
                 $beqMetadata.beq_poster = $result.poster_path
                 $save = $true
             }
-            if ($beqMetadata.beq_overview -ne $result.overview) { # -and ![string]::IsNullOrWhitespace($result.overview)) {
+            if ($beqMetadata.beq_overview -ne $result.overview) {
                 $beqMetadata.beq_overview = $result.overview
                 Write-Output "$($beqMetadata.beq_overview)"
                 Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($beqMetadata.beq_overview)"
                 $save = $true
-            }
-            if ($beqMetadata.beq_title -ne $result.title -and $beqMetadata.beq_alt_title -ne $result.title -and ![string]::IsNullOrWhitespace($result.title)) {
-                $beqMetadata.beq_alt_title = $result.title
-                $save = $true
-            }
-            if ($beqMetadata.beq_title -eq [Regex]::Replace($beqMetadata.beq_alt_title, ":", "")) {
-                $beqMetadata.beq_title = $beqMetadata.beq_alt_title
-                $beqMetadata.beq_alt_title = ""
-                Write-Output "Updating title to $($beqMetadata.beq_title)"
-                $save = $true
-            }
-            if ($beqMetadata.beq_title -ne $beqMetadata.beq_alt_title -and "" -ne $beqMetadata.beq_alt_title) {
-                Write-Output "Title $($beqMetadata.beq_title), Alt Title $($beqMetadata.beq_alt_title)"
             }
             if ([string]::IsNullOrWhitespace($beqMetadata.beq_genres.genre) -and $result.genres.Count -gt 0) {                    
                 $beq_genres = $content.CreateElement("beq_genres")
@@ -414,16 +424,6 @@ foreach ($file in $files) {
             $save = $true
         }
     }
-    if ($beqMetadata.beq_title -eq [Regex]::Replace($beqMetadata.beq_alt_title, "[\-():!.,]", "")) {
-        $beqMetadata.beq_title = $beqMetadata.beq_alt_title
-        $beqMetadata.beq_alt_title = ""
-        Write-Output "Updating title to $($beqMetadata.beq_title)"
-        $save = $true
-    }
-    #if ($beqMdescretadata.beq_title -ne $beqMetadata.beq_alt_title -and "" -ne $beqMetadata.beq_alt_title) {
-    #    Write-Output "Title $($beqMetadata.beq_title), Alt Title $($beqMetadata.beq_alt_title)"
-    #    Add-Content -Path "D:\BEQ\Errors.txt" -Value "Title $($beqMetadata.beq_title), Alt Title $($beqMetadata.beq_alt_title)"
-    #}
     if ($save) {
         $content.Save($file.FullName)
     } else {

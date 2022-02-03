@@ -1416,16 +1416,17 @@
   <link />
   <beq_metadata>
     <beq_title>The Barrier</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>the barrier</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Barrier%20%282020%29%28Es%29%28S1-E1-13%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="132173">
-        <number>1</number>
-        <poster>/qvlAuCWqBkXH9tO9kO6CTupA9XT.jpg</poster>
-        <episodes count="13">1,2,3,4,5,6,7,8,9,10,11,12,13</episodes>
+      <number>1</number>
+      <poster>/qvlAuCWqBkXH9tO9kO6CTupA9XT.jpg</poster>
+      <episodes count="13">1,2,3,4,5,6,7,8,9,10,11,12,13</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

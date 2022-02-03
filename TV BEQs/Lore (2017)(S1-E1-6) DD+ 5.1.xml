@@ -1416,16 +1416,17 @@
   <link />
   <beq_metadata>
     <beq_title>Lore</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>lore</beq_sortTitle>
     <beq_year>2017</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Lore%20%282017%29%28S1-E1-6%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="92920">
-        <number>1</number>
-        <poster>/rMuBaJIZmaPLt1pMPLX3fABI2Yd.jpg</poster>
-        <episodes count="6">1,2,3,4,5,6</episodes>
+      <number>1</number>
+      <poster>/rMuBaJIZmaPLt1pMPLX3fABI2Yd.jpg</poster>
+      <episodes count="6">1,2,3,4,5,6</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

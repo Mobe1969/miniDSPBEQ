@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Asphalt Burning</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>asphalt burning</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>Norwegian</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>The third and final instalment in the Burnout trilogy. This time, the road leads through Norway, to Sweden, Denmark and finally Germany to race on the famous racing track, NÃ¼rburgring.</beq_overview>
+    <beq_overview>The third and final instalment in the Burnout trilogy. This time, the road leads through Norway, to Sweden, Denmark and finally Germany to race on the famous racing track, Nürburgring.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

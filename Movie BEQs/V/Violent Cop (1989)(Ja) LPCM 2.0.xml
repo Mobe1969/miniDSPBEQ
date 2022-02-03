@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Violent Cop</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>violent cop</beq_sortTitle>
     <beq_year>1989</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>Japanese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A detective breaks all rules of ethical conduct while investigating a colleagueâ€™s involvement in drug pushing and Yakuza activities.</beq_overview>
+    <beq_overview>A detective breaks all rules of ethical conduct while investigating a colleague’s involvement in drug pushing and Yakuza activities.</beq_overview>
     <beq_rating>16</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

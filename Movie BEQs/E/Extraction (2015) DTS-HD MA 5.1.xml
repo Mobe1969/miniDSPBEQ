@@ -1416,7 +1416,8 @@
   <link />
   <beq_metadata>
     <beq_title>Extraction</beq_title>
-    <beq_alt_title />
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>extraction</beq_sortTitle>
     <beq_year>2015</beq_year>
     <beq_spectrumURL />
@@ -1428,7 +1429,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>When a former CIA operative is kidnapped by a group of terrorists, his son learns there is no plan for his father to be savedâ€”so he launches his own rescue operation.</beq_overview>
+    <beq_overview>When a former CIA operative is kidnapped by a group of terrorists, his son learns there is no plan for his father to be saved—so he launches his own rescue operation.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
