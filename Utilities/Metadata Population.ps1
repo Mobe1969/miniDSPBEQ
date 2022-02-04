@@ -21,6 +21,8 @@ clear
 
 $files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ\TV BEQs" -Filter *.xml -Recurse
 #$files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ\Movie BEQs" -Filter *.xml -Recurse
+
+#$files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ" -Filter "The Sac*.xml" -Recurse
 $files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ" -Filter *.xml -Recurse
 if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
     Clear-Content -Path "D:\BEQ\Errors.txt"
