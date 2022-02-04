@@ -253,11 +253,6 @@ foreach ($file in $files) {
         } else {
             $safeTitle = [uri]::EscapeDataString($beqMetadata.beq_title)
         }
-        if ($beqMetadata.beq_title -eq "Alone and Distracted") {
-            $fileTitle = "Edge of Tomorrow"
-        } else {
-            $fileTitle = $file.Name.SubString(0, $file.Name.IndexOf("(")).Trim()
-        }
         $year = $beqMetadata.beq_year
         if ($file.FullName.Contains("Movie")) {
             $ItemType = "movie"
@@ -276,6 +271,11 @@ foreach ($file in $files) {
         }
     }
     if (![string]::IsNullOrWhitespace($beqMetadata.beq_theMovieDB) -and ([string]::IsNullOrWhitespace($beqMetadata.beq_title)-or [string]::IsNullOrWhitespace($beqMetadata.beq_genres.genre) -or [string]::IsNullOrWhitespace($beqMetadata.beq_runtime) -or [string]::IsNullOrWhitespace($beqMetadata.beq_overview) -or [string]::IsNullOrWhitespace($beqMetadata.beq_rating))) {
+        if ($beqMetadata.beq_title -eq "Alone and Distracted") {
+            $fileTitle = "Edge of Tomorrow"
+        } else {
+            $fileTitle = $file.Name.SubString(0, $file.Name.IndexOf("(")).Trim()
+        }
         Write-Output "$($file.Name) missing TMDB metadata content"
         Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing TMDB metadata content"
         if ($file.FullName.Contains("Movie")) {
