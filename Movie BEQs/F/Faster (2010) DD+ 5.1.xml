@@ -831,11 +831,11 @@
   <filter name="PEQ_1_4" addr="8295">
     <freq>29.0</freq>
     <q>3.0</q>
-    <boost>4.0</boost>
+    <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001469340920344,-1.9994939678207149,0.9993506353995304,1.9994939678207149,-0.9994975694915648,</dec>
-    <hex>0x3f8004d1,0xbfffef6b,0x3f7fd571,0x3fffef6b,0xbf7fdf13,</hex>
+    <dec>1.0001097748928163,-1.9994642049169926,0.9993580316414147,1.9994642049169926,-0.999467806534231,</dec>
+    <hex>0x3f800399,0xbfffee71,0x3f7fd5ee,0x3fffee71,0xbf7fdd1f,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>30.0</freq>
@@ -921,11 +921,11 @@
   <filter name="PEQ_2_4" addr="8345">
     <freq>29.0</freq>
     <q>3.0</q>
-    <boost>4.0</boost>
+    <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001469340920344,-1.9994939678207149,0.9993506353995304,1.9994939678207149,-0.9994975694915648,</dec>
-    <hex>0x3f8004d1,0xbfffef6b,0x3f7fd571,0x3fffef6b,0xbf7fdf13,</hex>
+    <dec>1.0001097748928163,-1.9994642049169926,0.9993580316414147,1.9994642049169926,-0.999467806534231,</dec>
+    <hex>0x3f800399,0xbfffee71,0x3f7fd5ee,0x3fffee71,0xbf7fdd1f,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>30.0</freq>
@@ -1420,14 +1420,14 @@
     <beq_sortTitle>faster</beq_sortTitle>
     <beq_year>2010</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Faster%20%282010%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Faster%20%282010%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
+    <beq_source>Streaming</beq_source>
     <beq_overview>After 10 years in prison, Driver is now a free man with a single focus - hunting down the people responsible for brutally murdering his brother.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
@@ -1443,7 +1443,7 @@
       <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
