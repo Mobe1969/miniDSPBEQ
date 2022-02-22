@@ -19,11 +19,11 @@
 
 clear
 
-$files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ\TV BEQs" -Filter *.xml -Recurse
-#$files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ\Movie BEQs" -Filter *.xml -Recurse
+$files = Get-ChildItem "D:\BEQ\miniDSPBEQ\TV BEQs" -Filter *.xml -Recurse
+#$files = Get-ChildItem "D:\BEQ\miniDSPBEQ\Movie BEQs" -Filter *.xml -Recurse
 
-#$files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ" -Filter "The Sac*.xml" -Recurse
-$files = Get-ChildItem "D:\BEQ\Mobe1969_miniDSPBEQ" -Filter *.xml -Recurse
+#$files = Get-ChildItem "D:\BEQ\miniDSPBEQ" -Filter "The Sac*.xml" -Recurse
+$files = Get-ChildItem "D:\BEQ\miniDSPBEQ" -Filter *.xml -Recurse
 if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
     Clear-Content -Path "D:\BEQ\Errors.txt"
 }
@@ -38,10 +38,10 @@ foreach ($file in $files) {
         $reportName = "Edge of Tomorrow (2014)(40s) DTS-HD MA 5.1"
     }
     if ($file.FullName.Contains("Movie")) {
-        $report = Get-ChildItem "D:\BEQ\Mobe\beq-reports\Movies" -Filter "$reportName.jpg" -Recurse
+        $report = Get-ChildItem "D:\BEQ\beq-reports\Movies" -Filter "$reportName.jpg" -Recurse
     }
     else {
-        $report = Get-ChildItem "D:\BEQ\Mobe\beq-reports\TV Series" -Filter "$reportName.jpg" -Recurse
+        $report = Get-ChildItem "D:\BEQ\beq-reports\TV Series" -Filter "$reportName.jpg" -Recurse
     }
     if ($null -eq $report) {
         Write-Output "$($file.Name) Unable to find report"
@@ -49,7 +49,7 @@ foreach ($file in $files) {
         $reportURL = ""
         continue
     } else {
-        $reportURL = [String]"https://gitlab.com/Mobe1969/beq-reports/-/raw/master" + [uri]::EscapeDataString($report.FullName.Replace("D:\BEQ\Mobe\beq-reports", "").Replace("\", "/")).Replace("%2F", "/")
+        $reportURL = [String]"https://gitlab.com/Mobe1969/beq-reports/-/raw/master" + [uri]::EscapeDataString($report.FullName.Replace("D:\BEQ\beq-reports", "").Replace("\", "/")).Replace("%2F", "/")
         $reportURL = [String]$reportURL.Replace("(", "%28").Replace(")", "%29")
     }
     if ($null -eq $content.setting.beq_metadata) {
