@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Mignight Sky</beq_title>
-    <beq_alt_title>The Midnight Sky</beq_alt_title>
-    <beq_sortTitle>the mignight sky</beq_sortTitle>
+    <beq_title>The Midnight Sky</beq_title>
+    <beq_alt_title></beq_alt_title>
+    <beq_sortTitle>the midnight sky</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Mignight%20Sky%20%282020%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Midnight%20Sky%20%282020%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
