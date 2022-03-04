@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>2.0</boost>
+    <freq>20.0</freq>
+    <q>0.7</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000377098325686,-1.9993818733939461,0.9993446440500002,1.999381922805418,-0.9993823044710975,</dec>
-    <hex>0x3f80013c,0xbfffebbf,0x3f7fd50d,0x3fffebbf,0xbf7fd785,</hex>
+    <dec>1.0001616791129733,-1.998284430657665,0.99812478626592,1.9982847277821212,-0.9982861682544377,</dec>
+    <hex>0x3f80054c,0xbfffc7c9,0x3f7f851b,0x3fffc7cb,0xbf7f8faf,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>2.0</boost>
+    <freq>37.0</freq>
+    <q>0.8</q>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000377098325686,-1.9993818733939461,0.9993446440500002,1.999381922805418,-0.9993823044710975,</dec>
-    <hex>0x3f80013c,0xbfffebbf,0x3f7fd50d,0x3fffebbf,0xbf7fd785,</hex>
+    <dec>1.0004022019849133,-1.9973457741179206,0.9969512042537492,1.997347343115354,-0.9973518372412296,</dec>
+    <hex>0x3f800d2e,0xbfffa907,0x3f7f3832,0x3fffa914,0xbf7f5273,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>2.0</boost>
+    <freq>37.0</freq>
+    <q>0.8</q>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000377098325686,-1.9993818733939461,0.9993446440500002,1.999381922805418,-0.9993823044710975,</dec>
-    <hex>0x3f80013c,0xbfffebbf,0x3f7fd50d,0x3fffebbf,0xbf7fd785,</hex>
+    <dec>1.0004022019849133,-1.9973457741179206,0.9969512042537492,1.997347343115354,-0.9973518372412296,</dec>
+    <hex>0x3f800d2e,0xbfffa907,0x3f7f3832,0x3fffa914,0xbf7f5273,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>26.0</freq>
-    <q>2.6</q>
-    <boost>6.0</boost>
-    <type>PK</type>
+    <freq>37.0</freq>
+    <q>0.8</q>
+    <boost>4.6</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002305235966025,-1.9995338630147124,0.9993062345160372,1.9995338630147124,-0.9995367581126396,</dec>
-    <hex>0x3f80078e,0xbffff0ba,0x3f7fd289,0x3ffff0ba,0xbf7fe1a4,</hex>
+    <dec>1.0004022019849133,-1.9973457741179206,0.9969512042537492,1.997347343115354,-0.9973518372412296,</dec>
+    <hex>0x3f800d2e,0xbfffa907,0x3f7f3832,0x3fffa914,0xbf7f5273,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>37.0</freq>
+    <q>0.8</q>
+    <boost>4.6</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004022019849133,-1.9973457741179206,0.9969512042537492,1.997347343115354,-0.9973518372412296,</dec>
+    <hex>0x3f800d2e,0xbfffa907,0x3f7f3832,0x3fffa914,0xbf7f5273,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>2.0</boost>
+    <freq>20.0</freq>
+    <q>0.7</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000377098325686,-1.9993818733939461,0.9993446440500002,1.999381922805418,-0.9993823044710975,</dec>
-    <hex>0x3f80013c,0xbfffebbf,0x3f7fd50d,0x3fffebbf,0xbf7fd785,</hex>
+    <dec>1.0001616791129733,-1.998284430657665,0.99812478626592,1.9982847277821212,-0.9982861682544377,</dec>
+    <hex>0x3f80054c,0xbfffc7c9,0x3f7f851b,0x3fffc7cb,0xbf7f8faf,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>2.0</boost>
+    <freq>37.0</freq>
+    <q>0.8</q>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000377098325686,-1.9993818733939461,0.9993446440500002,1.999381922805418,-0.9993823044710975,</dec>
-    <hex>0x3f80013c,0xbfffebbf,0x3f7fd50d,0x3fffebbf,0xbf7fd785,</hex>
+    <dec>1.0004022019849133,-1.9973457741179206,0.9969512042537492,1.997347343115354,-0.9973518372412296,</dec>
+    <hex>0x3f800d2e,0xbfffa907,0x3f7f3832,0x3fffa914,0xbf7f5273,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>2.0</boost>
+    <freq>37.0</freq>
+    <q>0.8</q>
+    <boost>4.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000377098325686,-1.9993818733939461,0.9993446440500002,1.999381922805418,-0.9993823044710975,</dec>
-    <hex>0x3f80013c,0xbfffebbf,0x3f7fd50d,0x3fffebbf,0xbf7fd785,</hex>
+    <dec>1.0004022019849133,-1.9973457741179206,0.9969512042537492,1.997347343115354,-0.9973518372412296,</dec>
+    <hex>0x3f800d2e,0xbfffa907,0x3f7f3832,0x3fffa914,0xbf7f5273,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>26.0</freq>
-    <q>2.6</q>
-    <boost>6.0</boost>
-    <type>PK</type>
+    <freq>37.0</freq>
+    <q>0.8</q>
+    <boost>4.6</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002305235966025,-1.9995338630147124,0.9993062345160372,1.9995338630147124,-0.9995367581126396,</dec>
-    <hex>0x3f80078e,0xbffff0ba,0x3f7fd289,0x3ffff0ba,0xbf7fe1a4,</hex>
+    <dec>1.0004022019849133,-1.9973457741179206,0.9969512042537492,1.997347343115354,-0.9973518372412296,</dec>
+    <hex>0x3f800d2e,0xbfffa907,0x3f7f3832,0x3fffa914,0xbf7f5273,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>37.0</freq>
+    <q>0.8</q>
+    <boost>4.6</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004022019849133,-1.9973457741179206,0.9969512042537492,1.997347343115354,-0.9973518372412296,</dec>
+    <hex>0x3f800d2e,0xbfffa907,0x3f7f3832,0x3fffa914,0xbf7f5273,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,40 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>SCAMS</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>scams</beq_sortTitle>
-    <beq_year>2019</beq_year>
+    <beq_title>Behemoth</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>behemoth</beq_sortTitle>
+    <beq_year>2015</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/SCAMS%20%282019%29%28Ja%29%28S1-E1-9%29%20DD%2B%202.0.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Behemoth%20%282015%29%28Ma%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="134641">
-      <number>1</number>
-      <poster>
-      </poster>
-      <episodes count="9">1,2,3,4,5,6,7,8,9</episodes>
-    </beq_season>
+    <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Japanese</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>Hit hard by the Lehman shock, a well-meaning young man joins a phone scam operation and gets increasingly embroiled in the underworld.</beq_overview>
+    <beq_language>Mandarin</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>Under the sun, the heavenly beauty of grasslands will soon be covered by the raging dust of mines. Facing the ashes and noises caused by heavy mining , the herdsmen have no choice but to leave as the meadow areas dwindle. In the moonlight, iron mines are brightly lit throughout the night. Workers who operate the drilling machines must stay awake. The fight is tortuous, against the machine and against themselves. Meanwhile, coal miners are busy filling trucks with coals. Wearing a coal-dust mask, they become ghostlike creatures. An endless line of trucks will transport all the coals and iron ores to the iron works. There traps another crowd of souls, being baked in hell. In the hospital, time hangs heavy on miners' hands. After decades of breathing coal dust, death is just around the corner. They are living the reality of purgatory, but there will be no paradise.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>94830</beq_theMovieDB>
-    <beq_poster>/rsmKjTOM9ksgalH0pWQs0RKoyYE.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
+    <beq_theMovieDB>352202</beq_theMovieDB>
+    <beq_poster>/aoomIXBtZUZgge8qcV0yHmEhIV1.jpg</beq_poster>
+    <beq_runtime>95</beq_runtime>
     <beq_collection />
-    <beq_audioTypes>
-      <audioType>DD+ 2.0</audioType>
-    </beq_audioTypes>
     <beq_genres>
-      <genre id="10759">Action &amp; Adventure</genre>
-      <genre id="80">Crime</genre>
-      <genre id="18">Drama</genre>
+      <genre id="99">Documentary</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 5.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
