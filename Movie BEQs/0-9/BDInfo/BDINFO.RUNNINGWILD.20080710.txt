@@ -1,0 +1,2330 @@
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+    https://github.com/UniqProject/BDInfo
+  DVDFab
+    http://www.dvdfab.cn/bdinfo.htm?client_m=ZDgtNWUtZDMtMTYtMzUtODU6ZWMtMmUtOTgtNTItMDctNjk%3D&client_e=b2JlcmhhcmR0QGdtYWlsLmNvbQ%3D%3D&clientusertype=paid
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+WARNING: Report is incomplete because: Scan has not been run.
+
+********************
+PLAYLIST: 00001.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     2:05:08  33,117,874,176  38,785,382,400  35.29   0.00    DD AC3 2.0                                DTS 5.1DTS 5.1DTS 5.1
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS  
+Length:                 2:05:08.534 (h:m:s.ms)
+Size:                   33,117,874,176 bytes
+Total Bitrate:          35.29 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080i / 29.970 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             French          224 kbps        2.0 / 48 kHz / 224 kbps
+DTS Audio                       French          1509 kbps       5.1 / 48 kHz / 1509 kbps / 16-bit
+Dolby Digital Audio             Korean          224 kbps        2.0 / 48 kHz / 224 kbps
+DTS Audio                       Korean          1509 kbps       5.1 / 48 kHz / 1509 kbps / 16-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           English         0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     2:05:08.534     33,117,874,176  35,285 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:00.927     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:06:00.927     0:06:28.921     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:12:29.849     0:06:35.228     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:19:05.077     0:04:59.232     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:24:04.309     0:06:08.868     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:30:13.178     0:06:05.365     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:36:18.543     0:06:38.264     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:42:56.807     0:05:18.918     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+9               0:48:15.726     0:05:49.449     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+10              0:54:05.175     0:06:01.594     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+11              1:00:06.769     0:06:11.104     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+12              1:06:17.873     0:06:58.684     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+13              1:13:16.558     0:05:27.794     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+14              1:18:44.352     0:05:30.997     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+15              1:24:15.350     0:17:02.888     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+16              1:41:18.238     0:10:13.579     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+17              1:51:31.818     0:11:00.860     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+18              2:02:32.678     0:02:35.855     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00003.M2TS      4352 (0x1100)   0x81            AC3             fra (French)            0.00                    0                       0               0               
+00003.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            0.00                    0                       0               0               
+00003.M2TS      4354 (0x1102)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00003.M2TS      4355 (0x1103)   0x82            DTS             kor (Korean)            0.00                    0                       0               0               
+00003.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00003.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00001.MPLS  
+Size: 33,117,874,176 bytes
+Length: 2:05:08.534
+Total Bitrate: 35.29 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080i / 29.970 fps / 16:9 / High Profile 4.1
+Audio: French / Dolby Digital Audio / 2.0 / 48 kHz / 224 kbps
+Audio: French / DTS Audio / 5.1 / 48 kHz / 1509 kbps / 16-bit
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 224 kbps
+Audio: Korean / DTS Audio / 5.1 / 48 kHz / 1509 kbps / 16-bit
+Subtitle: French / 0 kbps  
+Subtitle: English / 0 kbps  
+
+
+********************
+PLAYLIST: 00004.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      MPEG-2  0:25:52  1,054,930,944   38,785,382,400  5.43    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS  
+Length:                 0:25:52.840 (h:m:s.ms)
+Size:                   1,054,930,944 bytes
+Total Bitrate:          5.43 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00006.M2TS      0:00:00.000     0:25:52.840     1,054,930,944   5,434 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:25:52.840     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00006.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00006.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00006.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00004.MPLS  
+Size: 1,054,930,944 bytes
+Length: 0:25:52.840
+Total Bitrate: 5.43 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00005.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00005.MPLS                                                      MPEG-2  0:25:28  1,036,935,168   38,785,382,400  5.43    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00005.MPLS  
+Length:                 0:25:28.160 (h:m:s.ms)
+Size:                   1,036,935,168 bytes
+Total Bitrate:          5.43 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00007.M2TS      0:00:00.000     0:25:28.160     1,036,935,168   5,428 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:25:28.160     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00007.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00007.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00007.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00005.MPLS  
+Size: 1,036,935,168 bytes
+Length: 0:25:28.160
+Total Bitrate: 5.43 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00010.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00010.MPLS                                                      MPEG-2  0:07:03  286,347,264     38,785,382,400  5.41    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00010.MPLS  
+Length:                 0:07:03.440 (h:m:s.ms)
+Size:                   286,347,264 bytes
+Total Bitrate:          5.41 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00012.M2TS      0:00:00.000     0:07:03.440     286,347,264     5,409 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:03.440     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00012.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00012.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00012.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00010.MPLS  
+Size: 286,347,264 bytes
+Length: 0:07:03.440
+Total Bitrate: 5.41 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00003.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      MPEG-2  0:07:02  281,659,392     38,785,382,400  5.33    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS  
+Length:                 0:07:02.720 (h:m:s.ms)
+Size:                   281,659,392 bytes
+Total Bitrate:          5.33 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     0:07:02.720     281,659,392     5,330 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:02.720     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00005.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00005.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00003.MPLS  
+Size: 281,659,392 bytes
+Length: 0:07:02.720
+Total Bitrate: 5.33 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00002.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      MPEG-2  0:06:28  263,276,544     38,785,382,400  5.42    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS  
+Length:                 0:06:28.400 (h:m:s.ms)
+Size:                   263,276,544 bytes
+Total Bitrate:          5.42 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     0:06:28.400     263,276,544     5,422 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:28.400     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00004.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00004.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00002.MPLS  
+Size: 263,276,544 bytes
+Length: 0:06:28.400
+Total Bitrate: 5.42 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00011.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00011.MPLS                                                      MPEG-2  0:06:02  245,526,528     38,785,382,400  5.42    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00011.MPLS  
+Length:                 0:06:02.320 (h:m:s.ms)
+Size:                   245,526,528 bytes
+Total Bitrate:          5.42 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00013.M2TS      0:00:00.000     0:06:02.320     245,526,528     5,421 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:02.320     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00013.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00013.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00013.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00011.MPLS  
+Size: 245,526,528 bytes
+Length: 0:06:02.320
+Total Bitrate: 5.42 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00007.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00007.MPLS                                                      MPEG-2  0:05:23  218,990,592     38,785,382,400  5.42    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00007.MPLS  
+Length:                 0:05:23.400 (h:m:s.ms)
+Size:                   218,990,592 bytes
+Total Bitrate:          5.42 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00009.M2TS      0:00:00.000     0:05:23.400     218,990,592     5,417 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:23.400     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00009.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00009.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00009.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00007.MPLS  
+Size: 218,990,592 bytes
+Length: 0:05:23.400
+Total Bitrate: 5.42 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00006.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00006.MPLS                                                      MPEG-2  0:05:08  208,896,000     38,785,382,400  5.42    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00006.MPLS  
+Length:                 0:05:08.080 (h:m:s.ms)
+Size:                   208,896,000 bytes
+Total Bitrate:          5.42 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00008.M2TS      0:00:00.000     0:05:08.080     208,896,000     5,424 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:08.080     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00008.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00008.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00008.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00006.MPLS  
+Size: 208,896,000 bytes
+Length: 0:05:08.080
+Total Bitrate: 5.42 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00012.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00012.MPLS                                                      MPEG-2  0:03:55  158,607,360     38,785,382,400  5.38    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00012.MPLS  
+Length:                 0:03:55.640 (h:m:s.ms)
+Size:                   158,607,360 bytes
+Total Bitrate:          5.38 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00014.M2TS      0:00:00.000     0:03:55.640     158,607,360     5,384 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:55.640     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00014.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00014.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00012.MPLS  
+Size: 158,607,360 bytes
+Length: 0:03:55.640
+Total Bitrate: 5.38 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00009.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00009.MPLS                                                      MPEG-2  0:03:11  97,499,136      38,785,382,400  4.08    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00009.MPLS  
+Length:                 0:03:11.320 (h:m:s.ms)
+Size:                   97,499,136 bytes
+Total Bitrate:          4.08 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00011.M2TS      0:00:00.000     0:03:11.320     97,499,136      4,076 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:11.320     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00011.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00011.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00011.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00009.MPLS  
+Size: 97,499,136 bytes
+Length: 0:03:11.320
+Total Bitrate: 4.08 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00008.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00008.MPLS                                                      MPEG-2  0:03:02  118,118,400     38,785,382,400  5.19    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00008.MPLS  
+Length:                 0:03:02.240 (h:m:s.ms)
+Size:                   118,118,400 bytes
+Total Bitrate:          5.19 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00010.M2TS      0:00:00.000     0:03:02.240     118,118,400     5,185 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:02.240     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00010.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00010.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00010.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00008.MPLS  
+Size: 118,118,400 bytes
+Length: 0:03:02.240
+Total Bitrate: 5.19 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00015.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00015.MPLS                                                      MPEG-2  0:02:19  105,541,632     38,785,382,400  6.07    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00015.MPLS  
+Length:                 0:02:19.080 (h:m:s.ms)
+Size:                   105,541,632 bytes
+Total Bitrate:          6.07 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00017.M2TS      0:00:00.000     0:02:19.080     105,541,632     6,070 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:19.080     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00017.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00017.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00017.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00015.MPLS  
+Size: 105,541,632 bytes
+Length: 0:02:19.080
+Total Bitrate: 6.07 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00013.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00013.MPLS                                                      MPEG-2  0:02:16  91,699,200      38,785,382,400  5.36    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00013.MPLS  
+Length:                 0:02:16.800 (h:m:s.ms)
+Size:                   91,699,200 bytes
+Total Bitrate:          5.36 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Korean          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00015.M2TS      0:00:00.000     0:02:16.800     91,699,200      5,362 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:16.800     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00015.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00015.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00015.M2TS      4608 (0x1200)   0x90            PGS             kor (Korean)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00013.MPLS  
+Size: 91,699,200 bytes
+Length: 0:02:16.800
+Total Bitrate: 5.36 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: Korean / 0 kbps  
+
+
+********************
+PLAYLIST: 00023.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00023.MPLS                                                      MPEG-2  0:02:11  108,103,680     38,785,382,400  6.60    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00023.MPLS  
+Length:                 0:02:11.039 (h:m:s.ms)
+Size:                   108,103,680 bytes
+Total Bitrate:          6.60 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             French          192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00025.M2TS      0:00:00.000     0:02:11.039     108,103,680     6,599 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:11.039     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00025.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00025.M2TS      4352 (0x1100)   0x81            AC3             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00023.MPLS  
+Size: 108,103,680 bytes
+Length: 0:02:11.039
+Total Bitrate: 6.60 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 16:9
+Audio: French / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00025.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00025.MPLS                                                      MPEG-2  0:02:04  99,827,712      38,785,382,400  6.42    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00025.MPLS  
+Length:                 0:02:04.360 (h:m:s.ms)
+Size:                   99,827,712 bytes
+Total Bitrate:          6.42 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00027.M2TS      0:00:00.000     0:02:04.360     99,827,712      6,421 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:04.360     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00027.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00027.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00027.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00025.MPLS  
+Size: 99,827,712 bytes
+Length: 0:02:04.360
+Total Bitrate: 6.42 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00016.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00016.MPLS                                                      MPEG-2  0:02:02  93,302,784      38,785,382,400  6.07    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00016.MPLS  
+Length:                 0:02:02.920 (h:m:s.ms)
+Size:                   93,302,784 bytes
+Total Bitrate:          6.07 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00018.M2TS      0:00:00.000     0:02:02.920     93,302,784      6,072 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:02.920     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00018.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00018.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00018.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00016.MPLS  
+Size: 93,302,784 bytes
+Length: 0:02:02.920
+Total Bitrate: 6.07 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00017.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00017.MPLS                                                      MPEG-2  0:01:58  89,493,504      38,785,382,400  6.06    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00017.MPLS  
+Length:                 0:01:58.160 (h:m:s.ms)
+Size:                   89,493,504 bytes
+Total Bitrate:          6.06 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00019.M2TS      0:00:00.000     0:01:58.160     89,493,504      6,059 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:58.160     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00019.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00019.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00019.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00017.MPLS  
+Size: 89,493,504 bytes
+Length: 0:01:58.160
+Total Bitrate: 6.06 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00026.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00026.MPLS                                                      MPEG-2  0:01:58  89,432,064      38,785,382,400  6.06    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00026.MPLS  
+Length:                 0:01:58.120 (h:m:s.ms)
+Size:                   89,432,064 bytes
+Total Bitrate:          6.06 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00028.M2TS      0:00:00.000     0:01:58.120     89,432,064      6,057 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:58.120     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00028.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00028.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00028.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00026.MPLS  
+Size: 89,432,064 bytes
+Length: 0:01:58.120
+Total Bitrate: 6.06 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00020.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00020.MPLS                                                      MPEG-2  0:01:53  92,921,856      38,785,382,400  6.58    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00020.MPLS  
+Length:                 0:01:53.040 (h:m:s.ms)
+Size:                   92,921,856 bytes
+Total Bitrate:          6.58 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             French          192 kbps        2.0 / 48 kHz / 192 kbps / Dolby Surround
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00022.M2TS      0:00:00.000     0:01:53.040     92,921,856      6,576 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:53.040     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00022.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00022.M2TS      4352 (0x1100)   0x81            AC3             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00020.MPLS  
+Size: 92,921,856 bytes
+Length: 0:01:53.040
+Total Bitrate: 6.58 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: French / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps / Dolby Surround
+
+
+********************
+PLAYLIST: 00021.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      MPEG-2  0:01:50  83,017,728      38,785,382,400  6.03    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS  
+Length:                 0:01:50.080 (h:m:s.ms)
+Size:                   83,017,728 bytes
+Total Bitrate:          6.03 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             French          192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00023.M2TS      0:00:00.000     0:01:50.080     83,017,728      6,033 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:50.080     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00023.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00023.M2TS      4352 (0x1100)   0x81            AC3             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00021.MPLS  
+Size: 83,017,728 bytes
+Length: 0:01:50.080
+Total Bitrate: 6.03 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: French / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00018.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00018.MPLS                                                      MPEG-2  0:01:47  74,151,936      38,785,382,400  5.53    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00018.MPLS  
+Length:                 0:01:47.240 (h:m:s.ms)
+Size:                   74,151,936 bytes
+Total Bitrate:          5.53 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00020.M2TS      0:00:00.000     0:01:47.240     74,151,936      5,531 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:47.240     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00020.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00020.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00020.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00018.MPLS  
+Size: 74,151,936 bytes
+Length: 0:01:47.240
+Total Bitrate: 5.53 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00014.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00014.MPLS                                                      MPEG-2  0:01:42  83,920,896      38,785,382,400  6.57    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00014.MPLS  
+Length:                 0:01:42.240 (h:m:s.ms)
+Size:                   83,920,896 bytes
+Total Bitrate:          6.57 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00016.M2TS      0:00:00.000     0:01:42.240     83,920,896      6,566 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:42.240     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00016.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00016.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00016.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00014.MPLS  
+Size: 83,920,896 bytes
+Length: 0:01:42.240
+Total Bitrate: 6.57 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00019.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00019.MPLS                                                      MPEG-2  0:01:38  61,876,224      38,785,382,400  5.01    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00019.MPLS  
+Length:                 0:01:38.760 (h:m:s.ms)
+Size:                   61,876,224 bytes
+Total Bitrate:          5.01 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             French          192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     0:01:38.760     61,876,224      5,012 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:38.760     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00021.M2TS      4352 (0x1100)   0x81            AC3             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00019.MPLS  
+Size: 61,876,224 bytes
+Length: 0:01:38.760
+Total Bitrate: 5.01 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 16:9
+Audio: French / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00024.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00024.MPLS                                                      MPEG-2  0:01:36  73,175,040      38,785,382,400  6.07    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00024.MPLS  
+Length:                 0:01:36.480 (h:m:s.ms)
+Size:                   73,175,040 bytes
+Total Bitrate:          6.07 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00026.M2TS      0:00:00.000     0:01:36.480     73,175,040      6,067 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:36.480     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00026.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00026.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+00026.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00024.MPLS  
+Size: 73,175,040 bytes
+Length: 0:01:36.480
+Total Bitrate: 6.07 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00022.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00022.MPLS                                                      MPEG-2  0:01:28  61,562,880      38,785,382,400  5.58    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00022.MPLS  
+Length:                 0:01:28.240 (h:m:s.ms)
+Size:                   61,562,880 bytes
+Total Bitrate:          5.58 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              576i / 25 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Korean          192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00024.M2TS      0:00:00.000     0:01:28.240     61,562,880      5,581 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:28.240     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00024.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+00024.M2TS      4352 (0x1100)   0x81            AC3             kor (Korean)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00022.MPLS  
+Size: 61,562,880 bytes
+Length: 0:01:28.240
+Total Bitrate: 5.58 Mbps
+Video: MPEG-2 Video / 0 kbps / 576i / 25 fps / 4:3
+Audio: Korean / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00027.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00027.MPLS                                                      AVC     0:00:12  39,186,432      38,785,382,400  25.78   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00027.MPLS  
+Length:                 0:00:12.160 (h:m:s.ms)
+Size:                   39,186,432 bytes
+Total Bitrate:          25.78 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz / 224 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00030.M2TS      0:00:00.000     0:00:12.160     39,186,432      25,780 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:12.160     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00030.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00030.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00027.MPLS  
+Size: 39,186,432 bytes
+Length: 0:00:12.160
+Total Bitrate: 25.78 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 224 kbps
+
+
+********************
+PLAYLIST: 00028.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00028.MPLS                                                      MPEG-2  0:00:10  39,032,832      38,785,382,400  31.20   0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RUNNINGWILD
+Disc Size:      38,785,382,400 bytes
+Protection:     AACS(v7)
+Extras:         50Hz Content
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00028.MPLS  
+Length:                 0:00:10.010 (h:m:s.ms)
+Size:                   39,032,832 bytes
+Total Bitrate:          31.20 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            0 kbps              1080i / 29.970 fps / 16:9
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00031.M2TS      0:00:00.000     0:00:10.010     39,032,832      31,195 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.010     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00031.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RUNNINGWILD
+Disc Size: 38,785,382,400 bytes
+Protection: AACS(v7)
+Playlist: 00028.MPLS  
+Size: 39,032,832 bytes
+Length: 0:00:10.010
+Total Bitrate: 31.20 Mbps
+Video: MPEG-2 Video / 0 kbps / 1080i / 29.970 fps / 16:9
+

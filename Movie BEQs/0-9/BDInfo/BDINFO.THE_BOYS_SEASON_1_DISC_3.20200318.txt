@@ -1,0 +1,1376 @@
+Disc Title:     THE_BOYS_SEASON_1_DISC_3
+Disc Size:      28,806,739,968 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+    https://github.com/UniqProject/BDInfo
+  DVDFab
+    http://www.dvdfab.cn/bdinfo.htm?client_m=ZDgtNWUtZDMtMTYtMzUtODU6ZWMtMmUtOTgtNTItMDctNjk%3D&client_e=b2JlcmhhcmR0QGdtYWlsLmNvbQ%3D%3D&clientusertype=paid
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+WARNING: Report is incomplete because: Scan has not been run.
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00356.M2TS      0:00:00.000     0:56:12.786     12,144,033,792  28,804 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:40.293     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:07:40.293     0:02:52.172     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:10:32.465     0:10:12.987     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:20:45.452     0:08:42.772     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:29:28.224     0:10:20.620     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:39:48.844     0:11:47.081     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:51:35.926     0:02:35.655     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:54:11.581     0:02:01.204     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00356.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00356.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+00356.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00356.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00356.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00356.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00357.M2TS      0:00:00.000     1:06:27.984     14,366,779,392  28,820 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:20.213     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:06:20.213     0:04:20.385     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:10:40.598     0:09:28.276     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:20:08.874     0:11:52.461     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:32:01.336     0:07:26.863     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:39:28.199     0:10:29.086     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:49:57.285     0:12:52.062     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               1:02:49.348     0:01:37.013     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+9               1:04:26.362     0:02:01.621     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00357.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00357.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+00357.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00357.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00357.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00357.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+********************
+PLAYLIST: 00102.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00102.MPLS                                                      AVC     0:04:47  323,100,672     28,806,739,968  9.00    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_3
+Disc Size:      28,806,739,968 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00102.MPLS  
+Length:                 0:04:47.245 (h:m:s.ms)
+Size:                   323,100,672 bytes
+Total Bitrate:          9.00 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00102.M2TS      0:00:00.000     0:04:47.245     323,100,672     8,998 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:15.015     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:30.030     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:00:45.045     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:01:00.060     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:01:15.075     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:01:30.090     0:03:17.155     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00102.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_3
+Disc Size: 28,806,739,968 bytes
+Protection: AACS(v68)
+Playlist: 00102.MPLS  
+Size: 323,100,672 bytes
+Length: 0:04:47.245
+Total Bitrate: 9.00 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00361.M2TS      0:00:00.000     0:00:40.832     97,714,176      19,144 kbps     
+00362.M2TS      0:00:40.832     0:00:36.911     88,283,136      19,133 kbps     
+00363.M2TS      0:01:17.744     0:01:13.615     175,988,736     19,125 kbps     
+00364.M2TS      0:02:31.359     0:01:43.645     247,535,616     19,106 kbps     
+00365.M2TS      0:04:15.004     0:00:23.773     56,825,856      19,122 kbps     
+00359.M2TS      0:04:38.778     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:40.832     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:40.832     0:00:36.911     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:01:17.744     0:01:13.615     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:02:31.359     0:01:43.645     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:04:15.004     0:00:29.154     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00361.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00361.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00361.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00362.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00362.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00362.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00363.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00363.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00363.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00364.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00364.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00364.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00365.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00365.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00365.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00366.M2TS      0:00:00.000     0:04:11.334     601,485,312     19,145 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:11.334     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00366.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00366.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00366.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00364.M2TS      0:00:00.000     0:01:43.645     247,535,616     19,106 kbps     
+00359.M2TS      0:01:43.645     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:49.025     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00364.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00364.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00364.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00364.M2TS      0:00:00.000     0:01:43.645     247,535,616     19,106 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:43.645     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00364.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00364.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00364.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00363.M2TS      0:00:00.000     0:01:13.615     175,988,736     19,125 kbps     
+00359.M2TS      0:01:13.615     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:18.995     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00363.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00363.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00363.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00363.M2TS      0:00:00.000     0:01:13.615     175,988,736     19,125 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:13.615     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00363.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00363.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00363.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00361.M2TS      0:00:00.000     0:00:40.832     97,714,176      19,144 kbps     
+00359.M2TS      0:00:40.832     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:46.212     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00361.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00361.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00361.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+********************
+PLAYLIST: 00099.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00099.MPLS                                                      AVC     0:00:45  145,569,792     28,806,739,968  25.85   0.00    LPCM 5.1                                  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_3
+Disc Size:      28,806,739,968 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00099.MPLS  
+Length:                 0:00:45.045 (h:m:s.ms)
+Size:                   145,569,792 bytes
+Total Bitrate:          25.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      English         4608 kbps       5.1 / 48 kHz / 4608 kbps / 16-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00099.M2TS      0:00:00.000     0:00:45.045     145,569,792     25,853 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:45.045     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00099.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00099.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_3
+Disc Size: 28,806,739,968 bytes
+Protection: AACS(v68)
+Playlist: 00099.MPLS  
+Size: 145,569,792 bytes
+Length: 0:00:45.045
+Total Bitrate: 25.85 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / LPCM Audio / 5.1 / 48 kHz / 4608 kbps / 16-bit
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00362.M2TS      0:00:00.000     0:00:36.911     88,283,136      19,133 kbps     
+00359.M2TS      0:00:36.911     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:42.292     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00362.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00362.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00362.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00361.M2TS      0:00:00.000     0:00:40.832     97,714,176      19,144 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:40.832     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00361.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00361.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00361.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00360.M2TS      0:00:00.000     0:00:32.115     76,658,688      19,095 kbps     
+00359.M2TS      0:00:32.115     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:37.495     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00360.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00360.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00360.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00362.M2TS      0:00:00.000     0:00:36.911     88,283,136      19,133 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:36.911     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00362.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00362.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00362.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00360.M2TS      0:00:00.000     0:00:32.115     76,658,688      19,095 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:32.115     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00360.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00360.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00360.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00365.M2TS      0:00:00.000     0:00:23.773     56,825,856      19,122 kbps     
+00359.M2TS      0:00:23.773     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:29.154     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00365.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00365.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00365.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00365.M2TS      0:00:00.000     0:00:23.773     56,825,856      19,122 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:23.773     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00365.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00365.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00365.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00218.M2TS      0:00:00.000     0:00:08.007     250,176         249 kbps        
+00218.M2TS      0:00:08.007     0:00:08.007     2,496           2 kbps          
+00218.M2TS      0:00:16.015     0:00:00.041     1,307           250 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:08.007     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:08.007     0:00:08.049     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00218.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00216.M2TS      0:00:00.000     0:00:08.007     250,176         249 kbps        
+00216.M2TS      0:00:08.007     0:00:08.007     2,496           2 kbps          
+00216.M2TS      0:00:16.015     0:00:00.041     1,307           250 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:08.007     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:08.007     0:00:08.049     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00216.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00100.M2TS      0:00:00.000     0:00:14.431     53,993,472      29,931 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:14.431     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00100.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00100.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+********************
+PLAYLIST: 00100.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00100.MPLS                                                      AVC     0:00:14  53,993,472      28,806,739,968  29.93   0.00    DD AC3 5.1                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_3
+Disc Size:      28,806,739,968 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00100.MPLS  
+Length:                 0:00:14.431 (h:m:s.ms)
+Size:                   53,993,472 bytes
+Total Bitrate:          29.93 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz / 640 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00100.M2TS      0:00:00.000     0:00:14.431     53,993,472      29,931 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:14.431     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00100.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00100.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_3
+Disc Size: 28,806,739,968 bytes
+Protection: AACS(v68)
+Playlist: 00100.MPLS  
+Size: 53,993,472 bytes
+Length: 0:00:14.431
+Total Bitrate: 29.93 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz / 640 kbps
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00353.M2TS      0:00:00.000     0:00:06.006     136,512         181 kbps        
+00353.M2TS      0:00:06.006     0:00:06.006     103,680         138 kbps        
+00353.M2TS      0:00:12.012     0:00:00.041     1,296           248 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:06.006     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:06.006     0:00:06.047     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00353.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00213.M2TS      0:00:00.000     0:00:06.006     231,552         308 kbps        
+00213.M2TS      0:00:06.006     0:00:06.006     3,648           4 kbps          
+00213.M2TS      0:00:12.012     0:00:00.041     1,551           297 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:06.006     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:06.006     0:00:06.047     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00213.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+********************
+PLAYLIST: 00171.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00171.MPLS                                                      AVC     0:00:12  199,759         28,806,739,968  0.13    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_3
+Disc Size:      28,806,739,968 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00171.MPLS  
+Length:                 0:00:12.053 (h:m:s.ms)
+Size:                   199,759 bytes
+Total Bitrate:          0.13 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00171.M2TS      0:00:00.000     0:00:06.006     191,808         255 kbps        
+00171.M2TS      0:00:06.006     0:00:06.006     6,528           8 kbps          
+00171.M2TS      0:00:12.012     0:00:00.041     1,423           273 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:06.006     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:06.006     0:00:06.047     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00171.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_3
+Disc Size: 28,806,739,968 bytes
+Protection: AACS(v68)
+Playlist: 00171.MPLS  
+Size: 199,759 bytes
+Length: 0:00:12.053
+Total Bitrate: 0.13 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00344.M2TS      0:00:00.000     0:00:11.386     12,453,888      8,750 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00344.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00344.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00343.M2TS      0:00:00.000     0:00:11.386     12,404,736      8,715 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00343.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00343.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00342.M2TS      0:00:00.000     0:00:11.386     13,062,144      9,177 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00342.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00342.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00341.M2TS      0:00:00.000     0:00:11.386     13,019,136      9,147 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00341.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00341.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00340.M2TS      0:00:00.000     0:00:11.386     17,025,024      11,961 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00340.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00340.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00339.M2TS      0:00:00.000     0:00:11.386     16,846,848      11,836 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00339.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00339.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00338.M2TS      0:00:00.000     0:00:11.386     16,791,552      11,797 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00338.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00338.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00337.M2TS      0:00:00.000     0:00:11.386     16,711,680      11,741 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00337.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00337.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00208.M2TS      0:00:00.000     0:00:11.386     11,950,080      8,396 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00208.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00208.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00116.M2TS      0:00:00.000     0:00:11.386     16,779,264      11,789 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00116.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00116.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00219.M2TS      0:00:00.000     0:00:05.005     228,864         365 kbps        
+00219.M2TS      0:00:05.005     0:00:05.005     1,344           2 kbps          
+00219.M2TS      0:00:10.010     0:00:00.041     1,885           361 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.046     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00219.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00217.M2TS      0:00:00.000     0:00:05.005     228,864         365 kbps        
+00217.M2TS      0:00:05.005     0:00:05.005     1,344           2 kbps          
+00217.M2TS      0:00:10.010     0:00:00.041     1,885           361 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.046     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00217.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00355.M2TS      0:00:00.000     0:00:10.010     122,880         98 kbps         
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.010     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00355.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00355.M2TS      4608 (0x1200)   0x90            PGS             dan (Danish)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00082.M2TS      0:00:00.000     0:00:10.010     122,880         98 kbps         
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.010     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00082.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00081.M2TS      0:00:00.000     0:00:10.010     122,880         98 kbps         
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.010     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00081.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00081.M2TS      4608 (0x1200)   0x90            PGS             por (Portuguese)        0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00080.M2TS      0:00:00.000     0:00:10.010     122,880         98 kbps         
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.010     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00080.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00080.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+

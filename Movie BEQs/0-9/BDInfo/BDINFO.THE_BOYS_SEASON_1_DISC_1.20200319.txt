@@ -1,0 +1,2228 @@
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+    https://github.com/UniqProject/BDInfo
+  DVDFab
+    http://www.dvdfab.cn/bdinfo.htm?client_m=ZDgtNWUtZDMtMTYtMzUtODU6ZWMtMmUtOTgtNTItMDctNjk%3D&client_e=b2JlcmhhcmR0QGdtYWlsLmNvbQ%3D%3D&clientusertype=paid
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+WARNING: Report is incomplete because: Scan has not been run.
+
+********************
+PLAYLIST: 00355.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00355.MPLS                                                      AVC     0:59:58  12,996,913,152  38,918,944,768  28.90   0.00    DTS-HD Master 5.1                         
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00355.MPLS  
+Length:                 0:59:58.052 (h:m:s.ms)
+Size:                   12,996,913,152 bytes
+Total Bitrate:          28.90 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         0 kbps          5.1 / 48 kHz / 16-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00356.M2TS      0:00:00.000     0:59:58.052     12,996,913,152  28,897 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:13.722     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:13.722     0:11:28.771     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:11:42.493     0:08:11.157     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:19:53.650     0:11:11.420     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:31:05.071     0:10:07.898     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:41:12.970     0:09:53.301     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:51:06.271     0:06:50.451     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:57:56.723     0:02:01.329     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00356.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00356.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+00356.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00356.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00356.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00356.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00355.MPLS  
+Size: 12,996,913,152 bytes
+Length: 0:59:58.052
+Total Bitrate: 28.90 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz / 16-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 16-bit)
+Subtitle: English / 0 kbps  
+Subtitle: English / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+Subtitle: French / 0 kbps  
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00357.M2TS      0:00:00.000     0:58:54.948     12,783,101,952  28,929 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:38.580     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:38.580     0:08:21.918     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:09:00.498     0:11:42.702     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:20:43.200     0:08:46.567     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:29:29.768     0:12:14.859     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:41:44.627     0:10:21.579     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:52:06.206     0:04:47.495     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:56:53.701     0:02:01.246     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00357.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00357.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+00357.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00357.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00357.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00357.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00358.M2TS      0:00:00.000     0:54:46.283     11,866,275,840  28,886 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:59.637     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:02:59.637     0:06:52.537     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:09:52.174     0:10:14.822     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:20:06.997     0:10:18.117     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:30:25.114     0:08:59.288     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:39:24.403     0:08:42.688     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:48:07.092     0:04:37.902     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:52:44.995     0:02:01.287     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00358.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00358.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+00358.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00358.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00358.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00358.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+********************
+PLAYLIST: 00102.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00102.MPLS                                                      AVC     0:04:47  323,100,672     38,918,944,768  9.00    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00102.MPLS  
+Length:                 0:04:47.245 (h:m:s.ms)
+Size:                   323,100,672 bytes
+Total Bitrate:          9.00 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00102.M2TS      0:00:00.000     0:04:47.245     323,100,672     8,998 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:15.015     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:30.030     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:00:45.045     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:01:00.060     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:01:15.075     0:00:15.015     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:01:30.090     0:03:17.155     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00102.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00102.MPLS  
+Size: 323,100,672 bytes
+Length: 0:04:47.245
+Total Bitrate: 9.00 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00360.M2TS      0:00:00.000     0:00:25.150     60,033,024      19,095 kbps     
+00361.M2TS      0:00:25.150     0:00:32.031     76,480,512      19,101 kbps     
+00362.M2TS      0:00:57.182     0:00:49.090     117,577,728     19,160 kbps     
+00363.M2TS      0:01:46.272     0:00:27.902     66,625,536      19,102 kbps     
+00359.M2TS      0:02:14.175     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:25.150     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:25.150     0:00:32.031     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:57.182     0:00:49.090     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:01:46.272     0:00:33.283     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00360.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00360.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00360.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00361.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00361.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00361.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00362.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00362.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00362.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00363.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00363.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00363.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00362.M2TS      0:00:00.000     0:00:49.090     117,577,728     19,160 kbps     
+00359.M2TS      0:00:49.090     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:54.471     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00362.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00362.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00362.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00362.M2TS      0:00:00.000     0:00:49.090     117,577,728     19,160 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:49.090     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00362.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00362.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00362.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+********************
+PLAYLIST: 00099.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00099.MPLS                                                      AVC     0:00:45  145,569,792     38,918,944,768  25.85   0.00    LPCM 5.1                                  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00099.MPLS  
+Length:                 0:00:45.045 (h:m:s.ms)
+Size:                   145,569,792 bytes
+Total Bitrate:          25.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      English         4608 kbps       5.1 / 48 kHz / 4608 kbps / 16-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00099.M2TS      0:00:00.000     0:00:45.045     145,569,792     25,853 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:45.045     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00099.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00099.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00099.MPLS  
+Size: 145,569,792 bytes
+Length: 0:00:45.045
+Total Bitrate: 25.85 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / LPCM Audio / 5.1 / 48 kHz / 4608 kbps / 16-bit
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00361.M2TS      0:00:00.000     0:00:32.031     76,480,512      19,101 kbps     
+00359.M2TS      0:00:32.031     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:37.412     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00361.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00361.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00361.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00363.M2TS      0:00:00.000     0:00:27.902     66,625,536      19,102 kbps     
+00359.M2TS      0:00:27.902     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:33.283     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00363.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00363.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00363.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00361.M2TS      0:00:00.000     0:00:32.031     76,480,512      19,101 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:32.031     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00361.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00361.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00361.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00360.M2TS      0:00:00.000     0:00:25.150     60,033,024      19,095 kbps     
+00359.M2TS      0:00:25.150     0:00:05.380     12,840,960      19,093 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:30.530     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00360.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00360.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00360.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00359.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00359.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00363.M2TS      0:00:00.000     0:00:27.902     66,625,536      19,102 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:27.902     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00363.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00363.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00363.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00360.M2TS      0:00:00.000     0:00:25.150     60,033,024      19,095 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:25.150     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00360.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00360.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00360.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+********************
+PLAYLIST: 00218.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00218.MPLS                                                      AVC     0:00:16  253,979         38,918,944,768  0.13    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00218.MPLS  
+Length:                 0:00:16.057 (h:m:s.ms)
+Size:                   253,979 bytes
+Total Bitrate:          0.13 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00218.M2TS      0:00:00.000     0:00:08.007     250,176         249 kbps        
+00218.M2TS      0:00:08.007     0:00:08.007     2,496           2 kbps          
+00218.M2TS      0:00:16.015     0:00:00.041     1,307           250 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:08.007     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:08.007     0:00:08.049     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00218.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00218.MPLS  
+Size: 253,979 bytes
+Length: 0:00:16.057
+Total Bitrate: 0.13 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+********************
+PLAYLIST: 00216.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00216.MPLS                                                      AVC     0:00:16  253,979         38,918,944,768  0.13    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00216.MPLS  
+Length:                 0:00:16.057 (h:m:s.ms)
+Size:                   253,979 bytes
+Total Bitrate:          0.13 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00216.M2TS      0:00:00.000     0:00:08.007     250,176         249 kbps        
+00216.M2TS      0:00:08.007     0:00:08.007     2,496           2 kbps          
+00216.M2TS      0:00:16.015     0:00:00.041     1,307           250 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:08.007     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:08.007     0:00:08.049     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00216.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00216.MPLS  
+Size: 253,979 bytes
+Length: 0:00:16.057
+Total Bitrate: 0.13 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00100.M2TS      0:00:00.000     0:00:14.431     53,993,472      29,931 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:14.431     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00100.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00100.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+********************
+PLAYLIST: 00100.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00100.MPLS                                                      AVC     0:00:14  53,993,472      38,918,944,768  29.93   0.00    DD AC3 5.1                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00100.MPLS  
+Length:                 0:00:14.431 (h:m:s.ms)
+Size:                   53,993,472 bytes
+Total Bitrate:          29.93 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz / 640 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00100.M2TS      0:00:00.000     0:00:14.431     53,993,472      29,931 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:14.431     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00100.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00100.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00100.MPLS  
+Size: 53,993,472 bytes
+Length: 0:00:14.431
+Total Bitrate: 29.93 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz / 640 kbps
+
+
+********************
+PLAYLIST: 00353.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00353.MPLS                                                      AVC     0:00:12  241,488         38,918,944,768  0.16    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00353.MPLS  
+Length:                 0:00:12.053 (h:m:s.ms)
+Size:                   241,488 bytes
+Total Bitrate:          0.16 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00353.M2TS      0:00:00.000     0:00:06.006     136,512         181 kbps        
+00353.M2TS      0:00:06.006     0:00:06.006     103,680         138 kbps        
+00353.M2TS      0:00:12.012     0:00:00.041     1,296           248 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:06.006     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:06.006     0:00:06.047     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00353.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00353.MPLS  
+Size: 241,488 bytes
+Length: 0:00:12.053
+Total Bitrate: 0.16 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+********************
+PLAYLIST: 00213.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00213.MPLS                                                      AVC     0:00:12  236,751         38,918,944,768  0.16    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00213.MPLS  
+Length:                 0:00:12.053 (h:m:s.ms)
+Size:                   236,751 bytes
+Total Bitrate:          0.16 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00213.M2TS      0:00:00.000     0:00:06.006     231,552         308 kbps        
+00213.M2TS      0:00:06.006     0:00:06.006     3,648           4 kbps          
+00213.M2TS      0:00:12.012     0:00:00.041     1,551           297 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:06.006     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:06.006     0:00:06.047     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00213.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00213.MPLS  
+Size: 236,751 bytes
+Length: 0:00:12.053
+Total Bitrate: 0.16 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+********************
+PLAYLIST: 00171.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00171.MPLS                                                      AVC     0:00:12  199,759         38,918,944,768  0.13    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00171.MPLS  
+Length:                 0:00:12.053 (h:m:s.ms)
+Size:                   199,759 bytes
+Total Bitrate:          0.13 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00171.M2TS      0:00:00.000     0:00:06.006     191,808         255 kbps        
+00171.M2TS      0:00:06.006     0:00:06.006     6,528           8 kbps          
+00171.M2TS      0:00:12.012     0:00:00.041     1,423           273 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:06.006     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:06.006     0:00:06.047     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00171.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00171.MPLS  
+Size: 199,759 bytes
+Length: 0:00:12.053
+Total Bitrate: 0.13 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+********************
+PLAYLIST: 00344.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00344.MPLS                                                      AVC     0:00:11  12,453,888      38,918,944,768  8.75    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00344.MPLS  
+Length:                 0:00:11.386 (h:m:s.ms)
+Size:                   12,453,888 bytes
+Total Bitrate:          8.75 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00344.M2TS      0:00:00.000     0:00:11.386     12,453,888      8,750 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00344.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00344.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00344.MPLS  
+Size: 12,453,888 bytes
+Length: 0:00:11.386
+Total Bitrate: 8.75 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00343.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00343.MPLS                                                      AVC     0:00:11  12,404,736      38,918,944,768  8.72    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00343.MPLS  
+Length:                 0:00:11.386 (h:m:s.ms)
+Size:                   12,404,736 bytes
+Total Bitrate:          8.72 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00343.M2TS      0:00:00.000     0:00:11.386     12,404,736      8,715 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00343.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00343.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00343.MPLS  
+Size: 12,404,736 bytes
+Length: 0:00:11.386
+Total Bitrate: 8.72 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00342.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00342.MPLS                                                      AVC     0:00:11  13,062,144      38,918,944,768  9.18    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00342.MPLS  
+Length:                 0:00:11.386 (h:m:s.ms)
+Size:                   13,062,144 bytes
+Total Bitrate:          9.18 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00342.M2TS      0:00:00.000     0:00:11.386     13,062,144      9,177 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00342.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00342.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00342.MPLS  
+Size: 13,062,144 bytes
+Length: 0:00:11.386
+Total Bitrate: 9.18 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00341.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00341.MPLS                                                      AVC     0:00:11  13,019,136      38,918,944,768  9.15    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00341.MPLS  
+Length:                 0:00:11.386 (h:m:s.ms)
+Size:                   13,019,136 bytes
+Total Bitrate:          9.15 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00341.M2TS      0:00:00.000     0:00:11.386     13,019,136      9,147 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00341.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00341.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00341.MPLS  
+Size: 13,019,136 bytes
+Length: 0:00:11.386
+Total Bitrate: 9.15 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00340.M2TS      0:00:00.000     0:00:11.386     17,025,024      11,961 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00340.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00340.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+
+
+********************
+PLAYLIST: 00339.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00339.MPLS                                                      AVC     0:00:11  16,846,848      38,918,944,768  11.84   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00339.MPLS  
+Length:                 0:00:11.386 (h:m:s.ms)
+Size:                   16,846,848 bytes
+Total Bitrate:          11.84 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00339.M2TS      0:00:00.000     0:00:11.386     16,846,848      11,836 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00339.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00339.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00339.MPLS  
+Size: 16,846,848 bytes
+Length: 0:00:11.386
+Total Bitrate: 11.84 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00338.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00338.MPLS                                                      AVC     0:00:11  16,791,552      38,918,944,768  11.80   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00338.MPLS  
+Length:                 0:00:11.386 (h:m:s.ms)
+Size:                   16,791,552 bytes
+Total Bitrate:          11.80 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00338.M2TS      0:00:00.000     0:00:11.386     16,791,552      11,797 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00338.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00338.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00338.MPLS  
+Size: 16,791,552 bytes
+Length: 0:00:11.386
+Total Bitrate: 11.80 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00337.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00337.MPLS                                                      AVC     0:00:11  16,711,680      38,918,944,768  11.74   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00337.MPLS  
+Length:                 0:00:11.386 (h:m:s.ms)
+Size:                   16,711,680 bytes
+Total Bitrate:          11.74 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00337.M2TS      0:00:00.000     0:00:11.386     16,711,680      11,741 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00337.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00337.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00337.MPLS  
+Size: 16,711,680 bytes
+Length: 0:00:11.386
+Total Bitrate: 11.74 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00208.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00208.MPLS                                                      AVC     0:00:11  11,950,080      38,918,944,768  8.40    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00208.MPLS  
+Length:                 0:00:11.386 (h:m:s.ms)
+Size:                   11,950,080 bytes
+Total Bitrate:          8.40 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00208.M2TS      0:00:00.000     0:00:11.386     11,950,080      8,396 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00208.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00208.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00208.MPLS  
+Size: 11,950,080 bytes
+Length: 0:00:11.386
+Total Bitrate: 8.40 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00116.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00116.MPLS                                                      AVC     0:00:11  16,779,264      38,918,944,768  11.79   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00116.MPLS  
+Length:                 0:00:11.386 (h:m:s.ms)
+Size:                   16,779,264 bytes
+Total Bitrate:          11.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00116.M2TS      0:00:00.000     0:00:11.386     16,779,264      11,789 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:11.386     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00116.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00116.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00116.MPLS  
+Size: 16,779,264 bytes
+Length: 0:00:11.386
+Total Bitrate: 11.79 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00219.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00219.MPLS                                                      AVC     0:00:10  232,093         38,918,944,768  0.18    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00219.MPLS  
+Length:                 0:00:10.051 (h:m:s.ms)
+Size:                   232,093 bytes
+Total Bitrate:          0.18 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00219.M2TS      0:00:00.000     0:00:05.005     228,864         365 kbps        
+00219.M2TS      0:00:05.005     0:00:05.005     1,344           2 kbps          
+00219.M2TS      0:00:10.010     0:00:00.041     1,885           361 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.046     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00219.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00219.MPLS  
+Size: 232,093 bytes
+Length: 0:00:10.051
+Total Bitrate: 0.18 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+********************
+PLAYLIST: 00217.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00217.MPLS                                                      AVC     0:00:10  232,093         38,918,944,768  0.18    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00217.MPLS  
+Length:                 0:00:10.051 (h:m:s.ms)
+Size:                   232,093 bytes
+Total Bitrate:          0.18 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00217.M2TS      0:00:00.000     0:00:05.005     228,864         365 kbps        
+00217.M2TS      0:00:05.005     0:00:05.005     1,344           2 kbps          
+00217.M2TS      0:00:10.010     0:00:00.041     1,885           361 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.046     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00217.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00217.MPLS  
+Size: 232,093 bytes
+Length: 0:00:10.051
+Total Bitrate: 0.18 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+********************
+PLAYLIST: 00083.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00083.MPLS                                                      AVC     0:00:10  122,880         38,918,944,768  0.10    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00083.MPLS  
+Length:                 0:00:10.010 (h:m:s.ms)
+Size:                   122,880 bytes
+Total Bitrate:          0.10 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Danish          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00355.M2TS      0:00:00.000     0:00:10.010     122,880         98 kbps         
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.010     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00355.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00355.M2TS      4608 (0x1200)   0x90            PGS             dan (Danish)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00083.MPLS  
+Size: 122,880 bytes
+Length: 0:00:10.010
+Total Bitrate: 0.10 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Subtitle: Danish / 0 kbps  
+
+
+********************
+PLAYLIST: 00082.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00082.MPLS                                                      AVC     0:00:10  122,880         38,918,944,768  0.10    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00082.MPLS  
+Length:                 0:00:10.010 (h:m:s.ms)
+Size:                   122,880 bytes
+Total Bitrate:          0.10 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00082.M2TS      0:00:00.000     0:00:10.010     122,880         98 kbps         
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.010     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00082.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00082.MPLS  
+Size: 122,880 bytes
+Length: 0:00:10.010
+Total Bitrate: 0.10 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+********************
+PLAYLIST: 00081.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00081.MPLS                                                      AVC     0:00:10  122,880         38,918,944,768  0.10    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00081.MPLS  
+Length:                 0:00:10.010 (h:m:s.ms)
+Size:                   122,880 bytes
+Total Bitrate:          0.10 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Portuguese      0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00081.M2TS      0:00:00.000     0:00:10.010     122,880         98 kbps         
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.010     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00081.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00081.M2TS      4608 (0x1200)   0x90            PGS             por (Portuguese)        0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00081.MPLS  
+Size: 122,880 bytes
+Length: 0:00:10.010
+Total Bitrate: 0.10 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Subtitle: Portuguese / 0 kbps  
+
+
+********************
+PLAYLIST: 00080.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00080.MPLS                                                      AVC     0:00:10  122,880         38,918,944,768  0.10    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_BOYS_SEASON_1_DISC_1
+Disc Size:      38,918,944,768 bytes
+Protection:     AACS(v68)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00080.MPLS  
+Length:                 0:00:10.010 (h:m:s.ms)
+Size:                   122,880 bytes
+Total Bitrate:          0.10 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00080.M2TS      0:00:00.000     0:00:10.010     122,880         98 kbps         
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.010     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00080.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00080.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_BOYS_SEASON_1_DISC_1
+Disc Size: 38,918,944,768 bytes
+Protection: AACS(v68)
+Playlist: 00080.MPLS  
+Size: 122,880 bytes
+Length: 0:00:10.010
+Total Bitrate: 0.10 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Subtitle: French / 0 kbps  
+

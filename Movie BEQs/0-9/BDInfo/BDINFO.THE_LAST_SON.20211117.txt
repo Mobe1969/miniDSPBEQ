@@ -1,0 +1,247 @@
+Disc Title:     THE_LAST_SON
+Disc Size:      23,780,587,520 bytes
+Protection:     AACS(v76)
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+    https://github.com/UniqProject/BDInfo
+  DVDFab
+    http://www.dvdfab.cn/bdinfo.htm?client_m=ZDgtNWUtZDMtMTYtMzUtODU6ZWMtMmUtOTgtNTItMDctNjk%3D&client_e=b2JlcmhhcmR0QGdtYWlsLmNvbQ%3D%3D&clientusertype=paid
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+WARNING: Report is incomplete because: Scan has not been run.
+
+********************
+PLAYLIST: 00000.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:37:56  23,631,077,376  23,780,587,520  32.17   0.00    DTS-HD Master 5.1                         
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_LAST_SON
+Disc Size:      23,780,587,520 bytes
+Protection:     AACS(v76)
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS  
+Length:                 1:37:56.161 (h:m:s.ms)
+Size:                   23,631,077,376 bytes
+Total Bitrate:          32.17 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         0 kbps          5.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:37:56.161     23,631,077,376  32,172 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:17.288     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:08:17.288     0:11:12.922     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:19:30.210     0:12:13.858     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:31:44.068     0:20:40.781     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:52:24.850     0:13:09.788     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               1:05:34.639     0:16:50.050     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               1:22:24.689     0:09:42.957     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               1:32:07.647     0:05:48.514     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_LAST_SON
+Disc Size: 23,780,587,520 bytes
+Protection: AACS(v76)
+Playlist: 00000.MPLS  
+Size: 23,631,077,376 bytes
+Length: 1:37:56.161
+Total Bitrate: 32.17 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+
+
+********************
+PLAYLIST: 00002.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     0:00:31  42,184,704      23,780,587,520  10.83   0.00    DTS-HD Master 5.1                         
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_LAST_SON
+Disc Size:      23,780,587,520 bytes
+Protection:     AACS(v76)
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS  
+Length:                 0:00:31.156 (h:m:s.ms)
+Size:                   42,184,704 bytes
+Total Bitrate:          10.83 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         0 kbps          5.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     0:00:10.468     7,852,032       6,000 kbps      
+00004.M2TS      0:00:10.468     0:00:20.687     34,332,672      13,276 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:31.156     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_LAST_SON
+Disc Size: 23,780,587,520 bytes
+Protection: AACS(v76)
+Playlist: 00002.MPLS  
+Size: 42,184,704 bytes
+Length: 0:00:31.156
+Total Bitrate: 10.83 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+
+
+********************
+PLAYLIST: 00003.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     0:00:30  1,241,088       23,780,587,520  0.33    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_LAST_SON
+Disc Size:      23,780,587,520 bytes
+Protection:     AACS(v76)
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS  
+Length:                 0:00:30.030 (h:m:s.ms)
+Size:                   1,241,088 bytes
+Total Bitrate:          0.33 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     0:00:30.030     1,241,088       330 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:30.030     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_LAST_SON
+Disc Size: 23,780,587,520 bytes
+Protection: AACS(v76)
+Playlist: 00003.MPLS  
+Size: 1,241,088 bytes
+Length: 0:00:30.030
+Total Bitrate: 0.33 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+

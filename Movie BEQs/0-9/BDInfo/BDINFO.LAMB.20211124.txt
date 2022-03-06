@@ -1,0 +1,909 @@
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+    https://github.com/UniqProject/BDInfo
+  DVDFab
+    http://www.dvdfab.cn/bdinfo.htm?client_m=ZDgtNWUtZDMtMTYtMzUtODU6ZWMtMmUtOTgtNTItMDctNjk%3D&client_e=b2JlcmhhcmR0QGdtYWlsLmNvbQ%3D%3D&clientusertype=paid
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+WARNING: Report is incomplete because: Scan has not been run.
+
+********************
+PLAYLIST: 00800.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      HEVC    1:46:27  56,098,996,224  62,704,646,144  70.26   0.00    DTS-HD Master 5.1                         
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS  
+Length:                 1:46:27.589 (h:m:s.ms)
+Size:                   56,098,996,224 bytes
+Total Bitrate:          70.26 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+* MPEG-H HEVC Video     0 kbps (0.00%)      1080p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / Dolby Vision / BT.2020
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         0 kbps          5.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           Spanish         0 kbps                          
+Presentation Graphics           English         0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00065.M2TS      0:00:00.000     1:46:27.589     56,098,996,224  70,259 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:29.078     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:05:29.078     0:04:55.795     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:10:24.874     0:06:30.139     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:16:55.014     0:05:20.528     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:22:15.542     0:07:03.923     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:29:19.466     0:07:37.665     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:36:57.131     0:02:57.427     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:39:54.558     0:06:06.783     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+9               0:46:01.341     0:06:35.812     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+10              0:52:37.154     0:06:21.839     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+11              0:58:58.993     0:05:59.984     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+12              1:04:58.978     0:05:46.888     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+13              1:10:45.866     0:08:55.743     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+14              1:19:41.610     0:07:40.543     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+15              1:27:22.153     0:06:05.698     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+16              1:33:27.852     0:12:59.737     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00065.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00065.M2TS      4117 (0x1015)   0x24            HEVC                                    0.00                    0                       0               0               
+00065.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+00065.M2TS      4768 (0x12A0)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00065.M2TS      4769 (0x12A1)   0x90            PGS             spa (Spanish)           0.00                    0                       0               0               
+00065.M2TS      4770 (0x12A2)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LAMB
+Disc Size: 62,704,646,144 bytes
+Protection: AACS2(v76)
+Playlist: 00800.MPLS  
+Size: 56,098,996,224 bytes
+Length: 1:46:27.589
+Total Bitrate: 70.26 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+Video: * MPEG-H HEVC Video / 0 kbps (0.00%) / 1080p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / Dolby Vision / BT.2020
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+Subtitle: English / 0 kbps  
+Subtitle: Spanish / 0 kbps  
+Subtitle: English / 0 kbps  
+
+
+********************
+PLAYLIST: 00101.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00101.MPLS                                                      AVC     0:13:15  3,280,041,984   62,704,646,144  32.98   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00101.MPLS  
+Length:                 0:13:15.628 (h:m:s.ms)
+Size:                   3,280,041,984 bytes
+Total Bitrate:          32.98 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00109.M2TS      0:00:00.000     0:13:15.628     3,280,041,984   32,980 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:13:15.628     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00109.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00109.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00109.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LAMB
+Disc Size: 62,704,646,144 bytes
+Protection: AACS2(v76)
+Playlist: 00101.MPLS  
+Size: 3,280,041,984 bytes
+Length: 0:13:15.628
+Total Bitrate: 32.98 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: English / 0 kbps  
+
+
+********************
+PLAYLIST: 00201.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00201.MPLS                                                      AVC     0:03:04  756,854,784     62,704,646,144  32.85   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00201.MPLS  
+Length:                 0:03:04.309 (h:m:s.ms)
+Size:                   756,854,784 bytes
+Total Bitrate:          32.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00108.M2TS      0:00:00.000     0:03:04.309     756,854,784     32,851 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:04.309     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00108.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00108.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LAMB
+Disc Size: 62,704,646,144 bytes
+Protection: AACS2(v76)
+Playlist: 00201.MPLS  
+Size: 756,854,784 bytes
+Length: 0:03:04.309
+Total Bitrate: 32.85 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00102.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00102.MPLS                                                      AVC     0:01:56  536,328,192     62,704,646,144  36.77   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00102.MPLS  
+Length:                 0:01:56.699 (h:m:s.ms)
+Size:                   536,328,192 bytes
+Total Bitrate:          36.77 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00112.M2TS      0:00:00.000     0:01:56.699     536,328,192     36,766 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:56.699     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00112.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00112.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00112.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LAMB
+Disc Size: 62,704,646,144 bytes
+Protection: AACS2(v76)
+Playlist: 00102.MPLS  
+Size: 536,328,192 bytes
+Length: 0:01:56.699
+Total Bitrate: 36.77 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+Subtitle: English / 0 kbps  
+
+
+********************
+PLAYLIST: 00014.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00014.MPLS                                                      HEVC    0:01:31  657,684,480     62,704,646,144  57.50   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00014.MPLS  
+Length:                 0:01:31.508 (h:m:s.ms)
+Size:                   657,684,480 bytes
+Total Bitrate:          57.50 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+* MPEG-H HEVC Video     0 kbps (0.00%)      1080p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / Dolby Vision / BT.2020
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz / 224 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00278.M2TS      0:00:00.000     0:01:31.508     657,684,480     57,497 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:31.508     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00278.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00278.M2TS      4117 (0x1015)   0x24            HEVC                                    0.00                    0                       0               0               
+00278.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LAMB
+Disc Size: 62,704,646,144 bytes
+Protection: AACS2(v76)
+Playlist: 00014.MPLS  
+Size: 657,684,480 bytes
+Length: 0:01:31.508
+Total Bitrate: 57.50 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+Video: * MPEG-H HEVC Video / 0 kbps (0.00%) / 1080p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / Dolby Vision / BT.2020
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 224 kbps
+
+
+********************
+PLAYLIST: 00013.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00013.MPLS                                                      HEVC    0:01:31  656,265,216     62,704,646,144  57.37   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00013.MPLS  
+Length:                 0:01:31.508 (h:m:s.ms)
+Size:                   656,265,216 bytes
+Total Bitrate:          57.37 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+* MPEG-H HEVC Video     0 kbps (0.00%)      1080p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / Dolby Vision / BT.2020
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz / 224 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00059.M2TS      0:00:00.000     0:01:31.508     656,265,216     57,373 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:31.508     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00059.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00059.M2TS      4117 (0x1015)   0x24            HEVC                                    0.00                    0                       0               0               
+00059.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LAMB
+Disc Size: 62,704,646,144 bytes
+Protection: AACS2(v76)
+Playlist: 00013.MPLS  
+Size: 656,265,216 bytes
+Length: 0:01:31.508
+Total Bitrate: 57.37 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+Video: * MPEG-H HEVC Video / 0 kbps (0.00%) / 1080p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / Dolby Vision / BT.2020
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 224 kbps
+
+
+********************
+PLAYLIST: 00801.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      AVC     0:00:51  234,768,384     62,704,646,144  36.76   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS  
+Length:                 0:00:51.092 (h:m:s.ms)
+Size:                   234,768,384 bytes
+Total Bitrate:          36.76 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00114.M2TS      0:00:00.000     0:00:51.092     234,768,384     36,759 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:51.092     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00114.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00114.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LAMB
+Disc Size: 62,704,646,144 bytes
+Protection: AACS2(v76)
+Playlist: 00801.MPLS  
+Size: 234,768,384 bytes
+Length: 0:00:51.092
+Total Bitrate: 36.76 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00202.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00202.MPLS                                                      AVC     0:00:44  203,317,248     62,704,646,144  36.72   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00202.MPLS  
+Length:                 0:00:44.294 (h:m:s.ms)
+Size:                   203,317,248 bytes
+Total Bitrate:          36.72 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00110.M2TS      0:00:00.000     0:00:44.294     203,317,248     36,721 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:44.294     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00110.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00110.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LAMB
+Disc Size: 62,704,646,144 bytes
+Protection: AACS2(v76)
+Playlist: 00202.MPLS  
+Size: 203,317,248 bytes
+Length: 0:00:44.294
+Total Bitrate: 36.72 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00203.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00203.MPLS                                                      AVC     0:00:23  103,065,600     62,704,646,144  35.62   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00203.MPLS  
+Length:                 0:00:23.148 (h:m:s.ms)
+Size:                   103,065,600 bytes
+Total Bitrate:          35.62 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00111.M2TS      0:00:00.000     0:00:23.148     103,065,600     35,619 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:23.148     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00111.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00111.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LAMB
+Disc Size: 62,704,646,144 bytes
+Protection: AACS2(v76)
+Playlist: 00203.MPLS  
+Size: 103,065,600 bytes
+Length: 0:00:23.148
+Total Bitrate: 35.62 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00802.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00802.MPLS                                                      AVC     0:00:19  85,487,616      62,704,646,144  34.96   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00802.MPLS  
+Length:                 0:00:19.561 (h:m:s.ms)
+Size:                   85,487,616 bytes
+Total Bitrate:          34.96 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00115.M2TS      0:00:00.000     0:00:19.561     85,487,616      34,962 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:19.561     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00115.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00115.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LAMB
+Disc Size: 62,704,646,144 bytes
+Protection: AACS2(v76)
+Playlist: 00802.MPLS  
+Size: 85,487,616 bytes
+Length: 0:00:19.561
+Total Bitrate: 34.96 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 00001.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      HEVC    0:00:10  1,634,304       62,704,646,144  1.25    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LAMB
+Disc Size:      62,704,646,144 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS  
+Length:                 0:00:10.427 (h:m:s.ms)
+Size:                   1,634,304 bytes
+Total Bitrate:          1.25 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00277.M2TS      0:00:00.000     0:00:10.427     1,634,304       1,253 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.427     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00277.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LAMB
+Disc Size: 62,704,646,144 bytes
+Protection: AACS2(v76)
+Playlist: 00001.MPLS  
+Size: 1,634,304 bytes
+Length: 0:00:10.427
+Total Bitrate: 1.25 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+

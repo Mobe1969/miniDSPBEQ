@@ -1,0 +1,1539 @@
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+    https://github.com/UniqProject/BDInfo
+  DVDFab
+    http://www.dvdfab.cn/bdinfo.htm?client_m=ZDgtNWUtZDMtMTYtMzUtODU6ZWMtMmUtOTgtNTItMDctNjk%3D&client_e=b2JlcmhhcmR0QGdtYWlsLmNvbQ%3D%3D&clientusertype=paid
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+WARNING: Report is incomplete because: Scan has not been run.
+
+********************
+PLAYLIST: 00801.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      HEVC    1:46:45  51,384,840,192  53,237,905,408  64.17   0.00    Dolby TrueHD 7.1+13 objects               
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS  
+Length:                 1:46:45.941 (h:m:s.ms)
+Size:                   51,384,840,192 bytes
+Total Bitrate:          64.17 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         0 kbps          7.1+13 objects / 48 kHz / 24-bit (AC3 Core: 5.1 / 48 kHz / 640 kbps)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+Dolby Digital Plus Audio        French          1024 kbps       7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+Dolby Digital Plus Audio        Spanish         1024 kbps       7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+Dolby Digital Plus Audio        Japanese        1024 kbps       7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Spanish         0 kbps                          
+Presentation Graphics           Japanese        0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Spanish         0 kbps                          
+Presentation Graphics           Japanese        0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00294.M2TS      0:00:00.000     1:46:45.941     51,384,840,192  64,171 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:58.519     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:07:58.519     0:06:36.896     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:14:35.416     0:06:57.333     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:21:32.749     0:08:25.546     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:29:58.296     0:05:13.980     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:35:12.276     0:04:52.834     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:40:05.111     0:05:44.969     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:45:50.080     0:06:45.613     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+9               0:52:35.694     0:05:32.582     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+10              0:58:08.276     0:06:07.909     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+11              1:04:16.185     0:07:07.969     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+12              1:11:24.154     0:08:21.209     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+13              1:19:45.363     0:03:51.856     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+14              1:23:37.220     0:05:17.442     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+15              1:28:54.662     0:04:04.619     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+16              1:32:59.282     0:04:37.068     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+17              1:37:36.350     0:02:27.647     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+18              1:40:03.998     0:06:41.943     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00294.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00294.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           0.00                    0                       0               0               
+00294.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00294.M2TS      4354 (0x1102)   0x84            AC3+            fra (French)            0.00                    0                       0               0               
+00294.M2TS      4355 (0x1103)   0x84            AC3+            spa (Spanish)           0.00                    0                       0               0               
+00294.M2TS      4356 (0x1104)   0x84            AC3+            jpn (Japanese)          0.00                    0                       0               0               
+00294.M2TS      4768 (0x12A0)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00294.M2TS      4769 (0x12A1)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00294.M2TS      4770 (0x12A2)   0x90            PGS             spa (Spanish)           0.00                    0                       0               0               
+00294.M2TS      4771 (0x12A3)   0x90            PGS             jpn (Japanese)          0.00                    0                       0               0               
+00294.M2TS      4772 (0x12A4)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00294.M2TS      4773 (0x12A5)   0x90            PGS             spa (Spanish)           0.00                    0                       0               0               
+00294.M2TS      4774 (0x12A6)   0x90            PGS             jpn (Japanese)          0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 00801.MPLS  
+Size: 51,384,840,192 bytes
+Length: 1:46:45.941
+Total Bitrate: 64.17 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1+13 objects / 48 kHz / 24-bit (AC3 Core: 5.1 / 48 kHz / 640 kbps)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Audio: French / Dolby Digital Plus Audio / 7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+Audio: Spanish / Dolby Digital Plus Audio / 7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+Audio: Japanese / Dolby Digital Plus Audio / 7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Spanish / 0 kbps  
+Subtitle: Japanese / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Spanish / 0 kbps  
+Subtitle: Japanese / 0 kbps  
+
+
+********************
+PLAYLIST: 01309.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01309.MPLS                                                      HEVC    1:46:45  51,384,840,192  53,237,905,408  64.17   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01309.MPLS  
+Length:                 1:46:45.941 (h:m:s.ms)
+Size:                   51,384,840,192 bytes
+Total Bitrate:          64.17 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+* Dolby TrueHD/Atmos Audio      English         0 kbps          7.1+13 objects / 48 kHz / 24-bit (AC3 Core: 5.1 / 48 kHz / 640 kbps)
+* Dolby Digital Plus Audio      French          1024 kbps       7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+* Dolby Digital Plus Audio      Spanish         1024 kbps       7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+* Dolby Digital Plus Audio      Japanese        1024 kbps       7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+* Presentation Graphics         Spanish         0 kbps                          
+* Presentation Graphics         Japanese        0 kbps                          
+* Presentation Graphics         Spanish         0 kbps                          
+* Presentation Graphics         English         0 kbps                          
+* Presentation Graphics         French          0 kbps                          
+* Presentation Graphics         Japanese        0 kbps                          
+* Presentation Graphics         French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00294.M2TS      0:00:00.000     1:46:45.941     51,384,840,192  64,171 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:58.519     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:07:58.519     0:06:36.896     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:14:35.416     0:06:57.333     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:21:32.749     0:08:25.546     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:29:58.296     0:05:13.980     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:35:12.276     0:04:52.834     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:40:05.111     0:05:44.969     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:45:50.080     0:06:45.613     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+9               0:52:35.694     0:05:32.582     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+10              0:58:08.276     0:06:07.909     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+11              1:04:16.185     0:07:07.969     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+12              1:11:24.154     0:08:21.209     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+13              1:19:45.363     0:03:51.856     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+14              1:23:37.220     0:05:17.442     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+15              1:28:54.662     0:04:04.619     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+16              1:32:59.282     0:04:37.068     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+17              1:37:36.350     0:02:27.647     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+18              1:40:03.998     0:06:41.943     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00294.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00294.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           0.00                    0                       0               0               
+00294.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00294.M2TS      4354 (0x1102)   0x84            AC3+            fra (French)            0.00                    0                       0               0               
+00294.M2TS      4355 (0x1103)   0x84            AC3+            spa (Spanish)           0.00                    0                       0               0               
+00294.M2TS      4356 (0x1104)   0x84            AC3+            jpn (Japanese)          0.00                    0                       0               0               
+00294.M2TS      4768 (0x12A0)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00294.M2TS      4769 (0x12A1)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00294.M2TS      4770 (0x12A2)   0x90            PGS             spa (Spanish)           0.00                    0                       0               0               
+00294.M2TS      4771 (0x12A3)   0x90            PGS             jpn (Japanese)          0.00                    0                       0               0               
+00294.M2TS      4772 (0x12A4)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00294.M2TS      4773 (0x12A5)   0x90            PGS             spa (Spanish)           0.00                    0                       0               0               
+00294.M2TS      4774 (0x12A6)   0x90            PGS             jpn (Japanese)          0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01309.MPLS  
+Size: 51,384,840,192 bytes
+Length: 1:46:45.941
+Total Bitrate: 64.17 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+* Audio: English / Dolby TrueHD/Atmos Audio / 7.1+13 objects / 48 kHz / 24-bit (AC3 Core: 5.1 / 48 kHz / 640 kbps)
+* Audio: French / Dolby Digital Plus Audio / 7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+* Audio: Spanish / Dolby Digital Plus Audio / 7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+* Audio: Japanese / Dolby Digital Plus Audio / 7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+* Subtitle: Spanish / 0 kbps  
+* Subtitle: Japanese / 0 kbps  
+* Subtitle: Spanish / 0 kbps  
+* Subtitle: English / 0 kbps  
+* Subtitle: French / 0 kbps  
+* Subtitle: Japanese / 0 kbps  
+* Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00800.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      HEVC    1:46:45  51,384,840,192  53,237,905,408  64.17   0.00    Dolby TrueHD 7.1+13 objects               
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS  
+Length:                 1:46:45.941 (h:m:s.ms)
+Size:                   51,384,840,192 bytes
+Total Bitrate:          64.17 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         0 kbps          7.1+13 objects / 48 kHz / 24-bit (AC3 Core: 5.1 / 48 kHz / 640 kbps)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+Dolby Digital Plus Audio        French          1024 kbps       7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+Dolby Digital Plus Audio        Spanish         1024 kbps       7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+Dolby Digital Plus Audio        Japanese        1024 kbps       7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Spanish         0 kbps                          
+Presentation Graphics           Japanese        0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Spanish         0 kbps                          
+Presentation Graphics           Japanese        0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00294.M2TS      0:00:00.000     1:46:45.941     51,384,840,192  64,171 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:58.519     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:07:58.519     0:06:36.896     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:14:35.416     0:06:57.333     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:21:32.749     0:08:25.546     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:29:58.296     0:05:13.980     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:35:12.276     0:04:52.834     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:40:05.111     0:05:44.969     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:45:50.080     0:06:45.613     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+9               0:52:35.694     0:05:32.582     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+10              0:58:08.276     0:06:07.909     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+11              1:04:16.185     0:07:07.969     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+12              1:11:24.154     0:08:21.209     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+13              1:19:45.363     0:03:51.856     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+14              1:23:37.220     0:05:17.442     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+15              1:28:54.662     0:04:04.619     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+16              1:32:59.282     0:04:37.068     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+17              1:37:36.350     0:02:27.647     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+18              1:40:03.998     0:06:41.943     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00294.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00294.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           0.00                    0                       0               0               
+00294.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00294.M2TS      4354 (0x1102)   0x84            AC3+            fra (French)            0.00                    0                       0               0               
+00294.M2TS      4355 (0x1103)   0x84            AC3+            spa (Spanish)           0.00                    0                       0               0               
+00294.M2TS      4356 (0x1104)   0x84            AC3+            jpn (Japanese)          0.00                    0                       0               0               
+00294.M2TS      4768 (0x12A0)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00294.M2TS      4769 (0x12A1)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00294.M2TS      4770 (0x12A2)   0x90            PGS             spa (Spanish)           0.00                    0                       0               0               
+00294.M2TS      4771 (0x12A3)   0x90            PGS             jpn (Japanese)          0.00                    0                       0               0               
+00294.M2TS      4772 (0x12A4)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00294.M2TS      4773 (0x12A5)   0x90            PGS             spa (Spanish)           0.00                    0                       0               0               
+00294.M2TS      4774 (0x12A6)   0x90            PGS             jpn (Japanese)          0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 00800.MPLS  
+Size: 51,384,840,192 bytes
+Length: 1:46:45.941
+Total Bitrate: 64.17 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1+13 objects / 48 kHz / 24-bit (AC3 Core: 5.1 / 48 kHz / 640 kbps)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Audio: French / Dolby Digital Plus Audio / 7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+Audio: Spanish / Dolby Digital Plus Audio / 7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+Audio: Japanese / Dolby Digital Plus Audio / 7.1 / 48 kHz / 1024 kbps (AC3 Core: 5.1 / 48 kHz / 576 kbps ( Core: 5.1 / 48 kHz / 576 kbps))
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Spanish / 0 kbps  
+Subtitle: Japanese / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Spanish / 0 kbps  
+Subtitle: Japanese / 0 kbps  
+
+
+********************
+PLAYLIST: 00156.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00156.MPLS                                                      HEVC    0:00:42  108,042,240     53,237,905,408  20.48   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00156.MPLS  
+Length:                 0:00:42.208 (h:m:s.ms)
+Size:                   108,042,240 bytes
+Total Bitrate:          20.48 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 100nits / HDR10 / BT.2020
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00174.M2TS      0:00:00.000     0:00:42.208     108,042,240     20,477 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:42.208     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00174.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00174.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 00156.MPLS  
+Size: 108,042,240 bytes
+Length: 0:00:42.208
+Total Bitrate: 20.48 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 100nits / HDR10 / BT.2020
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+
+
+********************
+PLAYLIST: 00157.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00157.MPLS                                                      HEVC    0:00:32  75,325,440      53,237,905,408  18.74   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00157.MPLS  
+Length:                 0:00:32.157 (h:m:s.ms)
+Size:                   75,325,440 bytes
+Total Bitrate:          18.74 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 100nits / HDR10 / BT.2020
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00175.M2TS      0:00:00.000     0:00:32.157     75,325,440      18,739 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:32.157     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00175.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00175.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 00157.MPLS  
+Size: 75,325,440 bytes
+Length: 0:00:32.157
+Total Bitrate: 18.74 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 100nits / HDR10 / BT.2020
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+
+
+********************
+PLAYLIST: 01620.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01620.MPLS                                                      HEVC    0:00:26  5,806,080       53,237,905,408  1.78    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01620.MPLS  
+Length:                 0:00:26.025 (h:m:s.ms)
+Size:                   5,806,080 bytes
+Total Bitrate:          1.78 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00669.M2TS      0:00:00.000     0:00:25.024     5,781,504       1,848 kbps      
+00457.M2TS      0:00:25.024     0:00:01.000     24,576          196 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:10.010     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:00:15.015     0:00:05.004     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:00:20.020     0:00:06.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00669.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00457.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01620.MPLS  
+Size: 5,806,080 bytes
+Length: 0:00:26.025
+Total Bitrate: 1.78 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+
+********************
+PLAYLIST: 01618.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01618.MPLS                                                      HEVC    0:00:25  5,781,504       53,237,905,408  1.85    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01618.MPLS  
+Length:                 0:00:25.024 (h:m:s.ms)
+Size:                   5,781,504 bytes
+Total Bitrate:          1.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00669.M2TS      0:00:00.000     0:00:25.024     5,781,504       1,848 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:10.010     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:00:15.015     0:00:05.004     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:00:20.020     0:00:05.004     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00669.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01618.MPLS  
+Size: 5,781,504 bytes
+Length: 0:00:25.024
+Total Bitrate: 1.85 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+
+********************
+PLAYLIST: 01478.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01478.MPLS                                                      HEVC    0:00:21  11,544,576      53,237,905,408  4.34    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01478.MPLS  
+Length:                 0:00:21.271 (h:m:s.ms)
+Size:                   11,544,576 bytes
+Total Bitrate:          4.34 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00304.M2TS      0:00:00.000     0:00:21.020     11,538,432      4,391 kbps      
+00664.M2TS      0:00:21.020     0:00:00.250     6,144           196 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:07.007     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:07.007     0:00:07.007     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:14.014     0:00:07.257     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00304.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00664.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01478.MPLS  
+Size: 11,544,576 bytes
+Length: 0:00:21.271
+Total Bitrate: 4.34 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+
+********************
+PLAYLIST: 01133.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01133.MPLS                                                      HEVC    0:00:21  11,538,432      53,237,905,408  4.39    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01133.MPLS  
+Length:                 0:00:21.020 (h:m:s.ms)
+Size:                   11,538,432 bytes
+Total Bitrate:          4.39 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00304.M2TS      0:00:00.000     0:00:21.020     11,538,432      4,391 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:07.007     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:07.007     0:00:07.007     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:14.014     0:00:07.006     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00304.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01133.MPLS  
+Size: 11,538,432 bytes
+Length: 0:00:21.020
+Total Bitrate: 4.39 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+
+********************
+PLAYLIST: 01621.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01621.MPLS                                                      HEVC    0:00:21  3,735,552       53,237,905,408  1.42    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01621.MPLS  
+Length:                 0:00:21.020 (h:m:s.ms)
+Size:                   3,735,552 bytes
+Total Bitrate:          1.42 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00670.M2TS      0:00:00.000     0:00:20.019     3,710,976       1,482 kbps      
+00457.M2TS      0:00:20.019     0:00:01.000     24,576          196 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:10.010     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:00:15.015     0:00:06.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00670.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00457.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01621.MPLS  
+Size: 3,735,552 bytes
+Length: 0:00:21.020
+Total Bitrate: 1.42 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+
+********************
+PLAYLIST: 01340.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01340.MPLS                                                      HEVC    0:00:21  3,649,536       53,237,905,408  1.39    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01340.MPLS  
+Length:                 0:00:21.020 (h:m:s.ms)
+Size:                   3,649,536 bytes
+Total Bitrate:          1.39 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00295.M2TS      0:00:00.000     0:00:20.019     3,624,960       1,448 kbps      
+00457.M2TS      0:00:20.019     0:00:01.000     24,576          196 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:10.010     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:00:15.015     0:00:06.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00295.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00457.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01340.MPLS  
+Size: 3,649,536 bytes
+Length: 0:00:21.020
+Total Bitrate: 1.39 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+
+********************
+PLAYLIST: 01476.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01476.MPLS                                                      HEVC    0:00:20  15,310,848      53,237,905,408  6.07    0.00    LPCM 2.0                                  LPCM 2.0
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01476.MPLS  
+Length:                 0:00:20.186 (h:m:s.ms)
+Size:                   15,310,848 bytes
+Total Bitrate:          6.07 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      English         1536 kbps       2.0 / 48 kHz / 1536 kbps / 16-bit
+LPCM Audio                      English         1536 kbps       2.0 / 48 kHz / 1536 kbps / 16-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00178.M2TS      0:00:00.000     0:00:05.046     3,827,712       6,067 kbps      
+00438.M2TS      0:00:05.046     0:00:05.046     3,827,712       6,067 kbps      
+00334.M2TS      0:00:10.093     0:00:05.046     3,827,712       6,067 kbps      
+00663.M2TS      0:00:15.140     0:00:05.046     3,827,712       6,067 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:08.049     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:08.049     0:00:02.043     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:10.093     0:00:08.049     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:00:18.143     0:00:02.043     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00178.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00178.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00178.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00438.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00438.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00438.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00334.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00334.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00334.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00663.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00663.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00663.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01476.MPLS  
+Size: 15,310,848 bytes
+Length: 0:00:20.186
+Total Bitrate: 6.07 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+Audio: English / LPCM Audio / 2.0 / 48 kHz / 1536 kbps / 16-bit
+Audio: English / LPCM Audio / 2.0 / 48 kHz / 1536 kbps / 16-bit
+
+
+********************
+PLAYLIST: 01619.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01619.MPLS                                                      HEVC    0:00:20  3,710,976       53,237,905,408  1.48    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01619.MPLS  
+Length:                 0:00:20.019 (h:m:s.ms)
+Size:                   3,710,976 bytes
+Total Bitrate:          1.48 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00670.M2TS      0:00:00.000     0:00:20.019     3,710,976       1,482 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:10.010     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:00:15.015     0:00:05.004     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00670.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01619.MPLS  
+Size: 3,710,976 bytes
+Length: 0:00:20.019
+Total Bitrate: 1.48 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+
+********************
+PLAYLIST: 00802.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00802.MPLS                                                      HEVC    0:00:20  3,624,960       53,237,905,408  1.45    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00802.MPLS  
+Length:                 0:00:20.019 (h:m:s.ms)
+Size:                   3,624,960 bytes
+Total Bitrate:          1.45 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00295.M2TS      0:00:00.000     0:00:20.019     3,624,960       1,448 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:10.010     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:00:15.015     0:00:05.004     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00295.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 00802.MPLS  
+Size: 3,624,960 bytes
+Length: 0:00:20.019
+Total Bitrate: 1.45 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+
+********************
+PLAYLIST: 01334.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01334.MPLS                                                      HEVC    0:00:10  7,655,424       53,237,905,408  6.07    0.00    LPCM 2.0                                  LPCM 2.0
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01334.MPLS  
+Length:                 0:00:10.093 (h:m:s.ms)
+Size:                   7,655,424 bytes
+Total Bitrate:          6.07 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      English         1536 kbps       2.0 / 48 kHz / 1536 kbps / 16-bit
+LPCM Audio                      English         1536 kbps       2.0 / 48 kHz / 1536 kbps / 16-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00455.M2TS      0:00:00.000     0:00:05.046     3,827,712       6,067 kbps      
+00456.M2TS      0:00:05.046     0:00:05.046     3,827,712       6,067 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:08.049     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:08.049     0:00:02.043     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00455.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00455.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00455.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00456.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00456.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00456.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01334.MPLS  
+Size: 7,655,424 bytes
+Length: 0:00:10.093
+Total Bitrate: 6.07 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+Audio: English / LPCM Audio / 2.0 / 48 kHz / 1536 kbps / 16-bit
+Audio: English / LPCM Audio / 2.0 / 48 kHz / 1536 kbps / 16-bit
+
+
+********************
+PLAYLIST: 01316.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01316.MPLS                                                      HEVC    0:00:10  7,655,424       53,237,905,408  6.07    0.00    LPCM 2.0                                  LPCM 2.0
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01316.MPLS  
+Length:                 0:00:10.093 (h:m:s.ms)
+Size:                   7,655,424 bytes
+Total Bitrate:          6.07 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      English         1536 kbps       2.0 / 48 kHz / 1536 kbps / 16-bit
+LPCM Audio                      English         1536 kbps       2.0 / 48 kHz / 1536 kbps / 16-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00178.M2TS      0:00:00.000     0:00:05.046     3,827,712       6,067 kbps      
+00438.M2TS      0:00:05.046     0:00:05.046     3,827,712       6,067 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:08.049     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:08.049     0:00:02.043     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00178.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00178.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00178.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00438.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+00438.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00438.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01316.MPLS  
+Size: 7,655,424 bytes
+Length: 0:00:10.093
+Total Bitrate: 6.07 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 1000nits / HDR10 / BT.2020
+Audio: English / LPCM Audio / 2.0 / 48 kHz / 1536 kbps / 16-bit
+Audio: English / LPCM Audio / 2.0 / 48 kHz / 1536 kbps / 16-bit
+
+
+********************
+PLAYLIST: 01161.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01161.MPLS                                                      HEVC    0:00:10  4,515,840       53,237,905,408  3.61    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01161.MPLS  
+Length:                 0:00:10.009 (h:m:s.ms)
+Size:                   4,515,840 bytes
+Total Bitrate:          3.61 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00332.M2TS      0:00:00.000     0:00:10.009     4,515,840       3,609 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.004     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00332.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01161.MPLS  
+Size: 4,515,840 bytes
+Length: 0:00:10.009
+Total Bitrate: 3.61 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+
+********************
+PLAYLIST: 01159.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01159.MPLS                                                      HEVC    0:00:10  5,068,800       53,237,905,408  4.05    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     RONS_GONE_WRONG
+Disc Size:      53,237,905,408 bytes
+Protection:     AACS2(v76)
+Extras:         Ultra HD, BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01159.MPLS  
+Length:                 0:00:10.009 (h:m:s.ms)
+Size:                   5,068,800 bytes
+Total Bitrate:          4.05 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-H HEVC Video       0 kbps              2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00330.M2TS      0:00:00.000     0:00:10.009     5,068,800       4,050 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.004     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00330.M2TS      4113 (0x1011)   0x24            HEVC                                    0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: RONS_GONE_WRONG
+Disc Size: 53,237,905,408 bytes
+Protection: AACS2(v76)
+Playlist: 01159.MPLS  
+Size: 5,068,800 bytes
+Length: 0:00:10.009
+Total Bitrate: 4.05 Mbps
+Video: MPEG-H HEVC Video / 0 kbps / 2160p / 23.976 fps / 16:9 / Main 10 @ Level 5.1 @ High / 4:2:0 / 10 bits / 4000nits / HDR10 / BT.2020
+

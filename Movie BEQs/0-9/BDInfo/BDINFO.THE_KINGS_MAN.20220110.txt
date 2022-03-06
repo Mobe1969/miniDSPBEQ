@@ -1,0 +1,2082 @@
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+    https://github.com/UniqProject/BDInfo
+  DVDFab
+    http://www.dvdfab.cn/bdinfo.htm?client_m=ZDgtNWUtZDMtMTYtMzUtODU6ZWMtMmUtOTgtNTItMDctNjk%3D&client_e=b2JlcmhhcmR0QGdtYWlsLmNvbQ%3D%3D&clientusertype=paid
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+WARNING: Report is incomplete because: Scan has not been run.
+
+********************
+PLAYLIST: 01491.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01491.MPLS                                                      AVC     2:10:38  32,115,578,880  49,129,977,856  32.78   0.00    DTS-HD Master 7.1                         
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01491.MPLS  
+Length:                 2:10:38.330 (h:m:s.ms)
+Size:                   32,115,578,880 bytes
+Total Bitrate:          32.78 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         0 kbps          7.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+Dolby Digital Plus Audio        French          896 kbps        7.1 / 48 kHz / 896 kbps (AC3 Core: 5.1 / 48 kHz / 512 kbps ( Core: 5.1 / 48 kHz / 512 kbps))
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00705.M2TS      0:00:00.000     2:10:38.330     32,115,578,880  32,777 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:23.985     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:07:23.985     0:03:43.389     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:11:07.375     0:03:30.418     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:14:37.793     0:04:25.390     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:19:03.183     0:01:47.106     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:20:50.290     0:07:33.995     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:28:24.285     0:02:44.998     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:31:09.284     0:03:21.576     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+9               0:34:30.860     0:03:40.428     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+10              0:38:11.289     0:03:51.564     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+11              0:42:02.853     0:05:16.524     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+12              0:47:19.378     0:11:11.545     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+13              0:58:30.924     0:00:41.875     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+14              0:59:12.799     0:03:12.108     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+15              1:02:24.907     0:02:57.677     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+16              1:05:22.585     0:01:53.863     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+17              1:07:16.449     0:01:52.403     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+18              1:09:08.853     0:04:44.534     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+19              1:13:53.387     0:12:56.609     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+20              1:26:49.996     0:06:21.339     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+21              1:33:11.335     0:03:27.665     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+22              1:36:39.001     0:03:00.013     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+23              1:39:39.014     0:04:46.661     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+24              1:44:25.676     0:04:03.284     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+25              1:48:28.960     0:09:35.575     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+26              1:58:04.535     0:03:54.317     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+27              2:01:58.853     0:08:39.477     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00705.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00705.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+00705.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00705.M2TS      4354 (0x1102)   0x84            AC3+            fra (French)            0.00                    0                       0               0               
+00705.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00705.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00705.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00705.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01491.MPLS  
+Size: 32,115,578,880 bytes
+Length: 2:10:38.330
+Total Bitrate: 32.78 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Audio: French / Dolby Digital Plus Audio / 7.1 / 48 kHz / 896 kbps (AC3 Core: 5.1 / 48 kHz / 512 kbps ( Core: 5.1 / 48 kHz / 512 kbps))
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00805.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00805.MPLS                                                      AVC     2:10:38  32,115,578,880  49,129,977,856  32.78   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00805.MPLS  
+Length:                 2:10:38.330 (h:m:s.ms)
+Size:                   32,115,578,880 bytes
+Total Bitrate:          32.78 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+* DTS-HD Master Audio           English         0 kbps          7.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+* Dolby Digital Plus Audio      French          896 kbps        7.1 / 48 kHz / 896 kbps (AC3 Core: 5.1 / 48 kHz / 512 kbps ( Core: 5.1 / 48 kHz / 512 kbps))
+* Presentation Graphics         English         0 kbps                          
+* Presentation Graphics         French          0 kbps                          
+* Presentation Graphics         Dutch           0 kbps                          
+* Presentation Graphics         French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00705.M2TS      0:00:00.000     2:10:38.330     32,115,578,880  32,777 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:23.985     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:07:23.985     0:03:43.389     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:11:07.375     0:03:30.418     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:14:37.793     0:04:25.390     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:19:03.183     0:01:47.106     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:20:50.290     0:07:33.995     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:28:24.285     0:02:44.998     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:31:09.284     0:03:21.576     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+9               0:34:30.860     0:03:40.428     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+10              0:38:11.289     0:03:51.564     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+11              0:42:02.853     0:05:16.524     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+12              0:47:19.378     0:11:11.545     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+13              0:58:30.924     0:00:41.875     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+14              0:59:12.799     0:03:12.108     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+15              1:02:24.907     0:02:57.677     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+16              1:05:22.585     0:01:53.863     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+17              1:07:16.449     0:01:52.403     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+18              1:09:08.853     0:04:44.534     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+19              1:13:53.387     0:12:56.609     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+20              1:26:49.996     0:06:21.339     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+21              1:33:11.335     0:03:27.665     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+22              1:36:39.001     0:03:00.013     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+23              1:39:39.014     0:04:46.661     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+24              1:44:25.676     0:04:03.284     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+25              1:48:28.960     0:09:35.575     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+26              1:58:04.535     0:03:54.317     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+27              2:01:58.853     0:08:39.477     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00705.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00705.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+00705.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00705.M2TS      4354 (0x1102)   0x84            AC3+            fra (French)            0.00                    0                       0               0               
+00705.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00705.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00705.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00705.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 00805.MPLS  
+Size: 32,115,578,880 bytes
+Length: 2:10:38.330
+Total Bitrate: 32.78 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+* Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+* Audio: French / Dolby Digital Plus Audio / 7.1 / 48 kHz / 896 kbps (AC3 Core: 5.1 / 48 kHz / 512 kbps ( Core: 5.1 / 48 kHz / 512 kbps))
+* Subtitle: English / 0 kbps  
+* Subtitle: French / 0 kbps  
+* Subtitle: Dutch / 0 kbps  
+* Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 00800.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     2:10:38  32,115,578,880  49,129,977,856  32.78   0.00    DTS-HD Master 7.1                         
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS  
+Length:                 2:10:38.330 (h:m:s.ms)
+Size:                   32,115,578,880 bytes
+Total Bitrate:          32.78 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         0 kbps          7.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+Dolby Digital Plus Audio        French          896 kbps        7.1 / 48 kHz / 896 kbps (AC3 Core: 5.1 / 48 kHz / 512 kbps ( Core: 5.1 / 48 kHz / 512 kbps))
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+Presentation Graphics           French          0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00705.M2TS      0:00:00.000     2:10:38.330     32,115,578,880  32,777 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:23.985     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:07:23.985     0:03:43.389     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:11:07.375     0:03:30.418     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:14:37.793     0:04:25.390     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:19:03.183     0:01:47.106     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:20:50.290     0:07:33.995     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+7               0:28:24.285     0:02:44.998     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+8               0:31:09.284     0:03:21.576     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+9               0:34:30.860     0:03:40.428     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+10              0:38:11.289     0:03:51.564     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+11              0:42:02.853     0:05:16.524     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+12              0:47:19.378     0:11:11.545     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+13              0:58:30.924     0:00:41.875     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+14              0:59:12.799     0:03:12.108     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+15              1:02:24.907     0:02:57.677     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+16              1:05:22.585     0:01:53.863     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+17              1:07:16.449     0:01:52.403     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+18              1:09:08.853     0:04:44.534     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+19              1:13:53.387     0:12:56.609     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+20              1:26:49.996     0:06:21.339     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+21              1:33:11.335     0:03:27.665     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+22              1:36:39.001     0:03:00.013     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+23              1:39:39.014     0:04:46.661     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+24              1:44:25.676     0:04:03.284     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+25              1:48:28.960     0:09:35.575     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+26              1:58:04.535     0:03:54.317     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+27              2:01:58.853     0:08:39.477     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00705.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00705.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+00705.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00705.M2TS      4354 (0x1102)   0x84            AC3+            fra (French)            0.00                    0                       0               0               
+00705.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00705.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00705.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00705.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 00800.MPLS  
+Size: 32,115,578,880 bytes
+Length: 2:10:38.330
+Total Bitrate: 32.78 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Audio: French / Dolby Digital Plus Audio / 7.1 / 48 kHz / 896 kbps (AC3 Core: 5.1 / 48 kHz / 512 kbps ( Core: 5.1 / 48 kHz / 512 kbps))
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+Subtitle: French / 0 kbps  
+
+
+********************
+PLAYLIST: 01627.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01627.MPLS                                                      AVC     1:29:33  10,623,762,432  49,129,977,856  15.82   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01627.MPLS  
+Length:                 1:29:33.201 (h:m:s.ms)
+Size:                   10,623,762,432 bytes
+Total Bitrate:          15.82 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00737.M2TS      0:00:00.000     0:11:22.473     1,351,219,200   15,839 kbps     
+00738.M2TS      0:11:22.473     0:18:32.820     2,198,323,200   15,803 kbps     
+00739.M2TS      0:29:55.293     0:26:40.974     3,172,638,720   15,853 kbps     
+00740.M2TS      0:56:36.267     0:17:00.227     2,018,795,520   15,830 kbps     
+00741.M2TS      1:13:36.495     0:11:45.913     1,389,121,536   15,742 kbps     
+00742.M2TS      1:25:22.408     0:04:10.792     493,664,256     15,747 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:22.473     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:11:22.473     0:18:32.820     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:29:55.293     0:26:40.974     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:56:36.267     0:17:00.227     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               1:13:36.495     0:11:45.913     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               1:25:22.408     0:04:10.792     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00737.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00737.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00737.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00737.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00737.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00738.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00738.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00738.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00738.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00738.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00739.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00739.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00739.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00739.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00739.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00740.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00740.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00740.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00740.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00740.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00741.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00741.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00741.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00741.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00741.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+00742.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00742.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00742.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00742.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00742.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01627.MPLS  
+Size: 10,623,762,432 bytes
+Length: 1:29:33.201
+Total Bitrate: 15.82 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+
+
+********************
+PLAYLIST: 01619.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01619.MPLS                                                      AVC     0:26:40  3,172,638,720   49,129,977,856  15.85   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01619.MPLS  
+Length:                 0:26:40.974 (h:m:s.ms)
+Size:                   3,172,638,720 bytes
+Total Bitrate:          15.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00739.M2TS      0:00:00.000     0:26:40.974     3,172,638,720   15,853 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:26:40.974     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00739.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00739.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00739.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00739.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00739.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01619.MPLS  
+Size: 3,172,638,720 bytes
+Length: 0:26:40.974
+Total Bitrate: 15.85 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+
+
+********************
+PLAYLIST: 01624.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01624.MPLS                                                      AVC     0:26:28  3,184,201,728   49,129,977,856  16.03   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01624.MPLS  
+Length:                 0:26:28.837 (h:m:s.ms)
+Size:                   3,184,201,728 bytes
+Total Bitrate:          16.03 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00744.M2TS      0:00:00.000     0:26:28.837     3,184,201,728   16,032 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:12.020     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:05:12.020     0:04:36.859     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:09:48.879     0:05:16.232     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:15:05.112     0:04:41.155     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+5               0:19:46.268     0:04:22.178     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+6               0:24:08.447     0:02:20.390     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00744.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00744.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00744.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00744.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00744.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01624.MPLS  
+Size: 3,184,201,728 bytes
+Length: 0:26:28.837
+Total Bitrate: 16.03 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+
+
+********************
+PLAYLIST: 01618.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01618.MPLS                                                      AVC     0:18:32  2,198,323,200   49,129,977,856  15.80   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01618.MPLS  
+Length:                 0:18:32.820 (h:m:s.ms)
+Size:                   2,198,323,200 bytes
+Total Bitrate:          15.80 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00738.M2TS      0:00:00.000     0:18:32.820     2,198,323,200   15,803 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:18:32.820     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00738.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00738.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00738.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00738.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00738.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01618.MPLS  
+Size: 2,198,323,200 bytes
+Length: 0:18:32.820
+Total Bitrate: 15.80 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+
+
+********************
+PLAYLIST: 01620.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01620.MPLS                                                      AVC     0:17:00  2,018,795,520   49,129,977,856  15.83   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01620.MPLS  
+Length:                 0:17:00.227 (h:m:s.ms)
+Size:                   2,018,795,520 bytes
+Total Bitrate:          15.83 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00740.M2TS      0:00:00.000     0:17:00.227     2,018,795,520   15,830 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:17:00.227     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00740.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00740.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00740.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00740.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00740.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01620.MPLS  
+Size: 2,018,795,520 bytes
+Length: 0:17:00.227
+Total Bitrate: 15.83 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+
+
+********************
+PLAYLIST: 01623.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01623.MPLS                                                      AVC     0:15:43  1,893,027,840   49,129,977,856  16.06   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01623.MPLS  
+Length:                 0:15:43.150 (h:m:s.ms)
+Size:                   1,893,027,840 bytes
+Total Bitrate:          16.06 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00743.M2TS      0:00:00.000     0:15:43.150     1,893,027,840   16,057 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:34.857     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:04:34.857     0:04:55.128     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:09:29.986     0:06:13.164     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00743.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00743.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00743.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00743.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00743.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01623.MPLS  
+Size: 1,893,027,840 bytes
+Length: 0:15:43.150
+Total Bitrate: 16.06 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+
+
+********************
+PLAYLIST: 01621.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01621.MPLS                                                      AVC     0:11:45  1,389,121,536   49,129,977,856  15.74   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01621.MPLS  
+Length:                 0:11:45.913 (h:m:s.ms)
+Size:                   1,389,121,536 bytes
+Total Bitrate:          15.74 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00741.M2TS      0:00:00.000     0:11:45.913     1,389,121,536   15,742 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:45.913     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00741.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00741.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00741.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00741.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00741.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01621.MPLS  
+Size: 1,389,121,536 bytes
+Length: 0:11:45.913
+Total Bitrate: 15.74 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+
+
+********************
+PLAYLIST: 01617.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01617.MPLS                                                      AVC     0:11:22  1,351,219,200   49,129,977,856  15.84   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01617.MPLS  
+Length:                 0:11:22.473 (h:m:s.ms)
+Size:                   1,351,219,200 bytes
+Total Bitrate:          15.84 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00737.M2TS      0:00:00.000     0:11:22.473     1,351,219,200   15,839 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:22.473     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00737.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00737.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00737.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00737.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00737.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01617.MPLS  
+Size: 1,351,219,200 bytes
+Length: 0:11:22.473
+Total Bitrate: 15.84 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+
+
+********************
+PLAYLIST: 01622.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01622.MPLS                                                      AVC     0:04:10  493,664,256     49,129,977,856  15.75   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01622.MPLS  
+Length:                 0:04:10.792 (h:m:s.ms)
+Size:                   493,664,256 bytes
+Total Bitrate:          15.75 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00742.M2TS      0:00:00.000     0:04:10.792     493,664,256     15,747 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:10.792     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00742.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00742.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00742.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00742.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00742.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01622.MPLS  
+Size: 493,664,256 bytes
+Length: 0:04:10.792
+Total Bitrate: 15.75 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+
+
+********************
+PLAYLIST: 01625.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01625.MPLS                                                      AVC     0:01:47  218,658,816     49,129,977,856  16.30   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01625.MPLS  
+Length:                 0:01:47.315 (h:m:s.ms)
+Size:                   218,658,816 bytes
+Total Bitrate:          16.30 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0 kbps                          
+Presentation Graphics           French          0 kbps                          
+Presentation Graphics           Dutch           0 kbps                          
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00745.M2TS      0:00:00.000     0:01:47.315     218,658,816     16,300 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:47.315     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00745.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00745.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+00745.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           0.00                    0                       0               0               
+00745.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            0.00                    0                       0               0               
+00745.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01625.MPLS  
+Size: 218,658,816 bytes
+Length: 0:01:47.315
+Total Bitrate: 16.30 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+Subtitle: English / 0 kbps  
+Subtitle: French / 0 kbps  
+Subtitle: Dutch / 0 kbps  
+
+
+********************
+PLAYLIST: 01402.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01402.MPLS                                                      AVC     0:01:05  183,386,112     49,129,977,856  22.36   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01402.MPLS  
+Length:                 0:01:05.607 (h:m:s.ms)
+Size:                   183,386,112 bytes
+Total Bitrate:          22.36 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00617.M2TS      0:00:00.000     0:01:05.607     183,386,112     22,361 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:05.607     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00617.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00617.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01402.MPLS  
+Size: 183,386,112 bytes
+Length: 0:01:05.607
+Total Bitrate: 22.36 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+
+
+********************
+PLAYLIST: 01401.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01401.MPLS                                                      AVC     0:01:05  183,244,800     49,129,977,856  22.34   0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01401.MPLS  
+Length:                 0:01:05.607 (h:m:s.ms)
+Size:                   183,244,800 bytes
+Total Bitrate:          22.34 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00616.M2TS      0:00:00.000     0:01:05.607     183,244,800     22,344 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:05.607     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00616.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00616.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01401.MPLS  
+Size: 183,244,800 bytes
+Length: 0:01:05.607
+Total Bitrate: 22.34 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+
+
+********************
+PLAYLIST: 01490.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01490.MPLS                                                      AVC     0:00:41  23,199,744      49,129,977,856  4.46    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01490.MPLS  
+Length:                 0:00:41.624 (h:m:s.ms)
+Size:                   23,199,744 bytes
+Total Bitrate:          4.46 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz / 192 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00704.M2TS      0:00:00.000     0:00:41.624     23,199,744      4,458 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:41.624     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00704.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00704.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01490.MPLS  
+Size: 23,199,744 bytes
+Length: 0:00:41.624
+Total Bitrate: 4.46 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps
+
+
+********************
+PLAYLIST: 01468.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01468.MPLS                                                      AVC     0:00:21  11,796,480      49,129,977,856  4.49    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01468.MPLS  
+Length:                 0:00:21.021 (h:m:s.ms)
+Size:                   11,796,480 bytes
+Total Bitrate:          4.49 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00682.M2TS      0:00:00.000     0:00:21.021     11,796,480      4,489 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:07.007     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:07.007     0:00:07.007     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:14.014     0:00:07.007     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00682.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01468.MPLS  
+Size: 11,796,480 bytes
+Length: 0:00:21.021
+Total Bitrate: 4.49 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+********************
+PLAYLIST: 01113.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01113.MPLS                                                      AVC     0:00:20  374,039         49,129,977,856  0.15    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01113.MPLS  
+Length:                 0:00:20.061 (h:m:s.ms)
+Size:                   374,039 bytes
+Total Bitrate:          0.15 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00248.M2TS      0:00:00.000     0:00:05.005     53,184          85 kbps         
+00248.M2TS      0:00:05.005     0:00:05.005     157,632         251 kbps        
+00248.M2TS      0:00:10.010     0:00:05.005     95,808          153 kbps        
+00248.M2TS      0:00:15.015     0:00:05.005     66,432          106 kbps        
+00248.M2TS      0:00:20.020     0:00:00.041     983             188 kbps        
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+3               0:00:10.010     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+4               0:00:15.015     0:00:05.046     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00248.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01113.MPLS  
+Size: 374,039 bytes
+Length: 0:00:20.061
+Total Bitrate: 0.15 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+********************
+PLAYLIST: 01612.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01612.MPLS                                                      AVC     0:00:10  29,614,080      49,129,977,856  22.90   0.00    DTS-HD Master 5.1                         
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01612.MPLS  
+Length:                 0:00:10.343 (h:m:s.ms)
+Size:                   29,614,080 bytes
+Total Bitrate:          22.90 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         0 kbps          5.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00732.M2TS      0:00:00.000     0:00:10.343     29,614,080      22,904 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.343     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00732.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00732.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01612.MPLS  
+Size: 29,614,080 bytes
+Length: 0:00:10.343
+Total Bitrate: 22.90 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+
+
+********************
+PLAYLIST: 01355.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01355.MPLS                                                      AVC     0:00:10  20,164,608      49,129,977,856  16.12   0.00    LPCM 2.0                                  LPCM 2.0
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01355.MPLS  
+Length:                 0:00:10.010 (h:m:s.ms)
+Size:                   20,164,608 bytes
+Total Bitrate:          16.12 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      English         1536 kbps       2.0 / 48 kHz / 1536 kbps / 16-bit
+LPCM Audio                      English         1536 kbps       2.0 / 48 kHz / 1536 kbps / 16-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00706.M2TS      0:00:00.000     0:00:05.005     10,082,304      16,115 kbps     
+00728.M2TS      0:00:05.005     0:00:05.005     10,082,304      16,115 kbps     
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00706.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00706.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00706.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00728.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00728.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+00728.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01355.MPLS  
+Size: 20,164,608 bytes
+Length: 0:00:10.010
+Total Bitrate: 16.12 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / LPCM Audio / 2.0 / 48 kHz / 1536 kbps / 16-bit
+Audio: English / LPCM Audio / 2.0 / 48 kHz / 1536 kbps / 16-bit
+
+
+********************
+PLAYLIST: 01628.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01628.MPLS                                                      AVC     0:00:10  5,750,784       49,129,977,856  4.60    0.00    DD AC3 2.0                                
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01628.MPLS  
+Length:                 0:00:10.010 (h:m:s.ms)
+Size:                   5,750,784 bytes
+Total Bitrate:          4.60 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz / 320 kbps
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00746.M2TS      0:00:00.000     0:00:10.010     5,750,784       4,596 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:10.010     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00746.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+00746.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01628.MPLS  
+Size: 5,750,784 bytes
+Length: 0:00:10.010
+Total Bitrate: 4.60 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz / 320 kbps
+
+
+********************
+PLAYLIST: 01481.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01481.MPLS                                                      AVC     0:00:10  7,004,160       49,129,977,856  5.60    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01481.MPLS  
+Length:                 0:00:10.010 (h:m:s.ms)
+Size:                   7,004,160 bytes
+Total Bitrate:          5.60 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00695.M2TS      0:00:00.000     0:00:10.010     7,004,160       5,597 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00695.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01481.MPLS  
+Size: 7,004,160 bytes
+Length: 0:00:10.010
+Total Bitrate: 5.60 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+
+********************
+PLAYLIST: 01460.MPLS  
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                  Total   Video                                             
+Title                                                           Codec   Length   Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  -------  --------------  --------------  ------- ------- ------------------                        ---------------------
+01460.MPLS                                                      AVC     0:00:10  8,005,632       49,129,977,856  6.40    0.00                                              
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     THE_KINGS_MAN
+Disc Size:      49,129,977,856 bytes
+Protection:     AACS(v76)
+Extras:         BD-Java
+BDInfo:         0.7.5.9 (compatible layout created by DVDFab 12.0.6.3)
+
+PLAYLIST REPORT:
+
+Name:                   01460.MPLS  
+Length:                 0:00:10.010 (h:m:s.ms)
+Size:                   8,005,632 bytes
+Total Bitrate:          6.40 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        0 kbps              1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00674.M2TS      0:00:00.000     0:00:10.010     8,005,632       6,398 kbps      
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+2               0:00:05.005     0:00:05.005     0 kbps          0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 bytes         0 bytes         00:00:00.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00674.M2TS      4113 (0x1011)   0x1B            AVC                                     0.00                    0                       0               0               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: THE_KINGS_MAN
+Disc Size: 49,129,977,856 bytes
+Protection: AACS(v76)
+Playlist: 01460.MPLS  
+Size: 8,005,632 bytes
+Length: 0:00:10.010
+Total Bitrate: 6.40 Mbps
+Video: MPEG-4 AVC Video / 0 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+
