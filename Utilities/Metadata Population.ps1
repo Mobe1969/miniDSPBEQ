@@ -402,7 +402,7 @@ foreach ($file in $files) {
     }
     elseif ($fileName.IndexOf("AC3") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("AC3"))
-        $audio.Replace("AC3", "DD")
+        $audio = $audio.Replace("AC3", "DD")
     }
     elseif ($fileName.IndexOf("DD 5") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("DD 5"))

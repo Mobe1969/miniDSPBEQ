@@ -1436,11 +1436,11 @@
     <beq_poster>/hgrKTnY1UJIYJHDv5geHixHVGl3.jpg</beq_poster>
     <beq_runtime>108</beq_runtime>
     <beq_collection id="30663">Harold &amp; Kumar Collection</beq_collection>
-    <beq_audioTypes>
-      <audioType>DD 5.1</audioType>
-    </beq_audioTypes>
     <beq_genres>
       <genre id="35">Comedy</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>DD 5.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
