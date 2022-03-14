@@ -1440,9 +1440,6 @@
     <beq_theMovieDB>77184</beq_theMovieDB>
     <beq_poster>/2N3sCxDhZo1vQqN7xc1UCyH4KHt.jpg</beq_poster>
     <beq_runtime>0</beq_runtime>
-    <beq_audioTypes>
-      <audioType>AC3 5.1</audioType>
-    </beq_audioTypes>
     <beq_collection id="9485">The Fast and the Furious Collection</beq_collection>
     <beq_genres>
       <genre id="16">Animation</genre>
@@ -1451,5 +1448,8 @@
       <genre id="10751">Family</genre>
       <genre id="10768">War &amp; Politics</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>DD 5.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
