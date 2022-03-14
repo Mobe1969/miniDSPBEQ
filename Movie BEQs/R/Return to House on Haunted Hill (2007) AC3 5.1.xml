@@ -1437,7 +1437,7 @@
     <beq_runtime>81</beq_runtime>
     <beq_collection id="248339">House on Haunted Hill Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>AC3 5.1</audioType>
+      <audioType>DD 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="53">Thriller</genre>

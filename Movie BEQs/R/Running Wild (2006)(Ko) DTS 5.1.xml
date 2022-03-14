@@ -1443,7 +1443,7 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS 5.1</audioType>
-      <audioType>AC3 2.0</audioType>
+      <audioType>DD 2.0</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

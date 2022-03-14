@@ -1437,7 +1437,7 @@
     <beq_runtime>110</beq_runtime>
     <beq_collection id="59567">Shanghai Noon Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>AC3 5.1</audioType>
+      <audioType>DD 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="35">Comedy</genre>
