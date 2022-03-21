@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>13.0</freq>
-    <q>2.7</q>
-    <boost>4.0</boost>
-    <type>PK</type>
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>3.6</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000073194827244,-1.999748991726505,0.9996765207509583,1.999748991726505,-0.9997497155782025,</dec>
-    <hex>0x3f800266,0xbffff7c6,0x3f7feacd,0x3ffff7c6,0xbf7fef99,</hex>
+    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
+    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>21.0</freq>
-    <q>1.7</q>
-    <boost>9.0</boost>
-    <type>PK</type>
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>3.6</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000437753531835,-1.9995166357231666,0.9990807708402228,1.9995166357231666,-0.9995185243720579,</dec>
-    <hex>0x3f800e58,0xbffff029,0x3f7fc3c2,0x3ffff029,0xbf7fe072,</hex>
+    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
+    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>30.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>3.5</boost>
+    <boost>3.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002477828479732,-1.9977793646089417,0.9975362923812591,1.9977801457618773,-0.9977832940762965,</dec>
-    <hex>0x3f80081f,0xbfffb73c,0x3f7f5e8a,0x3fffb743,0xbf7f6eba,</hex>
+    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
+    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>30.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>3.5</boost>
+    <boost>3.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002477828479732,-1.9977793646089417,0.9975362923812591,1.9977801457618773,-0.9977832940762965,</dec>
-    <hex>0x3f80081f,0xbfffb73c,0x3f7f5e8a,0x3fffb743,0xbf7f6eba,</hex>
+    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
+    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>30.0</freq>
-    <q>0.8</q>
-    <boost>3.5</boost>
-    <type>SL</type>
+    <freq>21.0</freq>
+    <q>4.0</q>
+    <boost>6.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002477828479732,-1.9977793646089417,0.9975362923812591,1.9977801457618773,-0.9977832940762965,</dec>
-    <hex>0x3f80081f,0xbfffb73c,0x3f7f5e8a,0x3fffb743,0xbf7f6eba,</hex>
+    <dec>1.0001210382251384,-1.99975488233439,0.9996357329831794,1.99975488233439,-0.9997567712083177,</dec>
+    <hex>0x3f8003f7,0xbffff7f8,0x3f7fe821,0x3ffff7f8,0xbf7ff00f,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>30.0</freq>
-    <q>0.8</q>
-    <boost>3.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002477828479732,-1.9977793646089417,0.9975362923812591,1.9977801457618773,-0.9977832940762965,</dec>
-    <hex>0x3f80081f,0xbfffb73c,0x3f7f5e8a,0x3fffb743,0xbf7f6eba,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>13.0</freq>
-    <q>2.7</q>
-    <boost>4.0</boost>
-    <type>PK</type>
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>3.6</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000073194827244,-1.999748991726505,0.9996765207509583,1.999748991726505,-0.9997497155782025,</dec>
-    <hex>0x3f800266,0xbffff7c6,0x3f7feacd,0x3ffff7c6,0xbf7fef99,</hex>
+    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
+    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>21.0</freq>
-    <q>1.7</q>
-    <boost>9.0</boost>
-    <type>PK</type>
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>3.6</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000437753531835,-1.9995166357231666,0.9990807708402228,1.9995166357231666,-0.9995185243720579,</dec>
-    <hex>0x3f800e58,0xbffff029,0x3f7fc3c2,0x3ffff029,0xbf7fe072,</hex>
+    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
+    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>30.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>3.5</boost>
+    <boost>3.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002477828479732,-1.9977793646089417,0.9975362923812591,1.9977801457618773,-0.9977832940762965,</dec>
-    <hex>0x3f80081f,0xbfffb73c,0x3f7f5e8a,0x3fffb743,0xbf7f6eba,</hex>
+    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
+    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>30.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>3.5</boost>
+    <boost>3.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002477828479732,-1.9977793646089417,0.9975362923812591,1.9977801457618773,-0.9977832940762965,</dec>
-    <hex>0x3f80081f,0xbfffb73c,0x3f7f5e8a,0x3fffb743,0xbf7f6eba,</hex>
+    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
+    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>30.0</freq>
-    <q>0.8</q>
-    <boost>3.5</boost>
-    <type>SL</type>
+    <freq>21.0</freq>
+    <q>4.0</q>
+    <boost>6.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002477828479732,-1.9977793646089417,0.9975362923812591,1.9977801457618773,-0.9977832940762965,</dec>
-    <hex>0x3f80081f,0xbfffb73c,0x3f7f5e8a,0x3fffb743,0xbf7f6eba,</hex>
+    <dec>1.0001210382251384,-1.99975488233439,0.9996357329831794,1.99975488233439,-0.9997567712083177,</dec>
+    <hex>0x3f8003f7,0xbffff7f8,0x3f7fe821,0x3ffff7f8,0xbf7ff00f,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>30.0</freq>
-    <q>0.8</q>
-    <boost>3.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002477828479732,-1.9977793646089417,0.9975362923812591,1.9977801457618773,-0.9977832940762965,</dec>
-    <hex>0x3f80081f,0xbfffb73c,0x3f7f5e8a,0x3fffb743,0xbf7f6eba,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,34 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Neon Genesis Evangelion: Death and Rebirth</beq_title>
-    <beq_alt_title>Evangelion Death</beq_alt_title>
-    <beq_sortTitle>evangelion death</beq_sortTitle>
-    <beq_year>True</beq_year>
+    <beq_title>Lost in Hong Kong</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>lost in hong kong</beq_sortTitle>
+    <beq_year>2015</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Evangelion%20Death%20%28True%292%20%281998%29%28Ja%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lost%20in%20Hong%20Kong%20%282015%29%28Ca%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Japanese</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>Originally a collection of clips from the Neon Genesis Evangelion TV series, Death was created as a precursor to the re-worked ending of the series. Rebirth was intended as that re-worked ending, but after production overruns Rebirth became only the first half of the first part of The End of Evangelion, with some minor differences.</beq_overview>
+    <beq_language>Cantonese</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>The film follows Xu Lai, a former artist whose dreams were dashed when the responsibilities of life set in. With his life now revolving around his wife Cai Bo who is obsessed with having children, the quirks of his eccentric family and his mediocre, ordinary existence, Xu Lai hopes to reconnect with his first love Yang YIi on an upcoming vacation. However, his hopes are dashed when he finds himself wrapped up in a murder investigation that proves truth is often stranger than fiction.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>21832</beq_theMovieDB>
-    <beq_poster>/lXBjqzo6c4NyLuJtqOiH39kswji.jpg</beq_poster>
-    <beq_runtime>101</beq_runtime>
+    <beq_theMovieDB>361613</beq_theMovieDB>
+    <beq_poster>/5hXxdYsFdKIFe5jp2uHiGOITlmx.jpg</beq_poster>
+    <beq_runtime>114</beq_runtime>
     <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="878">Science Fiction</genre>
-      <genre id="16">Animation</genre>
+      <genre id="35">Comedy</genre>
     </beq_genres>
-    <beq_collection id="96850">Evangelion Collection</beq_collection>
+    <beq_collection id="680443">Lost Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
