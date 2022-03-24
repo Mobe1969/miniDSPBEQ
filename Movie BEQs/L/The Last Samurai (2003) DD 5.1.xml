@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>30.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>16.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.001171785344505,-1.9984469908110545,0.9972848820879135,1.9984510623011702,-0.9984525959423031,</dec>
-    <hex>0x3f802666,0xbfffcd1c,0x3f7f4e10,0x3fffcd3f,0xbf7f9a97,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>30.0</freq>
-    <q>0.8</q>
-    <boost>16.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.001171785344505,-1.9984469908110545,0.9972848820879135,1.9984510623011702,-0.9984525959423031,</dec>
-    <hex>0x3f802666,0xbfffcd1c,0x3f7f4e10,0x3fffcd3f,0xbf7f9a97,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>30.0</freq>
-    <q>0.8</q>
-    <boost>16.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.001171785344505,-1.9984469908110545,0.9972848820879135,1.9984510623011702,-0.9984525959423031,</dec>
-    <hex>0x3f802666,0xbfffcd1c,0x3f7f4e10,0x3fffcd3f,0xbf7f9a97,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>47.0</freq>
-    <q>1.3</q>
-    <boost>7.0</boost>
+    <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0009787296199106,-1.9984103189183322,0.9974410444689666,1.9984103189183322,-0.9984197740888772,</dec>
-    <hex>0x3f802012,0xbfffcbe9,0x3f7f584c,0x3fffcbe9,0xbf7f9870,</hex>
+    <dec>1.000477186012481,-1.9987720287141815,0.9982965551238617,1.9987720287141815,-0.9987737411363428,</dec>
+    <hex>0x3f800fa3,0xbfffd7c3,0x3f7f905d,0x3fffd7c3,0xbf7fafa3,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>30.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>16.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.001171785344505,-1.9984469908110545,0.9972848820879135,1.9984510623011702,-0.9984525959423031,</dec>
-    <hex>0x3f802666,0xbfffcd1c,0x3f7f4e10,0x3fffcd3f,0xbf7f9a97,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>30.0</freq>
-    <q>0.8</q>
-    <boost>16.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.001171785344505,-1.9984469908110545,0.9972848820879135,1.9984510623011702,-0.9984525959423031,</dec>
-    <hex>0x3f802666,0xbfffcd1c,0x3f7f4e10,0x3fffcd3f,0xbf7f9a97,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>30.0</freq>
-    <q>0.8</q>
-    <boost>16.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.001171785344505,-1.9984469908110545,0.9972848820879135,1.9984510623011702,-0.9984525959423031,</dec>
-    <hex>0x3f802666,0xbfffcd1c,0x3f7f4e10,0x3fffcd3f,0xbf7f9a97,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>47.0</freq>
-    <q>1.3</q>
-    <boost>7.0</boost>
+    <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0009787296199106,-1.9984103189183322,0.9974410444689666,1.9984103189183322,-0.9984197740888772,</dec>
-    <hex>0x3f802012,0xbfffcbe9,0x3f7f584c,0x3fffcbe9,0xbf7f9870,</hex>
+    <dec>1.000477186012481,-1.9987720287141815,0.9982965551238617,1.9987720287141815,-0.9987737411363428,</dec>
+    <hex>0x3f800fa3,0xbfffd7c3,0x3f7f905d,0x3fffd7c3,0xbf7fafa3,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Inkheart</beq_title>
+    <beq_title>The Last Samurai</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>inkheart</beq_sortTitle>
-    <beq_year>2008</beq_year>
+    <beq_sortTitle>the last samurai</beq_sortTitle>
+    <beq_year>2003</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Inkheart%20%282008%29%20TrueHD%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Last%20Samurai%20%282003%29%20DD%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,21 +1428,22 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>The adventures of a father and his young daughter, in their search for a long lost book that will help reunite a missing, close relative.</beq_overview>
-    <beq_rating>PG</beq_rating>
+    <beq_overview>Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>2309</beq_theMovieDB>
-    <beq_poster>/nPCxkoaxio4YPZmMdnQ2EFbgtUo.jpg</beq_poster>
-    <beq_runtime>106</beq_runtime>
+    <beq_theMovieDB>616</beq_theMovieDB>
+    <beq_poster>/lsasOSgYI85EHygtT5SvcxtZVYT.jpg</beq_poster>
+    <beq_runtime>154</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="12">Adventure</genre>
-      <genre id="10751">Family</genre>
-      <genre id="14">Fantasy</genre>
+      <genre id="18">Drama</genre>
+      <genre id="28">Action</genre>
+      <genre id="10752">War</genre>
+      <genre id="36">History</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>TrueHD 5.1</audioType>
+      <audioType>DD 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
