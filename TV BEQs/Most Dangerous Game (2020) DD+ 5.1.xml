@@ -1415,33 +1415,38 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Moonbound</beq_title>
-    <beq_alt_title>Most Dangerous Game</beq_alt_title>
+    <beq_title>Most Dangerous Game</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>most dangerous game</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Most%20Dangerous%20Game%20%282020%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Most%20Dangerous%20Game%20%282020%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="126995">
+        <number>1</number>
+        <poster>/r4RU5RC4AvDjEWouXuAj4L5M0YS.jpg</poster>
+        <episodes count="15">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>When Peter sets out on a magical journey to rescue his little sister Anne, he needs to travel to mysterious territory: the Moon! Anne was kidnapped by the evil Moon Man when she tried to help the beetle Mr. Zoomzeman in search for his wife. On his fantastic adventure, Peter lands on the Star Meadow where he meets the sleepy Mr. Sandman. He knows, only at the Night Fairy’s dinner in the castle in the clouds, they can find out where Anne is – but there aren’t enough seats for everyone. So they join the wild race along the Milky Way against the five Spirits of Nature: Storm Giant, Lightning Witch, Henry Hail, Rainy Robin and Mother Frost…</beq_overview>
+    <beq_overview>Desperate to take care of his pregnant wife before a terminal illness can take his life, Dodge Maynard accepts an offer to participate in a deadly game where he soon discovers that he’s not the hunter but the prey.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>903698</beq_theMovieDB>
-    <beq_poster>/bkp1oHMvDwDTlbRhCcqAK0A7JNd.jpg</beq_poster>
-    <beq_runtime>128</beq_runtime>
+    <beq_theMovieDB>90795</beq_theMovieDB>
+    <beq_poster>/za29IzeL20fLNShWPjdH7nPmyjq.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="18">Drama</genre>
+      <genre id="10759">Action &amp; Adventure</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
