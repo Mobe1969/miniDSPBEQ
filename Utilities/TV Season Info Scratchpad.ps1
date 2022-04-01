@@ -3,7 +3,7 @@
 }
 
 
-$id = "63333"
+$id = "169590"
 $url = "https://api.themoviedb.org/3/tv/" + $id + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
 $result = Invoke-RestMethod -Uri $url
 
