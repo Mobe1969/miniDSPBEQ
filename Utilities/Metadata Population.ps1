@@ -339,7 +339,7 @@ foreach ($file in $files) {
             if ([string]::IsNullOrWhitespace($beqMetadata.beq_collection) -and ![string]::IsNullOrWhitespace($result.belongs_to_collection.id)) {                    
                 $collectionNode = $content.CreateElement("beq_collection")
                 $collectionNode.SetAttribute("id", $result.belongs_to_collection.id.ToString())
-                $collectionNode.InnerText = $result.belongs_to_collection.name
+                $collectionNode.InnerText = $result.belongs_to_collection.name.Replace(":", "")
                 $currentCollectionNode = $content.SelectSingleNode("/setting/beq_metadata/beq_collection")
                 if ($null -ne $currentCollectionNode) {
                     $currentCollectionNode.ParentNode.RemoveChild($currentCollectionNode)
