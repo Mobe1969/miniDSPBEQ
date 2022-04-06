@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.6</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000127306844082,-1.9996711373482583,0.9995455436966374,1.9996711373482583,-0.9996728505407192,</dec>
-    <hex>0x3f80042c,0xbffff539,0x3f7fe237,0x3ffff539,0xbf7fea8f,</hex>
+    <dec>1.0000735495415234,-1.9990888300915686,0.9990159966637447,1.9990889227172082,-0.9990894535796276,</dec>
+    <hex>0x3f800269,0xbfffe225,0x3f7fbf83,0x3fffe225,0xbf7fc454,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.0</boost>
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000315759258692,-1.9984686335274033,0.9981566531672631,1.9984695760088236,-0.9984714699445347,</dec>
-    <hex>0x3f800a59,0xbfffcdd2,0x3f7f8732,0x3fffcdda,0xbf7f9bd4,</hex>
+    <dec>1.0000735495415234,-1.9990888300915686,0.9990159966637447,1.9990889227172082,-0.9990894535796276,</dec>
+    <hex>0x3f800269,0xbfffe225,0x3f7fbf83,0x3fffe225,0xbf7fc454,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.0</boost>
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000315759258692,-1.9984686335274033,0.9981566531672631,1.9984695760088236,-0.9984714699445347,</dec>
-    <hex>0x3f800a59,0xbfffcdd2,0x3f7f8732,0x3fffcdda,0xbf7f9bd4,</hex>
+    <dec>1.0000735495415234,-1.9990888300915686,0.9990159966637447,1.9990889227172082,-0.9990894535796276,</dec>
+    <hex>0x3f800269,0xbfffe225,0x3f7fbf83,0x3fffe225,0xbf7fc454,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.0</boost>
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000315759258692,-1.9984686335274033,0.9981566531672631,1.9984695760088236,-0.9984714699445347,</dec>
-    <hex>0x3f800a59,0xbfffcdd2,0x3f7f8732,0x3fffcdda,0xbf7f9bd4,</hex>
+    <dec>1.0000735495415234,-1.9990888300915686,0.9990159966637447,1.9990889227172082,-0.9990894535796276,</dec>
+    <hex>0x3f800269,0xbfffe225,0x3f7fbf83,0x3fffe225,0xbf7fc454,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000315759258692,-1.9984686335274033,0.9981566531672631,1.9984695760088236,-0.9984714699445347,</dec>
-    <hex>0x3f800a59,0xbfffcdd2,0x3f7f8732,0x3fffcdda,0xbf7f9bd4,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>27.0</freq>
-    <q>2.0</q>
-    <boost>16.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0009336743724626,-1.9996451830632997,0.9987146309454054,1.9996451830632997,-0.9996483053178681,</dec>
-    <hex>0x3f801e98,0xbffff460,0x3f7fabc3,0x3ffff460,0xbf7fe8f4,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
-    <type>PK</type>
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.6</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000127306844082,-1.9996711373482583,0.9995455436966374,1.9996711373482583,-0.9996728505407192,</dec>
-    <hex>0x3f80042c,0xbffff539,0x3f7fe237,0x3ffff539,0xbf7fea8f,</hex>
+    <dec>1.0000735495415234,-1.9990888300915686,0.9990159966637447,1.9990889227172082,-0.9990894535796276,</dec>
+    <hex>0x3f800269,0xbfffe225,0x3f7fbf83,0x3fffe225,0xbf7fc454,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.0</boost>
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000315759258692,-1.9984686335274033,0.9981566531672631,1.9984695760088236,-0.9984714699445347,</dec>
-    <hex>0x3f800a59,0xbfffcdd2,0x3f7f8732,0x3fffcdda,0xbf7f9bd4,</hex>
+    <dec>1.0000735495415234,-1.9990888300915686,0.9990159966637447,1.9990889227172082,-0.9990894535796276,</dec>
+    <hex>0x3f800269,0xbfffe225,0x3f7fbf83,0x3fffe225,0xbf7fc454,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.0</boost>
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000315759258692,-1.9984686335274033,0.9981566531672631,1.9984695760088236,-0.9984714699445347,</dec>
-    <hex>0x3f800a59,0xbfffcdd2,0x3f7f8732,0x3fffcdda,0xbf7f9bd4,</hex>
+    <dec>1.0000735495415234,-1.9990888300915686,0.9990159966637447,1.9990889227172082,-0.9990894535796276,</dec>
+    <hex>0x3f800269,0xbfffe225,0x3f7fbf83,0x3fffe225,0xbf7fc454,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.0</boost>
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>2.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000315759258692,-1.9984686335274033,0.9981566531672631,1.9984695760088236,-0.9984714699445347,</dec>
-    <hex>0x3f800a59,0xbfffcdd2,0x3f7f8732,0x3fffcdda,0xbf7f9bd4,</hex>
+    <dec>1.0000735495415234,-1.9990888300915686,0.9990159966637447,1.9990889227172082,-0.9990894535796276,</dec>
+    <hex>0x3f800269,0xbfffe225,0x3f7fbf83,0x3fffe225,0xbf7fc454,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000315759258692,-1.9984686335274033,0.9981566531672631,1.9984695760088236,-0.9984714699445347,</dec>
-    <hex>0x3f800a59,0xbfffcdd2,0x3f7f8732,0x3fffcdda,0xbf7f9bd4,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>27.0</freq>
-    <q>2.0</q>
-    <boost>16.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0009336743724626,-1.9996451830632997,0.9987146309454054,1.9996451830632997,-0.9996483053178681,</dec>
-    <hex>0x3f801e98,0xbffff460,0x3f7fabc3,0x3ffff460,0xbf7fe8f4,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Escape From L.A.</beq_title>
+    <beq_title>Mars Needs Moms</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>escape from l.a.</beq_sortTitle>
-    <beq_year>1996</beq_year>
+    <beq_sortTitle>mars needs moms</beq_sortTitle>
+    <beq_year>2011</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Escape%20From%20L.A.%20%281996%29%20TrueHD%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mars%20Needs%20Moms%20%282011%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,22 +1428,21 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>This time, a cataclysmic temblor hits Los Angeles, turning it into an island. The president views the quake as a sign from above, expels Los Angeles from the country and makes it a penal colony for those found guilty of moral crimes. When his daughter, part of a resistance movement, steals the control unit for a doomsday weapon, Snake again gets tapped to save the day.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>When Martians suddenly abduct his mom, mischievous Milo rushes to the rescue and discovers why all moms are so special.</beq_overview>
+    <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>10061</beq_theMovieDB>
-    <beq_poster>/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg</beq_poster>
-    <beq_runtime>97</beq_runtime>
+    <beq_theMovieDB>50321</beq_theMovieDB>
+    <beq_poster>/g94LNU4pipIUJLkTvYIgNGfT2J2.jpg</beq_poster>
+    <beq_runtime>88</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="28">Action</genre>
       <genre id="12">Adventure</genre>
-      <genre id="878">Science Fiction</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="16">Animation</genre>
+      <genre id="10751">Family</genre>
     </beq_genres>
-    <beq_collection id="115838">Escape From ... Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>TrueHD 5.1</audioType>
+      <audioType>DTS-HD MA 7.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
