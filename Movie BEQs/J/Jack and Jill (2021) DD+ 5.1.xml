@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>12.0</freq>
-    <q>1.2</q>
-    <boost>7.0</boost>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000132851927167,-1.9994644081286923,0.9993324789080457,1.999464663403021,-0.9994650755608843,</dec>
-    <hex>0x3f80045a,0xbfffee73,0x3f7fd441,0x3fffee75,0xbf7fdcf1,</hex>
+    <dec>1.0001470815450801,-1.9991178684833686,0.9989719060718751,1.99911811338263,-0.9991187427176941,</dec>
+    <hex>0x3f8004d2,0xbfffe318,0x3f7fbc9f,0x3fffe31a,0xbf7fc63f,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>12.0</freq>
-    <q>1.2</q>
-    <boost>7.0</boost>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000132851927167,-1.9994644081286923,0.9993324789080457,1.999464663403021,-0.9994650755608843,</dec>
-    <hex>0x3f80045a,0xbfffee73,0x3f7fd441,0x3fffee75,0xbf7fdcf1,</hex>
+    <dec>1.0001470815450801,-1.9991178684833686,0.9989719060718751,1.99911811338263,-0.9991187427176941,</dec>
+    <hex>0x3f8004d2,0xbfffe318,0x3f7fbc9f,0x3fffe31a,0xbf7fc63f,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>14.0</freq>
-    <q>2.4</q>
-    <boost>7.0</boost>
-    <type>PK</type>
+    <q>0.9</q>
+    <boost>5.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001580205308,-1.9997440255506802,0.999586844514479,1.9997440255506802,-0.9997448650452792,</dec>
-    <hex>0x3f80052e,0xbffff79d,0x3f7fe4ec,0x3ffff79d,0xbf7fef48,</hex>
+    <dec>1.0001470815450801,-1.9991178684833686,0.9989719060718751,1.99911811338263,-0.9991187427176941,</dec>
+    <hex>0x3f8004d2,0xbfffe318,0x3f7fbc9f,0x3fffe31a,0xbf7fc63f,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>19.0</freq>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001470815450801,-1.9991178684833686,0.9989719060718751,1.99911811338263,-0.9991187427176941,</dec>
+    <hex>0x3f8004d2,0xbfffe318,0x3f7fbc9f,0x3fffe31a,0xbf7fc63f,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>23.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
+    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>27.0</freq>
     <q>3.0</q>
     <boost>7.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001715632515844,-1.9997214532013314,0.9995514361447397,1.9997214532013314,-0.9997229993963244,</dec>
-    <hex>0x3f80059f,0xbffff6df,0x3f7fe29a,0x3ffff6df,0xbf7fedd9,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003802591495092,-1.9986992305465676,0.9983216853051162,1.9987000472874676,-0.9987011277137254,</dec>
-    <hex>0x3f800c76,0xbfffd560,0x3f7f9203,0x3fffd567,0xbf7faae1,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>7.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0004649189512596,-1.998125384567107,0.9976654858834028,1.998126773465312,-0.9981290159364575,</dec>
-    <hex>0x3f800f3c,0xbfffc293,0x3f7f6701,0x3fffc29e,0xbf7f8562,</hex>
+    <dec>1.0002437861294933,-1.9996032684311669,0.9993626044907962,1.9996032684311669,-0.9996063906202893,</dec>
+    <hex>0x3f8007fd,0xbffff300,0x3f7fd63a,0x3ffff300,0xbf7fe634,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>12.0</freq>
-    <q>1.2</q>
-    <boost>7.0</boost>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000132851927167,-1.9994644081286923,0.9993324789080457,1.999464663403021,-0.9994650755608843,</dec>
-    <hex>0x3f80045a,0xbfffee73,0x3f7fd441,0x3fffee75,0xbf7fdcf1,</hex>
+    <dec>1.0001470815450801,-1.9991178684833686,0.9989719060718751,1.99911811338263,-0.9991187427176941,</dec>
+    <hex>0x3f8004d2,0xbfffe318,0x3f7fbc9f,0x3fffe31a,0xbf7fc63f,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>12.0</freq>
-    <q>1.2</q>
-    <boost>7.0</boost>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000132851927167,-1.9994644081286923,0.9993324789080457,1.999464663403021,-0.9994650755608843,</dec>
-    <hex>0x3f80045a,0xbfffee73,0x3f7fd441,0x3fffee75,0xbf7fdcf1,</hex>
+    <dec>1.0001470815450801,-1.9991178684833686,0.9989719060718751,1.99911811338263,-0.9991187427176941,</dec>
+    <hex>0x3f8004d2,0xbfffe318,0x3f7fbc9f,0x3fffe31a,0xbf7fc63f,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>14.0</freq>
-    <q>2.4</q>
-    <boost>7.0</boost>
-    <type>PK</type>
+    <q>0.9</q>
+    <boost>5.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001580205308,-1.9997440255506802,0.999586844514479,1.9997440255506802,-0.9997448650452792,</dec>
-    <hex>0x3f80052e,0xbffff79d,0x3f7fe4ec,0x3ffff79d,0xbf7fef48,</hex>
+    <dec>1.0001470815450801,-1.9991178684833686,0.9989719060718751,1.99911811338263,-0.9991187427176941,</dec>
+    <hex>0x3f8004d2,0xbfffe318,0x3f7fbc9f,0x3fffe31a,0xbf7fc63f,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>19.0</freq>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001470815450801,-1.9991178684833686,0.9989719060718751,1.99911811338263,-0.9991187427176941,</dec>
+    <hex>0x3f8004d2,0xbfffe318,0x3f7fbc9f,0x3fffe31a,0xbf7fc63f,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>23.0</freq>
+    <q>0.8</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
+    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>27.0</freq>
     <q>3.0</q>
     <boost>7.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001715632515844,-1.9997214532013314,0.9995514361447397,1.9997214532013314,-0.9997229993963244,</dec>
-    <hex>0x3f80059f,0xbffff6df,0x3f7fe29a,0x3ffff6df,0xbf7fedd9,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003802591495092,-1.9986992305465676,0.9983216853051162,1.9987000472874676,-0.9987011277137254,</dec>
-    <hex>0x3f800c76,0xbfffd560,0x3f7f9203,0x3fffd567,0xbf7faae1,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>7.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0004649189512596,-1.998125384567107,0.9976654858834028,1.998126773465312,-0.9981290159364575,</dec>
-    <hex>0x3f800f3c,0xbfffc293,0x3f7f6701,0x3fffc29e,0xbf7f8562,</hex>
+    <dec>1.0002437861294933,-1.9996032684311669,0.9993626044907962,1.9996032684311669,-0.9996063906202893,</dec>
+    <hex>0x3f8007fd,0xbffff300,0x3f7fd63a,0x3ffff300,0xbf7fe634,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,35 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Galaxy Quest</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>galaxy quest</beq_sortTitle>
-    <beq_year>1999</beq_year>
+    <beq_title>The Legend of Jack and Jill</beq_title>
+    <beq_alt_title>Jack and Jill</beq_alt_title>
+    <beq_sortTitle>jack and jill</beq_sortTitle>
+    <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Galaxy%20Quest%20%281999%29%20TrueHD%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jack%20and%20Jill%20%282021%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>For four years, the courageous crew of the NSEA protector - "Commander Peter Quincy Taggart" (Tim Allen), "Lt. Tawny Madison (Sigourney Weaver) and "Dr.Lazarus" (Alan Rickman) - set off on a thrilling and often dangerous mission in space...and then their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for "historical documents" and beam up the crew of has-been actors to save the universe. With no script, no director and no clue, the actors must turn in the performances of their lives.</beq_overview>
-    <beq_rating>PG</beq_rating>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>A horror retelling of the nursery rhyme Jack and Jill. A group of friends grieving a recent loss meet up with one another only to discover they are being hunted by Jack and Jill.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>926</beq_theMovieDB>
-    <beq_poster>/fZXSwgZknp81vmciTb86rw0MejV.jpg</beq_poster>
-    <beq_runtime>101</beq_runtime>
+    <beq_theMovieDB>879917</beq_theMovieDB>
+    <beq_poster>/d1EZ3EAxPxCZbZnj8s32fqW8Z4D.jpg</beq_poster>
+    <beq_runtime>90</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="35">Comedy</genre>
-      <genre id="10751">Family</genre>
-      <genre id="878">Science Fiction</genre>
-      <genre id="12">Adventure</genre>
+      <genre id="27">Horror</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>TrueHD 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
