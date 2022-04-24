@@ -1421,7 +1421,7 @@
     <beq_year>2009</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Woochi%20The%20Demon%20Slayer%20%282009%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_edition>US, UK Blu Ray</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>40171</beq_theMovieDB>
     <beq_poster>/xrgsXvKv8h2X5xbZduJK6cMxtfE.jpg</beq_poster>
-    <beq_runtime>136</beq_runtime>
+    <beq_runtime>120</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="12">Adventure</genre>
