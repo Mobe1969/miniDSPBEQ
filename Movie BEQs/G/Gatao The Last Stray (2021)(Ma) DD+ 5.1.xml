@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Gatao</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>gatao</beq_sortTitle>
-    <beq_year>2015</beq_year>
+    <beq_title>Gatao: The Last Stray</beq_title>
+    <beq_alt_title>Gatao The Last Stray</beq_alt_title>
+    <beq_sortTitle>gatao the last stray</beq_sortTitle>
+    <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gatao%20%282015%29%28Ma%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gatao%20The%20Last%20Stray%20%282021%29%28Ma%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,13 +1428,13 @@
     <beq_gain />
     <beq_language>Mandarin</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Qing Feng is the top lieutenant under gang boss Yong. Three years ago, his good friend Xiong went to jail for him in the name of brotherhood. Upon his return, Xiong is immediately favored by Yong, which plants a growing rift in his friendship with Qing Feng. Over on the rival gang side, U.S.-educated Michael returns to Taiwan to take over for his late father and applies ruthless business strategies to expand his turf. With his eyes set on a profitable property development project, Michael will stop at nothing to eliminate Yong and take over his turf.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>A Qing encounters the photographer Xiao Qi at the full moon banquet of the daughter of the big brother Ren Ge at the corner of the Beiguan. They fall in love with each other. But, sadly, they aren't able to stay together at the end.</beq_overview>
+    <beq_rating>15</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>377579</beq_theMovieDB>
-    <beq_poster>/uraW1Xn1uMH7TG9yfaV7kIJnkYC.jpg</beq_poster>
-    <beq_runtime>104</beq_runtime>
+    <beq_theMovieDB>779221</beq_theMovieDB>
+    <beq_poster>/sUAAIH5BrR31aBDfzSjWI5Lorqd.jpg</beq_poster>
+    <beq_runtime>120</beq_runtime>
     <beq_genres>
       <genre id="80">Crime</genre>
       <genre id="28">Action</genre>
