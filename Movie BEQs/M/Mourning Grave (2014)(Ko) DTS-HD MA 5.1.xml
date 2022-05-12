@@ -1437,10 +1437,8 @@
     <beq_runtime>90</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="35">Comedy</genre>
       <genre id="53">Thriller</genre>
       <genre id="27">Horror</genre>
-      <genre id="10749">Romance</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
