@@ -1428,21 +1428,20 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.</beq_overview>
+    <beq_overview>In RoboCop, the year is 2028 and multinational conglomerate OmniCorp is at the center of robot technology.  Overseas, their drones have been used by the military for years, but have been forbidden for law enforcement in America.  Now OmniCorp wants to bring their controversial technology to the home front, and they see a golden opportunity to do it.  When Alex Murphy – a loving husband, father and good cop doing his best to stem the tide of crime and corruption in Detroit – is critically injured, OmniCorp sees their chance to build a part-man, part-robot police officer.  OmniCorp envisions a RoboCop in every city and even more billions for their shareholders, but they never counted on one thing: there is still a man inside the machine.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>5548</beq_theMovieDB>
-    <beq_poster>/hHtOgGb3NihlyRATHlKPaFApbrd.jpg</beq_poster>
-    <beq_runtime>102</beq_runtime>
-    <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="53">Thriller</genre>
-      <genre id="878">Science Fiction</genre>
-    </beq_genres>
+    <beq_theMovieDB>97020</beq_theMovieDB>
+    <beq_poster>/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg</beq_poster>
+    <beq_runtime>118</beq_runtime>
     <beq_collection id="5547">RoboCop Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="878">Science Fiction</genre>
+      <genre id="28">Action</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
