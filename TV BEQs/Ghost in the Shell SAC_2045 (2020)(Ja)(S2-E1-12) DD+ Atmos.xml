@@ -1422,7 +1422,7 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Ghost%20in%20the%20Shell%20SAC_2045%20%282020%29%28Ja%29%28S2-E1-12%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>
+    <beq_season id="125851">
       <number>2</number>
       <poster>/4mepyCNdD0bJviFot2JXNOI674r.jpg</poster>
       <episodes count="12">1,2,3,4,5,6,7,8,9,10,11,12</episodes>
