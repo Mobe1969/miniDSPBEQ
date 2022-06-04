@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>15.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.0002882764409253,-1.9983834727105165,0.9980982682771085,1.9983841742797241,-0.9983858431488265,</dec>
+    <hex>0x3f800972,0xbfffcb08,0x3f7f835e,0x3fffcb0d,0xbf7f9637,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>15.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.0002882764409253,-1.9983834727105165,0.9980982682771085,1.9983841742797241,-0.9983858431488265,</dec>
+    <hex>0x3f800972,0xbfffcb08,0x3f7f835e,0x3fffcb0d,0xbf7f9637,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>15.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.0002882764409253,-1.9983834727105165,0.9980982682771085,1.9983841742797241,-0.9983858431488265,</dec>
+    <hex>0x3f800972,0xbfffcb08,0x3f7f835e,0x3fffcb0d,0xbf7f9637,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>15.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.0002882764409253,-1.9983834727105165,0.9980982682771085,1.9983841742797241,-0.9983858431488265,</dec>
+    <hex>0x3f800972,0xbfffcb08,0x3f7f835e,0x3fffcb0d,0xbf7f9637,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>23.0</freq>
+    <q>3.0</q>
+    <boost>11.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000339351255025,-1.9997313814683126,0.9993942959790973,1.9997313814683126,-0.9997336472341224,</dec>
+    <hex>0x3f800b1f,0xbffff733,0x3f7fd84e,0x3ffff733,0xbf7fee8b,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>15.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.0002882764409253,-1.9983834727105165,0.9980982682771085,1.9983841742797241,-0.9983858431488265,</dec>
+    <hex>0x3f800972,0xbfffcb08,0x3f7f835e,0x3fffcb0d,0xbf7f9637,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>15.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.0002882764409253,-1.9983834727105165,0.9980982682771085,1.9983841742797241,-0.9983858431488265,</dec>
+    <hex>0x3f800972,0xbfffcb08,0x3f7f835e,0x3fffcb0d,0xbf7f9637,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>15.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.0002882764409253,-1.9983834727105165,0.9980982682771085,1.9983841742797241,-0.9983858431488265,</dec>
+    <hex>0x3f800972,0xbfffcb08,0x3f7f835e,0x3fffcb0d,0xbf7f9637,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>15.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.0002882764409253,-1.9983834727105165,0.9980982682771085,1.9983841742797241,-0.9983858431488265,</dec>
+    <hex>0x3f800972,0xbfffcb08,0x3f7f835e,0x3fffcb0d,0xbf7f9637,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>23.0</freq>
+    <q>3.0</q>
+    <boost>11.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000339351255025,-1.9997313814683126,0.9993942959790973,1.9997313814683126,-0.9997336472341224,</dec>
+    <hex>0x3f800b1f,0xbffff733,0x3f7fd84e,0x3ffff733,0xbf7fee8b,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,33 +1415,37 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>All Day and a Night</beq_title>
+    <beq_title>Top Boy</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>all day and a night</beq_sortTitle>
-    <beq_year>2020</beq_year>
+    <beq_sortTitle>top boy</beq_sortTitle>
+    <beq_year>2019</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/All%20Day%20and%20a%20Night%20%282020%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Top%20Boy%20%282019%29%28S1%201-10%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="132226">
+        <number>1</number>
+        <poster>/vx2o1aSg4APkZlUaxiMKYd4qWgX.jpg</poster>
+        <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>Two seasoned drug dealers return to the gritty street of London, but their pursuit of money and power is threatened by a young and ruthless hustler.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>530956</beq_theMovieDB>
-    <beq_poster>/8xiV8j18GhWnnrfMGaDR0E5oOif.jpg</beq_poster>
-    <beq_runtime>121</beq_runtime>
+    <beq_theMovieDB>93544</beq_theMovieDB>
+    <beq_poster>/cfqHWQQDwvKT8Xoe0AXzHBXcF1u.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
+      <genre id="80">Crime</genre>
       <genre id="18">Drama</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
-      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

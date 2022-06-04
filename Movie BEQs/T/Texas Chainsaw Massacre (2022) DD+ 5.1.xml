@@ -1441,6 +1441,7 @@
     </beq_genres>
     <beq_collection id="111751">Texas Chainsaw Massacre Collection</beq_collection>
     <beq_audioTypes>
+      <audioType>DD+ Atmos</audioType>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>

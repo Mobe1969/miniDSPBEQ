@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>15.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
+    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>15.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
+    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>15.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
+    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>15.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
+    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>1.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
+    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>15.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
+    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>15.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
+    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>15.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
+    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>15.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.2</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001487474290547,-1.9989121479491319,0.998764627291649,1.998912383124308,-0.9989131395455276,</dec>
-    <hex>0x3f8004e0,0xbfffdc5a,0x3f7faf0a,0x3fffdc5c,0xbf7fb8c6,</hex>
+    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
+    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>1.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000032976842538,-1.9988869027562173,0.9988548147703299,1.9988869510873808,-0.9988877432817043,</dec>
+    <hex>0x3f800115,0xbfffdb87,0x3f7fb4f3,0x3fffdb87,0xbf7fb71b,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>All Day and a Night</beq_title>
+    <beq_title>A Fall from Grace</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>all day and a night</beq_sortTitle>
+    <beq_sortTitle>a fall from grace</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/All%20Day%20and%20a%20Night%20%282020%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/A%20Fall%20from%20Grace%20%282020%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,20 +1428,21 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>530956</beq_theMovieDB>
-    <beq_poster>/8xiV8j18GhWnnrfMGaDR0E5oOif.jpg</beq_poster>
-    <beq_runtime>121</beq_runtime>
+    <beq_theMovieDB>651070</beq_theMovieDB>
+    <beq_poster>/h47JJZ015VF4neia33AFwTU37Yb.jpg</beq_poster>
+    <beq_runtime>120</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="18">Drama</genre>
+      <genre id="14">Fantasy</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
-      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
