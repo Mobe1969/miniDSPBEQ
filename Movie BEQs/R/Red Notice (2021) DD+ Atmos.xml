@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>1.5</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000954309042365,-1.9978835109089499,0.9977914808397131,1.9978837806034266,-0.9978866420494729,</dec>
-    <hex>0x3f800321,0xbfffbaa6,0x3f7f6f43,0x3fffbaa8,0xbf7f7580,</hex>
+    <dec>1.0002658824815787,-1.9988491489020561,0.9985850755323487,1.9988496303653935,-0.9988504765505901,</dec>
+    <hex>0x3f8008b6,0xbfffda4a,0x3f7fa346,0x3fffda4e,0xbf7fb4aa,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>1.5</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000954309042365,-1.9978835109089499,0.9977914808397131,1.9978837806034266,-0.9978866420494729,</dec>
-    <hex>0x3f800321,0xbfffbaa6,0x3f7f6f43,0x3fffbaa8,0xbf7f7580,</hex>
+    <dec>1.0002658824815787,-1.9988491489020561,0.9985850755323487,1.9988496303653935,-0.9988504765505901,</dec>
+    <hex>0x3f8008b6,0xbfffda4a,0x3f7fa346,0x3fffda4e,0xbf7fb4aa,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>1.5</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000954309042365,-1.9978835109089499,0.9977914808397131,1.9978837806034266,-0.9978866420494729,</dec>
-    <hex>0x3f800321,0xbfffbaa6,0x3f7f6f43,0x3fffbaa8,0xbf7f7580,</hex>
+    <dec>1.0002658824815787,-1.9988491489020561,0.9985850755323487,1.9988496303653935,-0.9988504765505901,</dec>
+    <hex>0x3f8008b6,0xbfffda4a,0x3f7fa346,0x3fffda4e,0xbf7fb4aa,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>1.5</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000954309042365,-1.9978835109089499,0.9977914808397131,1.9978837806034266,-0.9978866420494729,</dec>
-    <hex>0x3f800321,0xbfffbaa6,0x3f7f6f43,0x3fffbaa8,0xbf7f7580,</hex>
+    <dec>1.0002658824815787,-1.9988491489020561,0.9985850755323487,1.9988496303653935,-0.9988504765505901,</dec>
+    <hex>0x3f8008b6,0xbfffda4a,0x3f7fa346,0x3fffda4e,0xbf7fb4aa,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>1.5</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000954309042365,-1.9978835109089499,0.9977914808397131,1.9978837806034266,-0.9978866420494729,</dec>
-    <hex>0x3f800321,0xbfffbaa6,0x3f7f6f43,0x3fffbaa8,0xbf7f7580,</hex>
+    <dec>1.0002658824815787,-1.9988491489020561,0.9985850755323487,1.9988496303653935,-0.9988504765505901,</dec>
+    <hex>0x3f8008b6,0xbfffda4a,0x3f7fa346,0x3fffda4e,0xbf7fb4aa,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>1.5</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000954309042365,-1.9978835109089499,0.9977914808397131,1.9978837806034266,-0.9978866420494729,</dec>
-    <hex>0x3f800321,0xbfffbaa6,0x3f7f6f43,0x3fffbaa8,0xbf7f7580,</hex>
+    <dec>1.0002658824815787,-1.9988491489020561,0.9985850755323487,1.9988496303653935,-0.9988504765505901,</dec>
+    <hex>0x3f8008b6,0xbfffda4a,0x3f7fa346,0x3fffda4e,0xbf7fb4aa,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>1.5</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000954309042365,-1.9978835109089499,0.9977914808397131,1.9978837806034266,-0.9978866420494729,</dec>
-    <hex>0x3f800321,0xbfffbaa6,0x3f7f6f43,0x3fffbaa8,0xbf7f7580,</hex>
+    <dec>1.0002658824815787,-1.9988491489020561,0.9985850755323487,1.9988496303653935,-0.9988504765505901,</dec>
+    <hex>0x3f8008b6,0xbfffda4a,0x3f7fa346,0x3fffda4e,0xbf7fb4aa,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>1.5</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000954309042365,-1.9978835109089499,0.9977914808397131,1.9978837806034266,-0.9978866420494729,</dec>
-    <hex>0x3f800321,0xbfffbaa6,0x3f7f6f43,0x3fffbaa8,0xbf7f7580,</hex>
+    <dec>1.0002658824815787,-1.9988491489020561,0.9985850755323487,1.9988496303653935,-0.9988504765505901,</dec>
+    <hex>0x3f8008b6,0xbfffda4a,0x3f7fa346,0x3fffda4e,0xbf7fb4aa,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,38 +1415,35 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Raising Dion</beq_title>
+    <beq_title>Red Notice</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>raising dion</beq_sortTitle>
-    <beq_year>2019</beq_year>
+    <beq_sortTitle>red notice</beq_sortTitle>
+    <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Raising%20Dion%20%282019%29%28S1-E1-9%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Red%20Notice%20%282021%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="131952">
-        <number>1</number>
-        <poster>/y7M6iDITn5Ubk1gSQGC3ywBcqx0.jpg</poster>
-        <episodes count="9">1,2,3,4,5,6,7,8,9</episodes>
-    </beq_season>
+    <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>A widowed mom sets out to solve the mystery surrounding her young son's emerging superpowers while keeping his extraordinary gifts under wraps.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>93392</beq_theMovieDB>
-    <beq_poster>/y7M6iDITn5Ubk1gSQGC3ywBcqx0.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>512195</beq_theMovieDB>
+    <beq_poster>/lAXONuqg41NwUMuzMiFvicDET9Y.jpg</beq_poster>
+    <beq_runtime>118</beq_runtime>
     <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
+      <genre id="28">Action</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="80">Crime</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
+    <beq_collection id="932200">Red Notice Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
-      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
