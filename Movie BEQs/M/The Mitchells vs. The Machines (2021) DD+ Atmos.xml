@@ -804,38 +804,38 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>14.0</freq>
     <q>0.8</q>
-    <boost>5.7</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000188801379025,-1.9990275194486866,0.9988398831672582,1.9990277997711456,-0.9990284042238243,</dec>
-    <hex>0x3f800630,0xbfffe022,0x3f7fb3f8,0x3fffe025,0xbf7fc053,</hex>
+    <dec>1.0002189492737676,-1.9990523370646351,0.9988346148562522,1.9990526636265271,-0.9990532375681286,</dec>
+    <hex>0x3f80072d,0xbfffe0f2,0x3f7fb3a0,0x3fffe0f5,0xbf7fc1f4,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>14.0</freq>
     <q>0.8</q>
-    <boost>5.7</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000188801379025,-1.9990275194486866,0.9988398831672582,1.9990277997711456,-0.9990284042238243,</dec>
-    <hex>0x3f800630,0xbfffe022,0x3f7fb3f8,0x3fffe025,0xbf7fc053,</hex>
+    <dec>1.0002189492737676,-1.9990523370646351,0.9988346148562522,1.9990526636265271,-0.9990532375681286,</dec>
+    <hex>0x3f80072d,0xbfffe0f2,0x3f7fb3a0,0x3fffe0f5,0xbf7fc1f4,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>14.0</freq>
     <q>0.8</q>
-    <boost>5.7</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000188801379025,-1.9990275194486866,0.9988398831672582,1.9990277997711456,-0.9990284042238243,</dec>
-    <hex>0x3f800630,0xbfffe022,0x3f7fb3f8,0x3fffe025,0xbf7fc053,</hex>
+    <dec>1.0002189492737676,-1.9990523370646351,0.9988346148562522,1.9990526636265271,-0.9990532375681286,</dec>
+    <hex>0x3f80072d,0xbfffe0f2,0x3f7fb3a0,0x3fffe0f5,0xbf7fc1f4,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>14.0</freq>
     <q>0.8</q>
-    <boost>5.7</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000188801379025,-1.9990275194486866,0.9988398831672582,1.9990277997711456,-0.9990284042238243,</dec>
-    <hex>0x3f800630,0xbfffe022,0x3f7fb3f8,0x3fffe025,0xbf7fc053,</hex>
+    <dec>1.0002189492737676,-1.9990523370646351,0.9988346148562522,1.9990526636265271,-0.9990532375681286,</dec>
+    <hex>0x3f80072d,0xbfffe0f2,0x3f7fb3a0,0x3fffe0f5,0xbf7fc1f4,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -894,38 +894,38 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>14.0</freq>
     <q>0.8</q>
-    <boost>5.7</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000188801379025,-1.9990275194486866,0.9988398831672582,1.9990277997711456,-0.9990284042238243,</dec>
-    <hex>0x3f800630,0xbfffe022,0x3f7fb3f8,0x3fffe025,0xbf7fc053,</hex>
+    <dec>1.0002189492737676,-1.9990523370646351,0.9988346148562522,1.9990526636265271,-0.9990532375681286,</dec>
+    <hex>0x3f80072d,0xbfffe0f2,0x3f7fb3a0,0x3fffe0f5,0xbf7fc1f4,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>14.0</freq>
     <q>0.8</q>
-    <boost>5.7</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000188801379025,-1.9990275194486866,0.9988398831672582,1.9990277997711456,-0.9990284042238243,</dec>
-    <hex>0x3f800630,0xbfffe022,0x3f7fb3f8,0x3fffe025,0xbf7fc053,</hex>
+    <dec>1.0002189492737676,-1.9990523370646351,0.9988346148562522,1.9990526636265271,-0.9990532375681286,</dec>
+    <hex>0x3f80072d,0xbfffe0f2,0x3f7fb3a0,0x3fffe0f5,0xbf7fc1f4,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>14.0</freq>
     <q>0.8</q>
-    <boost>5.7</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000188801379025,-1.9990275194486866,0.9988398831672582,1.9990277997711456,-0.9990284042238243,</dec>
-    <hex>0x3f800630,0xbfffe022,0x3f7fb3f8,0x3fffe025,0xbf7fc053,</hex>
+    <dec>1.0002189492737676,-1.9990523370646351,0.9988346148562522,1.9990526636265271,-0.9990532375681286,</dec>
+    <hex>0x3f80072d,0xbfffe0f2,0x3f7fb3a0,0x3fffe0f5,0xbf7fc1f4,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>14.0</freq>
     <q>0.8</q>
-    <boost>5.7</boost>
+    <boost>6.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000188801379025,-1.9990275194486866,0.9988398831672582,1.9990277997711456,-0.9990284042238243,</dec>
-    <hex>0x3f800630,0xbfffe022,0x3f7fb3f8,0x3fffe025,0xbf7fc053,</hex>
+    <dec>1.0002189492737676,-1.9990523370646351,0.9988346148562522,1.9990526636265271,-0.9990532375681286,</dec>
+    <hex>0x3f80072d,0xbfffe0f2,0x3f7fb3a0,0x3fffe0f5,0xbf7fc1f4,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,13 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Back to the Outback</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>back to the outback</beq_sortTitle>
+    <beq_title>The Mitchells vs. The Machines</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>the mitchells vs. the machines</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Back%20to%20the%20Outback%20%282021%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Mitchells%20vs.%20The%20Machines%20%282021%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1429,23 +1428,21 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia’s deadliest creatures plot an escape from their zoo to the Outback, a place where they’ll fit in without being judged.</beq_overview>
+    <beq_overview>A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.</beq_overview>
     <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>770254</beq_theMovieDB>
-    <beq_poster>/zNXNRLH5wJprUG6B1olaBTNZOjy.jpg</beq_poster>
-    <beq_runtime>92</beq_runtime>
+    <beq_theMovieDB>501929</beq_theMovieDB>
+    <beq_poster>/mI2Di7HmskQQ34kz0iau6J1vr70.jpg</beq_poster>
+    <beq_runtime>110</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="16">Animation</genre>
       <genre id="12">Adventure</genre>
       <genre id="35">Comedy</genre>
-      <genre id="10751">Family</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
-      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
