@@ -161,6 +161,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(Ca)") -ge 0) {
         $language = "Cantonese"
     }
+    elseif ($fileName.IndexOf("(Ml)") -ge 0) {
+        $language = "Malay"
+    }
     elseif ($fileName.IndexOf("(Es)") -ge 0) {
         $language = "Spanish"
     }
@@ -202,6 +205,9 @@ foreach ($file in $files) {
     }
     elseif ($fileName.IndexOf("(Ta)") -ge 0) {
         $language = "Tamil"
+    }
+    elseif ($fileName.IndexOf("(Mr)") -ge 0) {
+        $language = "Marathi"
     }
     elseif ($fileName.IndexOf("(Ka)") -ge 0) {
         $language = "Kannada"
