@@ -200,6 +200,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(Te)") -ge 0) {
         $language = "Telugu"
     }
+    elseif ($fileName.IndexOf("(Ta)") -ge 0) {
+        $language = "Tamil"
+    }
     elseif ($fileName.IndexOf("(Ka)") -ge 0) {
         $language = "Kannada"
     }

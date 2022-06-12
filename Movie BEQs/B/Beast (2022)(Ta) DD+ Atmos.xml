@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>14.0</freq>
-    <q>0.8</q>
-    <boost>2.7</boost>
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089117354832,-1.9989399784728,0.9988518413824505,1.9989401094241106,-0.9989408277859726,</dec>
-    <hex>0x3f8002ec,0xbfffdd44,0x3f7fb4c1,0x3fffdd45,0xbf7fba96,</hex>
+    <dec>1.0000418956311754,-1.999313264123717,0.9992718489646761,1.999313313533493,-0.9993136951860758,</dec>
+    <hex>0x3f80015f,0xbfffe97f,0x3f7fd048,0x3fffe980,0xbf7fd306,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>14.0</freq>
-    <q>0.8</q>
-    <boost>2.7</boost>
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089117354832,-1.9989399784728,0.9988518413824505,1.9989401094241106,-0.9989408277859726,</dec>
-    <hex>0x3f8002ec,0xbfffdd44,0x3f7fb4c1,0x3fffdd45,0xbf7fba96,</hex>
+    <dec>1.0000418956311754,-1.999313264123717,0.9992718489646761,1.999313313533493,-0.9993136951860758,</dec>
+    <hex>0x3f80015f,0xbfffe97f,0x3f7fd048,0x3fffe980,0xbf7fd306,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>14.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>2.7</boost>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089117354832,-1.9989399784728,0.9988518413824505,1.9989401094241106,-0.9989408277859726,</dec>
-    <hex>0x3f8002ec,0xbfffdd44,0x3f7fb4c1,0x3fffdd45,0xbf7fba96,</hex>
+    <dec>1.0001473517864723,-1.9980958015642634,0.9979515385375389,1.998096187822613,-0.9980985040656623,</dec>
+    <hex>0x3f8004d4,0xbfffc19a,0x3f7f79c1,0x3fffc19e,0xbf7f8362,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>14.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>2.7</boost>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089117354832,-1.9989399784728,0.9988518413824505,1.9989401094241106,-0.9989408277859726,</dec>
-    <hex>0x3f8002ec,0xbfffdd44,0x3f7fb4c1,0x3fffdd45,0xbf7fba96,</hex>
+    <dec>1.0001473517864723,-1.9980958015642634,0.9979515385375389,1.998096187822613,-0.9980985040656623,</dec>
+    <hex>0x3f8004d4,0xbfffc19a,0x3f7f79c1,0x3fffc19e,0xbf7f8362,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>14.0</freq>
-    <q>0.8</q>
-    <boost>2.7</boost>
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089117354832,-1.9989399784728,0.9988518413824505,1.9989401094241106,-0.9989408277859726,</dec>
-    <hex>0x3f8002ec,0xbfffdd44,0x3f7fb4c1,0x3fffdd45,0xbf7fba96,</hex>
+    <dec>1.0000418956311754,-1.999313264123717,0.9992718489646761,1.999313313533493,-0.9993136951860758,</dec>
+    <hex>0x3f80015f,0xbfffe97f,0x3f7fd048,0x3fffe980,0xbf7fd306,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>14.0</freq>
-    <q>0.8</q>
-    <boost>2.7</boost>
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089117354832,-1.9989399784728,0.9988518413824505,1.9989401094241106,-0.9989408277859726,</dec>
-    <hex>0x3f8002ec,0xbfffdd44,0x3f7fb4c1,0x3fffdd45,0xbf7fba96,</hex>
+    <dec>1.0000418956311754,-1.999313264123717,0.9992718489646761,1.999313313533493,-0.9993136951860758,</dec>
+    <hex>0x3f80015f,0xbfffe97f,0x3f7fd048,0x3fffe980,0xbf7fd306,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>14.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>2.7</boost>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089117354832,-1.9989399784728,0.9988518413824505,1.9989401094241106,-0.9989408277859726,</dec>
-    <hex>0x3f8002ec,0xbfffdd44,0x3f7fb4c1,0x3fffdd45,0xbf7fba96,</hex>
+    <dec>1.0001473517864723,-1.9980958015642634,0.9979515385375389,1.998096187822613,-0.9980985040656623,</dec>
+    <hex>0x3f8004d4,0xbfffc19a,0x3f7f79c1,0x3fffc19e,0xbf7f8362,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>14.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>2.7</boost>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000089117354832,-1.9989399784728,0.9988518413824505,1.9989401094241106,-0.9989408277859726,</dec>
-    <hex>0x3f8002ec,0xbfffdd44,0x3f7fb4c1,0x3fffdd45,0xbf7fba96,</hex>
+    <dec>1.0001473517864723,-1.9980958015642634,0.9979515385375389,1.998096187822613,-0.9980985040656623,</dec>
+    <hex>0x3f8004d4,0xbfffc19a,0x3f7f79c1,0x3fffc19e,0xbf7f8362,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,36 +1415,36 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Woman in the Window</beq_title>
+    <beq_title>Beast</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>the woman in the window</beq_sortTitle>
-    <beq_year>2021</beq_year>
+    <beq_sortTitle>beast</beq_sortTitle>
+    <beq_year>2022</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Woman%20in%20the%20Window%20%282021%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beast%20%282022%29%28Ta%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Tamil</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>An agoraphobic woman living alone in New York begins spying on her new neighbors only to witness a disturbing act of violence.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>A former RAW officer, who is among the hostages in a mall taken over by terrorists, has to foil their plans and prevent the government from releasing a dreaded terrorist, who he had helped put in prison at great personal cost.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>520663</beq_theMovieDB>
-    <beq_poster>/wcrjc1uwQaqoqtqi67Su4VCOYo0.jpg</beq_poster>
-    <beq_runtime>102</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>800383</beq_theMovieDB>
+    <beq_poster>/4hqtjslVCaDVgblg7iCtGIy7exO.jpg</beq_poster>
+    <beq_runtime>162</beq_runtime>
+    <beq_collection>
+    </beq_collection>
     <beq_genres>
-      <genre id="18">Drama</genre>
+      <genre id="28">Action</genre>
+      <genre id="35">Comedy</genre>
       <genre id="53">Thriller</genre>
-      <genre id="80">Crime</genre>
-      <genre id="9648">Mystery</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
-      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
