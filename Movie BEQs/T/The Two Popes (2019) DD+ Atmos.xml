@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>4.7</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
-    <hex>0x3f80068d,0xbfffd5d5,0x3f7f9eae,0x3fffd5d8,0xbf7fabc1,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>4.7</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
-    <hex>0x3f80068d,0xbfffd5d5,0x3f7f9eae,0x3fffd5d8,0xbf7fabc1,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>4.7</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
-    <hex>0x3f80068d,0xbfffd5d5,0x3f7f9eae,0x3fffd5d8,0xbf7fabc1,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>4.7</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
-    <hex>0x3f80068d,0xbfffd5d5,0x3f7f9eae,0x3fffd5d8,0xbf7fabc1,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
-    <q>5.0</q>
+    <freq>22.0</freq>
+    <q>4.0</q>
     <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000454311945888,-1.999778034304117,0.9997343163935716,1.999778034304117,-0.9997797475881604,</dec>
-    <hex>0x3f80017d,0xbffff8ba,0x3f7fee97,0x3ffff8ba,0xbf7ff191,</hex>
+    <dec>1.0000624653091637,-1.9996950924701158,0.9996347001489737,1.9996950924701158,-0.9996971654581372,</dec>
+    <hex>0x3f80020c,0xbffff602,0x3f7fe80f,0x3ffff602,0xbf7fec27,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>4.7</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
-    <hex>0x3f80068d,0xbfffd5d5,0x3f7f9eae,0x3fffd5d8,0xbf7fabc1,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>4.7</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
-    <hex>0x3f80068d,0xbfffd5d5,0x3f7f9eae,0x3fffd5d8,0xbf7fabc1,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>4.7</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
-    <hex>0x3f80068d,0xbfffd5d5,0x3f7f9eae,0x3fffd5d8,0xbf7fabc1,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>4.7</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
-    <hex>0x3f80068d,0xbfffd5d5,0x3f7f9eae,0x3fffd5d8,0xbf7fabc1,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
-    <q>5.0</q>
+    <freq>22.0</freq>
+    <q>4.0</q>
     <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000454311945888,-1.999778034304117,0.9997343163935716,1.999778034304117,-0.9997797475881604,</dec>
-    <hex>0x3f80017d,0xbffff8ba,0x3f7fee97,0x3ffff8ba,0xbf7ff191,</hex>
+    <dec>1.0000624653091637,-1.9996950924701158,0.9996347001489737,1.9996950924701158,-0.9996971654581372,</dec>
+    <hex>0x3f80020c,0xbffff602,0x3f7fe80f,0x3ffff602,0xbf7fec27,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,13 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Point Blank</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>point blank</beq_sortTitle>
+    <beq_title>The Two Popes</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>the two popes</beq_sortTitle>
     <beq_year>2019</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Point%20Blank%20%282019%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Two%20Popes%20%282019%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1429,21 +1428,21 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>A nurse is forced to spring a wounded murder suspect from the hospital when the man’s brother kidnaps his pregnant wife and wants to make a trade.</beq_overview>
-    <beq_rating>NC-17</beq_rating>
+    <beq_overview>Frustrated with the direction of the church, Cardinal Bergoglio requests permission to retire in 2012 from Pope Benedict. Instead, facing scandal and self-doubt, the introspective Pope Benedict summons his harshest critic and future successor to Rome to reveal a secret that would shake the foundations of the Catholic Church.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>531503</beq_theMovieDB>
-    <beq_poster>/weAvkxl0dnPevIKD8fwHjiOi6tc.jpg</beq_poster>
-    <beq_runtime>86</beq_runtime>
+    <beq_theMovieDB>551332</beq_theMovieDB>
+    <beq_poster>/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg</beq_poster>
+    <beq_runtime>125</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="18">Drama</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="36">History</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
-      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
