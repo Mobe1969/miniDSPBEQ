@@ -804,74 +804,74 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
+    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0001768919359744,-1.998122932558546,0.997949219618969,1.9981233967781957,-0.9981256473352942,</dec>
+    <hex>0x3f8005cc,0xbfffc27e,0x3f7f799a,0x3fffc282,0xbf7f852a,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0001768919359744,-1.998122932558546,0.997949219618969,1.9981233967781957,-0.9981256473352942,</dec>
+    <hex>0x3f8005cc,0xbfffc27e,0x3f7f799a,0x3fffc282,0xbf7f852a,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
-    <type>SL</type>
+    <freq>25.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0001591270222547,-1.9995884032102795,0.9994319529415678,1.9995884032102795,-0.9995910799638225,</dec>
+    <hex>0x3f800537,0xbffff283,0x3f7fdac6,0x3ffff283,0xbf7fe533,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
-    <q>0.8</q>
+    <freq>50.0</freq>
+    <q>5.0</q>
     <boost>4.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0001519992881662,-1.9994695430059144,0.9993282501312999,1.9994695430059144,-0.9994802494194659,</dec>
+    <hex>0x3f8004fb,0xbfffee9e,0x3f7fd3fa,0x3fffee9e,0xbf7fddf0,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001013417894207,-1.9996517558994313,0.9995521272858667,1.9996517558994313,-0.9996534690752875,</dec>
-    <hex>0x3f800352,0xbffff497,0x3f7fe2a6,0x3ffff497,0xbf7fe94a,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
-    <freq>28.0</freq>
-    <q>12.0</q>
-    <boost>9.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000827029069803,-1.999905678610586,0.9998263339569732,1.999905678610586,-0.9999090368639536,</dec>
-    <hex>0x3f8002b6,0xbffffce9,0x3f7ff49e,0x3ffffce9,0xbf7ffa0a,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_9" addr="8320">
     <freq>1000</freq>
@@ -894,74 +894,74 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
+    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0001768919359744,-1.998122932558546,0.997949219618969,1.9981233967781957,-0.9981256473352942,</dec>
+    <hex>0x3f8005cc,0xbfffc27e,0x3f7f799a,0x3fffc282,0xbf7f852a,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0001768919359744,-1.998122932558546,0.997949219618969,1.9981233967781957,-0.9981256473352942,</dec>
+    <hex>0x3f8005cc,0xbfffc27e,0x3f7f799a,0x3fffc282,0xbf7f852a,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
-    <type>SL</type>
+    <freq>25.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0001591270222547,-1.9995884032102795,0.9994319529415678,1.9995884032102795,-0.9995910799638225,</dec>
+    <hex>0x3f800537,0xbffff283,0x3f7fdac6,0x3ffff283,0xbf7fe533,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
-    <q>0.8</q>
+    <freq>50.0</freq>
+    <q>5.0</q>
     <boost>4.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0001519992881662,-1.9994695430059144,0.9993282501312999,1.9994695430059144,-0.9994802494194659,</dec>
+    <hex>0x3f8004fb,0xbfffee9e,0x3f7fd3fa,0x3fffee9e,0xbf7fddf0,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001013417894207,-1.9996517558994313,0.9995521272858667,1.9996517558994313,-0.9996534690752875,</dec>
-    <hex>0x3f800352,0xbffff497,0x3f7fe2a6,0x3ffff497,0xbf7fe94a,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
-    <freq>28.0</freq>
-    <q>12.0</q>
-    <boost>9.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000827029069803,-1.999905678610586,0.9998263339569732,1.999905678610586,-0.9999090368639536,</dec>
-    <hex>0x3f8002b6,0xbffffce9,0x3f7ff49e,0x3ffffce9,0xbf7ffa0a,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_9" addr="8370">
     <freq>1000</freq>
@@ -1414,62 +1414,36 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-  <beq_title>The Decline</beq_title>
-  <beq_alt_title>
-  </beq_alt_title>
-  <beq_sortTitle>the decline</beq_sortTitle>
-  <beq_year>2020</beq_year>
-  <beq_spectrumURL />
-  <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Decline%20%282020%29%28Fr%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
-  <beq_edition />
-  <beq_season />
-  <beq_note />
-  <beq_warning />
-  <beq_gain />
-  <beq_language>French</beq_language>
-  <beq_source>Streaming</beq_source>
-  <beq_overview>Anticipating a disaster, Antoine, a father, attends a survivalist training given by Alain in his autonomous hideout. In fear of a natural, economic or social crisis, the group trains to face the different possible apocalyptic scenarios. But the disaster they will experience will not be the one they predicted.</beq_overview>
-  <beq_rating>NR</beq_rating>
-  <beq_author>mobe1969</beq_author>
-  <beq_avs />
-  <beq_theMovieDB>674607</beq_theMovieDB>
-  <beq_poster>/sIPNjDEf1iXOqULOXiRhqprllbz.jpg</beq_poster>
-  <beq_runtime>83</beq_runtime>
-  <beq_collection />
-  <beq_audioTypes>
-    <audioType>DD+ Atmos</audioType>
-  </beq_audioTypes>
-  <beq_genres>
-    <genre id="53">Thriller</genre>
-  </beq_genres>
   <beq_metadata>
-    <beq_title>The Decline</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>the decline</beq_sortTitle>
-    <beq_year>2020</beq_year>
+    <beq_title>Beowulf &amp; Grendel</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>beowulf &amp; grendel</beq_sortTitle>
+    <beq_year>2005</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Decline%20%282020%29%28Fr%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beowulf%20%26%20Grendel%20%282005%29%20LPCM%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>French</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>Anticipating a disaster, Antoine, a father, attends a survivalist training given by Alain in his autonomous hideout. In fear of a natural, economic or social crisis, the group trains to face the different possible apocalyptic scenarios. But the disaster they will experience will not be the one they predicted.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_language>English</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>The blood-soaked tale of a Norse warrior's battle against the great and murderous troll, Grendel. Heads will roll. Out of allegiance to the King Hrothgar, the much respected Lord of the Danes, Beowulf leads a troop of warriors across the sea to rid a village of the marauding monster.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>674607</beq_theMovieDB>
-    <beq_poster>/sIPNjDEf1iXOqULOXiRhqprllbz.jpg</beq_poster>
-    <beq_runtime>83</beq_runtime>
+    <beq_theMovieDB>5471</beq_theMovieDB>
+    <beq_poster>/my6y4bT7OaCnYukyLvAqbi7zWFg.jpg</beq_poster>
+    <beq_runtime>103</beq_runtime>
     <beq_collection />
-    <beq_audioTypes>
-      <audioType>DD+ Atmos</audioType>
-    </beq_audioTypes>
     <beq_genres>
-      <genre id="53">Thriller</genre>
+      <genre id="28">Action</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="18">Drama</genre>
+      <genre id="14">Fantasy</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>LPCM 5.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>

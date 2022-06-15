@@ -802,76 +802,76 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0002393132263234,-1.9992634854930016,0.9990253663762947,1.9992638632601463,-0.9992643018354731,</dec>
+    <hex>0x3f8007d8,0xbfffe7de,0x3f7fc020,0x3fffe7e1,0xbf7fcfc9,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0002393132263234,-1.9992634854930016,0.9990253663762947,1.9992638632601463,-0.9992643018354731,</dec>
+    <hex>0x3f8007d8,0xbfffe7de,0x3f7fc020,0x3fffe7e1,0xbf7fcfc9,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0002393132263234,-1.9992634854930016,0.9990253663762947,1.9992638632601463,-0.9992643018354731,</dec>
+    <hex>0x3f8007d8,0xbfffe7de,0x3f7fc020,0x3fffe7e1,0xbf7fcfc9,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0002393132263234,-1.9992634854930016,0.9990253663762947,1.9992638632601463,-0.9992643018354731,</dec>
+    <hex>0x3f8007d8,0xbfffe7de,0x3f7fc020,0x3fffe7e1,0xbf7fcfc9,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0002393132263234,-1.9992634854930016,0.9990253663762947,1.9992638632601463,-0.9992643018354731,</dec>
+    <hex>0x3f8007d8,0xbfffe7de,0x3f7fc020,0x3fffe7e1,0xbf7fcfc9,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>20.0</freq>
-    <q>0.8</q>
+    <freq>14.0</freq>
+    <q>4.0</q>
     <boost>4.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0000532088263387,-1.9998172167385382,0.9997648474375238,1.9998172167385382,-0.9998180562638627,</dec>
+    <hex>0x3f8001be,0xbffffa03,0x3f7ff097,0x3ffffa03,0xbf7ff413,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
+    <freq>35.0</freq>
+    <q>1.4</q>
+    <boost>1.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001013417894207,-1.9996517558994313,0.9995521272858667,1.9996517558994313,-0.9996534690752875,</dec>
-    <hex>0x3f800352,0xbffff497,0x3f7fe2a6,0x3ffff497,0xbf7fe94a,</hex>
+    <dec>1.000169720028334,-1.9985206526171864,0.998356176229892,1.9985206526171864,-0.9985258962582262,</dec>
+    <hex>0x3f800590,0xbfffcf86,0x3f7f9445,0x3fffcf86,0xbf7f9f65,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
-    <freq>28.0</freq>
-    <q>12.0</q>
-    <boost>9.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000827029069803,-1.999905678610586,0.9998263339569732,1.999905678610586,-0.9999090368639536,</dec>
-    <hex>0x3f8002b6,0xbffffce9,0x3f7ff49e,0x3ffffce9,0xbf7ffa0a,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_9" addr="8320">
     <freq>1000</freq>
@@ -892,76 +892,76 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0002393132263234,-1.9992634854930016,0.9990253663762947,1.9992638632601463,-0.9992643018354731,</dec>
+    <hex>0x3f8007d8,0xbfffe7de,0x3f7fc020,0x3fffe7e1,0xbf7fcfc9,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0002393132263234,-1.9992634854930016,0.9990253663762947,1.9992638632601463,-0.9992643018354731,</dec>
+    <hex>0x3f8007d8,0xbfffe7de,0x3f7fc020,0x3fffe7e1,0xbf7fcfc9,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0002393132263234,-1.9992634854930016,0.9990253663762947,1.9992638632601463,-0.9992643018354731,</dec>
+    <hex>0x3f8007d8,0xbfffe7de,0x3f7fc020,0x3fffe7e1,0xbf7fcfc9,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001420147317706,-1.9993114180609644,0.9991700082072339,1.9993115689214085,-0.9993118720785603,</dec>
-    <hex>0x3f8004a7,0xbfffe970,0x3f7fc99b,0x3fffe971,0xbf7fd2e7,</hex>
+    <dec>1.0002393132263234,-1.9992634854930016,0.9990253663762947,1.9992638632601463,-0.9992643018354731,</dec>
+    <hex>0x3f8007d8,0xbfffe7de,0x3f7fc020,0x3fffe7e1,0xbf7fcfc9,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0002393132263234,-1.9992634854930016,0.9990253663762947,1.9992638632601463,-0.9992643018354731,</dec>
+    <hex>0x3f8007d8,0xbfffe7de,0x3f7fc020,0x3fffe7e1,0xbf7fcfc9,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>20.0</freq>
-    <q>0.8</q>
+    <freq>14.0</freq>
+    <q>4.0</q>
     <boost>4.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0000532088263387,-1.9998172167385382,0.9997648474375238,1.9998172167385382,-0.9998180562638627,</dec>
+    <hex>0x3f8001be,0xbffffa03,0x3f7ff097,0x3ffffa03,0xbf7ff413,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
+    <freq>35.0</freq>
+    <q>1.4</q>
+    <boost>1.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001013417894207,-1.9996517558994313,0.9995521272858667,1.9996517558994313,-0.9996534690752875,</dec>
-    <hex>0x3f800352,0xbffff497,0x3f7fe2a6,0x3ffff497,0xbf7fe94a,</hex>
+    <dec>1.000169720028334,-1.9985206526171864,0.998356176229892,1.9985206526171864,-0.9985258962582262,</dec>
+    <hex>0x3f800590,0xbfffcf86,0x3f7f9445,0x3fffcf86,0xbf7f9f65,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
-    <freq>28.0</freq>
-    <q>12.0</q>
-    <boost>9.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000827029069803,-1.999905678610586,0.9998263339569732,1.999905678610586,-0.9999090368639536,</dec>
-    <hex>0x3f8002b6,0xbffffce9,0x3f7ff49e,0x3ffffce9,0xbf7ffa0a,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_9" addr="8370">
     <freq>1000</freq>
@@ -1414,62 +1414,35 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-  <beq_title>The Decline</beq_title>
-  <beq_alt_title>
-  </beq_alt_title>
-  <beq_sortTitle>the decline</beq_sortTitle>
-  <beq_year>2020</beq_year>
-  <beq_spectrumURL />
-  <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Decline%20%282020%29%28Fr%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
-  <beq_edition />
-  <beq_season />
-  <beq_note />
-  <beq_warning />
-  <beq_gain />
-  <beq_language>French</beq_language>
-  <beq_source>Streaming</beq_source>
-  <beq_overview>Anticipating a disaster, Antoine, a father, attends a survivalist training given by Alain in his autonomous hideout. In fear of a natural, economic or social crisis, the group trains to face the different possible apocalyptic scenarios. But the disaster they will experience will not be the one they predicted.</beq_overview>
-  <beq_rating>NR</beq_rating>
-  <beq_author>mobe1969</beq_author>
-  <beq_avs />
-  <beq_theMovieDB>674607</beq_theMovieDB>
-  <beq_poster>/sIPNjDEf1iXOqULOXiRhqprllbz.jpg</beq_poster>
-  <beq_runtime>83</beq_runtime>
-  <beq_collection />
-  <beq_audioTypes>
-    <audioType>DD+ Atmos</audioType>
-  </beq_audioTypes>
-  <beq_genres>
-    <genre id="53">Thriller</genre>
-  </beq_genres>
   <beq_metadata>
-    <beq_title>The Decline</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>the decline</beq_sortTitle>
-    <beq_year>2020</beq_year>
+    <beq_title>Infinite</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>infinite</beq_sortTitle>
+    <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Decline%20%282020%29%28Fr%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Infinite%20%282021%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>French</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>Anticipating a disaster, Antoine, a father, attends a survivalist training given by Alain in his autonomous hideout. In fear of a natural, economic or social crisis, the group trains to face the different possible apocalyptic scenarios. But the disaster they will experience will not be the one they predicted.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_language>English</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>Evan McCauley has skills he never learned and memories of places he has never visited. Self-medicated and on the brink of a mental breakdown, a secret group that call themselves “Infinites” come to his rescue, revealing that his memories are real.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>674607</beq_theMovieDB>
-    <beq_poster>/sIPNjDEf1iXOqULOXiRhqprllbz.jpg</beq_poster>
-    <beq_runtime>83</beq_runtime>
+    <beq_theMovieDB>581726</beq_theMovieDB>
+    <beq_poster>/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg</beq_poster>
+    <beq_runtime>106</beq_runtime>
     <beq_collection />
-    <beq_audioTypes>
-      <audioType>DD+ Atmos</audioType>
-    </beq_audioTypes>
     <beq_genres>
+      <genre id="878">Science Fiction</genre>
+      <genre id="28">Action</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>Atmos</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
