@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000612895043677,-1.9992407207064207,0.9991799285409757,1.9992407850346636,-0.9992411537171001,</dec>
-    <hex>0x3f800202,0xbfffe71f,0x3f7fca41,0x3fffe71f,0xbf7fce45,</hex>
+    <dec>1.0001556949798383,-1.998511378045045,0.998357753465118,1.9985117052596935,-0.9985131212303074,</dec>
+    <hex>0x3f80051a,0xbfffcf39,0x3f7f9460,0x3fffcf3b,0xbf7f9e8e,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000612895043677,-1.9992407207064207,0.9991799285409757,1.9992407850346636,-0.9992411537171001,</dec>
-    <hex>0x3f800202,0xbfffe71f,0x3f7fca41,0x3fffe71f,0xbf7fce45,</hex>
+    <dec>1.0001556949798383,-1.998511378045045,0.998357753465118,1.9985117052596935,-0.9985131212303074,</dec>
+    <hex>0x3f80051a,0xbfffcf39,0x3f7f9460,0x3fffcf3b,0xbf7f9e8e,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000612895043677,-1.9992407207064207,0.9991799285409757,1.9992407850346636,-0.9992411537171001,</dec>
-    <hex>0x3f800202,0xbfffe71f,0x3f7fca41,0x3fffe71f,0xbf7fce45,</hex>
+    <dec>1.0001556949798383,-1.998511378045045,0.998357753465118,1.9985117052596935,-0.9985131212303074,</dec>
+    <hex>0x3f80051a,0xbfffcf39,0x3f7f9460,0x3fffcf3b,0xbf7f9e8e,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000612895043677,-1.9992407207064207,0.9991799285409757,1.9992407850346636,-0.9992411537171001,</dec>
-    <hex>0x3f800202,0xbfffe71f,0x3f7fca41,0x3fffe71f,0xbf7fce45,</hex>
+    <dec>1.0001556949798383,-1.998511378045045,0.998357753465118,1.9985117052596935,-0.9985131212303074,</dec>
+    <hex>0x3f80051a,0xbfffcf39,0x3f7f9460,0x3fffcf3b,0xbf7f9e8e,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>24.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000908523725358,-1.9995570768802353,0.9994686913649016,1.9995570768802353,-0.9995595437374372,</dec>
+    <hex>0x3f8002fa,0xbffff17c,0x3f7fdd2e,0x3ffff17c,0xbf7fe322,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000612895043677,-1.9992407207064207,0.9991799285409757,1.9992407850346636,-0.9992411537171001,</dec>
-    <hex>0x3f800202,0xbfffe71f,0x3f7fca41,0x3fffe71f,0xbf7fce45,</hex>
+    <dec>1.0001556949798383,-1.998511378045045,0.998357753465118,1.9985117052596935,-0.9985131212303074,</dec>
+    <hex>0x3f80051a,0xbfffcf39,0x3f7f9460,0x3fffcf3b,0xbf7f9e8e,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000612895043677,-1.9992407207064207,0.9991799285409757,1.9992407850346636,-0.9992411537171001,</dec>
-    <hex>0x3f800202,0xbfffe71f,0x3f7fca41,0x3fffe71f,0xbf7fce45,</hex>
+    <dec>1.0001556949798383,-1.998511378045045,0.998357753465118,1.9985117052596935,-0.9985131212303074,</dec>
+    <hex>0x3f80051a,0xbfffcf39,0x3f7f9460,0x3fffcf3b,0xbf7f9e8e,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000612895043677,-1.9992407207064207,0.9991799285409757,1.9992407850346636,-0.9992411537171001,</dec>
-    <hex>0x3f800202,0xbfffe71f,0x3f7fca41,0x3fffe71f,0xbf7fce45,</hex>
+    <dec>1.0001556949798383,-1.998511378045045,0.998357753465118,1.9985117052596935,-0.9985131212303074,</dec>
+    <hex>0x3f80051a,0xbfffcf39,0x3f7f9460,0x3fffcf3b,0xbf7f9e8e,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>3.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000612895043677,-1.9992407207064207,0.9991799285409757,1.9992407850346636,-0.9992411537171001,</dec>
-    <hex>0x3f800202,0xbfffe71f,0x3f7fca41,0x3fffe71f,0xbf7fce45,</hex>
+    <dec>1.0001556949798383,-1.998511378045045,0.998357753465118,1.9985117052596935,-0.9985131212303074,</dec>
+    <hex>0x3f80051a,0xbfffcf39,0x3f7f9460,0x3fffcf3b,0xbf7f9e8e,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>24.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000908523725358,-1.9995570768802353,0.9994686913649016,1.9995570768802353,-0.9995595437374372,</dec>
+    <hex>0x3f8002fa,0xbffff17c,0x3f7fdd2e,0x3ffff17c,0xbf7fe322,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,35 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Bright: Samurai Soul</beq_title>
-    <beq_alt_title>Bright Samurai Soul</beq_alt_title>
-    <beq_sortTitle>bright samurai soul</beq_sortTitle>
+    <beq_title>Kate</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>kate</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bright%20Samurai%20Soul%20%282021%29%28Ja%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kate%20%282021%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Japanese</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_overview>A ruthless criminal operative has less than 24 hours to exact revenge on her enemies and in the process forms an unexpected bond with the daughter of one of her past victims.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>839100</beq_theMovieDB>
-    <beq_poster>/i38XerbByKxr5DPGAoaoulJ9dLl.jpg</beq_poster>
-    <beq_runtime>80</beq_runtime>
+    <beq_theMovieDB>597891</beq_theMovieDB>
+    <beq_poster>/uJgdT1boTSP0dDIjdTgGleg71l4.jpg</beq_poster>
+    <beq_runtime>106</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="16">Animation</genre>
       <genre id="28">Action</genre>
-      <genre id="14">Fantasy</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
-      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
