@@ -237,6 +237,13 @@ foreach ($file in $files) {
         $beqMetadata.beq_language = $language
         $save = $true
     }
+    $beq_note = ""
+    if ($fileName.IndexOf("(UHD)") -ge 0) {
+        $beq_note = "UHD"
+    }
+    elseif ($fileName.IndexOf("(BR)") -ge 0) {
+        $beq_note = "Blu-Ray"
+    }
     $edition = ""
     if ($fileName.IndexOf("(TC)") -ge 0) {
         $edition = "Theatrical Cut"
@@ -270,6 +277,10 @@ foreach ($file in $files) {
     }
     if ($beqMetadata.beq_edition -ne $edition -and "" -ne $edition) {
         $beqMetadata.beq_edition = $edition
+        $save = $true
+    }
+    if ($beqMetadata.beq_note -ne $beq_note -and "" -ne $beq_note) {
+        $beqMetadata.beq_note = $beq_note
         $save = $true
     }
     if ([string]::IsNullOrWhitespace($beqMetadata.beq_theMovieDB)) {
