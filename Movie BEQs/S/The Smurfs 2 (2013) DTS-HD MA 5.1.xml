@@ -803,57 +803,57 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
+    <q>1.0</q>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
-    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
+    <dec>1.0000641745516823,-1.9994062561396073,0.9993426024088318,1.9994063404909863,-0.9994066926091347,</dec>
+    <hex>0x3f80021a,0xbfffec8b,0x3f7fd4eb,0x3fffec8c,0xbf7fd91e,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>15.0</freq>
+    <freq>25.0</freq>
     <q>3.0</q>
-    <boost>4.0</boost>
+    <boost>2.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000076009644022,-1.9997391268124403,0.9996640808716416,1.9997391268124403,-0.9997400905156637,</dec>
-    <hex>0x3f80027e,0xbffff774,0x3f7fe9fc,0x3ffff774,0xbf7feef7,</hex>
+    <dec>1.0000819170823083,-1.9995278345286138,0.999448594118768,1.9995278345286138,-0.9995305112010764,</dec>
+    <hex>0x3f8002af,0xbffff087,0x3f7fdbdd,0x3ffff087,0xbf7fe13b,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>18.0</freq>
-    <q>0.9</q>
+    <freq>26.0</freq>
+    <q>0.8</q>
     <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132208318193,-1.9987986014258705,0.9986870291420692,1.9987988421585694,-0.9988000092411893,</dec>
-    <hex>0x3f8003b6,0xbfffd8a2,0x3f7fa9f4,0x3fffd8a4,0xbf7fb15b,</hex>
+    <dec>1.0001839703675797,-1.9980478101620862,0.9978672780680868,1.998048312243233,-0.9980507463545197,</dec>
+    <hex>0x3f800607,0xbfffc008,0x3f7f743b,0x3fffc00c,0xbf7f8041,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>18.0</freq>
-    <q>0.9</q>
+    <freq>26.0</freq>
+    <q>0.8</q>
     <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132208318193,-1.9987986014258705,0.9986870291420692,1.9987988421585694,-0.9988000092411893,</dec>
-    <hex>0x3f8003b6,0xbfffd8a2,0x3f7fa9f4,0x3fffd8a4,0xbf7fb15b,</hex>
+    <dec>1.0001839703675797,-1.9980478101620862,0.9978672780680868,1.998048312243233,-0.9980507463545197,</dec>
+    <hex>0x3f800607,0xbfffc008,0x3f7f743b,0x3fffc00c,0xbf7f8041,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001132208318193,-1.9987986014258705,0.9986870291420692,1.9987988421585694,-0.9988000092411893,</dec>
-    <hex>0x3f8003b6,0xbfffd8a2,0x3f7fa9f4,0x3fffd8a4,0xbf7fb15b,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>21.0</freq>
-    <q>3.0</q>
-    <boost>7.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001896197659335,-1.999691957104449,0.9995042261530067,1.999691957104449,-0.9996938459189405,</dec>
-    <hex>0x3f800637,0xbffff5e8,0x3f7fdf82,0x3ffff5e8,0xbf7febf0,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -893,57 +893,57 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
+    <q>1.0</q>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
-    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
+    <dec>1.0000641745516823,-1.9994062561396073,0.9993426024088318,1.9994063404909863,-0.9994066926091347,</dec>
+    <hex>0x3f80021a,0xbfffec8b,0x3f7fd4eb,0x3fffec8c,0xbf7fd91e,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>15.0</freq>
+    <freq>25.0</freq>
     <q>3.0</q>
-    <boost>4.0</boost>
+    <boost>2.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000076009644022,-1.9997391268124403,0.9996640808716416,1.9997391268124403,-0.9997400905156637,</dec>
-    <hex>0x3f80027e,0xbffff774,0x3f7fe9fc,0x3ffff774,0xbf7feef7,</hex>
+    <dec>1.0000819170823083,-1.9995278345286138,0.999448594118768,1.9995278345286138,-0.9995305112010764,</dec>
+    <hex>0x3f8002af,0xbffff087,0x3f7fdbdd,0x3ffff087,0xbf7fe13b,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>18.0</freq>
-    <q>0.9</q>
+    <freq>26.0</freq>
+    <q>0.8</q>
     <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132208318193,-1.9987986014258705,0.9986870291420692,1.9987988421585694,-0.9988000092411893,</dec>
-    <hex>0x3f8003b6,0xbfffd8a2,0x3f7fa9f4,0x3fffd8a4,0xbf7fb15b,</hex>
+    <dec>1.0001839703675797,-1.9980478101620862,0.9978672780680868,1.998048312243233,-0.9980507463545197,</dec>
+    <hex>0x3f800607,0xbfffc008,0x3f7f743b,0x3fffc00c,0xbf7f8041,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>18.0</freq>
-    <q>0.9</q>
+    <freq>26.0</freq>
+    <q>0.8</q>
     <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132208318193,-1.9987986014258705,0.9986870291420692,1.9987988421585694,-0.9988000092411893,</dec>
-    <hex>0x3f8003b6,0xbfffd8a2,0x3f7fa9f4,0x3fffd8a4,0xbf7fb15b,</hex>
+    <dec>1.0001839703675797,-1.9980478101620862,0.9978672780680868,1.998048312243233,-0.9980507463545197,</dec>
+    <hex>0x3f800607,0xbfffc008,0x3f7f743b,0x3fffc00c,0xbf7f8041,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001132208318193,-1.9987986014258705,0.9986870291420692,1.9987988421585694,-0.9988000092411893,</dec>
-    <hex>0x3f8003b6,0xbfffd8a2,0x3f7fa9f4,0x3fffd8a4,0xbf7fb15b,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>21.0</freq>
-    <q>3.0</q>
-    <boost>7.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001896197659335,-1.999691957104449,0.9995042261530067,1.999691957104449,-0.9996938459189405,</dec>
-    <hex>0x3f800637,0xbffff5e8,0x3f7fdf82,0x3ffff5e8,0xbf7febf0,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Smurfs: The Lost Village</beq_title>
-    <beq_alt_title>Smurfs The Lost Village</beq_alt_title>
-    <beq_sortTitle>smurfs the lost village</beq_sortTitle>
-    <beq_year>2017</beq_year>
+    <beq_title>The Smurfs 2</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>the smurfs 2</beq_sortTitle>
+    <beq_year>2013</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Smurfs%20The%20Lost%20Village%20%282017%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Smurfs%202%20%282013%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,22 +1428,21 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.</beq_overview>
+    <beq_overview>The evil wizard Gargamel creates a couple of mischievous Smurf-like creatures called the Naughties that he hopes will let him harness the all-powerful, magical Smurf-essence. But when he discovers that only a real Smurf can give him what he wants, and only a secret spell that Smurfette knows can turn the Naughties into real Smurfs, Gargamel kidnaps Smurfette and brings her to Paris, where he has been winning the adoration of millions as the world¹s greatest sorcerer. It's up to Papa, Clumsy, Grouchy, and Vanity to return to our world, reunite with their human friends Patrick and Grace Winslow, and rescue her! Will Smurfette, who has always felt different from the other Smurfs, find a new connection with the Naughties Vexy and Hackus or will the Smurfs convince her that their love for her is True Blue?</beq_overview>
     <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>137116</beq_theMovieDB>
-    <beq_poster>/swt9crREg1UcKgg3wGWfoFNlXOz.jpg</beq_poster>
-    <beq_runtime>89</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>77931</beq_theMovieDB>
+    <beq_poster>/4zu8hbjp7bedcbetQssylLhpguk.jpg</beq_poster>
+    <beq_runtime>105</beq_runtime>
     <beq_genres>
+      <genre id="14">Fantasy</genre>
       <genre id="10751">Family</genre>
-      <genre id="12">Adventure</genre>
-      <genre id="16">Animation</genre>
       <genre id="35">Comedy</genre>
+      <genre id="16">Animation</genre>
     </beq_genres>
+    <beq_collection id="134897" />
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
