@@ -1420,12 +1420,12 @@
     <beq_sortTitle>the boys</beq_sortTitle>
     <beq_year>2019</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Boys%20%282019%29%28S3-E1-5%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Boys%20%282019%29%28S3-E1-5%2C7%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="0">
       <number>3</number>
       <poster>/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg</poster>
-      <episodes count="8">1,2,3,4,5</episodes>
+      <episodes count="8">1,2,3,4,5,7</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
