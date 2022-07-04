@@ -254,6 +254,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(Theatrical)") -ge 0) {
         $edition = "Theatrical Cut"
     }
+    elseif ($fileName.IndexOf("(FC)") -ge 0) {
+        $edition = "Final Cut"
+    }
     elseif ($fileName.IndexOf("(EC)") -ge 0) {
         $edition = "Extended Cut"
     }
