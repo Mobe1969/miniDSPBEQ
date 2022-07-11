@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>4.0</boost>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001078883582368,-1.999166589836013,0.9990592405368358,1.9991666893039062,-0.9991670294271792,</dec>
-    <hex>0x3f800389,0xbfffe4b1,0x3f7fc259,0x3fffe4b2,0xbf7fc969,</hex>
+    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
+    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.6</boost>
+    <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
-    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
+    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
+    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.6</boost>
+    <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
-    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
+    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
+    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.6</boost>
+    <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
-    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
+    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
+    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>3.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
-    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>4.0</boost>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001078883582368,-1.999166589836013,0.9990592405368358,1.9991666893039062,-0.9991670294271792,</dec>
-    <hex>0x3f800389,0xbfffe4b1,0x3f7fc259,0x3fffe4b2,0xbf7fc969,</hex>
+    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
+    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.6</boost>
+    <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
-    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
+    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
+    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.6</boost>
+    <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
-    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
+    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
+    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.6</boost>
+    <boost>4.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
-    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
+    <dec>1.0002030930577201,-1.9985535115668445,0.9983526116342458,1.9985539397340644,-0.9985552765247466,</dec>
+    <hex>0x3f8006a8,0xbfffd09a,0x3f7f9409,0x3fffd09e,0xbf7fa152,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>3.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001614013496727,-1.998597970242883,0.9984384700600796,1.998598292782071,-0.9985995488705648,</dec>
-    <hex>0x3f80054a,0xbfffd20f,0x3f7f99aa,0x3fffd212,0xbf7fa438,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,37 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Boys</beq_title>
+    <beq_title>Aegis</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>the boys</beq_sortTitle>
-    <beq_year>2019</beq_year>
+    <beq_sortTitle>aegis</beq_sortTitle>
+    <beq_year>2005</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Boys%20%282019%29%28S3-E1-5%2C7-8%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Aegis%20%282005%29%28Ja%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="0">
-      <number>3</number>
-      <poster>/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg</poster>
-      <episodes count="8">1,2,3,4,5,7,8</episodes>
-    </beq_season>
+    <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>A group of vigilantes known informally as The Boys set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.</beq_overview>
+    <beq_language>Japanese</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>The Isokaze, an Aegis-class escort vessel, sets sail on a routine training exercise, playing host to a platoon from the Fleet Training Group. No sooner is the Isokaze on open water, however, then the FTG reveal themselves to be terrorist stowaways who kill the ship's captain, send the rest of the crew overboard and take control of the vessel. The ship is carrying a secret biological weapon which the terrorists are now threatening to use to level Tokyo! Only a stowaway NCO, Sengoko (played by Sanada Hiroyuki from Ring and Twilight Samurai) is in a position to stop them - but does he really have what it takes to save the day? Playing like a cross between a sea-faring version of Top Gun and Die Hard, director Sakamoto Junji shows that it's not just Hollywood that can produce thrill-a-minute action spectaculars.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>76479</beq_theMovieDB>
-    <beq_poster>/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
+    <beq_theMovieDB>159535</beq_theMovieDB>
+    <beq_poster>/kzkQIs4lhsMuqziPQFPqLO33jiM.jpg</beq_poster>
+    <beq_runtime>127</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
-      <genre id="10759">Action &amp; Adventure</genre>
+      <genre id="28">Action</genre>
+      <genre id="18">Drama</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
