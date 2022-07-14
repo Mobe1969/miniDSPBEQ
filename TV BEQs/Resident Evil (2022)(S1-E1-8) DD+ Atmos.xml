@@ -1418,14 +1418,14 @@
     <beq_title>Resident Evil</beq_title>
     <beq_alt_title />
     <beq_sortTitle>resident evil</beq_sortTitle>
-    <beq_year>2020</beq_year>
+    <beq_year>2022</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Resident%20Evil%20%282020%29%28S1-E1-8%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Resident%20Evil%20%282022%29%28S1-E1-8%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="160481">
-        <number>1</number>
-        <poster>/nFjTdpGE8vDROhn7JpbRniej4mN.jpg</poster>
-        <episodes count="8">1,2,3,4,5,6,7,8</episodes>
+      <number>1</number>
+      <poster>/nFjTdpGE8vDROhn7JpbRniej4mN.jpg</poster>
+      <episodes count="8">1,2,3,4,5,6,7,8</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
