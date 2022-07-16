@@ -1,4 +1,4 @@
-name: trigger beqcatalogue
+name: update catalogue
 on:
   push:
     branches:
