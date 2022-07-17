@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.8</q>
+    <freq>20.0</freq>
+    <q>2.0</q>
     <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>15.0</freq>
-    <q>2.6</q>
-    <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000655225780286,-1.9996813800100097,0.9996168211073755,1.9996813800100097,-0.9996823436854041,</dec>
-    <hex>0x3f800226,0xbffff58f,0x3f7fe6e3,0x3ffff58f,0xbf7feb2f,</hex>
+    <dec>1.000075496452126,-1.9994151349012963,0.9993413514223044,1.9994151349012963,-0.9994168478744303,</dec>
+    <hex>0x3f800279,0xbfffecd6,0x3f7fd4d6,0x3fffecd6,0xbf7fd9c8,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>20.0</freq>
+    <q>0.9</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001679090311566,-1.9987028099697783,0.998537056675978,1.9987032077492977,-0.9987045679276152,</dec>
+    <hex>0x3f800581,0xbfffd57e,0x3f7fa020,0x3fffd582,0xbf7fab1a,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>15.0</freq>
-    <q>0.8</q>
+    <freq>20.0</freq>
+    <q>0.9</q>
     <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001416316534357,-1.9989058795120838,0.9987654605836748,1.9989061032857158,-0.9989068684634781,</dec>
-    <hex>0x3f8004a4,0xbfffdc26,0x3f7faf18,0x3fffdc28,0xbf7fb85c,</hex>
+    <dec>1.0001679090311566,-1.9987028099697783,0.998537056675978,1.9987032077492977,-0.9987045679276152,</dec>
+    <hex>0x3f800581,0xbfffd57e,0x3f7fa020,0x3fffd582,0xbf7fab1a,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>15.0</freq>
-    <q>0.8</q>
+    <freq>20.0</freq>
+    <q>0.9</q>
     <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001416316534357,-1.9989058795120838,0.9987654605836748,1.9989061032857158,-0.9989068684634781,</dec>
-    <hex>0x3f8004a4,0xbfffdc26,0x3f7faf18,0x3fffdc28,0xbf7fb85c,</hex>
+    <dec>1.0001679090311566,-1.9987028099697783,0.998537056675978,1.9987032077492977,-0.9987045679276152,</dec>
+    <hex>0x3f800581,0xbfffd57e,0x3f7fa020,0x3fffd582,0xbf7fab1a,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>15.0</freq>
-    <q>0.8</q>
+    <freq>20.0</freq>
+    <q>0.9</q>
     <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001416316534357,-1.9989058795120838,0.9987654605836748,1.9989061032857158,-0.9989068684634781,</dec>
-    <hex>0x3f8004a4,0xbfffdc26,0x3f7faf18,0x3fffdc28,0xbf7fb85c,</hex>
+    <dec>1.0001679090311566,-1.9987028099697783,0.998537056675978,1.9987032077492977,-0.9987045679276152,</dec>
+    <hex>0x3f800581,0xbfffd57e,0x3f7fa020,0x3fffd582,0xbf7fab1a,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>15.0</freq>
-    <q>0.8</q>
+    <freq>23.0</freq>
+    <q>6.0</q>
     <boost>4.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001416316534357,-1.9989058795120838,0.9987654605836748,1.9989061032857158,-0.9989068684634781,</dec>
-    <hex>0x3f8004a4,0xbfffdc26,0x3f7faf18,0x3fffdc28,0xbf7fb85c,</hex>
+    <dec>1.0000582758148546,-1.9997984642210187,0.9997424542479809,1.9997984642210187,-0.9998007300628357,</dec>
+    <hex>0x3f8001e9,0xbffff965,0x3f7fef1f,0x3ffff965,0xbf7ff2f1,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.8</q>
+    <freq>20.0</freq>
+    <q>2.0</q>
     <boost>2.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>15.0</freq>
-    <q>2.6</q>
-    <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000655225780286,-1.9996813800100097,0.9996168211073755,1.9996813800100097,-0.9996823436854041,</dec>
-    <hex>0x3f800226,0xbffff58f,0x3f7fe6e3,0x3ffff58f,0xbf7feb2f,</hex>
+    <dec>1.000075496452126,-1.9994151349012963,0.9993413514223044,1.9994151349012963,-0.9994168478744303,</dec>
+    <hex>0x3f800279,0xbfffecd6,0x3f7fd4d6,0x3fffecd6,0xbf7fd9c8,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>20.0</freq>
+    <q>0.9</q>
+    <boost>4.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001679090311566,-1.9987028099697783,0.998537056675978,1.9987032077492977,-0.9987045679276152,</dec>
+    <hex>0x3f800581,0xbfffd57e,0x3f7fa020,0x3fffd582,0xbf7fab1a,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>15.0</freq>
-    <q>0.8</q>
+    <freq>20.0</freq>
+    <q>0.9</q>
     <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001416316534357,-1.9989058795120838,0.9987654605836748,1.9989061032857158,-0.9989068684634781,</dec>
-    <hex>0x3f8004a4,0xbfffdc26,0x3f7faf18,0x3fffdc28,0xbf7fb85c,</hex>
+    <dec>1.0001679090311566,-1.9987028099697783,0.998537056675978,1.9987032077492977,-0.9987045679276152,</dec>
+    <hex>0x3f800581,0xbfffd57e,0x3f7fa020,0x3fffd582,0xbf7fab1a,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>15.0</freq>
-    <q>0.8</q>
+    <freq>20.0</freq>
+    <q>0.9</q>
     <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001416316534357,-1.9989058795120838,0.9987654605836748,1.9989061032857158,-0.9989068684634781,</dec>
-    <hex>0x3f8004a4,0xbfffdc26,0x3f7faf18,0x3fffdc28,0xbf7fb85c,</hex>
+    <dec>1.0001679090311566,-1.9987028099697783,0.998537056675978,1.9987032077492977,-0.9987045679276152,</dec>
+    <hex>0x3f800581,0xbfffd57e,0x3f7fa020,0x3fffd582,0xbf7fab1a,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>15.0</freq>
-    <q>0.8</q>
+    <freq>20.0</freq>
+    <q>0.9</q>
     <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001416316534357,-1.9989058795120838,0.9987654605836748,1.9989061032857158,-0.9989068684634781,</dec>
-    <hex>0x3f8004a4,0xbfffdc26,0x3f7faf18,0x3fffdc28,0xbf7fb85c,</hex>
+    <dec>1.0001679090311566,-1.9987028099697783,0.998537056675978,1.9987032077492977,-0.9987045679276152,</dec>
+    <hex>0x3f800581,0xbfffd57e,0x3f7fa020,0x3fffd582,0xbf7fab1a,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>15.0</freq>
-    <q>0.8</q>
+    <freq>23.0</freq>
+    <q>6.0</q>
     <boost>4.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001416316534357,-1.9989058795120838,0.9987654605836748,1.9989061032857158,-0.9989068684634781,</dec>
-    <hex>0x3f8004a4,0xbfffdc26,0x3f7faf18,0x3fffdc28,0xbf7fb85c,</hex>
+    <dec>1.0000582758148546,-1.9997984642210187,0.9997424542479809,1.9997984642210187,-0.9998007300628357,</dec>
+    <hex>0x3f8001e9,0xbffff965,0x3f7fef1f,0x3ffff965,0xbf7ff2f1,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,36 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Spider-Man: Homecoming</beq_title>
-    <beq_alt_title>Spider-Man Homecoming</beq_alt_title>
-    <beq_sortTitle>spider-man homecoming</beq_sortTitle>
-    <beq_year>2017</beq_year>
+    <beq_title>Uncut Gems</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>uncut gems</beq_sortTitle>
+    <beq_year>2019</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spider-Man%20Homecoming%20%282017%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/U/Uncut%20Gems%20%282019%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>315635</beq_theMovieDB>
-    <beq_poster>/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg</beq_poster>
-    <beq_runtime>133</beq_runtime>
+    <beq_theMovieDB>473033</beq_theMovieDB>
+    <beq_poster>/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg</beq_poster>
+    <beq_runtime>136</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="12">Adventure</genre>
-      <genre id="878">Science Fiction</genre>
       <genre id="18">Drama</genre>
+      <genre id="53">Thriller</genre>
+      <genre id="80">Crime</genre>
     </beq_genres>
-    <beq_collection id="531241">Spider-Man (Avengers) Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

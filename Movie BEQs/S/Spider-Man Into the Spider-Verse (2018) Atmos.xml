@@ -1444,6 +1444,7 @@
     <beq_collection id="573436">Spider-Man Spider-Verse Collection</beq_collection>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+	  <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
