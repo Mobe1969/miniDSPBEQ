@@ -1444,6 +1444,7 @@
     <beq_collection id="125574">The Amazing Spider-Man Collection</beq_collection>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
