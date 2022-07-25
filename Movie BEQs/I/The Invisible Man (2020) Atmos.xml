@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>12.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
+    <freq>10.0</freq>
+    <q>1.7</q>
+    <boost>-0.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000056554531653,-1.9990729791340631,0.9990171163991896,1.9990730502755953,-0.9990735997893099,</dec>
-    <hex>0x3f8001da,0xbfffe1a0,0x3f7fbf96,0x3fffe1a0,0xbf7fc34a,</hex>
+    <dec>0.999992235552537,-1.9996068139590415,0.9996149897758813,1.9996067966965603,-0.9996072425908993,</dec>
+    <hex>0x3f7fff7e,0xbffff31e,0x3f7fe6c5,0x3ffff31e,0xbf7fe643,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001782827025951,-1.997961017129917,0.9977863996674948,1.9979615221341116,-0.9979641773658953,</dec>
-    <hex>0x3f8005d8,0xbfffbd30,0x3f7f6eee,0x3fffbd34,0xbf7f7a95,</hex>
+    <dec>1.0001887735196462,-1.998784619067925,0.9985974671768304,1.9987849579046018,-0.9987859018597997,</dec>
+    <hex>0x3f800630,0xbfffd82d,0x3f7fa415,0x3fffd82f,0xbf7fb06f,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001782827025951,-1.997961017129917,0.9977863996674948,1.9979615221341116,-0.9979641773658953,</dec>
-    <hex>0x3f8005d8,0xbfffbd30,0x3f7f6eee,0x3fffbd34,0xbf7f7a95,</hex>
+    <dec>1.0001887735196462,-1.998784619067925,0.9985974671768304,1.9987849579046018,-0.9987859018597997,</dec>
+    <hex>0x3f800630,0xbfffd82d,0x3f7fa415,0x3fffd82f,0xbf7fb06f,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001782827025951,-1.997961017129917,0.9977863996674948,1.9979615221341116,-0.9979641773658953,</dec>
-    <hex>0x3f8005d8,0xbfffbd30,0x3f7f6eee,0x3fffbd34,0xbf7f7a95,</hex>
+    <dec>1.0001887735196462,-1.998784619067925,0.9985974671768304,1.9987849579046018,-0.9987859018597997,</dec>
+    <hex>0x3f800630,0xbfffd82d,0x3f7fa415,0x3fffd82f,0xbf7fb06f,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001782827025951,-1.997961017129917,0.9977863996674948,1.9979615221341116,-0.9979641773658953,</dec>
-    <hex>0x3f8005d8,0xbfffbd30,0x3f7f6eee,0x3fffbd34,0xbf7f7a95,</hex>
+    <dec>1.0001887735196462,-1.998784619067925,0.9985974671768304,1.9987849579046018,-0.9987859018597997,</dec>
+    <hex>0x3f800630,0xbfffd82d,0x3f7fa415,0x3fffd82f,0xbf7fb06f,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>12.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
+    <freq>10.0</freq>
+    <q>1.7</q>
+    <boost>-0.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000056554531653,-1.9990729791340631,0.9990171163991896,1.9990730502755953,-0.9990735997893099,</dec>
-    <hex>0x3f8001da,0xbfffe1a0,0x3f7fbf96,0x3fffe1a0,0xbf7fc34a,</hex>
+    <dec>0.999992235552537,-1.9996068139590415,0.9996149897758813,1.9996067966965603,-0.9996072425908993,</dec>
+    <hex>0x3f7fff7e,0xbffff31e,0x3f7fe6c5,0x3ffff31e,0xbf7fe643,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001782827025951,-1.997961017129917,0.9977863996674948,1.9979615221341116,-0.9979641773658953,</dec>
-    <hex>0x3f8005d8,0xbfffbd30,0x3f7f6eee,0x3fffbd34,0xbf7f7a95,</hex>
+    <dec>1.0001887735196462,-1.998784619067925,0.9985974671768304,1.9987849579046018,-0.9987859018597997,</dec>
+    <hex>0x3f800630,0xbfffd82d,0x3f7fa415,0x3fffd82f,0xbf7fb06f,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001782827025951,-1.997961017129917,0.9977863996674948,1.9979615221341116,-0.9979641773658953,</dec>
-    <hex>0x3f8005d8,0xbfffbd30,0x3f7f6eee,0x3fffbd34,0xbf7f7a95,</hex>
+    <dec>1.0001887735196462,-1.998784619067925,0.9985974671768304,1.9987849579046018,-0.9987859018597997,</dec>
+    <hex>0x3f800630,0xbfffd82d,0x3f7fa415,0x3fffd82f,0xbf7fb06f,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001782827025951,-1.997961017129917,0.9977863996674948,1.9979615221341116,-0.9979641773658953,</dec>
-    <hex>0x3f8005d8,0xbfffbd30,0x3f7f6eee,0x3fffbd34,0xbf7f7a95,</hex>
+    <dec>1.0001887735196462,-1.998784619067925,0.9985974671768304,1.9987849579046018,-0.9987859018597997,</dec>
+    <hex>0x3f800630,0xbfffd82d,0x3f7fa415,0x3fffd82f,0xbf7fb06f,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>27.0</freq>
+    <freq>17.0</freq>
     <q>0.8</q>
-    <boost>2.8</boost>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001782827025951,-1.997961017129917,0.9977863996674948,1.9979615221341116,-0.9979641773658953,</dec>
-    <hex>0x3f8005d8,0xbfffbd30,0x3f7f6eee,0x3fffbd34,0xbf7f7a95,</hex>
+    <dec>1.0001887735196462,-1.998784619067925,0.9985974671768304,1.9987849579046018,-0.9987859018597997,</dec>
+    <hex>0x3f800630,0xbfffd82d,0x3f7fa415,0x3fffd82f,0xbf7fb06f,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,34 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Chaw</beq_title>
-    <beq_alt_title>Chawz</beq_alt_title>
-    <beq_sortTitle>chawz</beq_sortTitle>
-    <beq_year>2009</beq_year>
+    <beq_title>The Invisible Man</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>the invisible man</beq_sortTitle>
+    <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Chawz%20%282009%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Invisible%20Man%20%282020%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Korean</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A black comedy about the events that are set into motion in a town after a man-eating boar goes on a rampage.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>59450</beq_theMovieDB>
-    <beq_poster>/ya1y9xZ0RVyWyXYxougUeBO6vBd.jpg</beq_poster>
-    <beq_runtime>121</beq_runtime>
+    <beq_theMovieDB>570670</beq_theMovieDB>
+    <beq_poster>/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg</beq_poster>
+    <beq_runtime>124</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="27">Horror</genre>
-      <genre id="35">Comedy</genre>
       <genre id="53">Thriller</genre>
+      <genre id="878">Science Fiction</genre>
+      <genre id="27">Horror</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
