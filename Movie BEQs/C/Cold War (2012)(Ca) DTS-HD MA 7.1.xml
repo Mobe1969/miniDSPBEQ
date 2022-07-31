@@ -1444,6 +1444,7 @@
     <beq_collection id="404302">Cold War Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-HD MA 7.1</audioType>
+      <audioType>TrueHD 7.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
