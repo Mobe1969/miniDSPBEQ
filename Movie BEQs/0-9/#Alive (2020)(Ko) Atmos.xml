@@ -1438,6 +1438,7 @@
     <beq_collection />
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="28">Action</genre>
