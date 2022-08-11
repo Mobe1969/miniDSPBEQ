@@ -19,11 +19,9 @@
 
 clear
 
-$files = Get-ChildItem "D:\BEQ\miniDSPBEQ\TV BEQs" -Filter *.xml -Recurse
-#$files = Get-ChildItem "D:\BEQ\miniDSPBEQ\Movie BEQs" -Filter *.xml -Recurse
 
-#$files = Get-ChildItem "D:\BEQ\miniDSPBEQ" -Filter "The Sac*.xml" -Recurse
-$files = Get-ChildItem "D:\BEQ\miniDSPBEQ" -Filter *.xml -Recurse
+$files = Get-ChildItem "D:\BEQ\miniDSPBEQ" -Filter *.xml -Recurse | 
+         Where-Object { $_.LastWriteTime -gt (Get-Date).AddDays(-1) }
 if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
     Clear-Content -Path "D:\BEQ\Errors.txt"
 }
