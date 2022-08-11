@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>14.0</freq>
-    <q>0.8</q>
-    <boost>5.3</boost>
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001754444974238,-1.9990162806576648,0.9988419747305698,1.999016540678475,-0.9990171592071837,</dec>
-    <hex>0x3f8005c0,0xbfffdfc4,0x3f7fb41c,0x3fffdfc6,0xbf7fbf97,</hex>
+    <dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+    <hex>0x3f800371,0xbfffeb5b,0x3f7fcfde,0x3fffeb5c,0xbf7fd6be,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>32.0</freq>
-    <q>0.8</q>
+    <freq>10.0</freq>
+    <q>0.9</q>
     <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003782724921515,-1.9977309144057696,0.9973584847695028,1.9977321929940515,-0.9977354786733723,</dec>
-    <hex>0x3f800c65,0xbfffb5a6,0x3f7f52e3,0x3fffb5b0,0xbf7f6b98,</hex>
+    <dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+    <hex>0x3f800371,0xbfffeb5b,0x3f7fcfde,0x3fffeb5c,0xbf7fd6be,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>32.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
-    <type>SL</type>
+    <freq>15.0</freq>
+    <q>4.0</q>
+    <boost>9.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0003782724921515,-1.9977309144057696,0.9973584847695028,1.9977321929940515,-0.9977354786733723,</dec>
-    <hex>0x3f800c65,0xbfffb5a6,0x3f7f52e3,0x3fffb5b0,0xbf7f6b98,</hex>
+    <dec>1.0001329117690605,-1.9998528494660455,0.999720901455013,1.9998528494660455,-0.9998538132240735,</dec>
+    <hex>0x3f80045b,0xbffffb2e,0x3f7fedb6,0x3ffffb2e,0xbf7ff66b,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>32.0</freq>
+    <freq>28.0</freq>
     <q>0.8</q>
     <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003782724921515,-1.9977309144057696,0.9973584847695028,1.9977321929940515,-0.9977354786733723,</dec>
-    <hex>0x3f800c65,0xbfffb5a6,0x3f7f52e3,0x3fffb5b0,0xbf7f6b98,</hex>
+    <dec>1.0003309653855745,-1.998014768134815,0.9976882768190993,1.998015747192558,-0.9980182631469311,</dec>
+    <hex>0x3f800ad8,0xbfffbef3,0x3f7f6880,0x3fffbefb,0xbf7f7e20,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>32.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003782724921515,-1.9977309144057696,0.9973584847695028,1.9977321929940515,-0.9977354786733723,</dec>
-    <hex>0x3f800c65,0xbfffb5a6,0x3f7f52e3,0x3fffb5b0,0xbf7f6b98,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>14.0</freq>
-    <q>0.8</q>
-    <boost>5.3</boost>
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001754444974238,-1.9990162806576648,0.9988419747305698,1.999016540678475,-0.9990171592071837,</dec>
-    <hex>0x3f8005c0,0xbfffdfc4,0x3f7fb41c,0x3fffdfc6,0xbf7fbf97,</hex>
+    <dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+    <hex>0x3f800371,0xbfffeb5b,0x3f7fcfde,0x3fffeb5c,0xbf7fd6be,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>32.0</freq>
-    <q>0.8</q>
+    <freq>10.0</freq>
+    <q>0.9</q>
     <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003782724921515,-1.9977309144057696,0.9973584847695028,1.9977321929940515,-0.9977354786733723,</dec>
-    <hex>0x3f800c65,0xbfffb5a6,0x3f7f52e3,0x3fffb5b0,0xbf7f6b98,</hex>
+    <dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+    <hex>0x3f800371,0xbfffeb5b,0x3f7fcfde,0x3fffeb5c,0xbf7fd6be,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>32.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
-    <type>SL</type>
+    <freq>15.0</freq>
+    <q>4.0</q>
+    <boost>9.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0003782724921515,-1.9977309144057696,0.9973584847695028,1.9977321929940515,-0.9977354786733723,</dec>
-    <hex>0x3f800c65,0xbfffb5a6,0x3f7f52e3,0x3fffb5b0,0xbf7f6b98,</hex>
+    <dec>1.0001329117690605,-1.9998528494660455,0.999720901455013,1.9998528494660455,-0.9998538132240735,</dec>
+    <hex>0x3f80045b,0xbffffb2e,0x3f7fedb6,0x3ffffb2e,0xbf7ff66b,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>32.0</freq>
+    <freq>28.0</freq>
     <q>0.8</q>
     <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003782724921515,-1.9977309144057696,0.9973584847695028,1.9977321929940515,-0.9977354786733723,</dec>
-    <hex>0x3f800c65,0xbfffb5a6,0x3f7f52e3,0x3fffb5b0,0xbf7f6b98,</hex>
+    <dec>1.0003309653855745,-1.998014768134815,0.9976882768190993,1.998015747192558,-0.9980182631469311,</dec>
+    <hex>0x3f800ad8,0xbfffbef3,0x3f7f6880,0x3fffbefb,0xbf7f7e20,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>32.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003782724921515,-1.9977309144057696,0.9973584847695028,1.9977321929940515,-0.9977354786733723,</dec>
-    <hex>0x3f800c65,0xbfffb5a6,0x3f7f52e3,0x3fffb5b0,0xbf7f6b98,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,32 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Talladega Nights: The Ballad of Ricky Bobby</beq_title>
-    <beq_alt_title>Talladega Nights</beq_alt_title>
-    <beq_sortTitle>talladega nights</beq_sortTitle>
+    <beq_title>Robin-B-Hood</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>robin-b-hood</beq_sortTitle>
     <beq_year>2006</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Talladega%20Nights%20%282006%29%28Unrated%29%20LPCM%205.1.jpg</beq_pvaURL>
-    <beq_edition>Unrated Cut</beq_edition>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Robin-B-Hood%20%282006%29%28Ca%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Cantonese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>The fastest man on four wheels, Ricky Bobby is one of the greatest drivers in NASCAR history. A big, hairy American winning machine, Ricky has everything a dimwitted daredevil could want, a luxurious mansion, a smokin' hot wife and all the fast food he can eat. But Ricky's turbo-charged lifestyle hits an unexpected speed bump when he's bested by flamboyant Euro-idiot Jean Girard and reduced to a fear-ridden wreck.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_overview>For never-do-well compulsive gambler Fong, there's only one thing more fearsome than debtors at his doorstep - having to coax a crying baby. But what if the baby becomes his golden goose to fend off his debtors? Can he overcome his phobia of diapers, milk bottles, and cloying lullabies?</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>9718</beq_theMovieDB>
-    <beq_poster>/3iCiTqsmJz1mO85AHzTiHNkRmb6.jpg</beq_poster>
-    <beq_runtime>121</beq_runtime>
+    <beq_theMovieDB>25676</beq_theMovieDB>
+    <beq_poster>/1ViUIV1rf0WZQte0hHh74DWFLeW.jpg</beq_poster>
+    <beq_runtime>126</beq_runtime>
     <beq_collection />
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 5.1</audioType>
+    </beq_audioTypes>
     <beq_genres>
+      <genre id="18">Drama</genre>
+      <genre id="28">Action</genre>
       <genre id="35">Comedy</genre>
     </beq_genres>
-    <beq_audioTypes>
-      <audioType>LPCM 5.1</audioType>
-    </beq_audioTypes>
   </beq_metadata>
 </setting>
