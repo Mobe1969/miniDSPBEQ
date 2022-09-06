@@ -803,48 +803,48 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.5</boost>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000058927996615,-1.9992385346213117,0.9991801011083893,1.9992385964579293,-0.9992389672683869,</dec>
-    <hex>0x3f8001ee,0xbfffe70c,0x3f7fca44,0x3fffe70d,0xbf7fce20,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>3.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000058927996615,-1.9992385346213117,0.9991801011083893,1.9992385964579293,-0.9992389672683869,</dec>
-    <hex>0x3f8001ee,0xbfffe70c,0x3f7fca44,0x3fffe70d,0xbf7fce20,</hex>
+    <dec>1.0002332100091966,-1.9980921119690658,0.997862502354266,1.9980927498613297,-0.9980950744711979,</dec>
+    <hex>0x3f8007a4,0xbfffc17b,0x3f7f73eb,0x3fffc181,0xbf7f8329,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>3.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000058927996615,-1.9992385346213117,0.9991801011083893,1.9992385964579293,-0.9992389672683869,</dec>
-    <hex>0x3f8001ee,0xbfffe70c,0x3f7fca44,0x3fffe70d,0xbf7fce20,</hex>
+    <dec>1.0002332100091966,-1.9980921119690658,0.997862502354266,1.9980927498613297,-0.9980950744711979,</dec>
+    <hex>0x3f8007a4,0xbfffc17b,0x3f7f73eb,0x3fffc181,0xbf7f8329,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>10.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>3.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000058927996615,-1.9992385346213117,0.9991801011083893,1.9992385964579293,-0.9992389672683869,</dec>
-    <hex>0x3f8001ee,0xbfffe70c,0x3f7fca44,0x3fffe70d,0xbf7fce20,</hex>
+    <dec>1.0002332100091966,-1.9980921119690658,0.997862502354266,1.9980927498613297,-0.9980950744711979,</dec>
+    <hex>0x3f8007a4,0xbfffc17b,0x3f7f73eb,0x3fffc181,0xbf7f8329,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>10.0</freq>
-    <q>3.0</q>
-    <boost>3.0</boost>
-    <type>PK</type>
+    <freq>26.0</freq>
+    <q>0.8</q>
+    <boost>3.8</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000378600318292,-1.9998160245863494,0.9997785928834387,1.9998160245863494,-0.9998164529152679,</dec>
-    <hex>0x3f80013e,0xbffff9f9,0x3f7ff17d,0x3ffff9f9,0xbf7ff3f9,</hex>
+    <dec>1.0002332100091966,-1.9980921119690658,0.997862502354266,1.9980927498613297,-0.9980950744711979,</dec>
+    <hex>0x3f8007a4,0xbfffc17b,0x3f7f73eb,0x3fffc181,0xbf7f8329,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -893,48 +893,48 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.5</boost>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000058927996615,-1.9992385346213117,0.9991801011083893,1.9992385964579293,-0.9992389672683869,</dec>
-    <hex>0x3f8001ee,0xbfffe70c,0x3f7fca44,0x3fffe70d,0xbf7fce20,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>3.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000058927996615,-1.9992385346213117,0.9991801011083893,1.9992385964579293,-0.9992389672683869,</dec>
-    <hex>0x3f8001ee,0xbfffe70c,0x3f7fca44,0x3fffe70d,0xbf7fce20,</hex>
+    <dec>1.0002332100091966,-1.9980921119690658,0.997862502354266,1.9980927498613297,-0.9980950744711979,</dec>
+    <hex>0x3f8007a4,0xbfffc17b,0x3f7f73eb,0x3fffc181,0xbf7f8329,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>3.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000058927996615,-1.9992385346213117,0.9991801011083893,1.9992385964579293,-0.9992389672683869,</dec>
-    <hex>0x3f8001ee,0xbfffe70c,0x3f7fca44,0x3fffe70d,0xbf7fce20,</hex>
+    <dec>1.0002332100091966,-1.9980921119690658,0.997862502354266,1.9980927498613297,-0.9980950744711979,</dec>
+    <hex>0x3f8007a4,0xbfffc17b,0x3f7f73eb,0x3fffc181,0xbf7f8329,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>10.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>2.5</boost>
+    <boost>3.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000058927996615,-1.9992385346213117,0.9991801011083893,1.9992385964579293,-0.9992389672683869,</dec>
-    <hex>0x3f8001ee,0xbfffe70c,0x3f7fca44,0x3fffe70d,0xbf7fce20,</hex>
+    <dec>1.0002332100091966,-1.9980921119690658,0.997862502354266,1.9980927498613297,-0.9980950744711979,</dec>
+    <hex>0x3f8007a4,0xbfffc17b,0x3f7f73eb,0x3fffc181,0xbf7f8329,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>10.0</freq>
-    <q>3.0</q>
-    <boost>3.0</boost>
-    <type>PK</type>
+    <freq>26.0</freq>
+    <q>0.8</q>
+    <boost>3.8</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000378600318292,-1.9998160245863494,0.9997785928834387,1.9998160245863494,-0.9998164529152679,</dec>
-    <hex>0x3f80013e,0xbffff9f9,0x3f7ff17d,0x3ffff9f9,0xbf7ff3f9,</hex>
+    <dec>1.0002332100091966,-1.9980921119690658,0.997862502354266,1.9980927498613297,-0.9980950744711979,</dec>
+    <hex>0x3f8007a4,0xbfffc17b,0x3f7f73eb,0x3fffc181,0xbf7f8329,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,34 +1415,37 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The 355</beq_title>
+    <beq_title>Mirzapur</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>the 355</beq_sortTitle>
-    <beq_year>2022</beq_year>
+    <beq_sortTitle>mirzapur</beq_sortTitle>
+    <beq_year>2018</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/The%20355%20%282022%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Mirzapur%20%282018%29%28Hi%29%28S1%201-9%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="112728">
+        <number>1</number>
+        <poster>/7ix8lfyJWL9H14NmRovMFoaN02u.jpg</poster>
+        <episodes count="9">1,2,3,4,5,6,7,8,9</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>A group of top female agents from American, British, Chinese, Columbian and German  government agencies are drawn together to try and stop an organization from acquiring a deadly weapon to send the world into chaos.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_language>Hindi</beq_language>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>522016</beq_theMovieDB>
-    <beq_poster>/uQt2dJFMnJmAp9zLAWNfGilK0BW.jpg</beq_poster>
-    <beq_runtime>124</beq_runtime>
+    <beq_theMovieDB>84105</beq_theMovieDB>
+    <beq_poster>/yuwE4sI4HxzAI4Sq2i1ja36kwCT.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="80">Crime</genre>
+      <genre id="10759">Action &amp; Adventure</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
-	  <audioType>DD+ 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
