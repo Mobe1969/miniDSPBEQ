@@ -840,11 +840,11 @@
   <filter name="PEQ_1_5" addr="8300">
     <freq>24.0</freq>
     <q>6.0</q>
-    <boost>7.0</boost>
+    <boost>8.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001083612504993,-1.9998225761650004,0.99971668209925,1.9998225761650004,-0.9998250433497493,</dec>
-    <hex>0x3f80038d,0xbffffa30,0x3f7fed6f,0x3ffffa30,0xbf7ff489,</hex>
+    <dec>1.000124859546739,-1.9998323622663747,0.9997099699164577,1.9998323622663747,-0.9998348294631967,</dec>
+    <hex>0x3f800417,0xbffffa82,0x3f7fecfe,0x3ffffa82,0xbf7ff52d,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>36.0</freq>
@@ -930,11 +930,11 @@
   <filter name="PEQ_2_5" addr="8350">
     <freq>24.0</freq>
     <q>6.0</q>
-    <boost>7.0</boost>
+    <boost>8.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001083612504993,-1.9998225761650004,0.99971668209925,1.9998225761650004,-0.9998250433497493,</dec>
-    <hex>0x3f80038d,0xbffffa30,0x3f7fed6f,0x3ffffa30,0xbf7ff489,</hex>
+    <dec>1.000124859546739,-1.9998323622663747,0.9997099699164577,1.9998323622663747,-0.9998348294631967,</dec>
+    <hex>0x3f800417,0xbffffa82,0x3f7fecfe,0x3ffffa82,0xbf7ff52d,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>36.0</freq>
@@ -1420,8 +1420,8 @@
     <beq_sortTitle>red riding hood</beq_sortTitle>
     <beq_year>2011</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Red%20Riding%20Hood%20%282011%29%28TC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition>Theatrical Cut</beq_edition>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Red%20Riding%20Hood%20%282011%29%28AC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition>Alternate Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
