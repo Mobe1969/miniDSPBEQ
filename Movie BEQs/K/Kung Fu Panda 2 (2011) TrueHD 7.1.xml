@@ -1420,7 +1420,7 @@
     <beq_sortTitle>kung fu panda 2</beq_sortTitle>
     <beq_year>2011</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Panda%202%20%282011%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Panda%202%20%282011%29%20TrueHD%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1441,7 +1441,7 @@
     </beq_genres>
     <beq_collection id="77816">Kung Fu Panda Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 7.1</audioType>
+      <audioType>TrueHD 7.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
