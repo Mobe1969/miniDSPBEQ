@@ -1415,8 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Boogie Woogie</beq_title>
-    <beq_alt_title>Boogie</beq_alt_title>
+    <beq_title>Boogie</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>boogie</beq_sortTitle>
     <beq_year>2009</beq_year>
     <beq_spectrumURL />
@@ -1428,20 +1429,20 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In London's contemporary art world, everyone has a hustle. Art Spindle runs a high-end gallery: he hopes to flip a Mondrian for millions. One of his assistants, Beth, is sleeping with Art's most acquisitive client, Bob Macclestone. Beth wants Bob to set her up in her own gallery, so she helps him go behind Art's back for the Mondrian. Bob's wife, Jean, sets her eye on a young conceptual artist, Jo, who lusts after Art's newest assistant, Paige. Meanwhile, self-absorbed videographer Elaine is chewing her way through friends and lovers looking to make it: if she'll throw Dewey, her agent, under the bus, Beth may give her a show. And the Mondrian? No honor among thieves.</beq_overview>
+    <beq_overview>Hoping to make some money, Boogie, a violent and ruthless assassin, kidnaps a witness a mafia boss wants dead.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>36939</beq_theMovieDB>
-    <beq_poster>/plnHFNGI1ToCFhyyYU3bb0AmDpl.jpg</beq_poster>
-    <beq_runtime>94</beq_runtime>
+    <beq_theMovieDB>35837</beq_theMovieDB>
+    <beq_poster>/7AkYQbzcr2q0ls8YKGaKSJktUrX.jpg</beq_poster>
+    <beq_runtime>82</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="35">Comedy</genre>
-      <genre id="18">Drama</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="28">Action</genre>
+      <genre id="16">Animation</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
