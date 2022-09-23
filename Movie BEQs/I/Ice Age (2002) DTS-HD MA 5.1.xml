@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>19.0</freq>
-    <q>2.0</q>
-    <boost>2.0</boost>
+    <freq>10.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000717226771467,-1.999444451407779,0.9993742747114458,1.999444451407779,-0.9994459973885925,</dec>
-    <hex>0x3f80025a,0xbfffedcc,0x3f7fd6fe,0x3fffedcc,0xbf7fdbb1,</hex>
+    <dec>1.0000378600318292,-1.9998160245863494,0.9997785928834387,1.9998160245863494,-0.9998164529152679,</dec>
+    <hex>0x3f80013e,0xbffff9f9,0x3f7ff17d,0x3ffff9f9,0xbf7ff3f9,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
-    <q>0.8</q>
+    <freq>15.0</freq>
+    <q>1.4</q>
     <boost>5.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
-    <hex>0x3f8007bf,0xbfffd18b,0x3f7f93bf,0x3fffd190,0xbf7fa335,</hex>
+    <dec>1.0002045799931882,-1.9994733126538267,0.9992696962357623,1.9994733126538267,-0.9994742762289504,</dec>
+    <hex>0x3f8006b4,0xbfffeebe,0x3f7fd024,0x3fffeebe,0xbf7fdd8c,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>20.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
-    <hex>0x3f8007bf,0xbfffd18b,0x3f7f93bf,0x3fffd190,0xbf7fa335,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>20.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
-    <hex>0x3f8007bf,0xbfffd18b,0x3f7f93bf,0x3fffd190,0xbf7fa335,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
-    <type>SL</type>
+    <freq>25.0</freq>
+    <q>2.0</q>
+    <boost>1.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
-    <hex>0x3f8007bf,0xbfffd18b,0x3f7f93bf,0x3fffd190,0xbf7fa335,</hex>
+    <dec>1.000047102753448,-1.999225264231943,0.9991808377459209,1.999225264231943,-0.9992279404993689,</dec>
+    <hex>0x3f80018b,0xbfffe69d,0x3f7fca51,0x3fffe69d,0xbf7fcd67,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>19.0</freq>
-    <q>2.0</q>
-    <boost>2.0</boost>
+    <freq>10.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000717226771467,-1.999444451407779,0.9993742747114458,1.999444451407779,-0.9994459973885925,</dec>
-    <hex>0x3f80025a,0xbfffedcc,0x3f7fd6fe,0x3fffedcc,0xbf7fdbb1,</hex>
+    <dec>1.0000378600318292,-1.9998160245863494,0.9997785928834387,1.9998160245863494,-0.9998164529152679,</dec>
+    <hex>0x3f80013e,0xbffff9f9,0x3f7ff17d,0x3ffff9f9,0xbf7ff3f9,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
-    <q>0.8</q>
+    <freq>15.0</freq>
+    <q>1.4</q>
     <boost>5.0</boost>
-    <type>SL</type>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
-    <hex>0x3f8007bf,0xbfffd18b,0x3f7f93bf,0x3fffd190,0xbf7fa335,</hex>
+    <dec>1.0002045799931882,-1.9994733126538267,0.9992696962357623,1.9994733126538267,-0.9994742762289504,</dec>
+    <hex>0x3f8006b4,0xbfffeebe,0x3f7fd024,0x3fffeebe,0xbf7fdd8c,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>20.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
-    <hex>0x3f8007bf,0xbfffd18b,0x3f7f93bf,0x3fffd190,0xbf7fa335,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>20.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
-    <hex>0x3f8007bf,0xbfffd18b,0x3f7f93bf,0x3fffd190,0xbf7fa335,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
-    <type>SL</type>
+    <freq>25.0</freq>
+    <q>2.0</q>
+    <boost>1.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
-    <hex>0x3f8007bf,0xbfffd18b,0x3f7f93bf,0x3fffd190,0xbf7fa335,</hex>
+    <dec>1.000047102753448,-1.999225264231943,0.9991808377459209,1.999225264231943,-0.9992279404993689,</dec>
+    <hex>0x3f80018b,0xbfffe69d,0x3f7fca51,0x3fffe69d,0xbf7fcd67,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Star Trek into Darkness</beq_title>
+    <beq_title>Ice Age</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>star trek into darkness</beq_sortTitle>
-    <beq_year>2013</beq_year>
+    <beq_sortTitle>ice age</beq_sortTitle>
+    <beq_year>2002</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Star%20Trek%20into%20Darkness%20%282013%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Ice%20Age%20%282002%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,21 +1428,22 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>When the crew of the Enterprise is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis.  With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction. As our heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_overview>With the impending ice age almost upon them, a mismatched trio of prehistoric critters – Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth – find an orphaned infant and decide to return it to its human parents. Along the way, the unlikely allies become friends but, when enemies attack, their quest takes on far nobler aims.</beq_overview>
+    <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>54138</beq_theMovieDB>
-    <beq_poster>/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg</beq_poster>
-    <beq_runtime>132</beq_runtime>
+    <beq_theMovieDB>425</beq_theMovieDB>
+    <beq_poster>/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg</beq_poster>
+    <beq_runtime>81</beq_runtime>
     <beq_genres>
-      <genre id="28">Action</genre>
+      <genre id="16">Animation</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="10751">Family</genre>
       <genre id="12">Adventure</genre>
-      <genre id="878">Science Fiction</genre>
     </beq_genres>
-    <beq_collection id="115575">Star Trek Alternate Reality Collection</beq_collection>
+    <beq_collection id="8354">Ice Age Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
