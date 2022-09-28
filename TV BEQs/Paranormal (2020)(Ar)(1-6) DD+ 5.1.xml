@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>18.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>1.1</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000466424793275,-1.9985728997469916,0.998527734852891,1.9985729876272058,-0.9985742894520048,</dec>
-    <hex>0x3f800187,0xbfffd13d,0x3f7f9f83,0x3fffd13d,0xbf7fa291,</hex>
+    <dec>1.0000612519583543,-1.997932467627611,0.9978742798566256,1.997932634241362,-0.9979353652012292,</dec>
+    <hex>0x3f800202,0xbfffbc40,0x3f7f74b0,0x3fffbc42,0xbf7f78b1,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>1.1</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000466424793275,-1.9985728997469916,0.998527734852891,1.9985729876272058,-0.9985742894520048,</dec>
-    <hex>0x3f800187,0xbfffd13d,0x3f7f9f83,0x3fffd13d,0xbf7fa291,</hex>
+    <dec>1.0000612519583543,-1.997932467627611,0.9978742798566256,1.997932634241362,-0.9979353652012292,</dec>
+    <hex>0x3f800202,0xbfffbc40,0x3f7f74b0,0x3fffbc42,0xbf7f78b1,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>18.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>1.1</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000466424793275,-1.9985728997469916,0.998527734852891,1.9985729876272058,-0.9985742894520048,</dec>
-    <hex>0x3f800187,0xbfffd13d,0x3f7f9f83,0x3fffd13d,0xbf7fa291,</hex>
+    <dec>1.0000612519583543,-1.997932467627611,0.9978742798566256,1.997932634241362,-0.9979353652012292,</dec>
+    <hex>0x3f800202,0xbfffbc40,0x3f7f74b0,0x3fffbc42,0xbf7f78b1,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>18.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>1.1</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000466424793275,-1.9985728997469916,0.998527734852891,1.9985729876272058,-0.9985742894520048,</dec>
-    <hex>0x3f800187,0xbfffd13d,0x3f7f9f83,0x3fffd13d,0xbf7fa291,</hex>
+    <dec>1.0000612519583543,-1.997932467627611,0.9978742798566256,1.997932634241362,-0.9979353652012292,</dec>
+    <hex>0x3f800202,0xbfffbc40,0x3f7f74b0,0x3fffbc42,0xbf7f78b1,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>18.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>1.1</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000466424793275,-1.9985728997469916,0.998527734852891,1.9985729876272058,-0.9985742894520048,</dec>
-    <hex>0x3f800187,0xbfffd13d,0x3f7f9f83,0x3fffd13d,0xbf7fa291,</hex>
+    <dec>1.0000612519583543,-1.997932467627611,0.9978742798566256,1.997932634241362,-0.9979353652012292,</dec>
+    <hex>0x3f800202,0xbfffbc40,0x3f7f74b0,0x3fffbc42,0xbf7f78b1,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>1.1</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000466424793275,-1.9985728997469916,0.998527734852891,1.9985729876272058,-0.9985742894520048,</dec>
-    <hex>0x3f800187,0xbfffd13d,0x3f7f9f83,0x3fffd13d,0xbf7fa291,</hex>
+    <dec>1.0000612519583543,-1.997932467627611,0.9978742798566256,1.997932634241362,-0.9979353652012292,</dec>
+    <hex>0x3f800202,0xbfffbc40,0x3f7f74b0,0x3fffbc42,0xbf7f78b1,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>18.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>1.1</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000466424793275,-1.9985728997469916,0.998527734852891,1.9985729876272058,-0.9985742894520048,</dec>
-    <hex>0x3f800187,0xbfffd13d,0x3f7f9f83,0x3fffd13d,0xbf7fa291,</hex>
+    <dec>1.0000612519583543,-1.997932467627611,0.9978742798566256,1.997932634241362,-0.9979353652012292,</dec>
+    <hex>0x3f800202,0xbfffbc40,0x3f7f74b0,0x3fffbc42,0xbf7f78b1,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>18.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>1.1</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000466424793275,-1.9985728997469916,0.998527734852891,1.9985729876272058,-0.9985742894520048,</dec>
-    <hex>0x3f800187,0xbfffd13d,0x3f7f9f83,0x3fffd13d,0xbf7fa291,</hex>
+    <dec>1.0000612519583543,-1.997932467627611,0.9978742798566256,1.997932634241362,-0.9979353652012292,</dec>
+    <hex>0x3f800202,0xbfffbc40,0x3f7f74b0,0x3fffbc42,0xbf7f78b1,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1415,34 +1415,39 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>I Think We're Alone Now</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>i think we're alone now</beq_sortTitle>
-    <beq_year>2018</beq_year>
+    <beq_title>Paranormal</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
+    <beq_sortTitle>paranormal</beq_sortTitle>
+    <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I%20Think%20We%27re%20Alone%20Now%20%282018%29%20TrueHD%207.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Paranormal%20%282020%29%28Ar%29%281-6%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="157530">
+        <number>1</number>
+        <poster>/fCEc46PoQ5uZlX4917jEYY3Ohoh.jpg</poster>
+        <episodes count="6">1,2,3,4,5,6</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>After the human race has been wiped out, Del lives in an empty town, content in his solitude and the utopia he has methodically created for himself, until he meets young Grace, who wants to stay with him.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>Set in the 1960s; Paranormal follows the adventures of Dr. Refaat Ismail, a professor of hematology, as he comes up against various supernatural events with the help of his Scottish old flame, Maggie.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>451877</beq_theMovieDB>
-    <beq_poster>/1BKjz7CFQ3dcO8YxuUcM26oLdRi.jpg</beq_poster>
-    <beq_runtime>100</beq_runtime>
+    <beq_theMovieDB>106590</beq_theMovieDB>
+    <beq_poster>/fCEc46PoQ5uZlX4917jEYY3Ohoh.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
+    <beq_audioTypes>
+      <audioType>DD+ 5.1</audioType>
+    </beq_audioTypes>
     <beq_genres>
-      <genre id="878">Science Fiction</genre>
       <genre id="18">Drama</genre>
       <genre id="9648">Mystery</genre>
+      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
     </beq_genres>
-    <beq_audioTypes>
-      <audioType>TrueHD 7.1</audioType>
-    </beq_audioTypes>
   </beq_metadata>
 </setting>
