@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>16.0</freq>
-    <q>2.5</q>
-    <boost>5.0</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>8.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000122215382535,-1.9996848379814742,0.9995637190493444,1.9996848379814742,-0.9996859344318795,</dec>
-    <hex>0x3f800401,0xbffff5ac,0x3f7fe368,0x3ffff5ac,0xbf7feb6b,</hex>
+    <dec>1.0001521016869597,-1.9994797740319121,0.9993283510864389,1.9994799782967287,-0.9994802485085816,</dec>
+    <hex>0x3f8004fc,0xbfffeef4,0x3f7fd3fc,0x3fffeef6,0xbf7fddf0,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
+    <freq>17.0</freq>
+    <q>1.2</q>
+    <boost>6.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <dec>1.0003265436710753,-1.9993425662290436,0.999017260135893,1.9993425662290436,-0.9993438038069682,</dec>
+    <hex>0x3f800ab3,0xbfffea75,0x3f7fbf98,0x3fffea75,0xbf7fd4ff,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
+    <freq>18.0</freq>
+    <q>1.0</q>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <dec>1.0002738731492822,-1.9990631048588472,0.9987914303748954,1.9990637665392956,-0.9990646418437289,</dec>
+    <hex>0x3f8008f9,0xbfffe14d,0x3f7fb0cc,0x3fffe152,0xbf7fc2b3,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>16.0</freq>
-    <q>2.5</q>
-    <boost>5.0</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>8.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000122215382535,-1.9996848379814742,0.9995637190493444,1.9996848379814742,-0.9996859344318795,</dec>
-    <hex>0x3f800401,0xbffff5ac,0x3f7fe368,0x3ffff5ac,0xbf7feb6b,</hex>
+    <dec>1.0001521016869597,-1.9994797740319121,0.9993283510864389,1.9994799782967287,-0.9994802485085816,</dec>
+    <hex>0x3f8004fc,0xbfffeef4,0x3f7fd3fc,0x3fffeef6,0xbf7fddf0,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
+    <freq>17.0</freq>
+    <q>1.2</q>
+    <boost>6.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <dec>1.0003265436710753,-1.9993425662290436,0.999017260135893,1.9993425662290436,-0.9993438038069682,</dec>
+    <hex>0x3f800ab3,0xbfffea75,0x3f7fbf98,0x3fffea75,0xbf7fd4ff,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
+    <freq>18.0</freq>
+    <q>1.0</q>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <dec>1.0002738731492822,-1.9990631048588472,0.9987914303748954,1.9990637665392956,-0.9990646418437289,</dec>
+    <hex>0x3f8008f9,0xbfffe14d,0x3f7fb0cc,0x3fffe152,0xbf7fc2b3,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,33 +1415,35 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>A Silent Voice</beq_title>
-    <beq_alt_title>A Silent Voice: The Movie</beq_alt_title>
-    <beq_sortTitle>a silent voice</beq_sortTitle>
-    <beq_year>2016</beq_year>
+    <beq_title>Jumanji: Welcome to the Jungle</beq_title>
+    <beq_alt_title>Jumanji Welcome to the Jungle</beq_alt_title>
+    <beq_sortTitle>jumanji welcome to the jungle</beq_sortTitle>
+    <beq_year>2017</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Silent%20Voice%20%282016%29%28Ja%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jumanji%20Welcome%20to%20the%20Jungle%20%282017%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Japanese</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?</beq_overview>
+    <beq_overview>The tables are turned as four teenagers are sucked into Jumanji's world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they'll play as characters from the game.</beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>378064</beq_theMovieDB>
-    <beq_poster>/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg</beq_poster>
-    <beq_runtime>130</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>353486</beq_theMovieDB>
+    <beq_poster>/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg</beq_poster>
+    <beq_runtime>119</beq_runtime>
     <beq_genres>
-      <genre id="16">Animation</genre>
-      <genre id="18">Drama</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="28">Action</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="14">Fantasy</genre>
     </beq_genres>
+    <beq_collection id="495527">Jumanji Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

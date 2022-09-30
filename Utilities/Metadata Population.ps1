@@ -235,7 +235,7 @@ foreach ($file in $files) {
         $language = "Tagalog"
     }
     elseif ($fileName.IndexOf("(Th)") -ge 0) {
-        $language = "This"
+        $language = "Thai"
     }
     else {
         $language = "English"
