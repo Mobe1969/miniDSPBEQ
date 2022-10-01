@@ -1416,11 +1416,12 @@
   <link />
   <beq_metadata>
     <beq_title>The Dukes of Hazzard</beq_title>
-    <beq_alt_title>Dukes of Hazzard</beq_alt_title>
-    <beq_sortTitle>dukes of hazzard</beq_sortTitle>
+    <beq_alt_title>
+    </beq_alt_title>
+    <beq_sortTitle>the dukes of hazzard</beq_sortTitle>
     <beq_year>2005</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dukes%20of%20Hazzard%20%282005%29%28UC%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Dukes%20of%20Hazzard%20%282005%29%28UC%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition>Unrated Cut</beq_edition>
     <beq_season />
     <beq_note />
