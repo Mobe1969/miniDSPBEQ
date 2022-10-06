@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>17.0</freq>
-    <q>6.0</q>
-    <boost>3.0</boost>
-    <type>PK</type>
+    <freq>11.0</freq>
+    <q>0.8</q>
+    <boost>3.2</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000321814657236,-1.9998427449637597,0.9998118013855674,1.9998427449637597,-0.9998439828512911,</dec>
-    <hex>0x3f80010e,0xbffffad9,0x3f7ff3ab,0x3ffffad9,0xbf7ff5c6,</hex>
+    <dec>1.000083018287817,-1.9991790589671252,0.9990966635880767,1.9991791549477205,-0.9991795858952989,</dec>
+    <hex>0x3f8002b8,0xbfffe519,0x3f7fc4cd,0x3fffe51a,0xbf7fca3c,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
+    <freq>11.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>3.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001273488389137,-1.9986487039274443,0.9985230035129176,1.9986489446420899,-0.9986501116371858,</dec>
-    <hex>0x3f80042c,0xbfffd3b9,0x3f7f9f34,0x3fffd3bb,0xbf7fa789,</hex>
+    <dec>1.000083018287817,-1.9991790589671252,0.9990966635880767,1.9991791549477205,-0.9991795858952989,</dec>
+    <hex>0x3f8002b8,0xbfffe519,0x3f7fc4cd,0x3fffe51a,0xbf7fca3c,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>18.0</freq>
+    <freq>11.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>3.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001273488389137,-1.9986487039274443,0.9985230035129176,1.9986489446420899,-0.9986501116371858,</dec>
-    <hex>0x3f80042c,0xbfffd3b9,0x3f7f9f34,0x3fffd3bb,0xbf7fa789,</hex>
+    <dec>1.000083018287817,-1.9991790589671252,0.9990966635880767,1.9991791549477205,-0.9991795858952989,</dec>
+    <hex>0x3f8002b8,0xbfffe519,0x3f7fc4cd,0x3fffe51a,0xbf7fca3c,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
+    <freq>14.0</freq>
+    <q>4.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001273488389137,-1.9986487039274443,0.9985230035129176,1.9986489446420899,-0.9986501116371858,</dec>
-    <hex>0x3f80042c,0xbfffd3b9,0x3f7f9f34,0x3fffd3bb,0xbf7fa789,</hex>
+    <dec>1.0000532088263387,-1.9998172167385382,0.9997648474375238,1.9998172167385382,-0.9998180562638627,</dec>
+    <hex>0x3f8001be,0xbffffa03,0x3f7ff097,0x3ffffa03,0xbf7ff413,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>18.0</freq>
+    <freq>22.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001273488389137,-1.9986487039274443,0.9985230035129176,1.9986489446420899,-0.9986501116371858,</dec>
-    <hex>0x3f80042c,0xbfffd3b9,0x3f7f9f34,0x3fffd3bb,0xbf7fa789,</hex>
+    <dec>1.000129663981398,-1.998324399457312,0.9981971276844612,1.998324698609917,-0.9983264925132543,</dec>
+    <hex>0x3f800440,0xbfffc918,0x3f7f89d9,0x3fffc91b,0xbf7f9253,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>27.0</freq>
+    <q>4.0</q>
+    <boost>4.6</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001183356427414,-1.9996579254348152,0.9995427120665381,1.9996579254348152,-0.9996610477092797,</dec>
+    <hex>0x3f8003e1,0xbffff4ca,0x3f7fe208,0x3ffff4ca,0xbf7fe9c9,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>17.0</freq>
-    <q>6.0</q>
-    <boost>3.0</boost>
-    <type>PK</type>
+    <freq>11.0</freq>
+    <q>0.8</q>
+    <boost>3.2</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000321814657236,-1.9998427449637597,0.9998118013855674,1.9998427449637597,-0.9998439828512911,</dec>
-    <hex>0x3f80010e,0xbffffad9,0x3f7ff3ab,0x3ffffad9,0xbf7ff5c6,</hex>
+    <dec>1.000083018287817,-1.9991790589671252,0.9990966635880767,1.9991791549477205,-0.9991795858952989,</dec>
+    <hex>0x3f8002b8,0xbfffe519,0x3f7fc4cd,0x3fffe51a,0xbf7fca3c,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
+    <freq>11.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>3.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001273488389137,-1.9986487039274443,0.9985230035129176,1.9986489446420899,-0.9986501116371858,</dec>
-    <hex>0x3f80042c,0xbfffd3b9,0x3f7f9f34,0x3fffd3bb,0xbf7fa789,</hex>
+    <dec>1.000083018287817,-1.9991790589671252,0.9990966635880767,1.9991791549477205,-0.9991795858952989,</dec>
+    <hex>0x3f8002b8,0xbfffe519,0x3f7fc4cd,0x3fffe51a,0xbf7fca3c,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>18.0</freq>
+    <freq>11.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>3.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001273488389137,-1.9986487039274443,0.9985230035129176,1.9986489446420899,-0.9986501116371858,</dec>
-    <hex>0x3f80042c,0xbfffd3b9,0x3f7f9f34,0x3fffd3bb,0xbf7fa789,</hex>
+    <dec>1.000083018287817,-1.9991790589671252,0.9990966635880767,1.9991791549477205,-0.9991795858952989,</dec>
+    <hex>0x3f8002b8,0xbfffe519,0x3f7fc4cd,0x3fffe51a,0xbf7fca3c,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
+    <freq>14.0</freq>
+    <q>4.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001273488389137,-1.9986487039274443,0.9985230035129176,1.9986489446420899,-0.9986501116371858,</dec>
-    <hex>0x3f80042c,0xbfffd3b9,0x3f7f9f34,0x3fffd3bb,0xbf7fa789,</hex>
+    <dec>1.0000532088263387,-1.9998172167385382,0.9997648474375238,1.9998172167385382,-0.9998180562638627,</dec>
+    <hex>0x3f8001be,0xbffffa03,0x3f7ff097,0x3ffffa03,0xbf7ff413,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>18.0</freq>
+    <freq>22.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001273488389137,-1.9986487039274443,0.9985230035129176,1.9986489446420899,-0.9986501116371858,</dec>
-    <hex>0x3f80042c,0xbfffd3b9,0x3f7f9f34,0x3fffd3bb,0xbf7fa789,</hex>
+    <dec>1.000129663981398,-1.998324399457312,0.9981971276844612,1.998324698609917,-0.9983264925132543,</dec>
+    <hex>0x3f800440,0xbfffc918,0x3f7f89d9,0x3fffc91b,0xbf7f9253,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>27.0</freq>
+    <q>4.0</q>
+    <boost>4.6</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001183356427414,-1.9996579254348152,0.9995427120665381,1.9996579254348152,-0.9996610477092797,</dec>
+    <hex>0x3f8003e1,0xbffff4ca,0x3f7fe208,0x3ffff4ca,0xbf7fe9c9,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,37 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Ice Age: Collision Course</beq_title>
-    <beq_alt_title>Ice Age Collision Course</beq_alt_title>
-    <beq_sortTitle>ice age collision course</beq_sortTitle>
-    <beq_year>2016</beq_year>
+    <beq_title>The Cursed: Dead Man’s Prey</beq_title>
+    <beq_alt_title>The Cursed Dead Man’s Prey</beq_alt_title>
+    <beq_sortTitle>the cursed dead mans prey</beq_sortTitle>
+    <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Ice%20Age%20Collision%20Course%20%282016%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Cursed%20Dead%20Man%E2%80%99s%20Prey%20%282021%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Set after the events of Continental Drift, Scrat's epic pursuit of his elusive acorn catapults him outside of Earth, where he accidentally sets off a series of cosmic events that transform and threaten the planet. To save themselves from peril, Manny, Sid, Diego, and the rest of the herd leave their home and embark on a quest full of thrills and spills, highs and lows, laughter and adventure while traveling to exotic new lands and locations.</beq_overview>
-    <beq_rating>PG</beq_rating>
+    <beq_overview>In this movie spinoff of "The Cursed", reporter Im Jin-Hee receives a mysterious call while on a live radio program - the strange voice warning her about a murder happening soon. After the call, people begin to be murdered left and right. The murderers are "jaechaui" - corpses that can walk and talk like just like humans. One thing separates them from humans, though: they are just puppets being manipulated by someone far scarier than themselves.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>278154</beq_theMovieDB>
-    <beq_poster>/1f2NVAAemkBGqZUOz5YePHuwz9O.jpg</beq_poster>
-    <beq_runtime>95</beq_runtime>
+    <beq_theMovieDB>724885</beq_theMovieDB>
+    <beq_poster>/eEQvJerAVak8hWzSYKbvImQIZfu.jpg</beq_poster>
+    <beq_runtime>110</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="12">Adventure</genre>
-      <genre id="16">Animation</genre>
-      <genre id="10751">Family</genre>
-      <genre id="35">Comedy</genre>
-      <genre id="878">Science Fiction</genre>
+      <genre id="53">Thriller</genre>
+      <genre id="9648">Mystery</genre>
+      <genre id="27">Horror</genre>
     </beq_genres>
-    <beq_collection id="8354">Ice Age Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
-      <audioType>DTS-HD MA 7.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
