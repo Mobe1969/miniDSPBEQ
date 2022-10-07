@@ -803,57 +803,57 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>23.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>4.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000260895116301,-1.9983601135893798,0.9981022032864952,1.9983607472056655,-0.9983624647865106,</dec>
-    <hex>0x3f80088d,0xbfffca44,0x3f7f83a0,0x3fffca49,0xbf7f94af,</hex>
+    <dec>1.0001772627204584,-1.998936862867773,0.9987608847507511,1.9989371439766916,-0.9989378663622904,</dec>
+    <hex>0x3f8005cf,0xbfffdd2a,0x3f7faecb,0x3fffdd2c,0xbf7fba64,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>23.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>4.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000260895116301,-1.9983601135893798,0.9981022032864952,1.9983607472056655,-0.9983624647865106,</dec>
-    <hex>0x3f80088d,0xbfffca44,0x3f7f83a0,0x3fffca49,0xbf7f94af,</hex>
+    <dec>1.0001772627204584,-1.998936862867773,0.9987608847507511,1.9989371439766916,-0.9989378663622904,</dec>
+    <hex>0x3f8005cf,0xbfffdd2a,0x3f7faecb,0x3fffdd2c,0xbf7fba64,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>23.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>4.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000260895116301,-1.9983601135893798,0.9981022032864952,1.9983607472056655,-0.9983624647865106,</dec>
-    <hex>0x3f80088d,0xbfffca44,0x3f7f83a0,0x3fffca49,0xbf7f94af,</hex>
+    <dec>1.0001772627204584,-1.998936862867773,0.9987608847507511,1.9989371439766916,-0.9989378663622904,</dec>
+    <hex>0x3f8005cf,0xbfffdd2a,0x3f7faecb,0x3fffdd2c,0xbf7fba64,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>23.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>4.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000260895116301,-1.9983601135893798,0.9981022032864952,1.9983607472056655,-0.9983624647865106,</dec>
-    <hex>0x3f80088d,0xbfffca44,0x3f7f83a0,0x3fffca49,0xbf7f94af,</hex>
+    <dec>1.0001772627204584,-1.998936862867773,0.9987608847507511,1.9989371439766916,-0.9989378663622904,</dec>
+    <hex>0x3f8005cf,0xbfffdd2a,0x3f7faecb,0x3fffdd2c,0xbf7fba64,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>30.0</freq>
-    <q>3.0</q>
-    <boost>2.0</boost>
-    <type>PK</type>
+    <freq>15.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000754964251835,-1.9994129938936753,0.9993413516573558,1.9994129938936753,-0.9994168480825394,</dec>
-    <hex>0x3f800279,0xbfffecc4,0x3f7fd4d6,0x3fffecc4,0xbf7fd9c8,</hex>
+    <dec>1.0001772627204584,-1.998936862867773,0.9987608847507511,1.9989371439766916,-0.9989378663622904,</dec>
+    <hex>0x3f8005cf,0xbfffdd2a,0x3f7faecb,0x3fffdd2c,0xbf7fba64,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -893,57 +893,57 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>23.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>4.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000260895116301,-1.9983601135893798,0.9981022032864952,1.9983607472056655,-0.9983624647865106,</dec>
-    <hex>0x3f80088d,0xbfffca44,0x3f7f83a0,0x3fffca49,0xbf7f94af,</hex>
+    <dec>1.0001772627204584,-1.998936862867773,0.9987608847507511,1.9989371439766916,-0.9989378663622904,</dec>
+    <hex>0x3f8005cf,0xbfffdd2a,0x3f7faecb,0x3fffdd2c,0xbf7fba64,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>23.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>4.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000260895116301,-1.9983601135893798,0.9981022032864952,1.9983607472056655,-0.9983624647865106,</dec>
-    <hex>0x3f80088d,0xbfffca44,0x3f7f83a0,0x3fffca49,0xbf7f94af,</hex>
+    <dec>1.0001772627204584,-1.998936862867773,0.9987608847507511,1.9989371439766916,-0.9989378663622904,</dec>
+    <hex>0x3f8005cf,0xbfffdd2a,0x3f7faecb,0x3fffdd2c,0xbf7fba64,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>23.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>4.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000260895116301,-1.9983601135893798,0.9981022032864952,1.9983607472056655,-0.9983624647865106,</dec>
-    <hex>0x3f80088d,0xbfffca44,0x3f7f83a0,0x3fffca49,0xbf7f94af,</hex>
+    <dec>1.0001772627204584,-1.998936862867773,0.9987608847507511,1.9989371439766916,-0.9989378663622904,</dec>
+    <hex>0x3f8005cf,0xbfffdd2a,0x3f7faecb,0x3fffdd2c,0xbf7fba64,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>23.0</freq>
+    <freq>15.0</freq>
     <q>0.8</q>
-    <boost>4.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000260895116301,-1.9983601135893798,0.9981022032864952,1.9983607472056655,-0.9983624647865106,</dec>
-    <hex>0x3f80088d,0xbfffca44,0x3f7f83a0,0x3fffca49,0xbf7f94af,</hex>
+    <dec>1.0001772627204584,-1.998936862867773,0.9987608847507511,1.9989371439766916,-0.9989378663622904,</dec>
+    <hex>0x3f8005cf,0xbfffdd2a,0x3f7faecb,0x3fffdd2c,0xbf7fba64,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>30.0</freq>
-    <q>3.0</q>
-    <boost>2.0</boost>
-    <type>PK</type>
+    <freq>15.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000754964251835,-1.9994129938936753,0.9993413516573558,1.9994129938936753,-0.9994168480825394,</dec>
-    <hex>0x3f800279,0xbfffecc4,0x3f7fd4d6,0x3fffecc4,0xbf7fd9c8,</hex>
+    <dec>1.0001772627204584,-1.998936862867773,0.9987608847507511,1.9989371439766916,-0.9989378663622904,</dec>
+    <hex>0x3f8005cf,0xbfffdd2a,0x3f7faecb,0x3fffdd2c,0xbf7fba64,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Italian Job</beq_title>
+    <beq_title>I Know What You Did Last Summer</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>the italian job</beq_sortTitle>
-    <beq_year>2003</beq_year>
+    <beq_sortTitle>i know what you did last summer</beq_sortTitle>
+    <beq_year>1997</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Italian%20Job%20%282003%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I%20Know%20What%20You%20Did%20Last%20Summer%20%281997%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,20 +1428,21 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Charlie Croker pulled off the crime of a lifetime. The one thing that he didn't plan on was being double-crossed. Along with a drop-dead gorgeous safecracker, Croker and his team take off to re-steal the loot and end up in a pulse-pounding, pedal-to-the-metal chase that careens up, down, above and below the streets of Los Angeles.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_overview>After four high school friends are involved in a hit-and-run road accident, they dispose of the body and vow to keep the incident a secret. A year later, they each start receiving anonymous letters bearing the warning "I Know What You Did Last Summer."</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>9654</beq_theMovieDB>
-    <beq_poster>/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg</beq_poster>
-    <beq_runtime>110</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>3597</beq_theMovieDB>
+    <beq_poster>/cpaV1Ddvaf8jZWNAMJMMZPJkm0U.jpg</beq_poster>
+    <beq_runtime>101</beq_runtime>
     <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="80">Crime</genre>
+      <genre id="27">Horror</genre>
+      <genre id="53">Thriller</genre>
+      <genre id="9648">Mystery</genre>
     </beq_genres>
+    <beq_collection id="3601">I Know What You Did Last Summer Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
