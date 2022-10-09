@@ -1440,9 +1440,11 @@
     <beq_poster>/x5f5KY3IXy2lYu7WGJ5bfW3sYVZ.jpg</beq_poster>
     <beq_runtime>0</beq_runtime>
     <beq_collection />
-    <beq_genres />
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="35">Comedy</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
