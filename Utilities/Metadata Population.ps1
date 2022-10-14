@@ -34,6 +34,8 @@ foreach ($file in $files) {
     }
     if ($file.FullName.Contains("Movie")) {
         $report = Get-ChildItem "D:\BEQ\beq-reports\Movies" -Filter "$reportName.jpg" -Recurse
+    }elseif ($file.FullName.Contains("Trailers")) {
+        $report = Get-ChildItem "D:\BEQ\beq-reports\Trailers" -Filter "$reportName.jpg" -Recurse
     }
     else {
         $report = Get-ChildItem "D:\BEQ\beq-reports\TV Series" -Filter "$reportName.jpg" -Recurse
@@ -42,7 +44,6 @@ foreach ($file in $files) {
         Write-Output "$($file.Name) Unable to find report"
         Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) Unable to find report"
         $reportURL = ""
-        continue
     } else {
         $reportURL = [String]"https://gitlab.com/Mobe1969/beq-reports/-/raw/master" + [uri]::EscapeDataString($report.FullName.Replace("D:\BEQ\beq-reports", "").Replace("\", "/")).Replace("%2F", "/")
         $reportURL = [String]$reportURL.Replace("(", "%28").Replace(")", "%29")
