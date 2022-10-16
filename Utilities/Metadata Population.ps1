@@ -34,10 +34,7 @@ foreach ($file in $files) {
     }
     if ($file.FullName.Contains("Movie")) {
         $report = Get-ChildItem "D:\BEQ\beq-reports\Movies" -Filter "$reportName.jpg" -Recurse
-    }elseif ($file.FullName.Contains("Trailers")) {
-        $report = Get-ChildItem "D:\BEQ\beq-reports\Trailers" -Filter "$reportName.jpg" -Recurse
-    }
-    else {
+    } else {
         $report = Get-ChildItem "D:\BEQ\beq-reports\TV Series" -Filter "$reportName.jpg" -Recurse
     }
     if ($null -eq $report) {
@@ -316,7 +313,12 @@ foreach ($file in $files) {
             $ItemType = "tv"
         }
         $url = "https://api.themoviedb.org/3/search/" + $ItemType + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&query=$safeTitle&page=1&year=$year"
-        $response = Invoke-RestMethod -Uri $url
+        if ($file.FullName.Contains("(Trailer)")) {
+            $response = $null
+            $beqMetadata = $null
+        } else {
+            $response = Invoke-RestMethod -Uri $url
+        }
         if ($null -ne $response -and $null -ne $response.results -and $response.results.Count -ge 1) { 
             $result = $response.results[0]
             if ($beqMetadata.beq_theMovieDB -ne $result.id.ToString() -and ![string]::IsNullOrWhitespace($result.id.ToString())) {
@@ -340,7 +342,12 @@ foreach ($file in $files) {
             $ItemType = "tv"
         }
         $url = "https://api.themoviedb.org/3/" + $ItemType + "/" + $beqMetadata.beq_theMovieDB + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
-        $result = Invoke-RestMethod -Uri $url
+        if ($file.FullName.Contains("(Trailer)")) {
+            $result = $null
+            $beqMetadata = $null
+        } else {
+            $result = Invoke-RestMethod -Uri $url
+        }
         if ($null -ne $result) { 
             if ($ItemType -eq "tv") {
                 if ($beqMetadata.beq_title -ne $result.name) {
