@@ -288,6 +288,12 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(DC)") -ge 0) {
         $edition = "Director's Cut"
     }
+    elseif ($fileName.IndexOf("(IC)") -ge 0) {
+        $edition = "International Cut"
+    }
+    elseif ($fileName.IndexOf("(TV)") -ge 0) {
+        $edition = "TV Cut"
+    }
     elseif ($fileName.IndexOf("(AC)") -ge 0) {
         $edition = "Alternate Cut"
     }
