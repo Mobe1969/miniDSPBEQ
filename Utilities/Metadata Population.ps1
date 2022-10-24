@@ -36,6 +36,7 @@ foreach ($file in $files) {
         $report = Get-ChildItem "D:\BEQ\beq-reports\Movies" -Filter "$reportName.jpg" -Recurse
     } elseif ($file.FullName.Contains("Trailers")) {
         $report = Get-ChildItem "D:\BEQ\beq-reports\Trailers" -Filter "$reportName.jpg" -Recurse
+        continue
     } else {
         $report = Get-ChildItem "D:\BEQ\beq-reports\TV Series" -Filter "$reportName.jpg" -Recurse
     }
