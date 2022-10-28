@@ -803,66 +803,66 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
+    <q>1.4</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
+    <dec>1.0000404457788081,-1.9995708317736716,0.9995308950023316,1.9995709061025602,-0.9995712664522511,</dec>
+    <hex>0x3f800153,0xbffff1f0,0x3f7fe142,0x3ffff1f0,0xbf7fe3e7,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>11.0</freq>
+    <freq>14.0</freq>
     <q>3.0</q>
     <boost>4.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000557423414829,-1.999808874815772,0.9997536507504471,1.999808874815772,-0.9998093930919301,</dec>
-    <hex>0x3f8001d4,0xbffff9bd,0x3f7fefdb,0x3ffff9bd,0xbf7ff382,</hex>
+    <dec>1.0000709429505144,-1.999756576208065,0.9996864727574182,1.999756576208065,-0.9997574157079324,</dec>
+    <hex>0x3f800253,0xbffff806,0x3f7feb74,0x3ffff806,0xbf7ff01a,</hex>
   </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>15.0</freq>
-    <q>2.0</q>
-    <boost>6.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001729027650874,-1.9996515846923246,0.9994796455882727,1.9996515846923246,-0.9996525483533601,</dec>
-    <hex>0x3f8005aa,0xbffff495,0x3f7fdde6,0x3ffff495,0xbf7fe93b,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>28.0</freq>
-    <q>6.0</q>
-    <boost>1.6</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000281672350926,-1.999718123149978,0.9996933138533091,1.999718123149978,-0.9997214810884015,</dec>
-    <hex>0x3f8000ec,0xbffff6c3,0x3f7febe7,0x3ffff6c3,0xbf7fedbf,</hex>
-  </filter>
-  <filter name="PEQ_1_7" addr="8310">
-    <freq>35.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>19.0</freq>
+    <q>0.9</q>
+    <boost>4.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003305808751821,-1.9974458380721771,0.9971218550019502,1.9974470555079076,-0.9974512184414014,</dec>
-    <hex>0x3f800ad5,0xbfffac4e,0x3f7f4361,0x3fffac58,0xbf7f58f7,</hex>
+    <dec>1.0001795551237866,-1.9987852757281646,0.9986077230509983,1.9987856805606514,-0.9987868733422978,</dec>
+    <hex>0x3f8005e2,0xbfffd832,0x3f7fa4c1,0x3fffd836,0xbf7fb07f,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>19.0</freq>
+    <q>0.9</q>
+    <boost>4.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001795551237866,-1.9987852757281646,0.9986077230509983,1.9987856805606514,-0.9987868733422978,</dec>
+    <hex>0x3f8005e2,0xbfffd832,0x3f7fa4c1,0x3fffd836,0xbf7fb07f,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>22.0</freq>
+    <q>4.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000624653091637,-1.9996950924701158,0.9996347001489737,1.9996950924701158,-0.9996971654581372,</dec>
+    <hex>0x3f80020c,0xbffff602,0x3f7fe80f,0x3ffff602,0xbf7fec27,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_1_7" addr="8310">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>1000</freq>
@@ -893,66 +893,66 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
+    <q>1.4</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
+    <dec>1.0000404457788081,-1.9995708317736716,0.9995308950023316,1.9995709061025602,-0.9995712664522511,</dec>
+    <hex>0x3f800153,0xbffff1f0,0x3f7fe142,0x3ffff1f0,0xbf7fe3e7,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>11.0</freq>
+    <freq>14.0</freq>
     <q>3.0</q>
     <boost>4.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000557423414829,-1.999808874815772,0.9997536507504471,1.999808874815772,-0.9998093930919301,</dec>
-    <hex>0x3f8001d4,0xbffff9bd,0x3f7fefdb,0x3ffff9bd,0xbf7ff382,</hex>
+    <dec>1.0000709429505144,-1.999756576208065,0.9996864727574182,1.999756576208065,-0.9997574157079324,</dec>
+    <hex>0x3f800253,0xbffff806,0x3f7feb74,0x3ffff806,0xbf7ff01a,</hex>
   </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>15.0</freq>
-    <q>2.0</q>
-    <boost>6.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001729027650874,-1.9996515846923246,0.9994796455882727,1.9996515846923246,-0.9996525483533601,</dec>
-    <hex>0x3f8005aa,0xbffff495,0x3f7fdde6,0x3ffff495,0xbf7fe93b,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>28.0</freq>
-    <q>6.0</q>
-    <boost>1.6</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000281672350926,-1.999718123149978,0.9996933138533091,1.999718123149978,-0.9997214810884015,</dec>
-    <hex>0x3f8000ec,0xbffff6c3,0x3f7febe7,0x3ffff6c3,0xbf7fedbf,</hex>
-  </filter>
-  <filter name="PEQ_2_7" addr="8360">
-    <freq>35.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>19.0</freq>
+    <q>0.9</q>
+    <boost>4.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003305808751821,-1.9974458380721771,0.9971218550019502,1.9974470555079076,-0.9974512184414014,</dec>
-    <hex>0x3f800ad5,0xbfffac4e,0x3f7f4361,0x3fffac58,0xbf7f58f7,</hex>
+    <dec>1.0001795551237866,-1.9987852757281646,0.9986077230509983,1.9987856805606514,-0.9987868733422978,</dec>
+    <hex>0x3f8005e2,0xbfffd832,0x3f7fa4c1,0x3fffd836,0xbf7fb07f,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>19.0</freq>
+    <q>0.9</q>
+    <boost>4.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001795551237866,-1.9987852757281646,0.9986077230509983,1.9987856805606514,-0.9987868733422978,</dec>
+    <hex>0x3f8005e2,0xbfffd832,0x3f7fa4c1,0x3fffd836,0xbf7fb07f,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>22.0</freq>
+    <q>4.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000624653091637,-1.9996950924701158,0.9996347001489737,1.9996950924701158,-0.9996971654581372,</dec>
+    <hex>0x3f80020c,0xbffff602,0x3f7fe80f,0x3ffff602,0xbf7fec27,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_2_7" addr="8360">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>1000</freq>
@@ -1415,33 +1415,31 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Reginald the Vampire</beq_title>
+    <beq_title>All Quiet on the Western Front</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>guillermo del toro's cabinet of curiosities</beq_sortTitle>
+    <beq_sortTitle>all quiet on the western front</beq_sortTitle>
     <beq_year>2022</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Guillermo%20del%20Toro%27s%20Cabinet%20of%20Curiosities%20%282022%29%28S1%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/All%20Quiet%20on%20the%20Western%20Front%20%282022%29%28De%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="239632">
-      <number>1</number>
-      <poster>/d1fEqGYSvEsJmHgYnRmEiRM87w6.jpg</poster>
-      <episodes count="8">1,2,3,4,5,6,7,8</episodes>
-    </beq_season>
+    <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>German</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Imagine a world populated by beautiful, fit and vain vampires. Reginald Andres tumbles headlong into it as an unlikely hero who will have to navigate every kind of obstacle Ã¢â‚¬â€œ the girl he loves but canÃ¢â‚¬â„¢t be with, a bully manager at work and the vampire chieftain who wants him dead. Fortunately, Reginald discovers he has a few unrecognized powers of his own.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>155437</beq_theMovieDB>
-    <beq_poster>/x5f5KY3IXy2lYu7WGJ5bfW3sYVZ.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
+    <beq_theMovieDB>49046</beq_theMovieDB>
+    <beq_poster>/glZfjVEzZCJ7oTHWa3m6KefcoRN.jpg</beq_poster>
+    <beq_runtime>147</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="35">Comedy</genre>
+      <genre id="28">Action</genre>
+      <genre id="18">Drama</genre>
+      <genre id="10752">War</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
