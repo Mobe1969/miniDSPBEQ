@@ -1415,33 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Reginald the Vampire</beq_title>
+    <beq_title>Guillermo del Toro's Cabinet of Curiosities</beq_title>
     <beq_alt_title />
     <beq_sortTitle>guillermo del toro's cabinet of curiosities</beq_sortTitle>
     <beq_year>2022</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Guillermo%20del%20Toro%27s%20Cabinet%20of%20Curiosities%20%282022%29%28S1%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="239632">
-      <number>1</number>
-      <poster>/d1fEqGYSvEsJmHgYnRmEiRM87w6.jpg</poster>
-      <episodes count="8">1,2,3,4,5,6,7,8</episodes>
+    <beq_season id="111852">
+        <number>1</number>
+        <poster>/885Is1CgIUxuqSVVmcfZaQyyCX5.jpg</poster>
+        <episodes count="8">1,2,3,4,5,6,7,8</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Imagine a world populated by beautiful, fit and vain vampires. Reginald Andres tumbles headlong into it as an unlikely hero who will have to navigate every kind of obstacle Ã¢â‚¬â€œ the girl he loves but canÃ¢â‚¬â„¢t be with, a bully manager at work and the vampire chieftain who wants him dead. Fortunately, Reginald discovers he has a few unrecognized powers of his own.</beq_overview>
+    <beq_overview>Bizarre nightmares unfold in eight tales of terror in this visually stunning, spine-tingling horror collection curated by Guillermo del Toro.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>155437</beq_theMovieDB>
-    <beq_poster>/x5f5KY3IXy2lYu7WGJ5bfW3sYVZ.jpg</beq_poster>
+    <beq_theMovieDB>83659</beq_theMovieDB>
+    <beq_poster>/a91e9hpWwfCqxJI4xM9Q2RhuxgI.jpg</beq_poster>
     <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="35">Comedy</genre>
+      <genre id="18">Drama</genre>
+      <genre id="9648">Mystery</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
