@@ -1420,12 +1420,12 @@
     <beq_sortTitle>the peripheral</beq_sortTitle>
     <beq_year>2022</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Peripheral%20%282022%29%281-8%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Peripheral%20%282022%29%28S1%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="135736">
         <number>1</number>
         <poster>/qtuAjmUWY7xIEOg0yfpqLkHSeeu.jpg</poster>
-        <episodes count="8">1,2,3</episodes>
+        <episodes count="8">1,2,3,4</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
