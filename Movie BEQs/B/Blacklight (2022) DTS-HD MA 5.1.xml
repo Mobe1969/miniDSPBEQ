@@ -1442,6 +1442,7 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
