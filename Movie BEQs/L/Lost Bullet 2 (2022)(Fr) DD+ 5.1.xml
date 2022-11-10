@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001015296931177,-1.9992769357621187,0.9991759545484019,1.9992770428426032,-0.9992773771610356,</dec>
-    <hex>0x3f800354,0xbfffe84e,0x3f7fc9ff,0x3fffe84f,0xbf7fd0a4,</hex>
+    <dec>1.0002789642596002,-1.9986988143648805,0.99842205832449,1.9986993777049866,-0.9987004592439841,</dec>
+    <hex>0x3f800924,0xbfffd55d,0x3f7f9897,0x3fffd562,0xbf7faad5,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001015296931177,-1.9992769357621187,0.9991759545484019,1.9992770428426032,-0.9992773771610356,</dec>
-    <hex>0x3f800354,0xbfffe84e,0x3f7fc9ff,0x3fffe84f,0xbf7fd0a4,</hex>
+    <dec>1.0002789642596002,-1.9986988143648805,0.99842205832449,1.9986993777049866,-0.9987004592439841,</dec>
+    <hex>0x3f800924,0xbfffd55d,0x3f7f9897,0x3fffd562,0xbf7faad5,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001015296931177,-1.9992769357621187,0.9991759545484019,1.9992770428426032,-0.9992773771610356,</dec>
-    <hex>0x3f800354,0xbfffe84e,0x3f7fc9ff,0x3fffe84f,0xbf7fd0a4,</hex>
+    <dec>1.0002789642596002,-1.9986988143648805,0.99842205832449,1.9986993777049866,-0.9987004592439841,</dec>
+    <hex>0x3f800924,0xbfffd55d,0x3f7f9897,0x3fffd562,0xbf7faad5,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>10.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001015296931177,-1.9992769357621187,0.9991759545484019,1.9992770428426032,-0.9992773771610356,</dec>
-    <hex>0x3f800354,0xbfffe84e,0x3f7fc9ff,0x3fffe84f,0xbf7fd0a4,</hex>
+    <dec>1.0002789642596002,-1.9986988143648805,0.99842205832449,1.9986993777049866,-0.9987004592439841,</dec>
+    <hex>0x3f800924,0xbfffd55d,0x3f7f9897,0x3fffd562,0xbf7faad5,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>11.0</freq>
-    <q>3.0</q>
-    <boost>1.6</boost>
-    <type>PK</type>
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>6.2</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000022132069926,-1.9997806388093415,0.9997590250082556,1.9997806388093415,-0.9997811570781815,</dec>
-    <hex>0x3f8000ba,0xbffff8d0,0x3f7ff035,0x3ffff8d0,0xbf7ff1a8,</hex>
+    <dec>1.0002789642596002,-1.9986988143648805,0.99842205832449,1.9986993777049866,-0.9987004592439841,</dec>
+    <hex>0x3f800924,0xbfffd55d,0x3f7f9897,0x3fffd562,0xbf7faad5,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>18.0</freq>
-    <q>3.0</q>
-    <boost>2.0</boost>
+    <freq>23.0</freq>
+    <q>2.0</q>
+    <boost>3.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000453031574592,-1.9996486802228253,0.9996047647354864,1.9996486802228253,-0.999650067892946,</dec>
-    <hex>0x3f80017c,0xbffff47d,0x3f7fe619,0x3ffff47d,0xbf7fe911,</hex>
+    <dec>1.0001482093911662,-1.9993790462746635,0.9992331022500989,1.9993790462746635,-0.9993813116412649,</dec>
+    <hex>0x3f8004db,0xbfffeba7,0x3f7fcdbe,0x3fffeba7,0xbf7fd774,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001015296931177,-1.9992769357621187,0.9991759545484019,1.9992770428426032,-0.9992773771610356,</dec>
-    <hex>0x3f800354,0xbfffe84e,0x3f7fc9ff,0x3fffe84f,0xbf7fd0a4,</hex>
+    <dec>1.0002789642596002,-1.9986988143648805,0.99842205832449,1.9986993777049866,-0.9987004592439841,</dec>
+    <hex>0x3f800924,0xbfffd55d,0x3f7f9897,0x3fffd562,0xbf7faad5,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001015296931177,-1.9992769357621187,0.9991759545484019,1.9992770428426032,-0.9992773771610356,</dec>
-    <hex>0x3f800354,0xbfffe84e,0x3f7fc9ff,0x3fffe84f,0xbf7fd0a4,</hex>
+    <dec>1.0002789642596002,-1.9986988143648805,0.99842205832449,1.9986993777049866,-0.9987004592439841,</dec>
+    <hex>0x3f800924,0xbfffd55d,0x3f7f9897,0x3fffd562,0xbf7faad5,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001015296931177,-1.9992769357621187,0.9991759545484019,1.9992770428426032,-0.9992773771610356,</dec>
-    <hex>0x3f800354,0xbfffe84e,0x3f7fc9ff,0x3fffe84f,0xbf7fd0a4,</hex>
+    <dec>1.0002789642596002,-1.9986988143648805,0.99842205832449,1.9986993777049866,-0.9987004592439841,</dec>
+    <hex>0x3f800924,0xbfffd55d,0x3f7f9897,0x3fffd562,0xbf7faad5,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>10.0</freq>
+    <freq>19.0</freq>
     <q>0.8</q>
-    <boost>4.3</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001015296931177,-1.9992769357621187,0.9991759545484019,1.9992770428426032,-0.9992773771610356,</dec>
-    <hex>0x3f800354,0xbfffe84e,0x3f7fc9ff,0x3fffe84f,0xbf7fd0a4,</hex>
+    <dec>1.0002789642596002,-1.9986988143648805,0.99842205832449,1.9986993777049866,-0.9987004592439841,</dec>
+    <hex>0x3f800924,0xbfffd55d,0x3f7f9897,0x3fffd562,0xbf7faad5,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>11.0</freq>
-    <q>3.0</q>
-    <boost>1.6</boost>
-    <type>PK</type>
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>6.2</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000022132069926,-1.9997806388093415,0.9997590250082556,1.9997806388093415,-0.9997811570781815,</dec>
-    <hex>0x3f8000ba,0xbffff8d0,0x3f7ff035,0x3ffff8d0,0xbf7ff1a8,</hex>
+    <dec>1.0002789642596002,-1.9986988143648805,0.99842205832449,1.9986993777049866,-0.9987004592439841,</dec>
+    <hex>0x3f800924,0xbfffd55d,0x3f7f9897,0x3fffd562,0xbf7faad5,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>18.0</freq>
-    <q>3.0</q>
-    <boost>2.0</boost>
+    <freq>23.0</freq>
+    <q>2.0</q>
+    <boost>3.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000453031574592,-1.9996486802228253,0.9996047647354864,1.9996486802228253,-0.999650067892946,</dec>
-    <hex>0x3f80017c,0xbffff47d,0x3f7fe619,0x3ffff47d,0xbf7fe911,</hex>
+    <dec>1.0001482093911662,-1.9993790462746635,0.9992331022500989,1.9993790462746635,-0.9993813116412649,</dec>
+    <hex>0x3f8004db,0xbfffeba7,0x3f7fcdbe,0x3fffeba7,0xbf7fd774,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,36 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Reginald the Vampire</beq_title>
+    <beq_title>Lost Bullet 2</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>reginald the vampire</beq_sortTitle>
+    <beq_sortTitle>lost bullet 2</beq_sortTitle>
     <beq_year>2022</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Reginald%20the%20Vampire%20%282022%29%28S1%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lost%20Bullet%202%20%282022%29%28Fr%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="239632">
-      <number>1</number>
-      <poster>/d1fEqGYSvEsJmHgYnRmEiRM87w6.jpg</poster>
-      <episodes count="10">1,2,3,4,5,6</episodes>
-    </beq_season>
+    <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>French</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Imagine a world populated by beautiful, fit and vain vampires. Reginald Andres tumbles headlong into it as an unlikely hero who will have to navigate every kind of obstacle Ã¢â‚¬â€œ the girl he loves but canÃ¢â‚¬â„¢t be with, a bully manager at work and the vampire chieftain who wants him dead. Fortunately, Reginald discovers he has a few unrecognized powers of his own.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>Having cleared his name, genius mechanic Lino has only one goal in mind: getting revenge on the corrupt cops who killed his brother and his mentor.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>155437</beq_theMovieDB>
-    <beq_poster>/x5f5KY3IXy2lYu7WGJ5bfW3sYVZ.jpg</beq_poster>
+    <beq_theMovieDB>948276</beq_theMovieDB>
+    <beq_poster>/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg</beq_poster>
     <beq_runtime>0</beq_runtime>
-    <beq_collection />
+    <beq_genres>
+      <genre id="28">Action</genre>
+      <genre id="18">Drama</genre>
+      <genre id="53">Thriller</genre>
+    </beq_genres>
+    <beq_collection id="1002775">Lost Bullet Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
-    <beq_genres>
-      <genre id="35">Comedy</genre>
-    </beq_genres>
   </beq_metadata>
 </setting>
