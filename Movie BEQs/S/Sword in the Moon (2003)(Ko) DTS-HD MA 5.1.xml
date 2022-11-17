@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>12.0</freq>
-    <q>0.9</q>
-    <boost>3.8</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000956667551506,-1.999217421234498,0.9991225218583694,1.9992175571932536,-0.9992180526547647,</dec>
-    <hex>0x3f800323,0xbfffe65b,0x3f7fc67e,0x3fffe65c,0xbf7fccc1,</hex>
+    <dec>1.0000377098325686,-1.9993818733939461,0.9993446440500002,1.999381922805418,-0.9993823044710975,</dec>
+    <hex>0x3f80013c,0xbfffebbf,0x3f7fd50d,0x3fffebbf,0xbf7fd785,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>12.0</freq>
-    <q>0.9</q>
-    <boost>3.8</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000956667551506,-1.999217421234498,0.9991225218583694,1.9992175571932536,-0.9992180526547647,</dec>
-    <hex>0x3f800323,0xbfffe65b,0x3f7fc67e,0x3fffe65c,0xbf7fccc1,</hex>
+    <dec>1.0000377098325686,-1.9993818733939461,0.9993446440500002,1.999381922805418,-0.9993823044710975,</dec>
+    <hex>0x3f80013c,0xbfffebbf,0x3f7fd50d,0x3fffebbf,0xbf7fd785,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>14.0</freq>
-    <q>4.0</q>
-    <boost>2.0</boost>
-    <type>PK</type>
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>2.4</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000264287709903,-1.99979501852043,0.9997694292654453,1.99979501852043,-0.9997958580364354,</dec>
-    <hex>0x3f8000de,0xbffff948,0x3f7ff0e4,0x3ffff948,0xbf7ff29f,</hex>
+    <dec>1.0001527678928597,-1.9979374785487611,0.997788292422749,1.99793791090818,-0.9979406279561892,</dec>
+    <hex>0x3f800502,0xbfffbc6a,0x3f7f6f0e,0x3fffbc6e,0xbf7f7909,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>23.0</freq>
+    <freq>27.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>2.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001084126246087,-1.998222874526107,0.9981170022149818,1.9982231357614864,-0.9982251536042109,</dec>
-    <hex>0x3f80038d,0xbfffc5c4,0x3f7f8499,0x3fffc5c7,0xbf7f8baf,</hex>
+    <dec>1.0001527678928597,-1.9979374785487611,0.997788292422749,1.99793791090818,-0.9979406279561892,</dec>
+    <hex>0x3f800502,0xbfffbc6a,0x3f7f6f0e,0x3fffbc6e,0xbf7f7909,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>26.0</freq>
-    <q>6.0</q>
-    <boost>2.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000327205291055,-1.9997443636331775,0.9997145385067806,1.9997443636331775,-0.9997472590358858,</dec>
-    <hex>0x3f800112,0xbffff7a0,0x3f7fed4b,0x3ffff7a0,0xbf7fef70,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>42.0</freq>
+    <freq>27.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>2.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001980226034317,-1.996753758520572,0.9965642006222676,1.9967546289959952,-0.9967613527502764,</dec>
-    <hex>0x3f80067d,0xbfff95a1,0x3f7f1ed5,0x3fff95a8,0xbf7f2bc1,</hex>
+    <dec>1.0001527678928597,-1.9979374785487611,0.997788292422749,1.99793791090818,-0.9979406279561892,</dec>
+    <hex>0x3f800502,0xbfffbc6a,0x3f7f6f0e,0x3fffbc6e,0xbf7f7909,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>2.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001527678928597,-1.9979374785487611,0.997788292422749,1.99793791090818,-0.9979406279561892,</dec>
+    <hex>0x3f800502,0xbfffbc6a,0x3f7f6f0e,0x3fffbc6e,0xbf7f7909,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>12.0</freq>
-    <q>0.9</q>
-    <boost>3.8</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000956667551506,-1.999217421234498,0.9991225218583694,1.9992175571932536,-0.9992180526547647,</dec>
-    <hex>0x3f800323,0xbfffe65b,0x3f7fc67e,0x3fffe65c,0xbf7fccc1,</hex>
+    <dec>1.0000377098325686,-1.9993818733939461,0.9993446440500002,1.999381922805418,-0.9993823044710975,</dec>
+    <hex>0x3f80013c,0xbfffebbf,0x3f7fd50d,0x3fffebbf,0xbf7fd785,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>12.0</freq>
-    <q>0.9</q>
-    <boost>3.8</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000956667551506,-1.999217421234498,0.9991225218583694,1.9992175571932536,-0.9992180526547647,</dec>
-    <hex>0x3f800323,0xbfffe65b,0x3f7fc67e,0x3fffe65c,0xbf7fccc1,</hex>
+    <dec>1.0000377098325686,-1.9993818733939461,0.9993446440500002,1.999381922805418,-0.9993823044710975,</dec>
+    <hex>0x3f80013c,0xbfffebbf,0x3f7fd50d,0x3fffebbf,0xbf7fd785,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>14.0</freq>
-    <q>4.0</q>
-    <boost>2.0</boost>
-    <type>PK</type>
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>2.4</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000264287709903,-1.99979501852043,0.9997694292654453,1.99979501852043,-0.9997958580364354,</dec>
-    <hex>0x3f8000de,0xbffff948,0x3f7ff0e4,0x3ffff948,0xbf7ff29f,</hex>
+    <dec>1.0001527678928597,-1.9979374785487611,0.997788292422749,1.99793791090818,-0.9979406279561892,</dec>
+    <hex>0x3f800502,0xbfffbc6a,0x3f7f6f0e,0x3fffbc6e,0xbf7f7909,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>23.0</freq>
+    <freq>27.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>2.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001084126246087,-1.998222874526107,0.9981170022149818,1.9982231357614864,-0.9982251536042109,</dec>
-    <hex>0x3f80038d,0xbfffc5c4,0x3f7f8499,0x3fffc5c7,0xbf7f8baf,</hex>
+    <dec>1.0001527678928597,-1.9979374785487611,0.997788292422749,1.99793791090818,-0.9979406279561892,</dec>
+    <hex>0x3f800502,0xbfffbc6a,0x3f7f6f0e,0x3fffbc6e,0xbf7f7909,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>26.0</freq>
-    <q>6.0</q>
-    <boost>2.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000327205291055,-1.9997443636331775,0.9997145385067806,1.9997443636331775,-0.9997472590358858,</dec>
-    <hex>0x3f800112,0xbffff7a0,0x3f7fed4b,0x3ffff7a0,0xbf7fef70,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>42.0</freq>
+    <freq>27.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>2.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001980226034317,-1.996753758520572,0.9965642006222676,1.9967546289959952,-0.9967613527502764,</dec>
-    <hex>0x3f80067d,0xbfff95a1,0x3f7f1ed5,0x3fff95a8,0xbf7f2bc1,</hex>
+    <dec>1.0001527678928597,-1.9979374785487611,0.997788292422749,1.99793791090818,-0.9979406279561892,</dec>
+    <hex>0x3f800502,0xbfffbc6a,0x3f7f6f0e,0x3fffbc6e,0xbf7f7909,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>2.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001527678928597,-1.9979374785487611,0.997788292422749,1.99793791090818,-0.9979406279561892,</dec>
+    <hex>0x3f800502,0xbfffbc6a,0x3f7f6f0e,0x3fffbc6e,0xbf7f7909,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Witch: Part 1. The Subversion</beq_title>
-    <beq_alt_title>The Witch Subversion</beq_alt_title>
-    <beq_sortTitle>the witch subversion</beq_sortTitle>
-    <beq_year>2018</beq_year>
+    <beq_title>Sword in the Moon</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>sword in the moon</beq_sortTitle>
+    <beq_year>2003</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Witch%20Subversion%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sword%20in%20the%20Moon%20%282003%29%28Ko%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,19 +1428,19 @@
     <beq_gain />
     <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Ja-yoon is a high school student who struggles with memory loss after she endured some unknown trauma during her childhood. While trying to uncover the truth, she is unwittingly dragged into a world of crime and finds herself on a journey that will awaken many secrets hidden deep within.</beq_overview>
+    <beq_overview>Kingdom of Joseon, ancient Korea. A usurper has conquered the throne. His ministers are being systematically eliminated by a mysterious assassin. An arrogant master swordsman is in charge of putting an end to the carnage.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>530254</beq_theMovieDB>
-    <beq_poster>/pshpCPNTJmYk4IjZm8hRK7YHXPv.jpg</beq_poster>
-    <beq_runtime>125</beq_runtime>
+    <beq_theMovieDB>13512</beq_theMovieDB>
+    <beq_poster>/sDp5vC60tzHSfNBxOKzN1M1j8n1.jpg</beq_poster>
+    <beq_runtime>95</beq_runtime>
+    <beq_collection />
     <beq_genres>
       <genre id="28">Action</genre>
-      <genre id="9648">Mystery</genre>
-      <genre id="878">Science Fiction</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="18">Drama</genre>
     </beq_genres>
-    <beq_collection id="619533">The Witch Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
