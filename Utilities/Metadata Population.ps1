@@ -193,6 +193,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(Du)") -ge 0) {
         $language = "Dutch"
     }
+    elseif ($fileName.IndexOf("(Fl)") -ge 0) {
+        $language = "Flemish"
+    }
     elseif ($fileName.IndexOf("(Po)") -ge 0) {
         $language = "Portuguese"
     }

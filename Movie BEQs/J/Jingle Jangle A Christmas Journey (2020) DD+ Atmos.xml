@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
-    <type>SL</type>
+    <freq>11.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000269873379488,-1.998691323324205,0.9984236328784554,1.9986918677618135,-0.9986929618203348,</dec>
-    <hex>0x3f8008d8,0xbfffd51e,0x3f7f98b1,0x3fffd523,0xbf7faa58,</hex>
+    <dec>1.0000416456521906,-1.9997975817894973,0.9997564544105378,1.9997975817894973,-0.9997981000627285,</dec>
+    <hex>0x3f80015d,0xbffff95e,0x3f7ff00a,0x3ffff95e,0xbf7ff2c5,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>19.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000269873379488,-1.998691323324205,0.9984236328784554,1.9986918677618135,-0.9986929618203348,</dec>
-    <hex>0x3f8008d8,0xbfffd51e,0x3f7f98b1,0x3fffd523,0xbf7faa58,</hex>
+    <dec>1.0002281167582925,-1.9992197909061071,0.9989926514085731,1.9992200850092285,-0.9992204740637438,</dec>
+    <hex>0x3f80077a,0xbfffe66f,0x3f7fbdfb,0x3fffe672,0xbf7fccea,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>19.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000269873379488,-1.998691323324205,0.9984236328784554,1.9986918677618135,-0.9986929618203348,</dec>
-    <hex>0x3f8008d8,0xbfffd51e,0x3f7f98b1,0x3fffd523,0xbf7faa58,</hex>
+    <dec>1.0002281167582925,-1.9992197909061071,0.9989926514085731,1.9992200850092285,-0.9992204740637438,</dec>
+    <hex>0x3f80077a,0xbfffe66f,0x3f7fbdfb,0x3fffe672,0xbf7fccea,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>13.0</freq>
+    <q>1.1</q>
+    <boost>7.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000269873379488,-1.998691323324205,0.9984236328784554,1.9986918677618135,-0.9986929618203348,</dec>
-    <hex>0x3f8008d8,0xbfffd51e,0x3f7f98b1,0x3fffd523,0xbf7faa58,</hex>
+    <dec>1.000156998139342,-1.9993670640511414,0.999211148757766,1.9993673636293618,-0.9993678473188877,</dec>
+    <hex>0x3f800525,0xbfffeb43,0x3f7fcc4d,0x3fffeb45,0xbf7fd692,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>15.0</freq>
+    <q>2.0</q>
+    <boost>11.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000331975086985,-1.9997384729978214,0.9994074616137445,1.9997384729978214,-0.9997394367007295,</dec>
+    <hex>0x3f800ae1,0xbffff76e,0x3f7fd92b,0x3ffff76e,0xbf7feeec,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>18.0</freq>
+    <q>3.0</q>
+    <boost>1.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000226138659178,-1.9996279492991182,0.9996067230889345,1.9996279492991182,-0.9996293369548525,</dec>
+    <hex>0x3f8000be,0xbffff3cf,0x3f7fe63a,0x3ffff3cf,0xbf7fe7b5,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
-    <type>SL</type>
+    <freq>11.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000269873379488,-1.998691323324205,0.9984236328784554,1.9986918677618135,-0.9986929618203348,</dec>
-    <hex>0x3f8008d8,0xbfffd51e,0x3f7f98b1,0x3fffd523,0xbf7faa58,</hex>
+    <dec>1.0000416456521906,-1.9997975817894973,0.9997564544105378,1.9997975817894973,-0.9997981000627285,</dec>
+    <hex>0x3f80015d,0xbffff95e,0x3f7ff00a,0x3ffff95e,0xbf7ff2c5,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>19.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000269873379488,-1.998691323324205,0.9984236328784554,1.9986918677618135,-0.9986929618203348,</dec>
-    <hex>0x3f8008d8,0xbfffd51e,0x3f7f98b1,0x3fffd523,0xbf7faa58,</hex>
+    <dec>1.0002281167582925,-1.9992197909061071,0.9989926514085731,1.9992200850092285,-0.9992204740637438,</dec>
+    <hex>0x3f80077a,0xbfffe66f,0x3f7fbdfb,0x3fffe672,0xbf7fccea,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>19.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>6.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000269873379488,-1.998691323324205,0.9984236328784554,1.9986918677618135,-0.9986929618203348,</dec>
-    <hex>0x3f8008d8,0xbfffd51e,0x3f7f98b1,0x3fffd523,0xbf7faa58,</hex>
+    <dec>1.0002281167582925,-1.9992197909061071,0.9989926514085731,1.9992200850092285,-0.9992204740637438,</dec>
+    <hex>0x3f80077a,0xbfffe66f,0x3f7fbdfb,0x3fffe672,0xbf7fccea,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>19.0</freq>
-    <q>0.8</q>
-    <boost>6.0</boost>
+    <freq>13.0</freq>
+    <q>1.1</q>
+    <boost>7.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000269873379488,-1.998691323324205,0.9984236328784554,1.9986918677618135,-0.9986929618203348,</dec>
-    <hex>0x3f8008d8,0xbfffd51e,0x3f7f98b1,0x3fffd523,0xbf7faa58,</hex>
+    <dec>1.000156998139342,-1.9993670640511414,0.999211148757766,1.9993673636293618,-0.9993678473188877,</dec>
+    <hex>0x3f800525,0xbfffeb43,0x3f7fcc4d,0x3fffeb45,0xbf7fd692,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>15.0</freq>
+    <q>2.0</q>
+    <boost>11.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000331975086985,-1.9997384729978214,0.9994074616137445,1.9997384729978214,-0.9997394367007295,</dec>
+    <hex>0x3f800ae1,0xbffff76e,0x3f7fd92b,0x3ffff76e,0xbf7feeec,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>18.0</freq>
+    <q>3.0</q>
+    <boost>1.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000226138659178,-1.9996279492991182,0.9996067230889345,1.9996279492991182,-0.9996293369548525,</dec>
+    <hex>0x3f8000be,0xbffff3cf,0x3f7fe63a,0x3ffff3cf,0xbf7fe7b5,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Christmas Chronicles: Part Two</beq_title>
-    <beq_alt_title>The Christmas Chronicles Part Two</beq_alt_title>
-    <beq_sortTitle>the christmas chronicles part two</beq_sortTitle>
+    <beq_title>Jingle Jangle: A Christmas Journey</beq_title>
+    <beq_alt_title>Jingle Jangle A Christmas Journey</beq_alt_title>
+    <beq_sortTitle>jingle jangle a christmas journey</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Christmas%20Chronicles%20Part%20Two%20%282020%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jingle%20Jangle%20A%20Christmas%20Journey%20%282020%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,23 +1428,21 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Kate Pierce is reluctantly spending Christmas with her mom’s new boyfriend and his son Jack. But when the North Pole and Christmas are threatened to be destroyed, Kate and Jack are unexpectedly pulled into a new adventure with Santa Claus.</beq_overview>
+    <beq_overview>An imaginary world comes to life in a holiday tale of an eccentric toymaker, his adventurous granddaughter, and a magical invention that has the power to change their lives forever.</beq_overview>
     <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>654028</beq_theMovieDB>
-    <beq_poster>/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg</beq_poster>
-    <beq_runtime>112</beq_runtime>
+    <beq_theMovieDB>622855</beq_theMovieDB>
+    <beq_poster>/5RbyHIVydD3Krmec1LlUV7rRjet.jpg</beq_poster>
+    <beq_runtime>122</beq_runtime>
+    <beq_collection />
     <beq_genres>
       <genre id="10751">Family</genre>
       <genre id="14">Fantasy</genre>
-      <genre id="12">Adventure</genre>
-      <genre id="35">Comedy</genre>
+      <genre id="10402">Music</genre>
     </beq_genres>
-    <beq_collection id="743824">The Christmas Chronicles Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
-      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
