@@ -98,8 +98,11 @@ foreach ($file in $files) {
     $content = [System.Xml.XmlDocument](Get-Content $file.FullName)
     $beqMetadata = $content.setting.beq_metadata
     $fileName = [io.path]::GetFileNameWithoutExtension($file.Name)
-    $title = $file.Name.SubString(0, $file.Name.IndexOf("(")).Trim()
-
+    if (-1 -ne $file.Name.IndexOf("(19")) {
+        $title = $file.Name.SubString(0, $file.Name.IndexOf("(19")).Trim()
+    }elseif (-1 -ne $file.Name.IndexOf("(20")) {
+        $title = $file.Name.SubString(0, $file.Name.IndexOf("(20")).Trim()
+    }
     if ($title.Contains("-")) {
         $dash = $title.IndexOf("-")
         $dashToColon = '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'
@@ -122,9 +125,18 @@ foreach ($file in $files) {
         $beqMetadata.beq_sortTitle = $beqMetadata.beq_sortTitle.Replace("  ", " ")
         $save = $true
     }
-    if (!$beqMetadata.beq_year.Equals($file.Name.SubString($file.Name.IndexOf("(") + 1, 4), 3)) {
-        $beqMetadata.beq_year = $file.Name.SubString($file.Name.IndexOf("(") + 1, 4)
-        $save = $true
+    if (-1 -ne $file.Name.IndexOf("(19")) {
+        $year = $file.Name.SubString($file.Name.IndexOf("(19") + 1, 4)
+        if (!$beqMetadata.beq_year.Equals($year)) {
+            $beqMetadata.beq_year = $year
+            $save = $true
+        }
+    }elseif (-1 -ne $file.Name.IndexOf("(20")) {
+        $year = $file.Name.SubString($file.Name.IndexOf("(20") + 1, 4)
+        if (!$beqMetadata.beq_year.Equals($year)) {
+            $beqMetadata.beq_year = $year
+            $save = $true
+        }
     }
     if (!$beqMetadata.beq_pvaURL.Equals($reportURL, 3)) {
         $beqMetadata.beq_pvaURL = $reportURL
