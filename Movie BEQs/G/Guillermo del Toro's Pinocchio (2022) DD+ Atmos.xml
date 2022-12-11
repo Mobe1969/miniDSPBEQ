@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Gone in 60 Seconds</beq_title>
-    <beq_alt_title>Hacksaw Ridge</beq_alt_title>
-    <beq_sortTitle>gone in 60 seconds</beq_sortTitle>
-    <beq_year />
+    <beq_title>Guillermo del Toro's Pinocchio</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>guillermo del toro's pinocchio</beq_sortTitle>
+    <beq_year>2022</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Guillermo%20del%20Toro%27s%20Pinocchio%202022%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Guillermo%20del%20Toro%27s%20Pinocchio%20%282022%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,20 +1428,19 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Insurance investigator Maindrian Pace and his team lead double-lives as unstoppable car thieves. When a South American drug lord pays Pace to steal 48 cars for him, all but one, a 1973 Ford Mustang, are in the bag. As Pace prepares to rip-off the fastback, codenamed "Eleanor", in Long Beach, he is unaware that his boss has tipped off the police after a business dispute.</beq_overview>
+    <beq_overview>During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.</beq_overview>
     <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>16246</beq_theMovieDB>
-    <beq_poster>/r754JbHV6Rcf6vMGlJV6N4M4a4q.jpg</beq_poster>
-    <beq_runtime>105</beq_runtime>
+    <beq_theMovieDB>555604</beq_theMovieDB>
+    <beq_poster>/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg</beq_poster>
+    <beq_runtime>117</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="80">Crime</genre>
+      <genre id="16">Animation</genre>
+      <genre id="14">Fantasy</genre>
       <genre id="18">Drama</genre>
-      <genre id="53">Thriller</genre>
     </beq_genres>
-    <beq_collection id="391040">Gone in 60 Seconds Trilogy</beq_collection>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
