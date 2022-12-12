@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>15.0</freq>
-    <q>0.8</q>
-    <boost>2.3</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000813154211814,-1.9988511112049785,0.9987708954235414,1.9988512391142548,-0.9988520829354465,</dec>
-    <hex>0x3f8002aa,0xbfffda5a,0x3f7faf73,0x3fffda5b,0xbf7fb4c5,</hex>
+    <dec>1.000018846923668,-1.9993638442311354,0.9993454509138837,1.9993638688957713,-0.9993642731729157,</dec>
+    <hex>0x3f80009e,0xbfffeb28,0x3f7fd51a,0x3fffeb28,0xbf7fd656,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>15.0</freq>
-    <q>0.8</q>
-    <boost>2.3</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000813154211814,-1.9988511112049785,0.9987708954235414,1.9988512391142548,-0.9988520829354465,</dec>
-    <hex>0x3f8002aa,0xbfffda5a,0x3f7faf73,0x3fffda5b,0xbf7fb4c5,</hex>
+    <dec>1.000018846923668,-1.9993638442311354,0.9993454509138837,1.9993638688957713,-0.9993642731729157,</dec>
+    <hex>0x3f80009e,0xbfffeb28,0x3f7fd51a,0x3fffeb28,0xbf7fd656,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>15.0</freq>
-    <q>0.8</q>
-    <boost>2.3</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000813154211814,-1.9988511112049785,0.9987708954235414,1.9988512391142548,-0.9988520829354465,</dec>
-    <hex>0x3f8002aa,0xbfffda5a,0x3f7faf73,0x3fffda5b,0xbf7fb4c5,</hex>
+    <dec>1.000018846923668,-1.9993638442311354,0.9993454509138837,1.9993638688957713,-0.9993642731729157,</dec>
+    <hex>0x3f80009e,0xbfffeb28,0x3f7fd51a,0x3fffeb28,0xbf7fd656,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>15.0</freq>
-    <q>3.0</q>
-    <boost>3.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000056787436884,-1.9997237283346598,0.9996679045935786,1.9997237283346598,-0.9997246920304627,</dec>
-    <hex>0x3f8001dc,0xbffff6f2,0x3f7fea3c,0x3ffff6f2,0xbf7fedf5,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
-    <q>5.0</q>
-    <boost>3.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000454311945888,-1.999778034304117,0.9997343163935716,1.999778034304117,-0.9997797475881604,</dec>
-    <hex>0x3f80017d,0xbffff8ba,0x3f7fee97,0x3ffff8ba,0xbf7ff191,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>20.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001679090311566,-1.9987028099697783,0.998537056675978,1.9987032077492977,-0.9987045679276152,</dec>
-    <hex>0x3f800581,0xbfffd57e,0x3f7fa020,0x3fffd582,0xbf7fab1a,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>15.0</freq>
-    <q>0.8</q>
-    <boost>2.3</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000813154211814,-1.9988511112049785,0.9987708954235414,1.9988512391142548,-0.9988520829354465,</dec>
-    <hex>0x3f8002aa,0xbfffda5a,0x3f7faf73,0x3fffda5b,0xbf7fb4c5,</hex>
+    <dec>1.000018846923668,-1.9993638442311354,0.9993454509138837,1.9993638688957713,-0.9993642731729157,</dec>
+    <hex>0x3f80009e,0xbfffeb28,0x3f7fd51a,0x3fffeb28,0xbf7fd656,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>15.0</freq>
-    <q>0.8</q>
-    <boost>2.3</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000813154211814,-1.9988511112049785,0.9987708954235414,1.9988512391142548,-0.9988520829354465,</dec>
-    <hex>0x3f8002aa,0xbfffda5a,0x3f7faf73,0x3fffda5b,0xbf7fb4c5,</hex>
+    <dec>1.000018846923668,-1.9993638442311354,0.9993454509138837,1.9993638688957713,-0.9993642731729157,</dec>
+    <hex>0x3f80009e,0xbfffeb28,0x3f7fd51a,0x3fffeb28,0xbf7fd656,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>15.0</freq>
-    <q>0.8</q>
-    <boost>2.3</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000813154211814,-1.9988511112049785,0.9987708954235414,1.9988512391142548,-0.9988520829354465,</dec>
-    <hex>0x3f8002aa,0xbfffda5a,0x3f7faf73,0x3fffda5b,0xbf7fb4c5,</hex>
+    <dec>1.000018846923668,-1.9993638442311354,0.9993454509138837,1.9993638688957713,-0.9993642731729157,</dec>
+    <hex>0x3f80009e,0xbfffeb28,0x3f7fd51a,0x3fffeb28,0xbf7fd656,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>15.0</freq>
-    <q>3.0</q>
-    <boost>3.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000056787436884,-1.9997237283346598,0.9996679045935786,1.9997237283346598,-0.9997246920304627,</dec>
-    <hex>0x3f8001dc,0xbffff6f2,0x3f7fea3c,0x3ffff6f2,0xbf7fedf5,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
-    <q>5.0</q>
-    <boost>3.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000454311945888,-1.999778034304117,0.9997343163935716,1.999778034304117,-0.9997797475881604,</dec>
-    <hex>0x3f80017d,0xbffff8ba,0x3f7fee97,0x3ffff8ba,0xbf7ff191,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>20.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001679090311566,-1.9987028099697783,0.998537056675978,1.9987032077492977,-0.9987045679276152,</dec>
-    <hex>0x3f800581,0xbfffd57e,0x3f7fa020,0x3fffd582,0xbf7fab1a,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,34 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Jurassic World Dominion</beq_title>
+    <beq_title>Mr. Long</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>jurassic world dominion</beq_sortTitle>
-    <beq_year>2022</beq_year>
+    <beq_sortTitle>mr. long</beq_sortTitle>
+    <beq_year>2017</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jurassic%20World%20Dominion%20%282022%29%28TC%29%20DTS-X.jpg</beq_pvaURL>
-    <beq_edition>Theatrical Cut</beq_edition>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mr.%20Long%20%282017%29%28Ja%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Japanese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Four years after Isla Nublar was destroyed, dinosaurs now liveâ€”and huntâ€”alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with historyâ€™s most fearsome creatures.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_overview>Long is a Taiwanese killer known for his sword skills. After Long fails a Tokyo mission, he moves to a small town where no one knows about him.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>507086</beq_theMovieDB>
-    <beq_poster>/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg</beq_poster>
-    <beq_runtime>147</beq_runtime>
+    <beq_theMovieDB>436350</beq_theMovieDB>
+    <beq_poster>/6xbuK3Y8zonLCuce89gbjXlRcdw.jpg</beq_poster>
+    <beq_runtime>129</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="12">Adventure</genre>
+      <genre id="80">Crime</genre>
+      <genre id="18">Drama</genre>
       <genre id="28">Action</genre>
-      <genre id="878">Science Fiction</genre>
     </beq_genres>
-    <beq_collection id="328">Jurassic Park Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-X</audioType>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
