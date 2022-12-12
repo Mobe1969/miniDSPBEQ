@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.2</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001037072684311,-1.9984636035241345,0.998361839573575,1.998463820935623,-0.9984653294305179,</dec>
-    <hex>0x3f800366,0xbfffcda8,0x3f7f94a4,0x3fffcdaa,0xbf7f9b6d,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.2</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001037072684311,-1.9984636035241345,0.998361839573575,1.998463820935623,-0.9984653294305179,</dec>
-    <hex>0x3f800366,0xbfffcda8,0x3f7f94a4,0x3fffcdaa,0xbf7f9b6d,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.2</boost>
-    <type>SL</type>
+    <freq>22.0</freq>
+    <q>1.6</q>
+    <boost>2.7</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001037072684311,-1.9984636035241345,0.998361839573575,1.998463820935623,-0.9984653294305179,</dec>
-    <hex>0x3f800366,0xbfffcda8,0x3f7f94a4,0x3fffcdaa,0xbf7f9b6d,</hex>
+    <dec>1.0001403817036496,-1.9992278331636264,0.9990895239636132,1.9992278331636264,-0.9992299056672626,</dec>
+    <hex>0x3f80049a,0xbfffe6b3,0x3f7fc455,0x3fffe6b3,0xbf7fcd88,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
+    <freq>32.0</freq>
     <q>0.8</q>
-    <boost>2.2</boost>
+    <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001037072684311,-1.9984636035241345,0.998361839573575,1.998463820935623,-0.9984653294305179,</dec>
-    <hex>0x3f800366,0xbfffcda8,0x3f7f94a4,0x3fffcdaa,0xbf7f9b6d,</hex>
+    <dec>1.0001735145773218,-1.9975482837533756,0.9973797705045238,1.9975488655041787,-0.9975527033310423,</dec>
+    <hex>0x3f8005b0,0xbfffafaa,0x3f7f5448,0x3fffafae,0xbf7f5f9d,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.2</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001037072684311,-1.9984636035241345,0.998361839573575,1.998463820935623,-0.9984653294305179,</dec>
-    <hex>0x3f800366,0xbfffcda8,0x3f7f94a4,0x3fffcdaa,0xbf7f9b6d,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.2</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001037072684311,-1.9984636035241345,0.998361839573575,1.998463820935623,-0.9984653294305179,</dec>
-    <hex>0x3f800366,0xbfffcda8,0x3f7f94a4,0x3fffcdaa,0xbf7f9b6d,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>2.2</boost>
-    <type>SL</type>
+    <freq>22.0</freq>
+    <q>1.6</q>
+    <boost>2.7</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001037072684311,-1.9984636035241345,0.998361839573575,1.998463820935623,-0.9984653294305179,</dec>
-    <hex>0x3f800366,0xbfffcda8,0x3f7f94a4,0x3fffcdaa,0xbf7f9b6d,</hex>
+    <dec>1.0001403817036496,-1.9992278331636264,0.9990895239636132,1.9992278331636264,-0.9992299056672626,</dec>
+    <hex>0x3f80049a,0xbfffe6b3,0x3f7fc455,0x3fffe6b3,0xbf7fcd88,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
+    <freq>32.0</freq>
     <q>0.8</q>
-    <boost>2.2</boost>
+    <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001037072684311,-1.9984636035241345,0.998361839573575,1.998463820935623,-0.9984653294305179,</dec>
-    <hex>0x3f800366,0xbfffcda8,0x3f7f94a4,0x3fffcdaa,0xbf7f9b6d,</hex>
+    <dec>1.0001735145773218,-1.9975482837533756,0.9973797705045238,1.9975488655041787,-0.9975527033310423,</dec>
+    <hex>0x3f8005b0,0xbfffafaa,0x3f7f5448,0x3fffafae,0xbf7f5f9d,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1420,12 +1420,12 @@
     <beq_sortTitle>money heist korea - joint economic area</beq_sortTitle>
     <beq_year>2022</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Money%20Heist%20Korea%20-%20Joint%20Economic%20Area%20%282022%29%28Ko%29%28S1-E1-6%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Money%20Heist%20Korea%20-%20Joint%20Economic%20Area%20%282022%29%28Ko%29%28S1-E7-12%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="168159">
         <number>1</number>
         <poster>/kIjuNTP6qYKsw0uRKc7EoBqFYbU.jpg</poster>
-        <episodes count="12">1,2,3,4,5,6</episodes>
+        <episodes count="12">7,8,9,10,11,12</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
@@ -1437,7 +1437,7 @@
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>112836</beq_theMovieDB>
-    <beq_poster>/bnfTPTTytrZZ9Aw6hoOQdojiaKo.jpg</beq_poster>
+    <beq_poster>/fjAAxDPzllwnCMqHDXYlw4IlkaL.jpg</beq_poster>
     <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
