@@ -1420,8 +1420,8 @@
     <beq_sortTitle>jingle all the way</beq_sortTitle>
     <beq_year>1996</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jingle%20All%20the%20Way%20%281996%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jingle%20All%20the%20Way%20%281996%29%28EC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition>Extended Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>9279</beq_theMovieDB>
     <beq_poster>/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg</beq_poster>
-    <beq_runtime>89</beq_runtime>
+    <beq_runtime>93</beq_runtime>
     <beq_genres>
       <genre id="10751">Family</genre>
       <genre id="35">Comedy</genre>
