@@ -1428,22 +1428,22 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...</beq_overview>
+    <beq_overview>One of the most classic and revered stories of all time, Edgar Rice Burroughs' Tarzan returns to the big screen for a new generation. Tarzan and Jane face a mercenary army dispatched by the evil CEO of Greystoke Energies, a man who took over the company from Tarzan's parents, after they died in a plane crash in the African jungle.</beq_overview>
     <beq_rating>G</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>37135</beq_theMovieDB>
-    <beq_poster>/5CUBycHnNpM3VK1WlPCTD67gsPa.jpg</beq_poster>
-    <beq_runtime>88</beq_runtime>
-    <beq_genres>
-      <genre id="10751">Family</genre>
-      <genre id="12">Adventure</genre>
-      <genre id="16">Animation</genre>
-      <genre id="18">Drama</genre>
-    </beq_genres>
-    <beq_collection id="106768">Tarzan (Animation) Collection</beq_collection>
+    <beq_theMovieDB>230222</beq_theMovieDB>
+    <beq_poster>/wIg7TclH6PUcvTWFh0QdtU5Wcvt.jpg</beq_poster>
+    <beq_runtime>94</beq_runtime>
+    <beq_collection />
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="16">Animation</genre>
+      <genre id="28">Action</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="10751">Family</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
