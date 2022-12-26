@@ -1415,8 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Arthur Christmas</beq_title>
-    <beq_alt_title>Arthur</beq_alt_title>
+    <beq_title>Arthur</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>arthur</beq_sortTitle>
     <beq_year>2011</beq_year>
     <beq_spectrumURL />
@@ -1428,22 +1429,20 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Each Christmas, Santa and his vast army of highly trained elves produce gifts and distribute them around the world in one night. However, when one of 600 million children to receive a gift from Santa on Christmas Eve is missed, it is deemed ‘acceptable’ to all but one—Arthur. Arthur Claus is Santa’s misfit son who executes an unauthorised rookie mission to get the last present half way around the globe before dawn on Christmas morning.</beq_overview>
+    <beq_overview>A drunken playboy stands to lose a wealthy inheritance when he falls for a woman that his family doesn't like.</beq_overview>
     <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>51052</beq_theMovieDB>
-    <beq_poster>/sPCrGLdTMn0ud3oAJG37VDxpQfZ.jpg</beq_poster>
-    <beq_runtime>97</beq_runtime>
+    <beq_theMovieDB>49012</beq_theMovieDB>
+    <beq_poster>/foUTAJurvnbUoIUbnuUk5dyHx7M.jpg</beq_poster>
+    <beq_runtime>110</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="16">Animation</genre>
-      <genre id="10751">Family</genre>
-      <genre id="35">Comedy</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="35">Comedy</genre>
+      <genre id="10749">Romance</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>

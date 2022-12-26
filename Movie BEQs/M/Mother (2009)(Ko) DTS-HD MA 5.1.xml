@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>13.0</freq>
-    <q>3.0</q>
-    <boost>9.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001535851930006,-1.9998303510917208,0.9996774897798675,1.9998303510917208,-0.9998310749728678,</dec>
-    <hex>0x3f800508,0xbffffa71,0x3f7feadd,0x3ffffa71,0xbf7ff4ee,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>23.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <dec>1.000153248059644,-1.9980195965748606,0.9978696891906784,1.9980200143359994,-0.9980225194891833,</dec>
+    <hex>0x3f800506,0xbfffbf1b,0x3f7f7463,0x3fffbf1f,0xbf7f7e67,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>26.0</freq>
+    <q>0.8</q>
+    <boost>2.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000153248059644,-1.9980195965748606,0.9978696891906784,1.9980200143359994,-0.9980225194891833,</dec>
+    <hex>0x3f800506,0xbfffbf1b,0x3f7f7463,0x3fffbf1f,0xbf7f7e67,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>25.0</freq>
-    <q>5.0</q>
-    <boost>8.0</boost>
-    <type>PK</type>
+    <freq>26.0</freq>
+    <q>0.8</q>
+    <boost>2.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001560712056685,-1.999790864074266,0.9996374698931652,1.999790864074266,-0.9997935410988338,</dec>
-    <hex>0x3f80051d,0xbffff926,0x3f7fe83e,0x3ffff926,0xbf7ff278,</hex>
+    <dec>1.000153248059644,-1.9980195965748606,0.9978696891906784,1.9980200143359994,-0.9980225194891833,</dec>
+    <hex>0x3f800506,0xbfffbf1b,0x3f7f7463,0x3fffbf1f,0xbf7f7e67,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>13.0</freq>
-    <q>3.0</q>
-    <boost>9.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001535851930006,-1.9998303510917208,0.9996774897798675,1.9998303510917208,-0.9998310749728678,</dec>
-    <hex>0x3f800508,0xbffffa71,0x3f7feadd,0x3ffffa71,0xbf7ff4ee,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>23.0</freq>
+    <freq>26.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <dec>1.000153248059644,-1.9980195965748606,0.9978696891906784,1.9980200143359994,-0.9980225194891833,</dec>
+    <hex>0x3f800506,0xbfffbf1b,0x3f7f7463,0x3fffbf1f,0xbf7f7e67,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>26.0</freq>
+    <q>0.8</q>
+    <boost>2.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000153248059644,-1.9980195965748606,0.9978696891906784,1.9980200143359994,-0.9980225194891833,</dec>
+    <hex>0x3f800506,0xbfffbf1b,0x3f7f7463,0x3fffbf1f,0xbf7f7e67,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>25.0</freq>
-    <q>5.0</q>
-    <boost>8.0</boost>
-    <type>PK</type>
+    <freq>26.0</freq>
+    <q>0.8</q>
+    <boost>2.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001560712056685,-1.999790864074266,0.9996374698931652,1.999790864074266,-0.9997935410988338,</dec>
-    <hex>0x3f80051d,0xbffff926,0x3f7fe83e,0x3ffff926,0xbf7ff278,</hex>
+    <dec>1.000153248059644,-1.9980195965748606,0.9978696891906784,1.9980200143359994,-0.9980225194891833,</dec>
+    <hex>0x3f800506,0xbfffbf1b,0x3f7f7463,0x3fffbf1f,0xbf7f7e67,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>1000</freq>
@@ -1415,9 +1415,8 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Mother</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
+    <beq_title>Mother and Child</beq_title>
+    <beq_alt_title>Mother</beq_alt_title>
     <beq_sortTitle>mother</beq_sortTitle>
     <beq_year>2009</beq_year>
     <beq_spectrumURL />
@@ -1429,22 +1428,20 @@
     <beq_gain />
     <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A mother lives quietly with her son. One day, a girl is brutally killed, and the boy is charged with the murder. Now, it's his mother's mission to prove him innocent.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>The lives of three women have a commonality: adoption. Karen is a physical therapist who regrets that, as a teenager, she gave up her daughter for adoption. Elizabeth was an adopted child and is now a successful lawyer, but her personal life lacks warmth. Lucy and her husband have failed to conceive and now hope to adopt a baby to make their family complete.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>30018</beq_theMovieDB>
-    <beq_poster>/reAEOWk7UA14V1LMKWlK5pzsJui.jpg</beq_poster>
-    <beq_runtime>129</beq_runtime>
+    <beq_theMovieDB>37080</beq_theMovieDB>
+    <beq_poster>/k5CjH4scjbBlGWLdZyUS7NEZf16.jpg</beq_poster>
+    <beq_runtime>125</beq_runtime>
     <beq_collection />
+    <beq_genres>
+      <genre id="18">Drama</genre>
+      <genre id="10749">Romance</genre>
+    </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
-    <beq_genres>
-      <genre id="80">Crime</genre>
-      <genre id="18">Drama</genre>
-      <genre id="9648">Mystery</genre>
-      <genre id="53">Thriller</genre>
-    </beq_genres>
   </beq_metadata>
 </setting>
