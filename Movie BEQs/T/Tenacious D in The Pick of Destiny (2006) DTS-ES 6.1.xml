@@ -1442,7 +1442,7 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-ES 6.1</audioType>
-      <audioType>DD 5.1</audioType>
+      <audioType>DD EX 6.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
