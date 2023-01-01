@@ -803,57 +803,57 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>5.0</boost>
-    <type>SL</type>
+    <q>1.5</q>
+    <boost>11.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001350297716542,-1.9991902068871046,0.999055748122518,1.999190331840203,-0.9991906529410738,</dec>
-    <hex>0x3f80046d,0xbfffe577,0x3f7fc21e,0x3fffe578,0xbf7fcaf5,</hex>
+    <dec>1.0002950932642336,-1.9997679564863347,0.999473291540724,1.9997679564863347,-0.9997683848049577,</dec>
+    <hex>0x3f8009ab,0xbffff865,0x3f7fdd7b,0x3ffff865,0xbf7ff0d2,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
-    <q>0.7</q>
+    <freq>17.0</freq>
+    <q>1.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0002583522000477,-1.999115345886388,0.9988582311236172,1.999115345886388,-0.9991165833236647,</dec>
+    <hex>0x3f800877,0xbfffe303,0x3f7fb52c,0x3fffe303,0xbf7fc61b,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>18.0</freq>
+    <q>2.0</q>
+    <boost>12.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0004399763868317,-1.9997034322826175,0.999264843603902,1.9997034322826175,-0.9997048199907337,</dec>
+    <hex>0x3f800e6b,0xbffff648,0x3f7fcfd2,0x3ffff648,0xbf7feca8,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>30.0</freq>
+    <q>0.8</q>
     <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001350297716542,-1.9991902068871046,0.999055748122518,1.999190331840203,-0.9991906529410738,</dec>
-    <hex>0x3f80046d,0xbfffe577,0x3f7fc21e,0x3fffe578,0xbf7fcaf5,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <dec>1.0003546181173293,-1.997872849045023,0.9975233666137385,1.9978739728837973,-0.9978768608922934,</dec>
+    <hex>0x3f800b9f,0xbfffba4c,0x3f7f5db1,0x3fffba56,0xbf7f74dc,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>23.0</freq>
+    <freq>30.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <dec>1.0003546181173293,-1.997872849045023,0.9975233666137385,1.9978739728837973,-0.9978768608922934,</dec>
+    <hex>0x3f800b9f,0xbfffba4c,0x3f7f5db1,0x3fffba56,0xbf7f74dc,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003546181173293,-1.997872849045023,0.9975233666137385,1.9978739728837973,-0.9978768608922934,</dec>
+    <hex>0x3f800b9f,0xbfffba4c,0x3f7f5db1,0x3fffba56,0xbf7f74dc,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -893,57 +893,57 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>5.0</boost>
-    <type>SL</type>
+    <q>1.5</q>
+    <boost>11.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001350297716542,-1.9991902068871046,0.999055748122518,1.999190331840203,-0.9991906529410738,</dec>
-    <hex>0x3f80046d,0xbfffe577,0x3f7fc21e,0x3fffe578,0xbf7fcaf5,</hex>
+    <dec>1.0002950932642336,-1.9997679564863347,0.999473291540724,1.9997679564863347,-0.9997683848049577,</dec>
+    <hex>0x3f8009ab,0xbffff865,0x3f7fdd7b,0x3ffff865,0xbf7ff0d2,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
-    <q>0.7</q>
+    <freq>17.0</freq>
+    <q>1.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0002583522000477,-1.999115345886388,0.9988582311236172,1.999115345886388,-0.9991165833236647,</dec>
+    <hex>0x3f800877,0xbfffe303,0x3f7fb52c,0x3fffe303,0xbf7fc61b,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>18.0</freq>
+    <q>2.0</q>
+    <boost>12.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0004399763868317,-1.9997034322826175,0.999264843603902,1.9997034322826175,-0.9997048199907337,</dec>
+    <hex>0x3f800e6b,0xbffff648,0x3f7fcfd2,0x3ffff648,0xbf7feca8,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>30.0</freq>
+    <q>0.8</q>
     <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001350297716542,-1.9991902068871046,0.999055748122518,1.999190331840203,-0.9991906529410738,</dec>
-    <hex>0x3f80046d,0xbfffe577,0x3f7fc21e,0x3fffe578,0xbf7fcaf5,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <dec>1.0003546181173293,-1.997872849045023,0.9975233666137385,1.9978739728837973,-0.9978768608922934,</dec>
+    <hex>0x3f800b9f,0xbfffba4c,0x3f7f5db1,0x3fffba56,0xbf7f74dc,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>23.0</freq>
+    <freq>30.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002171966880558,-1.9983220292255697,0.9981076829577775,1.9983225551889015,-0.9983243536825015,</dec>
-    <hex>0x3f80071e,0xbfffc904,0x3f7f83fc,0x3fffc909,0xbf7f922f,</hex>
+    <dec>1.0003546181173293,-1.997872849045023,0.9975233666137385,1.9978739728837973,-0.9978768608922934,</dec>
+    <hex>0x3f800b9f,0xbfffba4c,0x3f7f5db1,0x3fffba56,0xbf7f74dc,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>30.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003546181173293,-1.997872849045023,0.9975233666137385,1.9978739728837973,-0.9978768608922934,</dec>
+    <hex>0x3f800b9f,0xbfffba4c,0x3f7f5db1,0x3fffba56,0xbf7f74dc,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Kill Bill: Vol. 2</beq_title>
-    <beq_alt_title>Kill Bill Vol 2</beq_alt_title>
-    <beq_sortTitle>kill bill vol. 2</beq_sortTitle>
-    <beq_year>2004</beq_year>
+    <beq_title>Ferris Bueller's Day Off</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>ferris bueller's day off</beq_sortTitle>
+    <beq_year>1986</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kill%20Bill%20Vol.%202%20%282004%29%20LPCM%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Ferris%20Bueller%27s%20Day%20Off%20%281986%29%20TrueHD%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,24 +1428,19 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do - but kill Bill.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>393</beq_theMovieDB>
-    <beq_poster>/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg</beq_poster>
-    <beq_runtime>136</beq_runtime>
+    <beq_theMovieDB>9377</beq_theMovieDB>
+    <beq_poster>/p07qwOft8y4iFVPLnXLN5WGsHuJ.jpg</beq_poster>
+    <beq_runtime>103</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="80">Crime</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="35">Comedy</genre>
     </beq_genres>
-    <beq_collection id="2883">Kill Bill Collection</beq_collection>
     <beq_audioTypes>
-    </beq_audioTypes>
-    <beq_audioTypes>
-      <audioType>LPCM 5.1</audioType>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>TrueHD 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
