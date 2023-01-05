@@ -1420,8 +1420,8 @@
     <beq_sortTitle>brotherhood of the wolf</beq_sortTitle>
     <beq_year>2001</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Brotherhood%20of%20the%20Wolf%20%282001%29%28Fr%29%20Atmos.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Brotherhood%20of%20the%20Wolf%20%282001%29%28Fr%29%28DC%29%20Atmos.jpg</beq_pvaURL>
+    <beq_edition>Director's Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>6312</beq_theMovieDB>
     <beq_poster>/w8CUoGAnP95txmIK2fl7leVmrmN.jpg</beq_poster>
-    <beq_runtime>137</beq_runtime>
+    <beq_runtime>151</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="12">Adventure</genre>
