@@ -1416,7 +1416,7 @@
   <link />
   <beq_metadata>
     <beq_title>Ben-Hur</beq_title>
-    <beq_alt_title>BenHur</beq_alt_title>
+    <beq_alt_title></beq_alt_title>
     <beq_sortTitle>ben-hur</beq_sortTitle>
     <beq_year>2016</beq_year>
     <beq_spectrumURL />
@@ -1437,6 +1437,7 @@
     <beq_runtime>125</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 7.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="12">Adventure</genre>
