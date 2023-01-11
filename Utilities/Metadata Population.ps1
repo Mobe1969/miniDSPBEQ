@@ -282,6 +282,12 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(Cri)") -ge 0) {
         $beq_note = "Criterion"
     }
+    if ($fileName.IndexOf("(D1)") -ge 0) {
+        $beq_note = $beq_note + "[Disc 1]"
+    }
+    elseif ($fileName.IndexOf("(D2)") -ge 0) {
+        $beq_note = $beq_note + "[Disc 2]"
+    }
     $edition = ""
     if ($fileName.IndexOf("(TC)") -ge 0) {
         $edition = "Theatrical Cut"
