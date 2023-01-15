@@ -1415,12 +1415,13 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Proposal</beq_title>
-    <beq_alt_title>There's Something About Mary</beq_alt_title>
-    <beq_sortTitle>my kingdom</beq_sortTitle>
-    <beq_year />
+    <beq_title>There's Something About Mary</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
+    <beq_sortTitle>there's something about mary</beq_sortTitle>
+    <beq_year>1998</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/There%27s%20Something%20About%20Mary%20%28UC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/There%27s%20Something%20About%20Mary%20%281998%29%28UC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition>Unrated Cut</beq_edition>
     <beq_season />
     <beq_note />
@@ -1428,21 +1429,20 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.</beq_overview>
+    <beq_overview>For Ted, prom night went about as bad as it’s possible for any night to go. Thirteen years later, he finally gets another chance with his old prom date, only to run up against other suitors including the sleazy detective he hired to find her.</beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>18240</beq_theMovieDB>
-    <beq_poster>/aYlnDia7ldvqFUst1O5S8LZeM2S.jpg</beq_poster>
-    <beq_runtime>108</beq_runtime>
+    <beq_theMovieDB>544</beq_theMovieDB>
+    <beq_poster>/g03pwohXHOI75InM3zraiaEGguO.jpg</beq_poster>
+    <beq_runtime>131</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="35">Comedy</genre>
-      <genre id="10749">Romance</genre>
-      <genre id="18">Drama</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="10749">Romance</genre>
+      <genre id="35">Comedy</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
