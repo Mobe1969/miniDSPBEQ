@@ -313,6 +313,12 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(UC)") -ge 0) {
         $edition = "Unrated Cut"
     }
+    elseif ($fileName.IndexOf("(HK)") -ge 0) {
+        $edition = "Hong Kong Cut"
+    }
+    elseif ($fileName.IndexOf("(JC)") -ge 0) {
+        $edition = "Japanese Cut"
+    }
     elseif ($fileName.IndexOf("(UR)") -ge 0) {
         $edition = "Unrated Cut"
     }
