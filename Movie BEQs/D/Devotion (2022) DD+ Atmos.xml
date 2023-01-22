@@ -1420,14 +1420,14 @@
     <beq_sortTitle>devotion</beq_sortTitle>
     <beq_year>2022</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Devotion%20%282022%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Devotion%20%282022%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
+    <beq_source>Streaming</beq_source>
     <beq_overview>The harrowing true story of two elite US Navy fighter pilots during the Korean War. Their heroic sacrifices would ultimately make them the Navy's most celebrated wingmen.</beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
@@ -1442,7 +1442,6 @@
       <genre id="18">Drama</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
