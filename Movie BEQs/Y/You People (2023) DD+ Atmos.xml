@@ -1415,12 +1415,13 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The People You're Paying to Be in Shorts</beq_title>
-    <beq_alt_title>You People</beq_alt_title>
+    <beq_title>You People</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>you people</beq_sortTitle>
-    <beq_year>2022</beq_year>
+    <beq_year>2023</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Y/You%20People%20%282022%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Y/You%20People%20%282023%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,19 +1429,20 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>It’s 2011. For Michael Jordan, the year ahead will be a very strange one. Once a player who could seemingly deliver championships through sheer force of will, the owner of the Charlotte Bobcats is finally developing the one skill he had always denied himself: patience. Nothing about that is easy, and nothing about the lovable, unforgettable 2011-2012 Bobcats will be easy. But as much as he despises losing, Mike has always seemed to love the struggle.</beq_overview>
+    <beq_overview>A new couple and their families reckon with modern love amid culture clashes, societal expectations and generational differences.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>1041562</beq_theMovieDB>
-    <beq_poster>/puWHu1l1QMQgTKI39wTecLSoVTN.jpg</beq_poster>
-    <beq_runtime>148</beq_runtime>
+    <beq_theMovieDB>866413</beq_theMovieDB>
+    <beq_poster>/yBizkvsCJUgm43t2wcjr1urFqDA.jpg</beq_poster>
+    <beq_runtime>117</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="99">Documentary</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="35">Comedy</genre>
+      <genre id="10749">Romance</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
