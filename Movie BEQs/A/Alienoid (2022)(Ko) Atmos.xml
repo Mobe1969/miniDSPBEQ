@@ -1424,7 +1424,7 @@
     <beq_edition />
     <beq_season />
     <beq_note />
-    <beq_warning />
+    <beq_warning>German UHD / BR only. DO NOT USE ON Well-Go Blu-Ray</beq_warning>
     <beq_gain />
     <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
