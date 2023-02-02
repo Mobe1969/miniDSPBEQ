@@ -1428,7 +1428,7 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A group of top female agents from American, British, Chinese, Columbian and German  government agencies are drawn together to try and stop an organization from acquiring a deadly weapon to send the world into chaos.</beq_overview>
+    <beq_overview>A group of top female agents from American, British, Chinese, Colombian, and German government agencies are drawn together to try and stop an organization from acquiring a deadly weapon to send the world into chaos.</beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
@@ -1442,7 +1442,7 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
-	  <audioType>DD+ 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

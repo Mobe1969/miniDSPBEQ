@@ -1423,16 +1423,16 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Partner%20Track%20%282022%29%281-10%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="213174">
-        <number>1</number>
-        <poster>/jfUpPfK8b64KrvNrwUsGceHTIGy.jpg</poster>
-        <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+      <number>1</number>
+      <poster>/jfUpPfK8b64KrvNrwUsGceHTIGy.jpg</poster>
+      <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Centers on Ingrid Yun, an idealistic young lawyer, struggles with her moral compass and her passions as she fights to climb the partner track at an elite New York City law firm.</beq_overview>
+    <beq_overview>At an elite NYC law firm, Ingrid Yun fights to make partner — and hold onto her principles — while balancing romance, friends and family expectations.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

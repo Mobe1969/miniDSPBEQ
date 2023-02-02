@@ -1423,16 +1423,16 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/BLOCKBUSTER%20%282022%29%28S1%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="293551">
-        <number>1</number>
-        <poster>/1seIJ8wIKo3KXp7hnwS5wj69U8M.jpg</poster>
-        <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+      <number>1</number>
+      <poster>/1seIJ8wIKo3KXp7hnwS5wj69U8M.jpg</poster>
+      <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>After learning he is operating the last Blockbuster Video in America, Timmy Yoon and his staff employees (including his long-time crush, Eliza) fight to stay relevant. The only way to succeed is to remind their community that they provide something big corporations can’t: human connection.</beq_overview>
+    <beq_overview>In this feel-good workplace comedy, the staff at the last surviving Blockbuster video store tries to keep the business afloat.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

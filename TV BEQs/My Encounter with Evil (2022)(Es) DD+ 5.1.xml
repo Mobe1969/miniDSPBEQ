@@ -1423,16 +1423,17 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/My%20Encounter%20with%20Evil%20%282022%29%28Es%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="314297">
-        <number>1</number>
-        <poster></poster>
-        <episodes count="4">1,2,3,4</episodes>
+      <number>1</number>
+      <poster>
+      </poster>
+      <episodes count="4">1,2,3,4</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Spanish</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>A chilling story about how three women, their relatives and friends face evil; its protagonists testify about their experiences of possession, infestation and exorcisms.</beq_overview>
+    <beq_overview>Real people who believe their lives were touched by demonic possession recount their experiences through reenactments and testimonies.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

@@ -27,15 +27,16 @@ if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
 }
 foreach ($file in $files) {
     $save = $false
-    $content = [System.Xml.XmlDocument](Get-Content $file.FullName)
+    $content = [System.Xml.XmlDocument](Get-Content $file.FullName -Encoding UTF8)
     $reportName = [io.path]::GetFileNameWithoutExtension($file.Name)
     if ($reportName -eq "Alone and Distracted (2014) DTS-HD MA 5.1") {
         $reportName = "Edge of Tomorrow (2014)(40s) DTS-HD MA 5.1"
     }
     if ($file.FullName.Contains("Movie")) {
         $report = Get-ChildItem "D:\BEQ\beq-reports\Movies" -Filter "$reportName.jpg" -Recurse
+    } elseif ($file.Name.StartsWith("Flat")) {
+        continue
     } elseif ($file.FullName.Contains("Trailers")) {
-        $report = Get-ChildItem "D:\BEQ\beq-reports\Trailers" -Filter "$reportName.jpg" -Recurse
         continue
     } else {
         $report = Get-ChildItem "D:\BEQ\beq-reports\TV Series" -Filter "$reportName.jpg" -Recurse
@@ -95,7 +96,7 @@ foreach ($file in $files) {
         $content.setting.AppendChild($import)
         $content.Save($file.FullName)
     }
-    $content = [System.Xml.XmlDocument](Get-Content $file.FullName)
+    $content = [System.Xml.XmlDocument](Get-Content $file.FullName -Encoding UTF8)
     $beqMetadata = $content.setting.beq_metadata
     $fileName = [io.path]::GetFileNameWithoutExtension($file.Name)
     if (-1 -ne $file.Name.IndexOf("(19")) {

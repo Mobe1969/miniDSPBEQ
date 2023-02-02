@@ -1423,16 +1423,16 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Watcher%20%282022%29%281-7%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="308635">
-        <number>1</number>
-        <poster>/zzmHDOKlHRAxKnyhMv80iQK0Q7P.jpg</poster>
-        <episodes count="7">1,2,3,4,5,6,7</episodes>
+      <number>1</number>
+      <poster>/zzmHDOKlHRAxKnyhMv80iQK0Q7P.jpg</poster>
+      <episodes count="7">1,2,3,4,5,6,7</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Ominous letters. Strange neighbors. Sinister threats. A family moves into their suburban dream home, only to discover they've inherited a nightmare.</beq_overview>
+    <beq_overview>A family moves into their suburban dream home, only to discover they've inherited a nightmare.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

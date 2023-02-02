@@ -1423,16 +1423,17 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Lorenskog%20Disappearance%20%282022%29%28No%29%281-5%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="305248">
-        <number>1</number>
-        <poster></poster>
-        <episodes count="5">1,2,3,4,5</episodes>
+      <number>1</number>
+      <poster>
+      </poster>
+      <episodes count="5">1,2,3,4,5</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Norwegian</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>When a billionaire's wife vanishes, Norwegian police must deal with the frenzied press and deceitful informants to find the truth.</beq_overview>
+    <beq_overview>Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

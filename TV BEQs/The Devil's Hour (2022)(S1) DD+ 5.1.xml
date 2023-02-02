@@ -1423,16 +1423,16 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Devil%27s%20Hour%20%282022%29%28S1%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="242764">
-        <number>1</number>
-        <poster>/jOPvfCbepvtTx5rmtvcgXY9dWeB.jpg</poster>
-        <episodes count="6">1,2,3,4,5,6</episodes>
+      <number>1</number>
+      <poster>/jOPvfCbepvtTx5rmtvcgXY9dWeB.jpg</poster>
+      <episodes count="6">1,2,3,4,5,6</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Lucy is woken every night by terrifying visions at exactly 3.33am: the devil’s hour. When Lucy’s name is inexplicably connected to a string of brutal murders in the area, the answers that have evaded her all these years will finally come into focus.</beq_overview>
+    <beq_overview>Lucy wakes every night at exactly 3:33am. Nothing in her life has made sense for a long time. But the answers are out there, somewhere, at the end of a trail of brutal murders.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

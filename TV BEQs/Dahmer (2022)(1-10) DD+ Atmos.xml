@@ -1423,16 +1423,16 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Dahmer%20%282022%29%281-10%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="170644">
-        <number>1</number>
-        <poster>/h7YlJ1Mhg6jCZiHToUiKqHdzMO9.jpg</poster>
-        <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+      <number>1</number>
+      <poster>/h7YlJ1Mhg6jCZiHToUiKqHdzMO9.jpg</poster>
+      <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Across more than a decade, 17 teen boys and young men were murdered by serial killer Jeffrey Dahmer. How did he evade arrest for so long?</beq_overview>
+    <beq_overview>This series examines the gruesome and horrific true crimes of Jeffrey Dahmer and the systemic failures that enabled one of America’s most notorious serial killers to continue his murderous spree in plain sight for over a decade.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

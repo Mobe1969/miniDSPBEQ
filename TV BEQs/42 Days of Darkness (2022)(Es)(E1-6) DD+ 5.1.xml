@@ -1423,16 +1423,16 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/42%20Days%20of%20Darkness%20%282022%29%28Es%29%28E1-6%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="286924">
-        <number>1</number>
-        <poster>/v43ERAGCtSYBGHkLvG2rTi53BCl.jpg</poster>
-        <episodes count="6">1,2,3,4,5,6</episodes>
+      <number>1</number>
+      <poster>/v43ERAGCtSYBGHkLvG2rTi53BCl.jpg</poster>
+      <episodes count="6">1,2,3,4,5,6</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Spanish</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>A woman must fight against the negligence of State institutions and the harassment of the media after the disappearance of her sister.</beq_overview>
+    <beq_overview>In a town in Chile, a woman leads a frantic search to find her missing sister amid a media storm and the police investigation. Inspired by a true case.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

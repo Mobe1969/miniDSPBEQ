@@ -1423,16 +1423,16 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Belascoaran%2C%20PI%20%282022%29%28Es%29%281-3%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="302174">
-        <number>1</number>
-        <poster>/fzmGc1uFxwBfZHhwRe8uhxS1MMr.jpg</poster>
-        <episodes count="3">1,2,3</episodes>
+      <number>1</number>
+      <poster>/fzmGc1uFxwBfZHhwRe8uhxS1MMr.jpg</poster>
+      <episodes count="3">1,2,3</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Spanish</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Place an old desk, sit, smoke and wait? Maybe not... A city like Mexico City needs its own detective. Soon, Belascoarán Shayne will take us to discover what it takes to be an independent detective in Mexico's 70s. Belascoarán's adventures, written by Paco Ignacio Taibo ll, will arrive on Netflix in 2022.</beq_overview>
+    <beq_overview>Héctor Belascoarán leaves his corporate job and dull marriage to become an independent detective and tackle shocking criminal cases in 1970s Mexico City.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

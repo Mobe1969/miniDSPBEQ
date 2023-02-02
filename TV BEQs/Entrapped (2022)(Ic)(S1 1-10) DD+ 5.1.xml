@@ -1423,16 +1423,17 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Entrapped%20%282022%29%28Ic%29%28S1%201-10%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="307000">
-        <number>1</number>
-        <poster></poster>
-        <episodes count="6">1,2,3,4,5,6</episodes>
+      <number>1</number>
+      <poster>
+      </poster>
+      <episodes count="6">1,2,3,4,5,6</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Icelandic</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>In this "Trapped" sequel, Andri and Hinrika dig into the murder of a cult member linked to a biker gang's land dispute and a woman's 2013 disappearance.</beq_overview>
+    <beq_overview>A group of teens must confront their deepest fears to save one another from a creature hunting them in their sleep, after trying an experimental dreaming drug.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />

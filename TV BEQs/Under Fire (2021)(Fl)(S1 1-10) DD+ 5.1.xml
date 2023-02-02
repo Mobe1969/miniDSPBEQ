@@ -1424,16 +1424,16 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Under%20Fire%20%282021%29%28Fl%29%28S1%201-10%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="188620">
-        <number>1</number>
-        <poster>/2oXF52JveZKcseNCbrZgC7JRWOU.jpg</poster>
-        <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+      <number>1</number>
+      <poster>/2oXF52JveZKcseNCbrZgC7JRWOU.jpg</poster>
+      <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Flemish</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>A tight-knit and headstrong group of firefighters gets shook up by an abrupt change of leadership. After a fatal error during an intervention they come under scrutiny and have to fight for the survival of their beloved fire station "Post Oosteroever".</beq_overview>
+    <beq_overview>At East Bank Station, a close-knit team of firefighters must balance a dangerous, high-stress job, personal challenges and professional setbacks.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
