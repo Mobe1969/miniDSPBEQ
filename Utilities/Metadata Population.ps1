@@ -32,6 +32,8 @@ foreach ($file in $files) {
     if ($reportName -eq "Alone and Distracted (2014) DTS-HD MA 5.1") {
         $reportName = "Edge of Tomorrow (2014)(40s) DTS-HD MA 5.1"
     }
+
+
     if ($file.FullName.Contains("Movie")) {
         $report = Get-ChildItem "D:\BEQ\beq-reports\Movies" -Filter "$reportName.jpg" -Recurse
     } elseif ($file.Name.StartsWith("Flat")) {
@@ -139,12 +141,11 @@ foreach ($file in $files) {
             $save = $true
         }
     }
-    if ($reportURL.Length > 0) {
         if (!$beqMetadata.beq_pvaURL.Equals($reportURL, 3)) {
             $beqMetadata.beq_pvaURL = $reportURL
             $save = $true
         }
-    }
+
     if ($fileName.IndexOf("(Ja)") -ge 0) {
         $language = "Japanese"
     }

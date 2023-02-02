@@ -1420,12 +1420,12 @@
     <beq_sortTitle>the night manager</beq_sortTitle>
     <beq_year>2016</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Night%20Manager%20%282016%29%28S1%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="64467">
-        <number>1</number>
-        <poster>/xkt3lbl7sYgFkJAplFFeeWGsM8V.jpg</poster>
-        <episodes count="6">1,2,3,4,5,6</episodes>
+      <number>1</number>
+      <poster>/xkt3lbl7sYgFkJAplFFeeWGsM8V.jpg</poster>
+      <episodes count="6">1,2,3,4,5,6</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />

@@ -1420,33 +1420,12 @@
     <beq_sortTitle>make my day</beq_sortTitle>
     <beq_year>2023</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/MAKE%20MY%20DAY%20%282023%29%28Ja%29%28S1%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="322963">
-        <number>1</number>
-        <poster>/1gWb9o0XVyXwFk2aRPqyVJV8mXE.jpg</poster>
-        <episodes count="8">1,2,3,4,5,6,7,8</episodes>
-    </beq_season>>
-    <beq_note />
-    <beq_warning />
-    <beq_gain />
-    <beq_language>Japanese</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>On an isolated icy planet promising a bright future, prisoners are forced to excavate a rare energy source that leads to a deadly, unwelcome discovery.</beq_overview>
-    <beq_rating>NR</beq_rating>
-    <beq_author>mobe1969</beq_author>
-    <beq_avs />
-    <beq_theMovieDB>217710</beq_theMovieDB>
-    <beq_poster>/1gWb9o0XVyXwFk2aRPqyVJV8mXE.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
-    <beq_collection />
-    <beq_genres>
-      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
-      <genre id="18">Drama</genre>
-      <genre id="16">Animation</genre>
-    </beq_genres>
-    <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
-    </beq_audioTypes>
-  </beq_metadata>
+      <number>1</number>
+      <poster>/1gWb9o0XVyXwFk2aRPqyVJV8mXE.jpg</poster>
+      <episodes count="8">1,2,3,4,5,6,7,8</episodes>
+    </beq_season>&gt;
+    <beq_note /><beq_warning /><beq_gain /><beq_language>Japanese</beq_language><beq_source>Streaming</beq_source><beq_overview>On an isolated icy planet promising a bright future, prisoners are forced to excavate a rare energy source that leads to a deadly, unwelcome discovery.</beq_overview><beq_rating>NR</beq_rating><beq_author>mobe1969</beq_author><beq_avs /><beq_theMovieDB>217710</beq_theMovieDB><beq_poster>/1gWb9o0XVyXwFk2aRPqyVJV8mXE.jpg</beq_poster><beq_runtime>0</beq_runtime><beq_collection /><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre><genre id="16">Animation</genre></beq_genres><beq_audioTypes><audioType>DD+ 5.1</audioType></beq_audioTypes></beq_metadata>
 </setting>
