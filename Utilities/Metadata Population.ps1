@@ -139,9 +139,11 @@ foreach ($file in $files) {
             $save = $true
         }
     }
-    if (!$beqMetadata.beq_pvaURL.Equals($reportURL, 3)) {
-        $beqMetadata.beq_pvaURL = $reportURL
-        $save = $true
+    if ($reportURL.Length > 0) {
+        if (!$beqMetadata.beq_pvaURL.Equals($reportURL, 3)) {
+            $beqMetadata.beq_pvaURL = $reportURL
+            $save = $true
+        }
     }
     if ($fileName.IndexOf("(Ja)") -ge 0) {
         $language = "Japanese"

@@ -1415,9 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Frank Herberts Children of Dune</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>frank herberts children of dune</beq_sortTitle>
+    <beq_title>Frank Herbert's Children of Dune</beq_title>
+    <beq_alt_title>Children of Dune</beq_alt_title>
+    <beq_sortTitle>children of dune</beq_sortTitle>
     <beq_year>2003</beq_year>
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Children%20of%20Dune%20(2003)%20DTS-HD%20MA%205.1/Children%20of%20Dune%20%282003%29%28E1%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
@@ -1438,7 +1438,7 @@
     <beq_avs />
     <beq_theMovieDB>9156</beq_theMovieDB>
     <beq_poster>/A3FJKCuvqRontYuMnlDjiU3Ig4h.jpg</beq_poster>
-    <beq_runtime />
+    <beq_runtime>0</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
