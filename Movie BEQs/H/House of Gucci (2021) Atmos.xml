@@ -1420,7 +1420,7 @@
     <beq_sortTitle>house of gucci</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/House%20of%20Gucci%20%282021%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/House%20of%20Gucci%20%282021%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1442,6 +1442,7 @@
       <genre id="36">History</genre>
     </beq_genres>
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
