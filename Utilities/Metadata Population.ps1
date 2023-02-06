@@ -283,6 +283,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(BR)") -ge 0) {
         $beq_note = "Blu-Ray"
     }
+    elseif ($fileName.IndexOf("(HK)") -ge 0) {
+        $beq_note = "Hong Kong Blu-Ray"
+    }
     elseif ($fileName.IndexOf("(Cri)") -ge 0) {
         $beq_note = "Criterion"
     }

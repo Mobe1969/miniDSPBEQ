@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>12.0</freq>
+    <freq>10.0</freq>
     <q>1.0</q>
-    <boost>4.5</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001020553234523,-1.999309615193647,0.9992083588392389,1.9993097767203623,-0.9993102526359761,</dec>
-    <hex>0x3f800358,0xbfffe961,0x3f7fcc1e,0x3fffe962,0xbf7fd2cc,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>12.0</freq>
-    <q>1.0</q>
-    <boost>4.5</boost>
-    <type>SL</type>
+    <freq>17.0</freq>
+    <q>3.0</q>
+    <boost>2.6</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001020553234523,-1.999309615193647,0.9992083588392389,1.9993097767203623,-0.9993102526359761,</dec>
-    <hex>0x3f800358,0xbfffe961,0x3f7fcc1e,0x3fffe962,0xbf7fd2cc,</hex>
+    <dec>1.0000557078140013,-1.9996794857702107,0.9996250157426845,1.9996794857702107,-0.9996807235566858,</dec>
+    <hex>0x3f8001d3,0xbffff57f,0x3f7fe76d,0x3ffff57f,0xbf7feb13,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>12.0</freq>
-    <q>1.0</q>
-    <boost>4.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001020553234523,-1.999309615193647,0.9992083588392389,1.9993097767203623,-0.9993102526359761,</dec>
-    <hex>0x3f800358,0xbfffe961,0x3f7fcc1e,0x3fffe962,0xbf7fd2cc,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>13.0</freq>
-    <q>4.0</q>
-    <boost>6.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000749319111777,-1.9998486989024635,0.9997744908790743,1.9998486989024635,-0.999849422790252,</dec>
-    <hex>0x3f800275,0xbffffb0b,0x3f7ff139,0x3ffffb0b,0xbf7ff622,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
     <freq>20.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>25.0</freq>
-    <q>3.0</q>
-    <boost>2.0</boost>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>35.0</freq>
+    <q>7.0</q>
+    <boost>4.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000629167575046,-1.9995113397061557,0.9994510995990328,1.9995113397061557,-0.9995140163565371,</dec>
-    <hex>0x3f800210,0xbfffeffd,0x3f7fdc07,0x3fffeffd,0xbf7fe027,</hex>
+    <dec>1.0000760095897623,-1.9997348438744136,0.9996640811114388,1.9997348438744136,-0.9997400907012013,</dec>
+    <hex>0x3f80027e,0xbffff750,0x3f7fe9fc,0x3ffff750,0xbf7feef7,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>36.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004255861685958,-1.9974469984981265,0.9970288061473656,1.9974486164823841,-0.9974527743317034,</dec>
+    <hex>0x3f800df2,0xbfffac58,0x3f7f3d48,0x3fffac65,0xbf7f5911,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>12.0</freq>
+    <freq>10.0</freq>
     <q>1.0</q>
-    <boost>4.5</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001020553234523,-1.999309615193647,0.9992083588392389,1.9993097767203623,-0.9993102526359761,</dec>
-    <hex>0x3f800358,0xbfffe961,0x3f7fcc1e,0x3fffe962,0xbf7fd2cc,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>12.0</freq>
-    <q>1.0</q>
-    <boost>4.5</boost>
-    <type>SL</type>
+    <freq>17.0</freq>
+    <q>3.0</q>
+    <boost>2.6</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001020553234523,-1.999309615193647,0.9992083588392389,1.9993097767203623,-0.9993102526359761,</dec>
-    <hex>0x3f800358,0xbfffe961,0x3f7fcc1e,0x3fffe962,0xbf7fd2cc,</hex>
+    <dec>1.0000557078140013,-1.9996794857702107,0.9996250157426845,1.9996794857702107,-0.9996807235566858,</dec>
+    <hex>0x3f8001d3,0xbffff57f,0x3f7fe76d,0x3ffff57f,0xbf7feb13,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>12.0</freq>
-    <q>1.0</q>
-    <boost>4.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001020553234523,-1.999309615193647,0.9992083588392389,1.9993097767203623,-0.9993102526359761,</dec>
-    <hex>0x3f800358,0xbfffe961,0x3f7fcc1e,0x3fffe962,0xbf7fd2cc,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>13.0</freq>
-    <q>4.0</q>
-    <boost>6.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000749319111777,-1.9998486989024635,0.9997744908790743,1.9998486989024635,-0.999849422790252,</dec>
-    <hex>0x3f800275,0xbffffb0b,0x3f7ff139,0x3ffffb0b,0xbf7ff622,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
     <freq>20.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
   </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>25.0</freq>
-    <q>3.0</q>
-    <boost>2.0</boost>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>3.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001415029511456,-1.9984984987933332,0.9983590307813872,1.998498795949619,-0.9985002365762474,</dec>
+    <hex>0x3f8004a3,0xbfffcecc,0x3f7f9475,0x3fffcecf,0xbf7f9db6,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>35.0</freq>
+    <q>7.0</q>
+    <boost>4.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000629167575046,-1.9995113397061557,0.9994510995990328,1.9995113397061557,-0.9995140163565371,</dec>
-    <hex>0x3f800210,0xbfffeffd,0x3f7fdc07,0x3fffeffd,0xbf7fe027,</hex>
+    <dec>1.0000760095897623,-1.9997348438744136,0.9996640811114388,1.9997348438744136,-0.9997400907012013,</dec>
+    <hex>0x3f80027e,0xbffff750,0x3f7fe9fc,0x3ffff750,0xbf7feef7,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>36.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004255861685958,-1.9974469984981265,0.9970288061473656,1.9974486164823841,-0.9974527743317034,</dec>
+    <hex>0x3f800df2,0xbfffac58,0x3f7f3d48,0x3fffac65,0xbf7f5911,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,38 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Last of Us</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>the last of us</beq_sortTitle>
-    <beq_year>2023</beq_year>
+    <beq_title>The Cursed Lesson</beq_title>
+    <beq_alt_title>Cursed Lesson</beq_alt_title>
+    <beq_sortTitle>cursed lesson</beq_sortTitle>
+    <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Last%20of%20Us%20%282023%29%28S01%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cursed%20Lesson%20%282020%29%28Ko%29%20TrueHD%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season id="144593">
-        <number>1</number>
-        <poster>/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg</poster>
-        <episodes count="9">1,2,3,4</episodes>
-    </beq_season>
+    <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.</beq_overview>
+    <beq_language>Korean</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>Online fashion model Hyo-jeong faces imminent threat of being unemployed because of the younger and more fashionable generation coming after her.  While relying on surgical procedures and treatments, Hyo-jeong hears about a mysterious yoga class that helps make perfect body shape from her old high school classmate, Ga-yeong. Hyo-jeong eventually attends the yoga class with three classmates: Mi-yeon, a boxer who failed to keep her body fit, Ji-won, who has unstable mental condition, and Ye-na, a movie star who is morbidly obsessed with her appearance. Meanwhile, police start to investigate the enigma behind this yoga class after finding out that a murder in the neighborhood was committed by a woman named Bo-ra, a former yoga class student.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>100088</beq_theMovieDB>
-    <beq_poster>/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
+    <beq_theMovieDB>759917</beq_theMovieDB>
+    <beq_poster>/9lWDGJwLRQv5mzbN9MGvHrpHxJB.jpg</beq_poster>
+    <beq_runtime>93</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
-      <genre id="10759">Action &amp; Adventure</genre>
+      <genre id="27">Horror</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DD+ Atmos</audioType>
+      <audioType>TrueHD 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
