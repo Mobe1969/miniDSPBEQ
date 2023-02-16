@@ -1415,8 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>My Name Is Vendetta</beq_title>
-    <beq_alt_title>Vendetta</beq_alt_title>
+    <beq_title>Vendetta</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>vendetta</beq_sortTitle>
     <beq_year>2022</beq_year>
     <beq_spectrumURL />
@@ -1428,13 +1429,13 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>After old enemies kill his family, a former mafia enforcer and his feisty daughter flee to Milan, where they hide out while plotting their revenge.</beq_overview>
+    <beq_overview>When his daughter is murdered, William Duncan takes the law into his own hands, setting out on a quest for retribution. After killing the street thug responsible for her death, he finds himself in the middle of a war with the thug's brother, father, and their gang, who are equally hell-bent on getting even. What ensues is a tense back-and-forth game of vengeance. By the end, William comes to find that the quest for revenge never has a winner.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>873126</beq_theMovieDB>
-    <beq_poster>/7l3war94J4tRyWUiLAGokr3ViF2.jpg</beq_poster>
-    <beq_runtime>90</beq_runtime>
+    <beq_theMovieDB>894169</beq_theMovieDB>
+    <beq_poster>/juah27ARLXRqbkgvlzilCs13s9S.jpg</beq_poster>
+    <beq_runtime>96</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="28">Action</genre>
