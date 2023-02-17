@@ -350,6 +350,13 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(AC)") -ge 0) {
         $edition = "Alternate Cut"
     }
+    if ($beq_note.Contains('UHD') -or $beq_note.Contains('Blu-Ray')) {
+        if (![string]::IsNullOrWhitespace($edition)) {
+            $edition = $edition + ", " + $beq_note
+        } else {
+            $edition = $beq_note
+        }
+    }
     if ($beqMetadata.beq_edition -ne $edition -and "" -ne $edition) {
         $beqMetadata.beq_edition = $edition
         $save = $true
