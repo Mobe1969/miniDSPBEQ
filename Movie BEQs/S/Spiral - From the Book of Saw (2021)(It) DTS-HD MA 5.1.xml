@@ -1414,34 +1414,35 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata>
-  <beq_title>Spiral: From the Book of Saw</beq_title>
-  <beq_alt_title />
-  <beq_sortTitle>spiral: from the book of saw</beq_sortTitle>
-  <beq_year>2021</beq_year>
-  <beq_spectrumURL>https://i.imgur.com/46ilqou.png</beq_spectrumURL>
-  <beq_pvaURL>https://i.imgur.com/NY3NivL.jpg</beq_pvaURL>
-  <beq_edition />
-  <beq_season />
-  <beq_note />
-  <beq_warning />
-  <beq_gain />
-  <beq_language>Italian</beq_language>
-  <beq_source>Disc</beq_source>
-  <beq_overview>Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.</beq_overview>
-  <beq_rating>R</beq_rating>
-  <beq_author>Fil8</beq_author>
-  <beq_avs /><beq_theMovieDB>602734</beq_theMovieDB>
-  <beq_poster>/lcyKve7nXRFgRyms9M1bndNkKOx.jpg</beq_poster>
-  <beq_runtime>93</beq_runtime>
-  <beq_collection />
-  <beq_audioTypes>
-    <audioType>DTS-HD MA 5.1</audioType>
-  </beq_audioTypes>
-  <beq_genres>
-    <genre id="27">Horror</genre>
-    <genre id="80">Crime</genre>
-    <genre id="9648">Mystery</genre>
-  </beq_genres>
+  <beq_metadata>
+    <beq_title>Spiral: From the Book of Saw</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>spiral - from the book of saw</beq_sortTitle>
+    <beq_year>2021</beq_year>
+    <beq_spectrumURL>https://i.imgur.com/46ilqou.png</beq_spectrumURL>
+    <beq_pvaURL>https://i.imgur.com/NY3NivL.jpg</beq_pvaURL>
+    <beq_edition />
+    <beq_season />
+    <beq_note />
+    <beq_warning />
+    <beq_gain />
+    <beq_language>Italian</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.</beq_overview>
+    <beq_rating>R</beq_rating>
+    <beq_author>Fil8</beq_author>
+    <beq_avs />
+    <beq_theMovieDB>602734</beq_theMovieDB>
+    <beq_poster>/lcyKve7nXRFgRyms9M1bndNkKOx.jpg</beq_poster>
+    <beq_runtime>93</beq_runtime>
+    <beq_collection />
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 5.1</audioType>
+    </beq_audioTypes>
+    <beq_genres>
+      <genre id="27">Horror</genre>
+      <genre id="80">Crime</genre>
+      <genre id="9648">Mystery</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>

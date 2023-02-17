@@ -142,8 +142,10 @@ foreach ($file in $files) {
         }
     }
         if (!$beqMetadata.beq_pvaURL.Equals($reportURL, 3)) {
-            $beqMetadata.beq_pvaURL = $reportURL
-            $save = $true
+            if (![string]::IsNullOrWhitespace($reportURL)) {
+                $beqMetadata.beq_pvaURL = $reportURL
+                $save = $true
+            }
         }
 
     if ($fileName.IndexOf("(Ja)") -ge 0) {
@@ -350,11 +352,13 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(AC)") -ge 0) {
         $edition = "Alternate Cut"
     }
-    if ($beq_note.Contains('UHD') -or $beq_note.Contains('Blu-Ray')) {
-        if (![string]::IsNullOrWhitespace($edition)) {
-            $edition = $edition + ", " + $beq_note
-        } else {
-            $edition = $beq_note
+    if ($language -ne "Italian") {
+        if ($beq_note.Contains('UHD') -or $beq_note.Contains('Blu-Ray')) {
+            if (![string]::IsNullOrWhitespace($edition)) {
+                $edition = $edition + ", " + $beq_note
+            } else {
+                $edition = $beq_note
+            }
         }
     }
     if ($beqMetadata.beq_edition -ne $edition -and "" -ne $edition) {
