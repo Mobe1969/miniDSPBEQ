@@ -21,7 +21,7 @@ clear
 
 
 $files = Get-ChildItem "D:\BEQ\miniDSPBEQ" -Filter *.xml -Recurse | 
-         Where-Object { $_.LastWriteTime -gt (Get-Date).AddDays(-2) }
+         Where-Object { $_.LastWriteTime -gt (Get-Date).AddDays(-1) }
 if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
     Clear-Content -Path "D:\BEQ\Errors.txt"
 }
@@ -32,8 +32,9 @@ foreach ($file in $files) {
     if ($reportName -eq "Alone and Distracted (2014) DTS-HD MA 5.1") {
         $reportName = "Edge of Tomorrow (2014)(40s) DTS-HD MA 5.1"
     }
-
-
+    if ($reportName -eq 'Snake Eyes- G.I. Joe Origins (2021)(It) DD 5.1') {
+        continue
+    }
     if ($file.FullName.Contains("Movie")) {
         $report = Get-ChildItem "D:\BEQ\beq-reports\Movies" -Filter "$reportName.jpg" -Recurse
     } elseif ($file.Name.StartsWith("Flat")) {
