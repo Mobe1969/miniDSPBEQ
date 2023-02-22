@@ -803,48 +803,48 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>2.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000395976047562,-1.9993836478694578,0.9993445335276446,1.9993836997632872,-0.9993840792385709,</dec>
-    <hex>0x3f80014c,0xbfffebce,0x3f7fd50b,0x3fffebce,0xbf7fd7a3,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>2.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000395976047562,-1.9993836478694578,0.9993445335276446,1.9993836997632872,-0.9993840792385709,</dec>
-    <hex>0x3f80014c,0xbfffebce,0x3f7fd50b,0x3fffebce,0xbf7fd7a3,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>11.0</freq>
-    <q>3.0</q>
-    <boost>1.7</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000023519622613,-1.999781894814543,0.9997588934610955,1.999781894814543,-0.9997824130837085,</dec>
-    <hex>0x3f8000c5,0xbffff8da,0x3f7ff033,0x3ffff8da,0xbf7ff1bd,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>16.0</freq>
-    <q>6.0</q>
-    <boost>3.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000302885780283,-1.9998520631112588,0.9998228710753274,1.9998520631112588,-0.9998531596533555,</dec>
-    <hex>0x3f8000fe,0xbffffb27,0x3f7ff464,0x3ffffb27,0xbf7ff660,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>26.0</freq>
     <q>0.8</q>
     <boost>4.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002763973283726,-1.9981300439530476,0.9978573951317753,1.9981308017847104,-0.9981330346284847,</dec>
-    <hex>0x3f80090f,0xbfffc2ba,0x3f7f7395,0x3fffc2c0,0xbf7f85a6,</hex>
+    <dec>1.00010627806077,-1.9992810808100292,0.9991753575809033,1.9992811929797478,-0.9992815234719545,</dec>
+    <hex>0x3f80037c,0xbfffe871,0x3f7fc9f5,0x3fffe872,0xbf7fd0ea,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>13.0</freq>
+    <q>3.0</q>
+    <boost>2.9</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000475606247927,-1.999759294201181,0.9997124574318148,1.999759294201181,-0.9997600180566075,</dec>
+    <hex>0x3f80018f,0xbffff81d,0x3f7fed28,0x3ffff81d,0xbf7ff046,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>6.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
+    <hex>0x3f80094f,0xbfffd2dc,0x3f7f9342,0x3fffd2e1,0xbf7fa5d6,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>6.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
+    <hex>0x3f80094f,0xbfffd2dc,0x3f7f9342,0x3fffd2e1,0xbf7fa5d6,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>26.0</freq>
+    <q>4.0</q>
+    <boost>3.6</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.000088778734518,-1.9996513670627196,0.9995654835962613,1.9996513670627196,-0.9996542623307795,</dec>
+    <hex>0x3f8002e9,0xbffff493,0x3f7fe386,0x3ffff493,0xbf7fe957,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -893,48 +893,48 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>2.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000395976047562,-1.9993836478694578,0.9993445335276446,1.9993836997632872,-0.9993840792385709,</dec>
-    <hex>0x3f80014c,0xbfffebce,0x3f7fd50b,0x3fffebce,0xbf7fd7a3,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>2.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000395976047562,-1.9993836478694578,0.9993445335276446,1.9993836997632872,-0.9993840792385709,</dec>
-    <hex>0x3f80014c,0xbfffebce,0x3f7fd50b,0x3fffebce,0xbf7fd7a3,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>11.0</freq>
-    <q>3.0</q>
-    <boost>1.7</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000023519622613,-1.999781894814543,0.9997588934610955,1.999781894814543,-0.9997824130837085,</dec>
-    <hex>0x3f8000c5,0xbffff8da,0x3f7ff033,0x3ffff8da,0xbf7ff1bd,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>16.0</freq>
-    <q>6.0</q>
-    <boost>3.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000302885780283,-1.9998520631112588,0.9998228710753274,1.9998520631112588,-0.9998531596533555,</dec>
-    <hex>0x3f8000fe,0xbffffb27,0x3f7ff464,0x3ffffb27,0xbf7ff660,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>26.0</freq>
     <q>0.8</q>
     <boost>4.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002763973283726,-1.9981300439530476,0.9978573951317753,1.9981308017847104,-0.9981330346284847,</dec>
-    <hex>0x3f80090f,0xbfffc2ba,0x3f7f7395,0x3fffc2c0,0xbf7f85a6,</hex>
+    <dec>1.00010627806077,-1.9992810808100292,0.9991753575809033,1.9992811929797478,-0.9992815234719545,</dec>
+    <hex>0x3f80037c,0xbfffe871,0x3f7fc9f5,0x3fffe872,0xbf7fd0ea,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>13.0</freq>
+    <q>3.0</q>
+    <boost>2.9</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000475606247927,-1.999759294201181,0.9997124574318148,1.999759294201181,-0.9997600180566075,</dec>
+    <hex>0x3f80018f,0xbffff81d,0x3f7fed28,0x3ffff81d,0xbf7ff046,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>6.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
+    <hex>0x3f80094f,0xbfffd2dc,0x3f7f9342,0x3fffd2e1,0xbf7fa5d6,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>6.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
+    <hex>0x3f80094f,0xbfffd2dc,0x3f7f9342,0x3fffd2e1,0xbf7fa5d6,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>26.0</freq>
+    <q>4.0</q>
+    <boost>3.6</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.000088778734518,-1.9996513670627196,0.9995654835962613,1.9996513670627196,-0.9996542623307795,</dec>
+    <hex>0x3f8002e9,0xbffff493,0x3f7fe386,0x3ffff493,0xbf7fe957,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,37 +1415,37 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Infernal Affairs</beq_title>
+    <beq_title>Triptych</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>infernal affairs</beq_sortTitle>
-    <beq_year>2002</beq_year>
+    <beq_sortTitle>triptych</beq_sortTitle>
+    <beq_year>2023</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Infernal%20Affairs%20%282002%29%28Ca%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Triptych%20%282023%29%28Es%29%28S1%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="321005">
+        <number>1</number>
+        <poster>/cuV5GizaYLjGB3yikqJ5EH2rLus.jpg</poster>
+        <episodes count="8">1,2,3,4,5,6,7,8</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Cantonese</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>Chan Wing Yan, a young police officer, has been sent undercover as a mole in the local mafia. Lau Kin Ming, a young mafia member, infiltrates the police force. Years later, their older counterparts, Chen Wing Yan and Inspector Lau Kin Ming, respectively, race against time to expose the mole within their midst.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_language>Spanish</beq_language>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>After learning she was separated at birth from her two identical sisters, Rebecca embarks on a perilous journey to uncover the truth about her origins.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>10775</beq_theMovieDB>
-    <beq_poster>/gix9thDBXfjJ8M7rYbihqbQGBcP.jpg</beq_poster>
-    <beq_runtime>101</beq_runtime>
+    <beq_theMovieDB>216811</beq_theMovieDB>
+    <beq_poster>/cuV5GizaYLjGB3yikqJ5EH2rLus.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
+    <beq_collection />
     <beq_genres>
       <genre id="18">Drama</genre>
-      <genre id="28">Action</genre>
-      <genre id="53">Thriller</genre>
-      <genre id="80">Crime</genre>
       <genre id="9648">Mystery</genre>
     </beq_genres>
-    <beq_collection id="58588">Infernal Affairs Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
-      <audioType>LPCM 5.1</audioType>
+      <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
