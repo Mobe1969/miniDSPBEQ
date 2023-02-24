@@ -1442,6 +1442,7 @@
     </beq_genres>
     <beq_collection id="52785">xXx Collection</beq_collection>
     <beq_audioTypes>
+      <audioType>DTS-HD MA 5.1</audioType>
       <audioType>LPCM 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
