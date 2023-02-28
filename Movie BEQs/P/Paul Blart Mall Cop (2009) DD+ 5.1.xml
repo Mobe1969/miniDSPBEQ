@@ -802,67 +802,67 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>4.0</boost>
-    <type>SL</type>
+    <freq>17.0</freq>
+    <q>1.8</q>
+    <boost>7.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000755462101154,-1.9994164080906258,0.9993414010069319,1.999416507570949,-0.999416847736724,</dec>
-    <hex>0x3f80027a,0xbfffece0,0x3f7fd4d7,0x3fffece1,0xbf7fd9c8,</hex>
+    <dec>1.0002558225447749,-1.9995857192761575,0.9993311344598171,1.9995857192761575,-0.9995869570045919,</dec>
+    <hex>0x3f800862,0xbffff26d,0x3f7fd42a,0x3ffff26d,0xbf7fe4ee,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>17.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
     <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002009047576177,-1.9987950449668777,0.9985957900941708,1.9987954060100994,-0.9987963338085664,</dec>
-    <hex>0x3f800695,0xbfffd884,0x3f7fa3f9,0x3fffd887,0xbf7fb11e,</hex>
+    <dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
+    <hex>0x3f8007bf,0xbfffd18b,0x3f7f93bf,0x3fffd190,0xbf7fa335,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>17.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
-    <type>SL</type>
+    <freq>26.0</freq>
+    <q>4.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002009047576177,-1.9987950449668777,0.9985957900941708,1.9987954060100994,-0.9987963338085664,</dec>
-    <hex>0x3f800695,0xbfffd884,0x3f7fa3f9,0x3fffd887,0xbf7fb11e,</hex>
+    <dec>1.0000988086532216,-1.9996592356719922,0.9995633222982232,1.9996592356719922,-0.9996621309514448,</dec>
+    <hex>0x3f80033d,0xbffff4d5,0x3f7fe362,0x3ffff4d5,0xbf7fe9db,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>17.0</freq>
+    <freq>36.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002009047576177,-1.9987950449668777,0.9985957900941708,1.9987954060100994,-0.9987963338085664,</dec>
-    <hex>0x3f800695,0xbfffd884,0x3f7fa3f9,0x3fffd887,0xbf7fb11e,</hex>
+    <dec>1.0004513196038798,-1.9974688417620525,0.9970250448541348,1.997470559756496,-0.9974746464635709,</dec>
+    <hex>0x3f800eca,0xbfffad0f,0x3f7f3d09,0x3fffad1e,0xbf7f5a80,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>36.0</freq>
+    <q>0.8</q>
+    <boost>5.3</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004513196038798,-1.9974688417620525,0.9970250448541348,1.997470559756496,-0.9974746464635709,</dec>
+    <hex>0x3f800eca,0xbfffad0f,0x3f7f3d09,0x3fffad1e,0xbf7f5a80,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>36.0</freq>
+    <q>0.8</q>
+    <boost>5.3</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004513196038798,-1.9974688417620525,0.9970250448541348,1.997470559756496,-0.9974746464635709,</dec>
+    <hex>0x3f800eca,0xbfffad0f,0x3f7f3d09,0x3fffad1e,0xbf7f5a80,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>54.0</freq>
+    <q>3.0</q>
+    <boost>2.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001358616786398,-1.9989380881980106,0.9988147111701337,1.9989380881980106,-0.9989505728487733,</dec>
+    <hex>0x3f800474,0xbfffdd34,0x3f7fb252,0x3fffdd34,0xbf7fbb3a,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>1000</freq>
@@ -892,67 +892,67 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>4.0</boost>
-    <type>SL</type>
+    <freq>17.0</freq>
+    <q>1.8</q>
+    <boost>7.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000755462101154,-1.9994164080906258,0.9993414010069319,1.999416507570949,-0.999416847736724,</dec>
-    <hex>0x3f80027a,0xbfffece0,0x3f7fd4d7,0x3fffece1,0xbf7fd9c8,</hex>
+    <dec>1.0002558225447749,-1.9995857192761575,0.9993311344598171,1.9995857192761575,-0.9995869570045919,</dec>
+    <hex>0x3f800862,0xbffff26d,0x3f7fd42a,0x3ffff26d,0xbf7fe4ee,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>17.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
     <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002009047576177,-1.9987950449668777,0.9985957900941708,1.9987954060100994,-0.9987963338085664,</dec>
-    <hex>0x3f800695,0xbfffd884,0x3f7fa3f9,0x3fffd887,0xbf7fb11e,</hex>
+    <dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
+    <hex>0x3f8007bf,0xbfffd18b,0x3f7f93bf,0x3fffd190,0xbf7fa335,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>17.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
-    <type>SL</type>
+    <freq>26.0</freq>
+    <q>4.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002009047576177,-1.9987950449668777,0.9985957900941708,1.9987954060100994,-0.9987963338085664,</dec>
-    <hex>0x3f800695,0xbfffd884,0x3f7fa3f9,0x3fffd887,0xbf7fb11e,</hex>
+    <dec>1.0000988086532216,-1.9996592356719922,0.9995633222982232,1.9996592356719922,-0.9996621309514448,</dec>
+    <hex>0x3f80033d,0xbffff4d5,0x3f7fe362,0x3ffff4d5,0xbf7fe9db,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>17.0</freq>
+    <freq>36.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002009047576177,-1.9987950449668777,0.9985957900941708,1.9987954060100994,-0.9987963338085664,</dec>
-    <hex>0x3f800695,0xbfffd884,0x3f7fa3f9,0x3fffd887,0xbf7fb11e,</hex>
+    <dec>1.0004513196038798,-1.9974688417620525,0.9970250448541348,1.997470559756496,-0.9974746464635709,</dec>
+    <hex>0x3f800eca,0xbfffad0f,0x3f7f3d09,0x3fffad1e,0xbf7f5a80,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>36.0</freq>
+    <q>0.8</q>
+    <boost>5.3</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004513196038798,-1.9974688417620525,0.9970250448541348,1.997470559756496,-0.9974746464635709,</dec>
+    <hex>0x3f800eca,0xbfffad0f,0x3f7f3d09,0x3fffad1e,0xbf7f5a80,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>36.0</freq>
+    <q>0.8</q>
+    <boost>5.3</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004513196038798,-1.9974688417620525,0.9970250448541348,1.997470559756496,-0.9974746464635709,</dec>
+    <hex>0x3f800eca,0xbfffad0f,0x3f7f3d09,0x3fffad1e,0xbf7f5a80,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>54.0</freq>
+    <q>3.0</q>
+    <boost>2.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001358616786398,-1.9989380881980106,0.9988147111701337,1.9989380881980106,-0.9989505728487733,</dec>
+    <hex>0x3f800474,0xbfffdd34,0x3f7fb252,0x3fffdd34,0xbf7fbb3a,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>1000</freq>
@@ -1415,34 +1415,35 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Hellboy</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>hellboy</beq_sortTitle>
-    <beq_year>2004</beq_year>
+    <beq_title>Paul Blart: Mall Cop</beq_title>
+    <beq_alt_title>Paul Blart Mall Cop</beq_alt_title>
+    <beq_sortTitle>paul blart mall cop</beq_sortTitle>
+    <beq_year>2009</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hellboy%20%282004%29%20Atmos.jpg</beq_pvaURL>
-    <beq_edition>Director's Cut</beq_edition>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Paul%20Blart%20Mall%20Cop%20%282009%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed "Hellboy". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research &amp; Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>Mild-mannered Paul Blart has always had huge dreams of becoming a State Trooper. Until then, he patrols the local mall as a security guard. With his closely cropped moustache, personal transporter and gung-ho attitude, only Blart seems to take his job seriously. All that changes when a team of thugs raids the mall and takes hostages. Untrained, unarmed and a super-size target, Blart has to become a real cop to save the day.</beq_overview>
+    <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>1487</beq_theMovieDB>
-    <beq_poster>/kukfPWDRXVe7b4HFYMKnxKvMg18.jpg</beq_poster>
-    <beq_runtime>132</beq_runtime>
-    <beq_collection id="17235">Hellboy Collection</beq_collection>
+    <beq_theMovieDB>14560</beq_theMovieDB>
+    <beq_poster>/A4zZv0Q1VKURFZFEl2vwjaE2q0g.jpg</beq_poster>
+    <beq_runtime>91</beq_runtime>
     <beq_genres>
       <genre id="28">Action</genre>
-      <genre id="14">Fantasy</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="10751">Family</genre>
     </beq_genres>
+    <beq_collection id="328372">Mall Cop Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
