@@ -1420,7 +1420,7 @@
     <beq_sortTitle>despicable me 2</beq_sortTitle>
     <beq_year>2013</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Despicable%20Me%202%20%282013%29%20DTS-X%20MA.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Despicable%20Me%202%20%282013%29%20DTS-X.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1442,7 +1442,7 @@
     </beq_genres>
     <beq_collection id="86066">Despicable Me Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-X MA</audioType>
+      <audioType>DTS-X</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
