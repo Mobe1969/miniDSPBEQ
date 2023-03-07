@@ -1420,10 +1420,10 @@
     <beq_sortTitle>dragonheart</beq_sortTitle>
     <beq_year>1996</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dragonheart%20%281996%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/DragonHeart%20%281996%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note>Original blu-ray. Please wait for confirmation on the UHD</beq_note>
+    <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
@@ -1443,7 +1443,7 @@
     </beq_genres>
     <beq_collection id="169452">DragonHeart Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
