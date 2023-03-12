@@ -803,57 +803,57 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>2.0</q>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000967847137106,-1.9992727667361474,0.9991765242223141,1.9992728687416104,-0.9992732069305617,</dec>
+    <hex>0x3f80032c,0xbfffe82c,0x3f7fca08,0x3fffe82c,0xbf7fd05e,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000967847137106,-1.9992727667361474,0.9991765242223141,1.9992728687416104,-0.9992732069305617,</dec>
+    <hex>0x3f80032c,0xbfffe82c,0x3f7fca08,0x3fffe82c,0xbf7fd05e,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000967847137106,-1.9992727667361474,0.9991765242223141,1.9992728687416104,-0.9992732069305617,</dec>
+    <hex>0x3f80032c,0xbfffe82c,0x3f7fca08,0x3fffe82c,0xbf7fd05e,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>11.0</freq>
+    <q>5.0</q>
+    <boost>3.6</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000300516356597,-1.9998824493712355,0.9998529160308013,1.9998824493712355,-0.9998829676664611,</dec>
+    <hex>0x3f8000fc,0xbffffc26,0x3f7ff65c,0x3ffffc26,0xbf7ff855,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>15.0</freq>
+    <q>1.9</q>
     <boost>6.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.00011527519577,-1.9997679238152157,0.9996530769380617,1.9997679238152157,-0.9997683521338318,</dec>
-    <hex>0x3f8003c7,0xbffff865,0x3f7fe944,0x3ffff865,0xbf7ff0d2,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>14.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000709429505144,-1.999756576208065,0.9996864727574182,1.999756576208065,-0.9997574157079324,</dec>
-    <hex>0x3f800253,0xbffff806,0x3f7feb74,0x3ffff806,0xbf7ff01a,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>14.0</freq>
-    <q>1.0</q>
-    <boost>5.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001323914690825,-1.9992059592238884,0.9990746869377072,1.9992062041339413,-0.999206833496737,</dec>
-    <hex>0x3f800457,0xbfffe5fb,0x3f7fc35c,0x3fffe5fd,0xbf7fcc05,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>5.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002862297523003,-1.9984626490670663,0.9981792626569703,1.9984633159950953,-0.9984648254812413,</dec>
-    <hex>0x3f800961,0xbfffcda0,0x3f7f88ad,0x3fffcda5,0xbf7f9b64,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>5.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002862297523003,-1.9984626490670663,0.9981792626569703,1.9984633159950953,-0.9984648254812413,</dec>
-    <hex>0x3f800961,0xbfffcda0,0x3f7f88ad,0x3fffcda5,0xbf7f9b64,</hex>
+    <dec>1.0001820012464964,-1.9996333011164522,0.9994522635221803,1.9996333011164522,-0.9996342647686766,</dec>
+    <hex>0x3f8005f7,0xbffff3fc,0x3f7fdc1b,0x3ffff3fc,0xbf7fe808,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>23.0</freq>
-    <q>3.0</q>
-    <boost>2.0</boost>
+    <freq>19.0</freq>
+    <q>8.0</q>
+    <boost>2.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000578845461081,-1.9995506207647782,0.9994950017796715,1.9995506207647782,-0.9995528863257795,</dec>
-    <hex>0x3f8001e6,0xbffff146,0x3f7fdee8,0x3ffff146,0xbf7fe2b3,</hex>
+    <dec>1.0000242554772574,-1.9998653950038097,0.9998426858328415,1.9998653950038097,-0.9998669413100988,</dec>
+    <hex>0x3f8000cb,0xbffffb97,0x3f7ff5b1,0x3ffffb97,0xbf7ff748,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -893,57 +893,57 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>2.0</q>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000967847137106,-1.9992727667361474,0.9991765242223141,1.9992728687416104,-0.9992732069305617,</dec>
+    <hex>0x3f80032c,0xbfffe82c,0x3f7fca08,0x3fffe82c,0xbf7fd05e,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000967847137106,-1.9992727667361474,0.9991765242223141,1.9992728687416104,-0.9992732069305617,</dec>
+    <hex>0x3f80032c,0xbfffe82c,0x3f7fca08,0x3fffe82c,0xbf7fd05e,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000967847137106,-1.9992727667361474,0.9991765242223141,1.9992728687416104,-0.9992732069305617,</dec>
+    <hex>0x3f80032c,0xbfffe82c,0x3f7fca08,0x3fffe82c,0xbf7fd05e,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>11.0</freq>
+    <q>5.0</q>
+    <boost>3.6</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000300516356597,-1.9998824493712355,0.9998529160308013,1.9998824493712355,-0.9998829676664611,</dec>
+    <hex>0x3f8000fc,0xbffffc26,0x3f7ff65c,0x3ffffc26,0xbf7ff855,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>15.0</freq>
+    <q>1.9</q>
     <boost>6.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.00011527519577,-1.9997679238152157,0.9996530769380617,1.9997679238152157,-0.9997683521338318,</dec>
-    <hex>0x3f8003c7,0xbffff865,0x3f7fe944,0x3ffff865,0xbf7ff0d2,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>14.0</freq>
-    <q>3.0</q>
-    <boost>4.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000709429505144,-1.999756576208065,0.9996864727574182,1.999756576208065,-0.9997574157079324,</dec>
-    <hex>0x3f800253,0xbffff806,0x3f7feb74,0x3ffff806,0xbf7ff01a,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>14.0</freq>
-    <q>1.0</q>
-    <boost>5.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001323914690825,-1.9992059592238884,0.9990746869377072,1.9992062041339413,-0.999206833496737,</dec>
-    <hex>0x3f800457,0xbfffe5fb,0x3f7fc35c,0x3fffe5fd,0xbf7fcc05,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>5.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002862297523003,-1.9984626490670663,0.9981792626569703,1.9984633159950953,-0.9984648254812413,</dec>
-    <hex>0x3f800961,0xbfffcda0,0x3f7f88ad,0x3fffcda5,0xbf7f9b64,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>5.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002862297523003,-1.9984626490670663,0.9981792626569703,1.9984633159950953,-0.9984648254812413,</dec>
-    <hex>0x3f800961,0xbfffcda0,0x3f7f88ad,0x3fffcda5,0xbf7f9b64,</hex>
+    <dec>1.0001820012464964,-1.9996333011164522,0.9994522635221803,1.9996333011164522,-0.9996342647686766,</dec>
+    <hex>0x3f8005f7,0xbffff3fc,0x3f7fdc1b,0x3ffff3fc,0xbf7fe808,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>23.0</freq>
-    <q>3.0</q>
-    <boost>2.0</boost>
+    <freq>19.0</freq>
+    <q>8.0</q>
+    <boost>2.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000578845461081,-1.9995506207647782,0.9994950017796715,1.9995506207647782,-0.9995528863257795,</dec>
-    <hex>0x3f8001e6,0xbffff146,0x3f7fdee8,0x3ffff146,0xbf7fe2b3,</hex>
+    <dec>1.0000242554772574,-1.9998653950038097,0.9998426858328415,1.9998653950038097,-0.9998669413100988,</dec>
+    <hex>0x3f8000cb,0xbffffb97,0x3f7ff5b1,0x3ffffb97,0xbf7ff748,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Fantastic Beasts: The Secrets of Dumbledore</beq_title>
-    <beq_alt_title></beq_alt_title>
-    <beq_sortTitle>fantastic beasts the secrets of dumbledore</beq_sortTitle>
-    <beq_year>2022</beq_year>
+    <beq_title>Point Break</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>point break</beq_sortTitle>
+    <beq_year>2015</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fantastic%20Beasts%20The%20Secrets%20of%20Dumbledore%20%282022%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Point%20Break%20%282015%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,22 +1428,23 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.</beq_overview>
+    <beq_overview>A young undercover FBI agent infiltrates a gang of thieves who share a common interest in extreme sports. A remake of the 1991 film, "Point Break".</beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>338953</beq_theMovieDB>
-    <beq_poster>/8ZbybiGYe8XM4WGmGlhF0ec5R7u.jpg</beq_poster>
-    <beq_runtime>142</beq_runtime>
+    <beq_theMovieDB>257088</beq_theMovieDB>
+    <beq_poster>/z7JOvw5Lqs9ezoFTJxmz3nx3av2.jpg</beq_poster>
+    <beq_runtime>113</beq_runtime>
+    <beq_collection />
     <beq_genres>
-      <genre id="14">Fantasy</genre>
-      <genre id="12">Adventure</genre>
       <genre id="28">Action</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="80">Crime</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
-    <beq_collection id="435259">Fantastic Beasts Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>DTS-HD MA 7.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
