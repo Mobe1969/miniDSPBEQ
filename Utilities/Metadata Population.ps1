@@ -298,6 +298,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(D2)") -ge 0) {
         $beq_note = $beq_note + "[Disc 2]"
     }
+    if ($fileName.IndexOf("(Ma)") -ge 0 -and $fileName.IndexOf("(Ca)") -ge 0) {
+        $beq_note = $beq_note + "Cantonese and Mandarin tracks identical"
+    }
     $edition = ""
     if ($fileName.IndexOf("(TC)") -ge 0) {
         $edition = "Theatrical Cut"
