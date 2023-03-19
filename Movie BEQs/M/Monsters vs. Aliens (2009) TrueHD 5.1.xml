@@ -1437,6 +1437,7 @@
     <beq_runtime>94</beq_runtime>
     <beq_audioTypes>
       <audioType>TrueHD 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="12">Adventure</genre>
