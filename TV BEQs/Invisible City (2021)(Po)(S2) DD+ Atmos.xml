@@ -1423,9 +1423,9 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Invisible%20City%20%282021%29%28Po%29%28S2%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="163853">
-        <number>1</number>
+        <number>2</number>
         <poster>/oTyWL9rdA8oPAzsWtxW0Vjz9KYV.jpg</poster>
-        <episodes count="7">1,2,3,4,5,6,7</episodes>
+        <episodes count="5">1,2,3,4,5</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
