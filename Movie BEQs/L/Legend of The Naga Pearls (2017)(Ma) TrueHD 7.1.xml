@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>12.0</freq>
-    <q>2.0</q>
-    <boost>1.5</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>5.7</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000339443986712,-1.9996392347455338,0.999605907086027,1.9996392347455338,-0.9996398514846982,</dec>
-    <hex>0x3f80011d,0xbffff42e,0x3f7fe62c,0x3ffff42e,0xbf7fe866,</hex>
+    <dec>1.0001348482457568,-1.999305455171127,0.9991712014454414,1.9993055982126444,-0.9993059066496807,</dec>
+    <hex>0x3f80046b,0xbfffe93e,0x3f7fc9af,0x3fffe93f,0xbf7fd283,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>12.0</freq>
-    <q>1.0</q>
-    <boost>3.0</boost>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>5.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000679300851776,-1.999279206789468,0.9992120095682094,1.999279313807467,-0.9992798326353887,</dec>
-    <hex>0x3f80023a,0xbfffe862,0x3f7fcc5c,0x3fffe862,0xbf7fd0ce,</hex>
+    <dec>1.0001348482457568,-1.999305455171127,0.9991712014454414,1.9993055982126444,-0.9993059066496807,</dec>
+    <hex>0x3f80046b,0xbfffe93e,0x3f7fc9af,0x3fffe93f,0xbf7fd283,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>12.0</freq>
-    <q>1.0</q>
-    <boost>3.0</boost>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>5.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000679300851776,-1.999279206789468,0.9992120095682094,1.999279313807467,-0.9992798326353887,</dec>
-    <hex>0x3f80023a,0xbfffe862,0x3f7fcc5c,0x3fffe862,0xbf7fd0ce,</hex>
+    <dec>1.0001348482457568,-1.999305455171127,0.9991712014454414,1.9993055982126444,-0.9993059066496807,</dec>
+    <hex>0x3f80046b,0xbfffe93e,0x3f7fc9af,0x3fffe93f,0xbf7fd283,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>12.0</freq>
-    <q>1.0</q>
-    <boost>3.0</boost>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>5.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000679300851776,-1.999279206789468,0.9992120095682094,1.999279313807467,-0.9992798326353887,</dec>
-    <hex>0x3f80023a,0xbfffe862,0x3f7fcc5c,0x3fffe862,0xbf7fd0ce,</hex>
+    <dec>1.0001348482457568,-1.999305455171127,0.9991712014454414,1.9993055982126444,-0.9993059066496807,</dec>
+    <hex>0x3f80046b,0xbfffe93e,0x3f7fc9af,0x3fffe93f,0xbf7fd283,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>3.7</boost>
-    <type>SL</type>
+    <freq>12.0</freq>
+    <q>2.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001921059608394,-1.9983811418531612,0.9981915992628569,1.9983815864306216,-0.9983832606462358,</dec>
-    <hex>0x3f80064c,0xbfffcaf4,0x3f7f897c,0x3fffcaf8,0xbf7f960c,</hex>
+    <dec>1.0000912092074867,-1.9996874999528547,0.9995969074994188,1.9996874999528547,-0.9996881167069054,</dec>
+    <hex>0x3f8002fd,0xbffff5c3,0x3f7fe595,0x3ffff5c3,0xbf7feb8f,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>3.7</boost>
-    <type>SL</type>
+    <freq>18.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001921059608394,-1.9983811418531612,0.9981915992628569,1.9983815864306216,-0.9983832606462358,</dec>
-    <hex>0x3f80064c,0xbfffcaf4,0x3f7f897c,0x3fffcaf8,0xbf7f960c,</hex>
+    <dec>1.0000681430434126,-1.9996682518712858,0.9996014965115756,1.9996682518712858,-0.9996696395549884,</dec>
+    <hex>0x3f80023c,0xbffff521,0x3f7fe5e2,0x3ffff521,0xbf7fea59,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>12.0</freq>
-    <q>2.0</q>
-    <boost>1.5</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>5.7</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000339443986712,-1.9996392347455338,0.999605907086027,1.9996392347455338,-0.9996398514846982,</dec>
-    <hex>0x3f80011d,0xbffff42e,0x3f7fe62c,0x3ffff42e,0xbf7fe866,</hex>
+    <dec>1.0001348482457568,-1.999305455171127,0.9991712014454414,1.9993055982126444,-0.9993059066496807,</dec>
+    <hex>0x3f80046b,0xbfffe93e,0x3f7fc9af,0x3fffe93f,0xbf7fd283,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>12.0</freq>
-    <q>1.0</q>
-    <boost>3.0</boost>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>5.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000679300851776,-1.999279206789468,0.9992120095682094,1.999279313807467,-0.9992798326353887,</dec>
-    <hex>0x3f80023a,0xbfffe862,0x3f7fcc5c,0x3fffe862,0xbf7fd0ce,</hex>
+    <dec>1.0001348482457568,-1.999305455171127,0.9991712014454414,1.9993055982126444,-0.9993059066496807,</dec>
+    <hex>0x3f80046b,0xbfffe93e,0x3f7fc9af,0x3fffe93f,0xbf7fd283,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>12.0</freq>
-    <q>1.0</q>
-    <boost>3.0</boost>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>5.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000679300851776,-1.999279206789468,0.9992120095682094,1.999279313807467,-0.9992798326353887,</dec>
-    <hex>0x3f80023a,0xbfffe862,0x3f7fcc5c,0x3fffe862,0xbf7fd0ce,</hex>
+    <dec>1.0001348482457568,-1.999305455171127,0.9991712014454414,1.9993055982126444,-0.9993059066496807,</dec>
+    <hex>0x3f80046b,0xbfffe93e,0x3f7fc9af,0x3fffe93f,0xbf7fd283,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>12.0</freq>
-    <q>1.0</q>
-    <boost>3.0</boost>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>5.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000679300851776,-1.999279206789468,0.9992120095682094,1.999279313807467,-0.9992798326353887,</dec>
-    <hex>0x3f80023a,0xbfffe862,0x3f7fcc5c,0x3fffe862,0xbf7fd0ce,</hex>
+    <dec>1.0001348482457568,-1.999305455171127,0.9991712014454414,1.9993055982126444,-0.9993059066496807,</dec>
+    <hex>0x3f80046b,0xbfffe93e,0x3f7fc9af,0x3fffe93f,0xbf7fd283,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>3.7</boost>
-    <type>SL</type>
+    <freq>12.0</freq>
+    <q>2.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001921059608394,-1.9983811418531612,0.9981915992628569,1.9983815864306216,-0.9983832606462358,</dec>
-    <hex>0x3f80064c,0xbfffcaf4,0x3f7f897c,0x3fffcaf8,0xbf7f960c,</hex>
+    <dec>1.0000912092074867,-1.9996874999528547,0.9995969074994188,1.9996874999528547,-0.9996881167069054,</dec>
+    <hex>0x3f8002fd,0xbffff5c3,0x3f7fe595,0x3ffff5c3,0xbf7feb8f,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>3.7</boost>
-    <type>SL</type>
+    <freq>18.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001921059608394,-1.9983811418531612,0.9981915992628569,1.9983815864306216,-0.9983832606462358,</dec>
-    <hex>0x3f80064c,0xbfffcaf4,0x3f7f897c,0x3fffcaf8,0xbf7f960c,</hex>
+    <dec>1.0000681430434126,-1.9996682518712858,0.9996014965115756,1.9996682518712858,-0.9996696395549884,</dec>
+    <hex>0x3f80023c,0xbffff521,0x3f7fe5e2,0x3ffff521,0xbf7fea59,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,36 +1415,35 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Pokemon the Movie: Mewtwo Strikes Back - Evolution</beq_title>
-    <beq_alt_title>Pokemon the Movie Mewtwo Strikes Back - Evolution</beq_alt_title>
-    <beq_sortTitle>pokemon the movie mewtwo strikes back - evolution</beq_sortTitle>
-    <beq_year>2019</beq_year>
+    <beq_title>Legend of The Naga Pearls</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>legend of the naga pearls</beq_sortTitle>
+    <beq_year>2017</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pokemon%20the%20Movie%20Mewtwo%20Strikes%20Back%20-%20Evolution%20%282019%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Legend%20of%20The%20Naga%20Pearls%20%282017%29%28Ma%29%20TrueHD%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>After accepting an invitation from a mysterious trainer, Ash, Misty and Brock meet Mewtwo, an artificially created Pokémon who wants to do battle.</beq_overview>
-    <beq_rating>PG</beq_rating>
+    <beq_language>Mandarin</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>After being defeated by humans centuries ago, the Winged Tribe has lost their ability to fly. Seeking vengeance, a royal descendant of the tribe has begun searching for the magical Naga Pearls, which he plans to use to destroy the humans. When the legendary pearls fall into - and out of - the hands of Heiyu, a wily human street punk, he must join a team of unlikely heroes as they race to prevent the destruction of their people in this magical fantasy adventure.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>571891</beq_theMovieDB>
-    <beq_poster>/xlO50h3EX1w99KGztTzsjQBwPfs.jpg</beq_poster>
-    <beq_runtime>98</beq_runtime>
+    <beq_theMovieDB>466438</beq_theMovieDB>
+    <beq_poster>/xX7Plx8yT2hL7jjvQGUYiBfUAww.jpg</beq_poster>
+    <beq_runtime>108</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="16">Animation</genre>
+      <genre id="10749">Romance</genre>
       <genre id="12">Adventure</genre>
       <genre id="14">Fantasy</genre>
-      <genre id="28">Action</genre>
-      <genre id="10751">Family</genre>
+      <genre id="35">Comedy</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>TrueHD 7.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
