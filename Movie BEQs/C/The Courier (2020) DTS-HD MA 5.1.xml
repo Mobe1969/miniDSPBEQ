@@ -803,57 +803,57 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>10.0</freq>
-    <q>3.0</q>
-    <boost>3.0</boost>
+    <q>2.6</q>
+    <boost>4.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000378600318292,-1.9998160245863494,0.9997785928834387,1.9998160245863494,-0.9998164529152679,</dec>
-    <hex>0x3f80013e,0xbffff9f9,0x3f7ff17d,0x3ffff9f9,0xbf7ff3f9,</hex>
+    <dec>1.0000659337047617,-1.9998053073408106,0.999739801962672,1.9998053073408106,-0.9998057356674338,</dec>
+    <hex>0x3f800229,0xbffff99f,0x3f7feef3,0x3ffff99f,0xbf7ff345,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>3.5</boost>
-    <type>SL</type>
+    <freq>19.0</freq>
+    <q>6.0</q>
+    <boost>1.5</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001899461398445,-1.9982977752560804,0.9981105986305676,1.9982982345192173,-0.9983000855072757,</dec>
-    <hex>0x3f800639,0xbfffc839,0x3f7f842d,0x3fffc83d,0xbf7f9098,</hex>
+    <dec>1.0000179166200645,-1.9998083592194806,0.9997919888616051,1.9998083592194806,-0.9998099054816695,</dec>
+    <hex>0x3f800096,0xbffff9b8,0x3f7ff25e,0x3ffff9b8,0xbf7ff38b,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>23.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.5</boost>
+    <boost>3.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001899461398445,-1.9982977752560804,0.9981105986305676,1.9982982345192173,-0.9983000855072757,</dec>
-    <hex>0x3f800639,0xbfffc839,0x3f7f842d,0x3fffc83d,0xbf7f9098,</hex>
+    <dec>1.0001793751484926,-1.9985325969728787,0.9983553527037227,1.9985329745069194,-0.9985343503181746,</dec>
+    <hex>0x3f8005e1,0xbfffcfeb,0x3f7f9437,0x3fffcfee,0xbf7f9ff2,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>23.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.5</boost>
+    <boost>3.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001899461398445,-1.9982977752560804,0.9981105986305676,1.9982982345192173,-0.9983000855072757,</dec>
-    <hex>0x3f800639,0xbfffc839,0x3f7f842d,0x3fffc83d,0xbf7f9098,</hex>
+    <dec>1.0001793751484926,-1.9985325969728787,0.9983553527037227,1.9985329745069194,-0.9985343503181746,</dec>
+    <hex>0x3f8005e1,0xbfffcfeb,0x3f7f9437,0x3fffcfee,0xbf7f9ff2,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>3.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001899461398445,-1.9982977752560804,0.9981105986305676,1.9982982345192173,-0.9983000855072757,</dec>
-    <hex>0x3f800639,0xbfffc839,0x3f7f842d,0x3fffc83d,0xbf7f9098,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -893,57 +893,57 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>2.0</boost>
+    <q>1.0</q>
+    <boost>3.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000047127475473,-1.9992275091572376,0.9991808621332909,1.9992275585648944,-0.9992279402011073,</dec>
-    <hex>0x3f80018b,0xbfffe6b0,0x3f7fca51,0x3fffe6b0,0xbf7fcd67,</hex>
+    <dec>1.000056604370915,-1.9993993898549158,0.9993432944478269,1.9993994641774315,-0.9993998244962264,</dec>
+    <hex>0x3f8001db,0xbfffec52,0x3f7fd4f6,0x3fffec52,0xbf7fd8ab,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>10.0</freq>
-    <q>3.0</q>
-    <boost>3.0</boost>
+    <q>2.6</q>
+    <boost>4.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000378600318292,-1.9998160245863494,0.9997785928834387,1.9998160245863494,-0.9998164529152679,</dec>
-    <hex>0x3f80013e,0xbffff9f9,0x3f7ff17d,0x3ffff9f9,0xbf7ff3f9,</hex>
+    <dec>1.0000659337047617,-1.9998053073408106,0.999739801962672,1.9998053073408106,-0.9998057356674338,</dec>
+    <hex>0x3f800229,0xbffff99f,0x3f7feef3,0x3ffff99f,0xbf7ff345,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>3.5</boost>
-    <type>SL</type>
+    <freq>19.0</freq>
+    <q>6.0</q>
+    <boost>1.5</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001899461398445,-1.9982977752560804,0.9981105986305676,1.9982982345192173,-0.9983000855072757,</dec>
-    <hex>0x3f800639,0xbfffc839,0x3f7f842d,0x3fffc83d,0xbf7f9098,</hex>
+    <dec>1.0000179166200645,-1.9998083592194806,0.9997919888616051,1.9998083592194806,-0.9998099054816695,</dec>
+    <hex>0x3f800096,0xbffff9b8,0x3f7ff25e,0x3ffff9b8,0xbf7ff38b,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>23.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.5</boost>
+    <boost>3.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001899461398445,-1.9982977752560804,0.9981105986305676,1.9982982345192173,-0.9983000855072757,</dec>
-    <hex>0x3f800639,0xbfffc839,0x3f7f842d,0x3fffc83d,0xbf7f9098,</hex>
+    <dec>1.0001793751484926,-1.9985325969728787,0.9983553527037227,1.9985329745069194,-0.9985343503181746,</dec>
+    <hex>0x3f8005e1,0xbfffcfeb,0x3f7f9437,0x3fffcfee,0xbf7f9ff2,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>23.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.5</boost>
+    <boost>3.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001899461398445,-1.9982977752560804,0.9981105986305676,1.9982982345192173,-0.9983000855072757,</dec>
-    <hex>0x3f800639,0xbfffc839,0x3f7f842d,0x3fffc83d,0xbf7f9098,</hex>
+    <dec>1.0001793751484926,-1.9985325969728787,0.9983553527037227,1.9985329745069194,-0.9985343503181746,</dec>
+    <hex>0x3f8005e1,0xbfffcfeb,0x3f7f9437,0x3fffcfee,0xbf7f9ff2,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>23.0</freq>
-    <q>0.8</q>
-    <boost>3.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001899461398445,-1.9982977752560804,0.9981105986305676,1.9982982345192173,-0.9983000855072757,</dec>
-    <hex>0x3f800639,0xbfffc839,0x3f7f842d,0x3fffc83d,0xbf7f9098,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,35 +1415,35 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Other Guys</beq_title>
+    <beq_title>The Courier</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>the other guys</beq_sortTitle>
-    <beq_year>2010</beq_year>
+    <beq_sortTitle>the courier</beq_sortTitle>
+    <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/The%20Other%20Guys%20%282010%29%28TC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition>Theatrical Cut</beq_edition>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Courier%20%282020%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Unlike their heroic counterparts on the force, desk-bound NYPD detectives Gamble and Hoitz garner no headlines as they work day to day. When a seemingly minor case turns out to be a big deal, the two cops get the opportunity to finally prove to their comrades that they have the right stuff.</beq_overview>
+    <beq_overview>Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.</beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>27581</beq_theMovieDB>
-    <beq_poster>/wNEHNqo3MgHmj3BUiPSqqq5czcm.jpg</beq_poster>
-    <beq_runtime>107</beq_runtime>
+    <beq_theMovieDB>522241</beq_theMovieDB>
+    <beq_poster>/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg</beq_poster>
+    <beq_runtime>112</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="35">Comedy</genre>
+      <genre id="53">Thriller</genre>
+      <genre id="36">History</genre>
+      <genre id="18">Drama</genre>
       <genre id="28">Action</genre>
-      <genre id="80">Crime</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
-      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
