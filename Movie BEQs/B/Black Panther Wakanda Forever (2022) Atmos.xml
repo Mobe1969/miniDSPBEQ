@@ -1443,6 +1443,7 @@
     <beq_collection id="529892">Black Panther Collection</beq_collection>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>DTS-HD MA 7.1</audioType>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
