@@ -803,48 +803,48 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>0.9</q>
-    <boost>2.9</boost>
+    <q>0.8</q>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000607862521462,-1.999330804917944,0.99927052469085,1.9993308767372167,-0.9993312391237235,</dec>
-    <hex>0x3f8001fe,0xbfffea12,0x3f7fd031,0x3fffea13,0xbf7fd42c,</hex>
+    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
+    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>22.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000124468674158,-1.9983195815217114,0.9981974913192582,1.9983198686299144,-0.9983216728852125,</dec>
-    <hex>0x3f800414,0xbfffc8f0,0x3f7f89df,0x3fffc8f2,0xbf7f9202,</hex>
+    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
+    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>2.4</boost>
-    <type>SL</type>
+    <freq>15.0</freq>
+    <q>2.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000124468674158,-1.9983195815217114,0.9981974913192582,1.9983198686299144,-0.9983216728852125,</dec>
-    <hex>0x3f800414,0xbfffc8f0,0x3f7f89df,0x3fffc8f2,0xbf7f9202,</hex>
+    <dec>1.0001140070581542,-1.999609197463594,0.9994961540460481,1.999609197463594,-0.9996101611042023,</dec>
+    <hex>0x3f8003bc,0xbffff332,0x3f7fdefb,0x3ffff332,0xbf7fe674,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>22.0</freq>
+    <freq>36.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000124468674158,-1.9983195815217114,0.9981974913192582,1.9983198686299144,-0.9983216728852125,</dec>
-    <hex>0x3f800414,0xbfffc8f0,0x3f7f89df,0x3fffc8f2,0xbf7f9202,</hex>
+    <dec>1.0003400315390643,-1.9973727996513753,0.9970397480664402,1.997374087601779,-0.9973784916551007,</dec>
+    <hex>0x3f800b24,0xbfffa9e9,0x3f7f3dff,0x3fffa9f4,0xbf7f5432,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>37.0</freq>
+    <q>4.0</q>
+    <boost>2.6</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000909255652066,-1.99947301833579,0.9993879556009995,1.99947301833579,-0.9994788811662062,</dec>
+    <hex>0x3f8002fb,0xbfffeebb,0x3f7fd7e4,0x3fffeebb,0xbf7fddd9,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -893,48 +893,48 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>0.9</q>
-    <boost>2.9</boost>
+    <q>0.8</q>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000607862521462,-1.999330804917944,0.99927052469085,1.9993308767372167,-0.9993312391237235,</dec>
-    <hex>0x3f8001fe,0xbfffea12,0x3f7fd031,0x3fffea13,0xbf7fd42c,</hex>
+    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
+    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>22.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000124468674158,-1.9983195815217114,0.9981974913192582,1.9983198686299144,-0.9983216728852125,</dec>
-    <hex>0x3f800414,0xbfffc8f0,0x3f7f89df,0x3fffc8f2,0xbf7f9202,</hex>
+    <dec>1.000094413445427,-1.9992706731883796,0.9991767988300778,1.9992707726614516,-0.9992711128024325,</dec>
+    <hex>0x3f800318,0xbfffe81a,0x3f7fca0d,0x3fffe81b,0xbf7fd03b,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>2.4</boost>
-    <type>SL</type>
+    <freq>15.0</freq>
+    <q>2.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000124468674158,-1.9983195815217114,0.9981974913192582,1.9983198686299144,-0.9983216728852125,</dec>
-    <hex>0x3f800414,0xbfffc8f0,0x3f7f89df,0x3fffc8f2,0xbf7f9202,</hex>
+    <dec>1.0001140070581542,-1.999609197463594,0.9994961540460481,1.999609197463594,-0.9996101611042023,</dec>
+    <hex>0x3f8003bc,0xbffff332,0x3f7fdefb,0x3ffff332,0xbf7fe674,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>22.0</freq>
+    <freq>36.0</freq>
     <q>0.8</q>
-    <boost>2.4</boost>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000124468674158,-1.9983195815217114,0.9981974913192582,1.9983198686299144,-0.9983216728852125,</dec>
-    <hex>0x3f800414,0xbfffc8f0,0x3f7f89df,0x3fffc8f2,0xbf7f9202,</hex>
+    <dec>1.0003400315390643,-1.9973727996513753,0.9970397480664402,1.997374087601779,-0.9973784916551007,</dec>
+    <hex>0x3f800b24,0xbfffa9e9,0x3f7f3dff,0x3fffa9f4,0xbf7f5432,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>37.0</freq>
+    <q>4.0</q>
+    <boost>2.6</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000909255652066,-1.99947301833579,0.9993879556009995,1.99947301833579,-0.9994788811662062,</dec>
+    <hex>0x3f8002fb,0xbfffeebb,0x3f7fd7e4,0x3fffeebb,0xbf7fddd9,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Resident Evil: Retribution</beq_title>
-    <beq_alt_title>Resident Evil Retribution</beq_alt_title>
-    <beq_sortTitle>resident evil retribution</beq_sortTitle>
-    <beq_year>2012</beq_year>
+    <beq_title>Resident Evil: Vendetta</beq_title>
+    <beq_alt_title>Resident Evil Vendetta</beq_alt_title>
+    <beq_sortTitle>resident evil vendetta</beq_sortTitle>
+    <beq_year>2017</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Resident%20Evil%20Retribution%20%282012%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Resident%20Evil%20Vendetta%20%282017%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,21 +1428,25 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>The Umbrella Corporation’s deadly T-virus continues to ravage the Earth, transforming the global population into legions of the flesh eating Undead. The human race’s last and only hope, Alice, awakens in the heart of Umbrella’s most clandestine operations facility and unveils more of her mysterious past as she delves further into the complex. Without a safe haven, Alice continues to hunt those responsible for the outbreak; a chase that takes her from Tokyo to New York, Washington, D.C. and Moscow, culminating in a mind-blowing revelation that will force her to rethink everything that she once thought to be true. Aided by new found allies and familiar friends, Alice must fight to survive long enough to escape a hostile world on the brink of oblivion. The countdown has begun.</beq_overview>
+    <beq_overview>BSAA Chris Redfield enlists the help of government agent Leon S. Kennedy and Professor Rebecca Chambers from Alexander Institute of Biotechnology to stop a death merchant with a vengeance from spreading a deadly virus in New York.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>71679</beq_theMovieDB>
-    <beq_poster>/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg</beq_poster>
-    <beq_runtime>95</beq_runtime>
+    <beq_theMovieDB>400136</beq_theMovieDB>
+    <beq_poster>/r27iDZNaoyLJyKlD8eNchRtvq8C.jpg</beq_poster>
+    <beq_runtime>97</beq_runtime>
     <beq_genres>
-      <genre id="28">Action</genre>
+      <genre id="16">Animation</genre>
       <genre id="27">Horror</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="9648">Mystery</genre>
+      <genre id="28">Action</genre>
       <genre id="878">Science Fiction</genre>
     </beq_genres>
-    <beq_collection id="17255">Resident Evil Collection</beq_collection>
+    <beq_collection id="133352">Resident Evil Biohazard Collection</beq_collection>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

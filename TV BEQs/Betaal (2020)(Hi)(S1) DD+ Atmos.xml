@@ -1420,12 +1420,12 @@
     <beq_sortTitle>betaal</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Betaal%20%282020%29%28Hi%29%28S1-E1-4%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Betaal%20%282020%29%28Hi%29%28S1%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="151434">
-        <number>1</number>
-        <poster>/hcQGjNtfsf31KWvfLnTwuquScGQ.jpg</poster>
-        <episodes count="4">1,2,3,4</episodes>
+      <number>1</number>
+      <poster>/hcQGjNtfsf31KWvfLnTwuquScGQ.jpg</poster>
+      <episodes count="4">1,2,3,4</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
@@ -1444,6 +1444,7 @@
       <genre id="10759">Action &amp; Adventure</genre>
     </beq_genres>
     <beq_audioTypes>
+      <audioType>DD+ Atmos</audioType>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
