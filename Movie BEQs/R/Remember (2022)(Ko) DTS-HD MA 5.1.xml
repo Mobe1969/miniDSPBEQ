@@ -1415,8 +1415,8 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>A Wedding to Remember</beq_title>
-    <beq_alt_title>Remember</beq_alt_title>
+    <beq_title>Remember</beq_title>
+    <beq_alt_title />
     <beq_sortTitle>remember</beq_sortTitle>
     <beq_year>2022</beq_year>
     <beq_spectrumURL />
@@ -1428,21 +1428,19 @@
     <beq_gain />
     <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>On opposite sides of a development project, Olivia and Brian are surprised to find they are the Maid of Honor and Best Man at the same wedding. They have to put their feelings aside to save their best friends’ wedding… which may turn out to be their own as well!</beq_overview>
+    <beq_overview>Pil-ju, a retired soldier in his 80s, has dementia and sets off in search of the people he believes responsible for the death of his family. With 5 names tattooed on his fingers and pieces of collapsing memories, Pil-ju tracks down his targets and kills them one by one. In-gyu, a young innocent man, becomes the prime suspect of a murder Pil-ju committed and tries to prove his innocence, and hopefully stop the old man's revenge journey.</beq_overview>
     <beq_rating>G</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>779011</beq_theMovieDB>
-    <beq_poster>/4K2X7yc1bQVmgAxL7cj0xYd2bvV.jpg</beq_poster>
-    <beq_runtime>85</beq_runtime>
+    <beq_theMovieDB>633374</beq_theMovieDB>
+    <beq_poster>/1cojtgA2CAj89kPlBXxN7XSTH5R.jpg</beq_poster>
+    <beq_runtime>128</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="10770">TV Movie</genre>
-      <genre id="10749">Romance</genre>
-      <genre id="35">Comedy</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="53">Thriller</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
