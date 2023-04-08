@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>15.0</freq>
-    <q>1.0</q>
-    <boost>3.0</boost>
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>1.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000849216795678,-1.9990988940680414,0.9990151173852558,1.9990990612686097,-0.9990998718642549,</dec>
-    <hex>0x3f8002c8,0xbfffe279,0x3f7fbf74,0x3fffe27a,0xbf7fc502,</hex>
+    <dec>1.0000494742130486,-1.998902784326319,0.9988542249322776,1.9989028568736886,-0.9989036265979568,</dec>
+    <hex>0x3f80019f,0xbfffdc0c,0x3f7fb4e9,0x3fffdc0c,0xbf7fb826,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>1.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0000494742130486,-1.998902784326319,0.9988542249322776,1.9989028568736886,-0.9989036265979568,</dec>
+    <hex>0x3f80019f,0xbfffdc0c,0x3f7fb4e9,0x3fffdc0c,0xbf7fb826,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>1.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0000494742130486,-1.998902784326319,0.9988542249322776,1.9989028568736886,-0.9989036265979568,</dec>
+    <hex>0x3f80019f,0xbfffdc0c,0x3f7fb4e9,0x3fffdc0c,0xbf7fb826,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>15.0</freq>
-    <q>1.0</q>
-    <boost>3.0</boost>
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>1.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000849216795678,-1.9990988940680414,0.9990151173852558,1.9990990612686097,-0.9990998718642549,</dec>
-    <hex>0x3f8002c8,0xbfffe279,0x3f7fbf74,0x3fffe27a,0xbf7fc502,</hex>
+    <dec>1.0000494742130486,-1.998902784326319,0.9988542249322776,1.9989028568736886,-0.9989036265979568,</dec>
+    <hex>0x3f80019f,0xbfffdc0c,0x3f7fb4e9,0x3fffdc0c,0xbf7fb826,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>1.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0000494742130486,-1.998902784326319,0.9988542249322776,1.9989028568736886,-0.9989036265979568,</dec>
+    <hex>0x3f80019f,0xbfffdc0c,0x3f7fb4e9,0x3fffdc0c,0xbf7fb826,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
+    <freq>14.0</freq>
     <q>0.8</q>
-    <boost>4.0</boost>
+    <boost>1.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001888575080766,-1.998540999088016,0.9983542971427717,1.9985413968353318,-0.9985427569035322,</dec>
-    <hex>0x3f800630,0xbfffd031,0x3f7f9426,0x3fffd034,0xbf7fa080,</hex>
+    <dec>1.0000494742130486,-1.998902784326319,0.9988542249322776,1.9989028568736886,-0.9989036265979568,</dec>
+    <hex>0x3f80019f,0xbfffdc0c,0x3f7fb4e9,0x3fffdc0c,0xbf7fb826,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>1000</freq>
@@ -1415,33 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Protégé</beq_title>
-    <beq_alt_title>The Protege</beq_alt_title>
-    <beq_sortTitle>the protege</beq_sortTitle>
-    <beq_year>2021</beq_year>
+    <beq_title>Thunivu</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>thunivu</beq_sortTitle>
+    <beq_year>2023</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Protege%20%282021%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Thunivu%20%282023%29%28Ta%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>Rescued as a child by the legendary assassin Moody and trained in the family business, Anna is the world’s most skilled contract killer. When Moody, the man who was like a father to her and taught her everything she needs to know about trust and survival, is brutally killed, Anna vows revenge. As she becomes entangled with an enigmatic killer whose attraction to her goes way beyond cat and mouse, their confrontation turns deadly and the loose ends of a life spent killing will weave themselves ever tighter.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_language>Tamil</beq_language>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>A gang goes to rob a bank only to find that there's already a criminal mastermind holding it for ransom, but his identities and motives behind the heist remains mysterious. As they plan to collect the bounty and disappear without a trace, their crimes and their past slowly catches up with them.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>645788</beq_theMovieDB>
-    <beq_poster>/iQUj7MptHUlcXpaMLrqRNZRxGA9.jpg</beq_poster>
-    <beq_runtime>109</beq_runtime>
+    <beq_theMovieDB>904557</beq_theMovieDB>
+    <beq_poster>/tRIPlUeOz7cxTnyWIyvRej0FTxI.jpg</beq_poster>
+    <beq_runtime>146</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="28">Action</genre>
+      <genre id="80">Crime</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
