@@ -1420,8 +1420,8 @@
     <beq_sortTitle>friday</beq_sortTitle>
     <beq_year>1995</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Friday%20%281995%29%20TrueHD%207.1.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Friday%20%281995%29%28DC%29%20TrueHD%207.1.jpg</beq_pvaURL>
+    <beq_edition>Director's Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>10634</beq_theMovieDB>
     <beq_poster>/eqD0jCDIEJ65CmyG63Jaay6bHDp.jpg</beq_poster>
-    <beq_runtime>91</beq_runtime>
+    <beq_runtime>96</beq_runtime>
     <beq_genres>
       <genre id="35">Comedy</genre>
     </beq_genres>
