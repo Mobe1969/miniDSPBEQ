@@ -1418,14 +1418,14 @@
     <beq_title>Dragon's Dogma</beq_title>
     <beq_alt_title />
     <beq_sortTitle>dragon's dogma</beq_sortTitle>
-    <beq_year>202)</beq_year>
+    <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Dragon%27s%20Dogma%20%28202%29%28S1%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Dragon%27s%20Dogma%20%282020%29%28S1%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="143978">
-        <number>1</number>
-        <poster>/h74S7GZigNGo8QaTVPcObHc4sY6.jpg</poster>
-        <episodes count="7">1,2,3,4,5,6,7</episodes>
+      <number>1</number>
+      <poster>/h74S7GZigNGo8QaTVPcObHc4sY6.jpg</poster>
+      <episodes count="7">1,2,3,4,5,6,7</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
