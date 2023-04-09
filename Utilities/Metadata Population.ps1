@@ -341,6 +341,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(Uncut)") -ge 0) {
         $edition = "Unrated Cut"
     }
+    elseif ($fileName.IndexOf("(UE)") -ge 0) {
+        $edition = "Ultimate Edition"
+    }
     elseif ($fileName.IndexOf("(ULT)") -ge 0) {
         $edition = "Ultimate Cut"
     }
