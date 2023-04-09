@@ -2,7 +2,7 @@
     Clear-Content -Path "D:\BEQ\Errors.txt"
 }
 
-$id = "91290"
+$id = "1399"
 $url = "https://api.themoviedb.org/3/tv/" + $id + "?api_key=ac56a60e0c35557f7b8065bc996d77fc&language=en-US&append_to_response=release_dates"
 $result = Invoke-RestMethod -Uri $url
 $x = '    <beq_season id="' + $result.seasons[0].id + '">
@@ -40,7 +40,6 @@ $x = '    <beq_season id="' + $result.seasons[3].id + '">
 $x
 Add-Content -Path "D:\BEQ\Errors.txt" -Value $x
 
-
 $x = '    <beq_season id="' + $result.seasons[4].id + '">
         <number>5</number>
         <poster>' + $result.seasons[4].poster_path + '</poster>
@@ -56,6 +55,34 @@ $x = '    <beq_season id="' + $result.seasons[5].id + '">
     </beq_season>'
 $x
 Add-Content -Path "D:\BEQ\Errors.txt" -Value $x
+
+$x = '    <beq_season id="' + $result.seasons[6].id + '">
+        <number>7</number>
+        <poster>' + $result.seasons[6].poster_path + '</poster>
+        <episodes count="' + $result.seasons[6].episode_count + '">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</episodes>
+    </beq_season>'
+$x
+Add-Content -Path "D:\BEQ\Errors.txt" -Value $x
+
+$x = '    <beq_season id="' + $result.seasons[7].id + '">
+        <number>8</number>
+        <poster>' + $result.seasons[7].poster_path + '</poster>
+        <episodes count="' + $result.seasons[7].episode_count + '">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</episodes>
+    </beq_season>'
+$x
+Add-Content -Path "D:\BEQ\Errors.txt" -Value $x
+
+
+$x = '    <beq_season id="' + $result.seasons[8].id + '">
+        <number>9</number>
+        <poster>' + $result.seasons[9].poster_path + '</poster>
+        <episodes count="' + $result.seasons[9].episode_count + '">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</episodes>
+    </beq_season>'
+$x
+Add-Content -Path "D:\BEQ\Errors.txt" -Value $x
+
+
+
 
 
 
