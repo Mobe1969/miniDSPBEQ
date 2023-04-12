@@ -803,57 +803,57 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>4.2</boost>
+    <q>1.0</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001133087127778,-1.9991713678694436,0.9990586044590402,1.9991714724052716,-0.9991718086359902,</dec>
-    <hex>0x3f8003b7,0xbfffe4d9,0x3f7fc24e,0x3fffe4da,0xbf7fc9b9,</hex>
+    <dec>1.0000945510618162,-1.9994329421627937,0.9993389621773746,1.9994330671310634,-0.9994333882709213,</dec>
+    <hex>0x3f800319,0xbfffed6b,0x3f7fd4ae,0x3fffed6c,0xbf7fdade,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>14.0</freq>
-    <q>3.0</q>
-    <boost>1.6</boost>
+    <freq>15.0</freq>
+    <q>4.0</q>
+    <boost>3.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000281672469153,-1.9997206414867132,0.9996933137245798,1.9997206414867132,-0.9997214809714953,</dec>
-    <hex>0x3f8000ec,0xbffff6d9,0x3f7febe7,0x3ffff6d9,0xbf7fedbf,</hex>
+    <dec>1.0000497799247334,-1.9997984060872773,0.9997495898943349,1.9997984060872773,-0.9997993698190685,</dec>
+    <hex>0x3f8001a2,0xbffff965,0x3f7fef97,0x3ffff965,0xbf7ff2da,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>15.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.2</boost>
+    <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132136590263,-1.998880440730965,0.9987683852005932,1.9988806191806565,-0.9988814204099277,</dec>
-    <hex>0x3f8003b6,0xbfffdb50,0x3f7faf49,0x3fffdb52,0xbf7fb6b1,</hex>
+    <dec>1.0001650717141368,-1.9981121271936544,0.9979501980692215,1.9981125601860115,-0.9981148367910008,</dec>
+    <hex>0x3f800569,0xbfffc223,0x3f7f79aa,0x3fffc227,0xbf7f8474,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>15.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.2</boost>
+    <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132136590263,-1.998880440730965,0.9987683852005932,1.9988806191806565,-0.9988814204099277,</dec>
-    <hex>0x3f8003b6,0xbfffdb50,0x3f7faf49,0x3fffdb52,0xbf7fb6b1,</hex>
+    <dec>1.0001650717141368,-1.9981121271936544,0.9979501980692215,1.9981125601860115,-0.9981148367910008,</dec>
+    <hex>0x3f800569,0xbfffc223,0x3f7f79aa,0x3fffc227,0xbf7f8474,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>15.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.2</boost>
+    <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132136590263,-1.998880440730965,0.9987683852005932,1.9988806191806565,-0.9988814204099277,</dec>
-    <hex>0x3f8003b6,0xbfffdb50,0x3f7faf49,0x3fffdb52,0xbf7fb6b1,</hex>
+    <dec>1.0001650717141368,-1.9981121271936544,0.9979501980692215,1.9981125601860115,-0.9981148367910008,</dec>
+    <hex>0x3f800569,0xbfffc223,0x3f7f79aa,0x3fffc227,0xbf7f8474,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>15.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.2</boost>
+    <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132136590263,-1.998880440730965,0.9987683852005932,1.9988806191806565,-0.9988814204099277,</dec>
-    <hex>0x3f8003b6,0xbfffdb50,0x3f7faf49,0x3fffdb52,0xbf7fb6b1,</hex>
+    <dec>1.0001650717141368,-1.9981121271936544,0.9979501980692215,1.9981125601860115,-0.9981148367910008,</dec>
+    <hex>0x3f800569,0xbfffc223,0x3f7f79aa,0x3fffc227,0xbf7f8474,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -893,57 +893,57 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>4.2</boost>
+    <q>1.0</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001133087127778,-1.9991713678694436,0.9990586044590402,1.9991714724052716,-0.9991718086359902,</dec>
-    <hex>0x3f8003b7,0xbfffe4d9,0x3f7fc24e,0x3fffe4da,0xbf7fc9b9,</hex>
+    <dec>1.0000945510618162,-1.9994329421627937,0.9993389621773746,1.9994330671310634,-0.9994333882709213,</dec>
+    <hex>0x3f800319,0xbfffed6b,0x3f7fd4ae,0x3fffed6c,0xbf7fdade,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>14.0</freq>
-    <q>3.0</q>
-    <boost>1.6</boost>
+    <freq>15.0</freq>
+    <q>4.0</q>
+    <boost>3.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000281672469153,-1.9997206414867132,0.9996933137245798,1.9997206414867132,-0.9997214809714953,</dec>
-    <hex>0x3f8000ec,0xbffff6d9,0x3f7febe7,0x3ffff6d9,0xbf7fedbf,</hex>
+    <dec>1.0000497799247334,-1.9997984060872773,0.9997495898943349,1.9997984060872773,-0.9997993698190685,</dec>
+    <hex>0x3f8001a2,0xbffff965,0x3f7fef97,0x3ffff965,0xbf7ff2da,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>15.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.2</boost>
+    <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132136590263,-1.998880440730965,0.9987683852005932,1.9988806191806565,-0.9988814204099277,</dec>
-    <hex>0x3f8003b6,0xbfffdb50,0x3f7faf49,0x3fffdb52,0xbf7fb6b1,</hex>
+    <dec>1.0001650717141368,-1.9981121271936544,0.9979501980692215,1.9981125601860115,-0.9981148367910008,</dec>
+    <hex>0x3f800569,0xbfffc223,0x3f7f79aa,0x3fffc227,0xbf7f8474,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>15.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.2</boost>
+    <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132136590263,-1.998880440730965,0.9987683852005932,1.9988806191806565,-0.9988814204099277,</dec>
-    <hex>0x3f8003b6,0xbfffdb50,0x3f7faf49,0x3fffdb52,0xbf7fb6b1,</hex>
+    <dec>1.0001650717141368,-1.9981121271936544,0.9979501980692215,1.9981125601860115,-0.9981148367910008,</dec>
+    <hex>0x3f800569,0xbfffc223,0x3f7f79aa,0x3fffc227,0xbf7f8474,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>15.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.2</boost>
+    <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132136590263,-1.998880440730965,0.9987683852005932,1.9988806191806565,-0.9988814204099277,</dec>
-    <hex>0x3f8003b6,0xbfffdb50,0x3f7faf49,0x3fffdb52,0xbf7fb6b1,</hex>
+    <dec>1.0001650717141368,-1.9981121271936544,0.9979501980692215,1.9981125601860115,-0.9981148367910008,</dec>
+    <hex>0x3f800569,0xbfffc223,0x3f7f79aa,0x3fffc227,0xbf7f8474,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>15.0</freq>
+    <freq>25.0</freq>
     <q>0.8</q>
-    <boost>3.2</boost>
+    <boost>2.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001132136590263,-1.998880440730965,0.9987683852005932,1.9988806191806565,-0.9988814204099277,</dec>
-    <hex>0x3f8003b6,0xbfffdb50,0x3f7faf49,0x3fffdb52,0xbf7fb6b1,</hex>
+    <dec>1.0001650717141368,-1.9981121271936544,0.9979501980692215,1.9981125601860115,-0.9981148367910008,</dec>
+    <hex>0x3f800569,0xbfffc223,0x3f7f79aa,0x3fffc227,0xbf7f8474,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,35 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Mortal Kombat</beq_title>
+    <beq_title>Terrifier 2</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>mortal kombat</beq_sortTitle>
-    <beq_year>2021</beq_year>
+    <beq_sortTitle>terrifier 2</beq_sortTitle>
+    <beq_year>2022</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mortal%20Kombat%20%282021%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Terrifier%202%20%282022%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note>NOTE: DD+ 8dB down</beq_note>
+    <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>After being resurrected by a sinister entity, Art the Clown returns to Miles County where he must hunt down and destroy a teenage girl and her younger brother on Halloween night.  As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>460465</beq_theMovieDB>
-    <beq_poster>/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg</beq_poster>
-    <beq_runtime>110</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>663712</beq_theMovieDB>
+    <beq_poster>/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg</beq_poster>
+    <beq_runtime>138</beq_runtime>
     <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="14">Fantasy</genre>
-      <genre id="12">Adventure</genre>
+      <genre id="27">Horror</genre>
     </beq_genres>
+    <beq_collection id="727761">Terrifier Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
-      <audioType>DD+ Atmos</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
