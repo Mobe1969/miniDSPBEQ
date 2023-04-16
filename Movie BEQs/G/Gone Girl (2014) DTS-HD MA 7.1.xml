@@ -1423,7 +1423,7 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gone%20Girl%20%282014%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note />
+    <beq_note>Note DD+ 4dB down</beq_note>
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
@@ -1443,6 +1443,7 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 7.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
