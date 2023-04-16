@@ -1420,7 +1420,7 @@
     <beq_sortTitle>kiki's delivery service</beq_sortTitle>
     <beq_year>1989</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kiki%27s%20Delivery%20Service%20%281989%29%20DD%20EX%206.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kiki%27s%20Delivery%20Service%20%281989%29%20DD-EX%206.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1445,6 +1445,9 @@
     <beq_audioTypes />
     <beq_audioTypes>
       <audioType>DD-EX 6.1</audioType>
+    </beq_audioTypes>
+    <beq_audioTypes>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
