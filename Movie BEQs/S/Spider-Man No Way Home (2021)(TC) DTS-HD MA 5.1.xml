@@ -1420,8 +1420,8 @@
     <beq_sortTitle>spider-man no way home</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spider-Man%20No%20Way%20Home%20%282021%29%20Atmos.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spider-Man%20No%20Way%20Home%20%282021%29%28TC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition>Theatrical Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
@@ -1433,7 +1433,7 @@
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>634649</beq_theMovieDB>
-    <beq_poster>/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg</beq_poster>
+    <beq_poster>/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg</beq_poster>
     <beq_runtime>148</beq_runtime>
     <beq_genres>
       <genre id="28">Action</genre>
@@ -1442,7 +1442,8 @@
     </beq_genres>
     <beq_collection id="531241">Spider-Man (Avengers) Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
