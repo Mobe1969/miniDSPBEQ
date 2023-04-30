@@ -1443,6 +1443,7 @@
     <beq_collection id="521226">A Quiet Place Collection</beq_collection>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>DD+ Atmos</audioType>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
