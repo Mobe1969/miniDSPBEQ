@@ -1437,6 +1437,7 @@
     <beq_runtime>116</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="35">Comedy</genre>
