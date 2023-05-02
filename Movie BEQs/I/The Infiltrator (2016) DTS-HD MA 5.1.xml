@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001401211799779,-1.998660297474703,0.998521853443361,1.9986605625382776,-0.9986617095597641,</dec>
-    <hex>0x3f800497,0xbfffd41a,0x3f7f9f21,0x3fffd41c,0xbf7fa84b,</hex>
+    <dec>1.0000802016976478,-1.9992579843223144,0.9991783034069501,1.999258068667438,-0.9992584207594741,</dec>
+    <hex>0x3f8002a1,0xbfffe7b0,0x3f7fca26,0x3fffe7b0,0xbf7fcf66,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001401211799779,-1.998660297474703,0.998521853443361,1.9986605625382776,-0.9986617095597641,</dec>
-    <hex>0x3f800497,0xbfffd41a,0x3f7f9f21,0x3fffd41c,0xbf7fa84b,</hex>
+    <dec>1.0000802016976478,-1.9992579843223144,0.9991783034069501,1.999258068667438,-0.9992584207594741,</dec>
+    <hex>0x3f8002a1,0xbfffe7b0,0x3f7fca26,0x3fffe7b0,0xbf7fcf66,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001401211799779,-1.998660297474703,0.998521853443361,1.9986605625382776,-0.9986617095597641,</dec>
-    <hex>0x3f800497,0xbfffd41a,0x3f7f9f21,0x3fffd41c,0xbf7fa84b,</hex>
+    <dec>1.0000802016976478,-1.9992579843223144,0.9991783034069501,1.999258068667438,-0.9992584207594741,</dec>
+    <hex>0x3f8002a1,0xbfffe7b0,0x3f7fca26,0x3fffe7b0,0xbf7fcf66,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
+    <freq>13.0</freq>
+    <q>2.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001401211799779,-1.998660297474703,0.998521853443361,1.9986605625382776,-0.9986617095597641,</dec>
-    <hex>0x3f800497,0xbfffd41a,0x3f7f9f21,0x3fffd41c,0xbf7fa84b,</hex>
+    <dec>1.0001241247010388,-1.9996803040933757,0.9995569032191711,1.9996803040933757,-0.9996810279202101,</dec>
+    <hex>0x3f800411,0xbffff586,0x3f7fe2f6,0x3ffff586,0xbf7feb19,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>17.0</freq>
+    <q>4.0</q>
+    <boost>1.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000016019021334,-1.9997361949884729,0.9997214137887166,1.9997361949884729,-0.9997374328100506,</dec>
+    <hex>0x3f800086,0xbffff75b,0x3f7fedbe,0x3ffff75b,0xbf7feecb,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001401211799779,-1.998660297474703,0.998521853443361,1.9986605625382776,-0.9986617095597641,</dec>
-    <hex>0x3f800497,0xbfffd41a,0x3f7f9f21,0x3fffd41c,0xbf7fa84b,</hex>
+    <dec>1.0000802016976478,-1.9992579843223144,0.9991783034069501,1.999258068667438,-0.9992584207594741,</dec>
+    <hex>0x3f8002a1,0xbfffe7b0,0x3f7fca26,0x3fffe7b0,0xbf7fcf66,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001401211799779,-1.998660297474703,0.998521853443361,1.9986605625382776,-0.9986617095597641,</dec>
-    <hex>0x3f800497,0xbfffd41a,0x3f7f9f21,0x3fffd41c,0xbf7fa84b,</hex>
+    <dec>1.0000802016976478,-1.9992579843223144,0.9991783034069501,1.999258068667438,-0.9992584207594741,</dec>
+    <hex>0x3f8002a1,0xbfffe7b0,0x3f7fca26,0x3fffe7b0,0xbf7fcf66,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>18.0</freq>
+    <freq>10.0</freq>
     <q>0.8</q>
-    <boost>3.3</boost>
+    <boost>3.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001401211799779,-1.998660297474703,0.998521853443361,1.9986605625382776,-0.9986617095597641,</dec>
-    <hex>0x3f800497,0xbfffd41a,0x3f7f9f21,0x3fffd41c,0xbf7fa84b,</hex>
+    <dec>1.0000802016976478,-1.9992579843223144,0.9991783034069501,1.999258068667438,-0.9992584207594741,</dec>
+    <hex>0x3f8002a1,0xbfffe7b0,0x3f7fca26,0x3fffe7b0,0xbf7fcf66,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
+    <freq>13.0</freq>
+    <q>2.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001401211799779,-1.998660297474703,0.998521853443361,1.9986605625382776,-0.9986617095597641,</dec>
-    <hex>0x3f800497,0xbfffd41a,0x3f7f9f21,0x3fffd41c,0xbf7fa84b,</hex>
+    <dec>1.0001241247010388,-1.9996803040933757,0.9995569032191711,1.9996803040933757,-0.9996810279202101,</dec>
+    <hex>0x3f800411,0xbffff586,0x3f7fe2f6,0x3ffff586,0xbf7feb19,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>17.0</freq>
+    <q>4.0</q>
+    <boost>1.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000016019021334,-1.9997361949884729,0.9997214137887166,1.9997361949884729,-0.9997374328100506,</dec>
+    <hex>0x3f800086,0xbffff75b,0x3f7fedbe,0x3ffff75b,0xbf7feecb,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,34 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Last Days of American Crime</beq_title>
+    <beq_title>The Infiltrator</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>the last days of american crime</beq_sortTitle>
-    <beq_year>2020</beq_year>
+    <beq_sortTitle>the infiltrator</beq_sortTitle>
+    <beq_year>2016</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Last%20Days%20of%20American%20Crime%20%282020%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Infiltrator%20%282016%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>In the not-too-distant future, as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_source>Disc</beq_source>
+    <beq_overview>A U.S Customs official uncovers a massive money laundering scheme involving Pablo Escobar.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>339095</beq_theMovieDB>
-    <beq_poster>/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg</beq_poster>
-    <beq_runtime>149</beq_runtime>
+    <beq_theMovieDB>325789</beq_theMovieDB>
+    <beq_poster>/758F57DxVRLe38S1Je4O1Bjx2u6.jpg</beq_poster>
+    <beq_runtime>127</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="28">Action</genre>
       <genre id="80">Crime</genre>
+      <genre id="18">Drama</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
