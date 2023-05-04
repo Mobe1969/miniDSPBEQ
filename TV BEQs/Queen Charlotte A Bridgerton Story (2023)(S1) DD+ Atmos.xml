@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001011908588158,-1.9990325404492906,0.9989322245621427,1.9990326787334671,-0.9990332771367818,</dec>
-    <hex>0x3f800351,0xbfffe04c,0x3f7fba06,0x3fffe04e,0xbf7fc0a5,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001011908588158,-1.9990325404492906,0.9989322245621427,1.9990326787334671,-0.9990332771367818,</dec>
-    <hex>0x3f800351,0xbfffe04c,0x3f7fba06,0x3fffe04e,0xbf7fc0a5,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001011908588158,-1.9990325404492906,0.9989322245621427,1.9990326787334671,-0.9990332771367818,</dec>
-    <hex>0x3f800351,0xbfffe04c,0x3f7fba06,0x3fffe04e,0xbf7fc0a5,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001011908588158,-1.9990325404492906,0.9989322245621427,1.9990326787334671,-0.9990332771367818,</dec>
-    <hex>0x3f800351,0xbfffe04c,0x3f7fba06,0x3fffe04e,0xbf7fc0a5,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>14.0</freq>
-    <q>2.7</q>
-    <boost>3.5</boost>
+    <freq>17.0</freq>
+    <q>2.0</q>
+    <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000688288597999,-1.9997217565879881,0.9996537672134383,1.9997217565879881,-0.9997225960732382,</dec>
-    <hex>0x3f800241,0xbffff6e2,0x3f7fe94f,0x3ffff6e2,0xbf7fedd2,</hex>
+    <dec>1.0000965293369393,-1.9995307838721041,0.9994354922295947,1.9995307838721041,-0.9995320215665341,</dec>
+    <hex>0x3f80032a,0xbffff0a0,0x3f7fdb01,0x3ffff0a0,0xbf7fe155,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002019588996216,-1.998633738486468,0.9984337818816521,1.9986341432882626,-0.9986353359794787,</dec>
+    <hex>0x3f80069e,0xbfffd33b,0x3f7f995b,0x3fffd33e,0xbf7fa691,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002019588996216,-1.998633738486468,0.9984337818816521,1.9986341432882626,-0.9986353359794787,</dec>
+    <hex>0x3f80069e,0xbfffd33b,0x3f7f995b,0x3fffd33e,0xbf7fa691,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002019588996216,-1.998633738486468,0.9984337818816521,1.9986341432882626,-0.9986353359794787,</dec>
+    <hex>0x3f80069e,0xbfffd33b,0x3f7f995b,0x3fffd33e,0xbf7fa691,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002019588996216,-1.998633738486468,0.9984337818816521,1.9986341432882626,-0.9986353359794787,</dec>
+    <hex>0x3f80069e,0xbfffd33b,0x3f7f995b,0x3fffd33e,0xbf7fa691,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001011908588158,-1.9990325404492906,0.9989322245621427,1.9990326787334671,-0.9990332771367818,</dec>
-    <hex>0x3f800351,0xbfffe04c,0x3f7fba06,0x3fffe04e,0xbf7fc0a5,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001011908588158,-1.9990325404492906,0.9989322245621427,1.9990326787334671,-0.9990332771367818,</dec>
-    <hex>0x3f800351,0xbfffe04c,0x3f7fba06,0x3fffe04e,0xbf7fc0a5,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001011908588158,-1.9990325404492906,0.9989322245621427,1.9990326787334671,-0.9990332771367818,</dec>
-    <hex>0x3f800351,0xbfffe04c,0x3f7fba06,0x3fffe04e,0xbf7fc0a5,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>13.0</freq>
-    <q>0.8</q>
-    <boost>3.3</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001011908588158,-1.9990325404492906,0.9989322245621427,1.9990326787334671,-0.9990332771367818,</dec>
-    <hex>0x3f800351,0xbfffe04c,0x3f7fba06,0x3fffe04e,0xbf7fc0a5,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>14.0</freq>
-    <q>2.7</q>
-    <boost>3.5</boost>
+    <freq>17.0</freq>
+    <q>2.0</q>
+    <boost>3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000688288597999,-1.9997217565879881,0.9996537672134383,1.9997217565879881,-0.9997225960732382,</dec>
-    <hex>0x3f800241,0xbffff6e2,0x3f7fe94f,0x3ffff6e2,0xbf7fedd2,</hex>
+    <dec>1.0000965293369393,-1.9995307838721041,0.9994354922295947,1.9995307838721041,-0.9995320215665341,</dec>
+    <hex>0x3f80032a,0xbffff0a0,0x3f7fdb01,0x3ffff0a0,0xbf7fe155,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002019588996216,-1.998633738486468,0.9984337818816521,1.9986341432882626,-0.9986353359794787,</dec>
+    <hex>0x3f80069e,0xbfffd33b,0x3f7f995b,0x3fffd33e,0xbf7fa691,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002019588996216,-1.998633738486468,0.9984337818816521,1.9986341432882626,-0.9986353359794787,</dec>
+    <hex>0x3f80069e,0xbfffd33b,0x3f7f995b,0x3fffd33e,0xbf7fa691,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002019588996216,-1.998633738486468,0.9984337818816521,1.9986341432882626,-0.9986353359794787,</dec>
+    <hex>0x3f80069e,0xbfffd33b,0x3f7f995b,0x3fffd33e,0xbf7fa691,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002019588996216,-1.998633738486468,0.9984337818816521,1.9986341432882626,-0.9986353359794787,</dec>
+    <hex>0x3f80069e,0xbfffd33b,0x3f7f995b,0x3fffd33e,0xbf7fa691,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,32 +1415,36 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Wave</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>the wave</beq_sortTitle>
-    <beq_year>2019</beq_year>
+    <beq_title>Queen Charlotte: A Bridgerton Story</beq_title>
+    <beq_alt_title>Queen Charlotte A Bridgerton Story</beq_alt_title>
+    <beq_sortTitle>queen charlotte a bridgerton story</beq_sortTitle>
+    <beq_year>2023</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Wave%20%282019%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Queen%20Charlotte%20A%20Bridgerton%20Story%20%282023%29%28S1%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="285658">
+        <number>1</number>
+        <poster>/fXMripUjUlBS5Mi7GqraLu0N1TR.jpg</poster>
+        <episodes count="6">1,2,3,4,5,6</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>A man on the verge of a promotion takes a mysterious hallucinogenic drug that begins to tear down his reality and expose his life for what it really is.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>The story of how the young Queen Charlotte’s marriage to King George sparked both a great love story and a societal shift, creating the world of the Ton inherited by the characters in Bridgerton.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>619263</beq_theMovieDB>
-    <beq_poster>/rWFHGTfCOzMphfJW3DPdfbq7Vyp.jpg</beq_poster>
-    <beq_runtime>87</beq_runtime>
+    <beq_theMovieDB>196454</beq_theMovieDB>
+    <beq_poster>/koVgHfTsw6Fmx3QuDMvbtlaBZD9.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="878">Science Fiction</genre>
+      <genre id="18">Drama</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
