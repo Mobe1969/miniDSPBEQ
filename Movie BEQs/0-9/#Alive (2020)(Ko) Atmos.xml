@@ -1415,8 +1415,9 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Alive</beq_title>
-    <beq_alt_title>#Alive</beq_alt_title>
+    <beq_title>#Alive</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
     <beq_sortTitle>alive</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
@@ -1428,21 +1429,23 @@
     <beq_gain />
     <beq_language>Korean</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A severely injured man and woman awake in an abandoned sanitarium only to discover that a sadistic caretaker holds the keys to their freedom and the horrific answers as to their true identity.</beq_overview>
-    <beq_rating>15</beq_rating>
+    <beq_overview>As a grisly virus rampages a city, a lone man stays locked inside his apartment, digitally cut off from seeking help and desperate to find a way out.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>492414</beq_theMovieDB>
-    <beq_poster>/3KqM6l45QQVDYQgYWnQnK1jDDHa.jpg</beq_poster>
+    <beq_theMovieDB>614696</beq_theMovieDB>
+    <beq_poster>/zqf711LsnQ5CcW3rISFw2t7OYzb.jpg</beq_poster>
     <beq_runtime>98</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="27">Horror</genre>
-      <genre id="53">Thriller</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="27">Horror</genre>
+      <genre id="28">Action</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="53">Thriller</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
