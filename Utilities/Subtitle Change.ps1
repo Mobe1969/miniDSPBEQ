@@ -1,7 +1,7 @@
-﻿#$Search = 'Arial,40,&H00CCCCCC'
-#$Replace = 'Arial,40,&H00AAAAAA'
+﻿$Search = 'Style: Default,Arial,13.0,'
+$Replace = 'Style: Default,Arial,12.0,'
 
-ForEach ($File in (Get-ChildItem -Path 'D:\Video\Library\*.ass' -Recurse -File)) {
+ForEach ($File in (Get-ChildItem -Path 'D:\Video\Library\TV Shows\The Drug Hunter\*.ass' -Recurse -File)) {
     (Get-Content $File) -Replace $Search,$Replace |
         Set-Content $File
 }

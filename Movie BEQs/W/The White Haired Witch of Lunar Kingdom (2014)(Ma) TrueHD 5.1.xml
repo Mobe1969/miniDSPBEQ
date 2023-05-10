@@ -1423,7 +1423,7 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20White%20Haired%20Witch%20of%20Lunar%20Kingdom%20%282014%29%28Ma%29%20TrueHD%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note />
+    <beq_note>NOTE: DD+ 5.1 is 4dB down</beq_note>
     <beq_warning />
     <beq_gain />
     <beq_language>Mandarin</beq_language>
@@ -1443,6 +1443,7 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>TrueHD 5.1</audioType>
+	  <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
