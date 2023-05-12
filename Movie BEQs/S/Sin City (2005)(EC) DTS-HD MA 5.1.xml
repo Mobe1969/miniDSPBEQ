@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
+    <freq>18.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
+    <dec>1.0000848388177643,-1.998609325439365,0.9985260428038749,1.998609485470743,-0.9986107215902619,</dec>
+    <hex>0x3f8002c8,0xbfffd26e,0x3f7f9f67,0x3fffd270,0xbf7fa4f4,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
+    <freq>18.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
+    <dec>1.0000848388177643,-1.998609325439365,0.9985260428038749,1.998609485470743,-0.9986107215902619,</dec>
+    <hex>0x3f8002c8,0xbfffd26e,0x3f7f9f67,0x3fffd270,0xbf7fa4f4,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
+    <freq>18.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
+    <dec>1.0000848388177643,-1.998609325439365,0.9985260428038749,1.998609485470743,-0.9986107215902619,</dec>
+    <hex>0x3f8002c8,0xbfffd26e,0x3f7f9f67,0x3fffd270,0xbf7fa4f4,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>17.0</freq>
-    <q>2.0</q>
-    <boost>9.0</boost>
-    <type>PK</type>
+    <freq>18.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000301238772595,-1.9996674362198257,0.9993674352262475,1.9996674362198257,-0.9996686739988423,</dec>
-    <hex>0x3f8009df,0xbffff51a,0x3f7fd68b,0x3ffff51a,0xbf7fea49,</hex>
+    <dec>1.0000848388177643,-1.998609325439365,0.9985260428038749,1.998609485470743,-0.9986107215902619,</dec>
+    <hex>0x3f8002c8,0xbfffd26e,0x3f7f9f67,0x3fffd270,0xbf7fa4f4,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
+    <freq>18.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
+    <dec>1.0000848388177643,-1.998609325439365,0.9985260428038749,1.998609485470743,-0.9986107215902619,</dec>
+    <hex>0x3f8002c8,0xbfffd26e,0x3f7f9f67,0x3fffd270,0xbf7fa4f4,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
+    <freq>18.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
+    <dec>1.0000848388177643,-1.998609325439365,0.9985260428038749,1.998609485470743,-0.9986107215902619,</dec>
+    <hex>0x3f8002c8,0xbfffd26e,0x3f7f9f67,0x3fffd270,0xbf7fa4f4,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
-    <q>1.0</q>
-    <boost>6.0</boost>
+    <freq>18.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001136346909811,-1.999449005729798,0.9993359759584831,1.999449156600624,-0.9994494597786384,</dec>
-    <hex>0x3f8003b9,0xbfffedf2,0x3f7fd47c,0x3fffedf3,0xbf7fdbeb,</hex>
+    <dec>1.0000848388177643,-1.998609325439365,0.9985260428038749,1.998609485470743,-0.9986107215902619,</dec>
+    <hex>0x3f8002c8,0xbfffd26e,0x3f7f9f67,0x3fffd270,0xbf7fa4f4,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>17.0</freq>
-    <q>2.0</q>
-    <boost>9.0</boost>
-    <type>PK</type>
+    <freq>18.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000301238772595,-1.9996674362198257,0.9993674352262475,1.9996674362198257,-0.9996686739988423,</dec>
-    <hex>0x3f8009df,0xbffff51a,0x3f7fd68b,0x3ffff51a,0xbf7fea49,</hex>
+    <dec>1.0000848388177643,-1.998609325439365,0.9985260428038749,1.998609485470743,-0.9986107215902619,</dec>
+    <hex>0x3f8002c8,0xbfffd26e,0x3f7f9f67,0x3fffd270,0xbf7fa4f4,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>18.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003422187144135,-1.9988294021858062,0.9984893818796855,1.9988300637889,-0.9988309389910051,</dec>
-    <hex>0x3f800b37,0xbfffd9a4,0x3f7f9d00,0x3fffd9aa,0xbf7fb362,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,37 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Silo</beq_title>
+    <beq_title>Sin City</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>silo</beq_sortTitle>
-    <beq_year>2023</beq_year>
+    <beq_sortTitle>sin city</beq_sortTitle>
+    <beq_year>2005</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Silo%20%282023%29%28S1%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
-    <beq_edition />
-    <beq_season id="196076">
-        <number>1</number>
-        <poster>/zBx1X06G1OlndbXTCZI13FECNz2.jpg</poster>
-        <episodes count="10">1,2,3</episodes>
-    </beq_season>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sin%20City%20%282005%29%28EC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition>Extended Cut</beq_edition>
+    <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>In a ruined and toxic future, a community exists in a giant underground silo that plunges hundreds of stories deep. There, men and women live in a society full of regulations they believe are meant to protect them.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_source>Disc</beq_source>
+    <beq_overview>Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark… Hard-boiled. Then there are those who call it home — Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>125988</beq_theMovieDB>
-    <beq_poster>/1NxaSn4ver4jIvLeD7YF8cTlZjB.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>187</beq_theMovieDB>
+    <beq_poster>/i66G50wATMmPrvpP95f0XP6ZdVS.jpg</beq_poster>
+    <beq_runtime>142</beq_runtime>
     <beq_genres>
-      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
-      <genre id="18">Drama</genre>
+      <genre id="53">Thriller</genre>
+      <genre id="28">Action</genre>
+      <genre id="80">Crime</genre>
     </beq_genres>
+    <beq_collection id="135179">Sin City Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DD+ Atmos</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
