@@ -1441,6 +1441,7 @@
     </beq_genres>
     <beq_collection id="553717">Creed Collection</beq_collection>
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
