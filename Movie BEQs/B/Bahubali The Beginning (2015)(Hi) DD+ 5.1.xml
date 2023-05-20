@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>22.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000119274425865,-1.998314749648215,0.9981978400360764,1.9983150247215866,-0.9983168393885699,</dec>
-    <hex>0x3f8003e9,0xbfffc8c7,0x3f7f89e5,0x3fffc8c9,0xbf7f91b1,</hex>
+    <dec>1.000124697753111,-1.9982381154981679,0.9981160023289325,1.9982384161350395,-0.9982403994451718,</dec>
+    <hex>0x3f800416,0xbfffc644,0x3f7f8488,0x3fffc647,0xbf7f8caf,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>22.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000119274425865,-1.998314749648215,0.9981978400360764,1.9983150247215866,-0.9983168393885699,</dec>
-    <hex>0x3f8003e9,0xbfffc8c7,0x3f7f89e5,0x3fffc8c9,0xbf7f91b1,</hex>
+    <dec>1.000124697753111,-1.9982381154981679,0.9981160023289325,1.9982384161350395,-0.9982403994451718,</dec>
+    <hex>0x3f800416,0xbfffc644,0x3f7f8488,0x3fffc647,0xbf7f8caf,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>22.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000119274425865,-1.998314749648215,0.9981978400360764,1.9983150247215866,-0.9983168393885699,</dec>
-    <hex>0x3f8003e9,0xbfffc8c7,0x3f7f89e5,0x3fffc8c9,0xbf7f91b1,</hex>
+    <dec>1.000124697753111,-1.9982381154981679,0.9981160023289325,1.9982384161350395,-0.9982403994451718,</dec>
+    <hex>0x3f800416,0xbfffc644,0x3f7f8488,0x3fffc647,0xbf7f8caf,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>22.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000119274425865,-1.998314749648215,0.9981978400360764,1.9983150247215866,-0.9983168393885699,</dec>
-    <hex>0x3f8003e9,0xbfffc8c7,0x3f7f89e5,0x3fffc8c9,0xbf7f91b1,</hex>
+    <dec>1.000124697753111,-1.9982381154981679,0.9981160023289325,1.9982384161350395,-0.9982403994451718,</dec>
+    <hex>0x3f800416,0xbfffc644,0x3f7f8488,0x3fffc647,0xbf7f8caf,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>27.0</freq>
     <q>5.0</q>
-    <boost>4.5</boost>
+    <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000925672474525,-1.9997241413242428,0.9996346964546444,1.9997241413242428,-0.9997272637020966,</dec>
-    <hex>0x3f800309,0xbffff6f6,0x3f7fe80f,0x3ffff6f6,0xbf7fee20,</hex>
+    <dec>1.0001031217244287,-1.9997318783743194,0.9996318790398252,1.9997318783743194,-0.9997350007642539,</dec>
+    <hex>0x3f800361,0xbffff737,0x3f7fe7e0,0x3ffff737,0xbf7feea2,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>22.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000119274425865,-1.998314749648215,0.9981978400360764,1.9983150247215866,-0.9983168393885699,</dec>
-    <hex>0x3f8003e9,0xbfffc8c7,0x3f7f89e5,0x3fffc8c9,0xbf7f91b1,</hex>
+    <dec>1.000124697753111,-1.9982381154981679,0.9981160023289325,1.9982384161350395,-0.9982403994451718,</dec>
+    <hex>0x3f800416,0xbfffc644,0x3f7f8488,0x3fffc647,0xbf7f8caf,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>22.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000119274425865,-1.998314749648215,0.9981978400360764,1.9983150247215866,-0.9983168393885699,</dec>
-    <hex>0x3f8003e9,0xbfffc8c7,0x3f7f89e5,0x3fffc8c9,0xbf7f91b1,</hex>
+    <dec>1.000124697753111,-1.9982381154981679,0.9981160023289325,1.9982384161350395,-0.9982403994451718,</dec>
+    <hex>0x3f800416,0xbfffc644,0x3f7f8488,0x3fffc647,0xbf7f8caf,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>22.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000119274425865,-1.998314749648215,0.9981978400360764,1.9983150247215866,-0.9983168393885699,</dec>
-    <hex>0x3f8003e9,0xbfffc8c7,0x3f7f89e5,0x3fffc8c9,0xbf7f91b1,</hex>
+    <dec>1.000124697753111,-1.9982381154981679,0.9981160023289325,1.9982384161350395,-0.9982403994451718,</dec>
+    <hex>0x3f800416,0xbfffc644,0x3f7f8488,0x3fffc647,0xbf7f8caf,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>22.0</freq>
+    <freq>23.0</freq>
     <q>0.8</q>
     <boost>2.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000119274425865,-1.998314749648215,0.9981978400360764,1.9983150247215866,-0.9983168393885699,</dec>
-    <hex>0x3f8003e9,0xbfffc8c7,0x3f7f89e5,0x3fffc8c9,0xbf7f91b1,</hex>
+    <dec>1.000124697753111,-1.9982381154981679,0.9981160023289325,1.9982384161350395,-0.9982403994451718,</dec>
+    <hex>0x3f800416,0xbfffc644,0x3f7f8488,0x3fffc647,0xbf7f8caf,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>27.0</freq>
     <q>5.0</q>
-    <boost>4.5</boost>
+    <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000925672474525,-1.9997241413242428,0.9996346964546444,1.9997241413242428,-0.9997272637020966,</dec>
-    <hex>0x3f800309,0xbffff6f6,0x3f7fe80f,0x3ffff6f6,0xbf7fee20,</hex>
+    <dec>1.0001031217244287,-1.9997318783743194,0.9996318790398252,1.9997318783743194,-0.9997350007642539,</dec>
+    <hex>0x3f800361,0xbffff737,0x3f7fe7e0,0x3ffff737,0xbf7feea2,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1416,17 +1416,18 @@
   <link />
   <beq_metadata>
     <beq_title>Bāhubali: The Beginning</beq_title>
-    <beq_alt_title>Baahubali The Beginning</beq_alt_title>
-    <beq_sortTitle>baahubali the beginning</beq_sortTitle>
+    <beq_alt_title>
+    </beq_alt_title>
+    <beq_sortTitle>bahubali the beginning</beq_sortTitle>
     <beq_year>2015</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Baahubali%20The%20Beginning%20%282015%29%28Ta%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bahubali%20The%20Beginning%20%282015%29%28Hi%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Tamil</beq_language>
+    <beq_language>Hindi</beq_language>
     <beq_source>Streaming</beq_source>
     <beq_overview>The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.</beq_overview>
     <beq_rating>NR</beq_rating>
