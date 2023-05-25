@@ -1420,7 +1420,7 @@
     <beq_sortTitle>total recall</beq_sortTitle>
     <beq_year>2012</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Total%20Recall%20%282012%29%28TC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Total%20Recall%20%282012%29%28TC%29%20TrueHD%205.1.jpg</beq_pvaURL>
     <beq_edition>Theatrical Cut</beq_edition>
     <beq_season />
     <beq_note />
@@ -1442,8 +1442,9 @@
       <genre id="12">Adventure</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
+    <beq_audioTypes />
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>TrueHD 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
