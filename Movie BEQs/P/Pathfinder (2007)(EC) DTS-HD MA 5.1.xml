@@ -1420,8 +1420,8 @@
     <beq_sortTitle>pathfinder</beq_sortTitle>
     <beq_year>2007</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pathfinder%20%282007%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pathfinder%20%282007%29%28EC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition>Extended Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>1534</beq_theMovieDB>
     <beq_poster>/mME7efKNTU7jzXTgFkI1t0aQUiz.jpg</beq_poster>
-    <beq_runtime>99</beq_runtime>
+    <beq_runtime>107</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="12">Adventure</genre>
