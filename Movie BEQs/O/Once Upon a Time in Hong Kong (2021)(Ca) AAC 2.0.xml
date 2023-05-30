@@ -1414,4 +1414,35 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
+  <beq_metadata>
+    <beq_title>Once Upon a Time in Hong Kong</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>once upon a time in hong kong</beq_sortTitle>
+    <beq_year>2021</beq_year>
+    <beq_spectrumURL />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Once%20Upon%20a%20Time%20in%20Hong%20Kong%20%282021%29%28Ca%29%20AAC%202.0.jpg</beq_pvaURL>
+    <beq_edition />
+    <beq_season />
+    <beq_note />
+    <beq_warning />
+    <beq_gain />
+    <beq_language>Cantonese</beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview>The story tells the story of a collusion between Hong Kong police and criminals in 1973, under the instigation of the British, they embezzled huge profits and poisoned the citizens. The Governor of Hong Kong established the Independent Commission Against Corruption</beq_overview>
+    <beq_rating>NR</beq_rating>
+    <beq_author>mobe1969</beq_author>
+    <beq_avs />
+    <beq_theMovieDB>814781</beq_theMovieDB>
+    <beq_poster>/sQbTI4wifyE0OuWCFUmLGkII8Ps.jpg</beq_poster>
+    <beq_runtime>106</beq_runtime>
+    <beq_collection />
+    <beq_genres>
+      <genre id="80">Crime</genre>
+      <genre id="18">Drama</genre>
+      <genre id="28">Action</genre>
+    </beq_genres>
+    <beq_audioTypes>
+      <audioType>AAC 2.0</audioType>
+    </beq_audioTypes>
+  </beq_metadata>
 </setting>
