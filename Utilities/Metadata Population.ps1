@@ -554,6 +554,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("DD 2") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("DD 2"))
     }
+    elseif ($fileName.IndexOf("AAC ") -ge 0) {
+        $audio = $fileName.SubString($fileName.IndexOf("AAC "))
+    }
     elseif ($fileName.IndexOf("LPCM") -ge 0) {
         $audio = $fileName.SubString($fileName.IndexOf("LPCM"))
     }
