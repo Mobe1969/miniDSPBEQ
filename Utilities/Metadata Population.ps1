@@ -19,7 +19,6 @@
 
 clear
 
-
 $files = Get-ChildItem "D:\BEQ\miniDSPBEQ" -Filter *.xml -Recurse | 
          Where-Object { $_.LastWriteTime -gt (Get-Date).AddDays(-1) }
 if ([System.IO.File]::Exists("D:\BEQ\Errors.txt")) {
