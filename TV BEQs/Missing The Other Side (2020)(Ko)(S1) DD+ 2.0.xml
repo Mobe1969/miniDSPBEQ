@@ -1420,12 +1420,12 @@
     <beq_sortTitle>missing the other side</beq_sortTitle>
     <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Missing%20The%20Other%20Side%20%282020%29%28Ko%29%281-12%29%20DD%2B%202.0.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Missing%20The%20Other%20Side%20%282020%29%28Ko%29%28S1%29%20DD%2B%202.0.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="157808">
-        <number>1</number>
-        <poster>/yKYoPIp35s9g6UhJ27YkLuZkPAy.jpg</poster>
-        <episodes count="12">1,2,3,4,5,6,7,8,9,10,11,12</episodes>
+      <number>1</number>
+      <poster>/yKYoPIp35s9g6UhJ27YkLuZkPAy.jpg</poster>
+      <episodes count="12">1,2,3,4,5,6,7,8,9,10,11,12</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
