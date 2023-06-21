@@ -1423,7 +1423,7 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mission%20Impossible%20-%20Ghost%20Protocol%20%282011%29%20TrueHD%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note />
+    <beq_note>DD+ 5dB down</beq_note>
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
@@ -1443,6 +1443,7 @@
     <beq_collection id="87359">Mission Impossible Collection</beq_collection>
     <beq_audioTypes>
       <audioType>TrueHD 7.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

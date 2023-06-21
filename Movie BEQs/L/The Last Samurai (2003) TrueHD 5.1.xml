@@ -1423,7 +1423,7 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Last%20Samurai%20%282003%29%20TrueHD%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note />
+    <beq_note>DD+ 2dB down</beq_note>
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
@@ -1444,6 +1444,7 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>TrueHD 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

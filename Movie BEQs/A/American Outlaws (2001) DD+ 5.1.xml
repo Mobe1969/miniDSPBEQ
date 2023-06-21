@@ -802,67 +802,67 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001174618683895,-1.9989473855445796,0.9988312643676052,1.9989476078688109,-0.9989485039117634,</dec>
+    <hex>0x3f8003d9,0xbfffdd82,0x3f7fb368,0x3fffdd84,0xbf7fbb17,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001174618683895,-1.9989473855445796,0.9988312643676052,1.9989476078688109,-0.9989485039117634,</dec>
+    <hex>0x3f8003d9,0xbfffdd82,0x3f7fb368,0x3fffdd84,0xbf7fbb17,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001174618683895,-1.9989473855445796,0.9988312643676052,1.9989476078688109,-0.9989485039117634,</dec>
+    <hex>0x3f8003d9,0xbfffdd82,0x3f7fb368,0x3fffdd84,0xbf7fbb17,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001174618683895,-1.9989473855445796,0.9988312643676052,1.9989476078688109,-0.9989485039117634,</dec>
+    <hex>0x3f8003d9,0xbfffdd82,0x3f7fb368,0x3fffdd84,0xbf7fbb17,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001174618683895,-1.9989473855445796,0.9988312643676052,1.9989476078688109,-0.9989485039117634,</dec>
+    <hex>0x3f8003d9,0xbfffdd82,0x3f7fb368,0x3fffdd84,0xbf7fbb17,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>17.0</freq>
+    <q>3.0</q>
+    <boost>6.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001306431866985,-1.999736232019799,0.9996068266547014,1.999736232019799,-0.9997374698414,</dec>
+    <hex>0x3f800448,0xbffff75b,0x3f7fe63c,0x3ffff75b,0xbf7feecb,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>19.0</freq>
+    <q>2.0</q>
+    <boost>10.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0003779528945504,-1.999648866107891,0.9992724593522087,1.999648866107891,-0.9996504122467592,</dec>
+    <hex>0x3f800c62,0xbffff47e,0x3f7fd052,0x3ffff47e,0xbf7fe917,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>1000</freq>
@@ -892,67 +892,67 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001174618683895,-1.9989473855445796,0.9988312643676052,1.9989476078688109,-0.9989485039117634,</dec>
+    <hex>0x3f8003d9,0xbfffdd82,0x3f7fb368,0x3fffdd84,0xbf7fbb17,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001174618683895,-1.9989473855445796,0.9988312643676052,1.9989476078688109,-0.9989485039117634,</dec>
+    <hex>0x3f8003d9,0xbfffdd82,0x3f7fb368,0x3fffdd84,0xbf7fbb17,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001174618683895,-1.9989473855445796,0.9988312643676052,1.9989476078688109,-0.9989485039117634,</dec>
+    <hex>0x3f8003d9,0xbfffdd82,0x3f7fb368,0x3fffdd84,0xbf7fbb17,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001174618683895,-1.9989473855445796,0.9988312643676052,1.9989476078688109,-0.9989485039117634,</dec>
+    <hex>0x3f8003d9,0xbfffdd82,0x3f7fb368,0x3fffdd84,0xbf7fbb17,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001174618683895,-1.9989473855445796,0.9988312643676052,1.9989476078688109,-0.9989485039117634,</dec>
+    <hex>0x3f8003d9,0xbfffdd82,0x3f7fb368,0x3fffdd84,0xbf7fbb17,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>17.0</freq>
+    <q>3.0</q>
+    <boost>6.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001306431866985,-1.999736232019799,0.9996068266547014,1.999736232019799,-0.9997374698414,</dec>
+    <hex>0x3f800448,0xbffff75b,0x3f7fe63c,0x3ffff75b,0xbf7feecb,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>19.0</freq>
+    <q>2.0</q>
+    <boost>10.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0003779528945504,-1.999648866107891,0.9992724593522087,1.999648866107891,-0.9996504122467592,</dec>
+    <hex>0x3f800c62,0xbffff47e,0x3f7fd052,0x3ffff47e,0xbf7fe917,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>1000</freq>
@@ -1415,33 +1415,32 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Edge of Tomorrow</beq_title>
+    <beq_title>American Outlaws</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>edge of tomorrow</beq_sortTitle>
-    <beq_year>2014</beq_year>
+    <beq_sortTitle>american outlaws</beq_sortTitle>
+    <beq_year>2001</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Edge%20of%20Tomorrow%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/American%20Outlaws%20%282001%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.</beq_overview>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>When a Midwest town learns that a corrupt railroad baron has captured the deeds to their homesteads without their knowledge, a group of young ranchers join forces to take back what is rightfully theirs. They will become the object of the biggest manhunt in the history of the Old West and, as their fame grows, so will the legend of their leader, a young outlaw by the name of Jesse James.</beq_overview>
     <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>137113</beq_theMovieDB>
-    <beq_poster>/uUHvlkLavotfGsNtosDy8ShsIYF.jpg</beq_poster>
-    <beq_runtime>113</beq_runtime>
+    <beq_theMovieDB>13496</beq_theMovieDB>
+    <beq_poster>/puLI0dCETB1LDUPkWxTvgRTJEi4.jpg</beq_poster>
+    <beq_runtime>94</beq_runtime>
+    <beq_collection />
     <beq_genres>
+      <genre id="37">Western</genre>
       <genre id="28">Action</genre>
-      <genre id="878">Science Fiction</genre>
     </beq_genres>
-    <beq_collection id="578704">Edge of Tomorrow Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>

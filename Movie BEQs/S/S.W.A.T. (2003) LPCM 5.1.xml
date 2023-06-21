@@ -1423,7 +1423,7 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/S.W.A.T.%20%282003%29%20LPCM%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note />
+    <beq_note>DD+ 6dB down</beq_note>
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
@@ -1438,6 +1438,7 @@
     <beq_collection id="221111">S.W.A.T. Collection</beq_collection>
     <beq_audioTypes>
       <audioType>LPCM 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="28">Action</genre>
