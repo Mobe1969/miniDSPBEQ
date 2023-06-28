@@ -1443,6 +1443,7 @@
     <beq_collection id="87096">Avatar Collection</beq_collection>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>DTS-HD MA 7.1</audioType>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
