@@ -1423,7 +1423,7 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Live%20and%20Let%20Die%20%281973%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note />
+    <beq_note>DD+ 5dB Down</beq_note>
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
@@ -1442,7 +1442,8 @@
     </beq_genres>
     <beq_collection id="645">James Bond Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>	  
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
