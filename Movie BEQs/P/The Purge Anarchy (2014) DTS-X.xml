@@ -1443,6 +1443,7 @@
     <beq_collection id="256322">The Purge Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-X</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
