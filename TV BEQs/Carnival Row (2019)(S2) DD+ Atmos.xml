@@ -1420,7 +1420,7 @@
     <beq_sortTitle>carnival row</beq_sortTitle>
     <beq_year>2019</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Carnival%20Row%20%282019%29%28S2%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Carnival%20Row%20%282019%29%28S2%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="315592">
       <number>2</number>
@@ -1444,6 +1444,7 @@
       <genre id="10765">Sci-Fi &amp; Fantasy</genre>
     </beq_genres>
     <beq_audioTypes>
+      <audioType>DD+ Atmos</audioType>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
