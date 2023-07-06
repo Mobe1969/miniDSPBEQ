@@ -1423,7 +1423,7 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/London%20Has%20Fallen%20%282016%29%20DTS-X.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note />
+    <beq_note>Netflix DD+ -3dB, Prime 0dB</beq_note>
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
@@ -1442,6 +1442,7 @@
     <beq_collection id="386534">Has Fallen Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-X</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
