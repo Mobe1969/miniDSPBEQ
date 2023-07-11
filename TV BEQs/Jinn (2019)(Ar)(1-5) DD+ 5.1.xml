@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>4.2</boost>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.000111029974118,-1.9992852020168093,0.9991747333001413,1.9992853192906506,-0.9992856460004177,</dec>
+    <hex>0x3f8003a3,0xbfffe894,0x3f7fc9ea,0x3fffe895,0xbf7fd12f,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>4.2</boost>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.000111029974118,-1.9992852020168093,0.9991747333001413,1.9992853192906506,-0.9992856460004177,</dec>
+    <hex>0x3f8003a3,0xbfffe894,0x3f7fc9ea,0x3fffe895,0xbf7fd12f,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>4.2</boost>
-    <type>SL</type>
+    <freq>20.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0000757130989837,-1.9996312264373126,0.9995572264965966,1.9996312264373126,-0.9996329395955804,</dec>
+    <hex>0x3f80027b,0xbffff3eb,0x3f7fe2fb,0x3ffff3eb,0xbf7fe7f2,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>4.2</boost>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>7.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0003320320331939,-1.9986613720952295,0.9983319021078271,1.9986620809062166,-0.9986632253300342,</dec>
+    <hex>0x3f800ae1,0xbfffd423,0x3f7f92ae,0x3fffd429,0xbf7fa865,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>7.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003320320331939,-1.9986613720952295,0.9983319021078271,1.9986620809062166,-0.9986632253300342,</dec>
+    <hex>0x3f800ae1,0xbfffd423,0x3f7f92ae,0x3fffd429,0xbf7fa865,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>7.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003320320331939,-1.9986613720952295,0.9983319021078271,1.9986620809062166,-0.9986632253300342,</dec>
+    <hex>0x3f800ae1,0xbfffd423,0x3f7f92ae,0x3fffd429,0xbf7fa865,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>4.2</boost>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.000111029974118,-1.9992852020168093,0.9991747333001413,1.9992853192906506,-0.9992856460004177,</dec>
+    <hex>0x3f8003a3,0xbfffe894,0x3f7fc9ea,0x3fffe895,0xbf7fd12f,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>4.2</boost>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.000111029974118,-1.9992852020168093,0.9991747333001413,1.9992853192906506,-0.9992856460004177,</dec>
+    <hex>0x3f8003a3,0xbfffe894,0x3f7fc9ea,0x3fffe895,0xbf7fd12f,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>4.2</boost>
-    <type>SL</type>
+    <freq>20.0</freq>
+    <q>3.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0000757130989837,-1.9996312264373126,0.9995572264965966,1.9996312264373126,-0.9996329395955804,</dec>
+    <hex>0x3f80027b,0xbffff3eb,0x3f7fe2fb,0x3ffff3eb,0xbf7fe7f2,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>4.2</boost>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>7.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0003320320331939,-1.9986613720952295,0.9983319021078271,1.9986620809062166,-0.9986632253300342,</dec>
+    <hex>0x3f800ae1,0xbfffd423,0x3f7f92ae,0x3fffd429,0xbf7fa865,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>7.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003320320331939,-1.9986613720952295,0.9983319021078271,1.9986620809062166,-0.9986632253300342,</dec>
+    <hex>0x3f800ae1,0xbfffd423,0x3f7f92ae,0x3fffd429,0xbf7fa865,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>7.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003320320331939,-1.9986613720952295,0.9983319021078271,1.9986620809062166,-0.9986632253300342,</dec>
+    <hex>0x3f800ae1,0xbfffd423,0x3f7f92ae,0x3fffd429,0xbf7fa865,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,34 +1415,37 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Aerials</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>aerials</beq_sortTitle>
-    <beq_year>2016</beq_year>
+    <beq_title>Jinn</beq_title>
+    <beq_alt_title>Jinn</beq_alt_title>
+    <beq_sortTitle>jinn</beq_sortTitle>
+    <beq_year>2019</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Aerials%20%282016%29%28Ab%29%20DD%2B%202.0.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Jinn%20%282019%29%28Ar%29%281-5%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="122525">
+        <number>1</number>
+        <poster>/8F5xFgsi0EyrcXhz3s6cgk7m3VL.jpg</poster>
+        <episodes count="5">1,2,3,4,5</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Arabic</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Earth is invaded by Aliens from outer space. An intermarried couple living in the city of Dubai are confined to their home due to the uncertainty of the situation. Disconnected from the world outside due to the loss of communication, they explore around their cultural differences in Science in order to understand the reason behind Aliens coming to our planet; only to find themselves caught between a series of extraterrestrial encounters at their very home.</beq_overview>
+    <beq_overview>The lives of a group of teenagers are disrupted when a spiritual figure appears in front of them in the ancient city of Petra. They must try and stop Jinn from destroying the world.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>699673</beq_theMovieDB>
-    <beq_poster>/1pN8MOdXMTVuU0kHh3g2Qst0C4e.jpg</beq_poster>
-    <beq_runtime>90</beq_runtime>
+    <beq_theMovieDB>88589</beq_theMovieDB>
+    <beq_poster>/lzM1DpyGJJ84JzBLZnS2zlVjPQ7.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
+    <beq_audioTypes>
+      <audioType>DD+ 5.1</audioType>
+    </beq_audioTypes>
     <beq_genres>
       <genre id="18">Drama</genre>
-      <genre id="878">Science Fiction</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
     </beq_genres>
-    <beq_audioTypes>
-      <audioType>DD+ 2.0</audioType>
-    </beq_audioTypes>
   </beq_metadata>
 </setting>
