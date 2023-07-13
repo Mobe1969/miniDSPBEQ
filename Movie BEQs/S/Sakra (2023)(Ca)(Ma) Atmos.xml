@@ -1423,7 +1423,7 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sakra%20%282023%29%28Ca%29%28Ma%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note>Cantonese and Mandarin tracks identical</beq_note>
+    <beq_note>Cantonese Atmos and Mandarin 7.1 tracks identical. German UHD DTS-HD MA 5.1 2dB down</beq_note>
     <beq_warning />
     <beq_gain />
     <beq_language>Cantonese</beq_language>
@@ -1442,6 +1442,8 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>TrueHD 7.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
