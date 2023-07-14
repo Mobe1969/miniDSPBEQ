@@ -802,22 +802,22 @@
     </para>
   </fir>
   <filter addr="8280" name="PEQ_1_1">
-    <freq>20</freq>
+    <freq>10</freq>
     <q>0.8</q>
-    <boost>8.0</boost>
+    <boost>4.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003802591495092,-1.9986992305465676,0.9983216853051162,1.9987000472874676,-0.9987011277137254,</dec>
-    <hex>3f800c76,bfffd560,3f7f9203,3fffd567,bf7faae1,</hex>
+    <dec>1.0001134073096636,-1.99928725372235,0.99917441091089,1.9992873735540462,-0.9992876983888572,</dec>
+    <hex>3f8003b7,bfffe8a5,3f7fc9e5,3fffe8a6,bf7fd152,</hex>
   </filter>
   <filter addr="8285" name="PEQ_1_2">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <freq>22</freq>
+    <q>0.8</q>
+    <boost>9.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004717055448968,-1.9986094831558106,0.9981412558634332,1.9986106052167878,-0.9986118393473529,</dec>
+    <hex>3f800f75,bfffd26f,3f7f862f,3fffd279,bf7fa507,</hex>
   </filter>
   <filter addr="8290" name="PEQ_1_3">
     <freq>1000</freq>
@@ -892,22 +892,22 @@
     <hex>3f800000,0,0,80000000,80000000,</hex>
   </filter>
   <filter addr="8330" name="PEQ_2_1">
-    <freq>20</freq>
+    <freq>10</freq>
     <q>0.8</q>
-    <boost>8.0</boost>
+    <boost>4.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003802591495092,-1.9986992305465676,0.9983216853051162,1.9987000472874676,-0.9987011277137254,</dec>
-    <hex>3f800c76,bfffd560,3f7f9203,3fffd567,bf7faae1,</hex>
+    <dec>1.0001134073096636,-1.99928725372235,0.99917441091089,1.9992873735540462,-0.9992876983888572,</dec>
+    <hex>3f8003b7,bfffe8a5,3f7fc9e5,3fffe8a6,bf7fd152,</hex>
   </filter>
   <filter addr="8335" name="PEQ_2_2">
-    <freq>1000</freq>
-    <q>0.9</q>
-    <boost>0.0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>3f800000,0,0,80000000,80000000,</hex>
+    <freq>22</freq>
+    <q>0.8</q>
+    <boost>9.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004717055448968,-1.9986094831558106,0.9981412558634332,1.9986106052167878,-0.9986118393473529,</dec>
+    <hex>3f800f75,bfffd26f,3f7f862f,3fffd279,bf7fa507,</hex>
   </filter>
   <filter addr="8340" name="PEQ_2_3">
     <freq>1000</freq>
@@ -1415,12 +1415,13 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Spy Kids 4</beq_title>
-    <beq_alt_title>Spy Kids: All the Time in the World</beq_alt_title>
-    <beq_sortTitle>spy kids 4</beq_sortTitle>
-    <beq_year>2011</beq_year>
+    <beq_title>Spy Kids 3-D Game Over</beq_title>
+    <beq_alt_title>
+    </beq_alt_title>
+    <beq_sortTitle>spy kids 3-d game over</beq_sortTitle>
+    <beq_year>2003</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spy%20Kids%204%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spy%20Kids%203-D%20Game%20Over%20%282003%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,21 +1429,23 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Eight years after the third film, the OSS has become the world's top spy agency, while the Spy Kids department has since become defunct. A retired spy Marissa is thrown back into the action along with her stepchildren when a maniacal Timekeeper attempts to take over the world. In order to save the world, Rebecca and Cecil must team up with their hated stepmother. Carmen and Juni have since also grown up and will provide gadgets to them.</beq_overview>
+    <beq_overview>Carmen's caught in a virtual reality game designed by the Kids' new nemesis, the Toymaker. It's up to Juni to save his sister, and ultimately the world.</beq_overview>
     <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>56288</beq_theMovieDB>
-    <beq_poster>/9pUVarhiXfCu8amjmyadzJJJITi.jpg</beq_poster>
-    <beq_runtime>89</beq_runtime>
+    <beq_theMovieDB>12279</beq_theMovieDB>
+    <beq_poster>/oP53PyexPlQd1xDt8kkvX5LdQdT.jpg</beq_poster>
+    <beq_runtime>84</beq_runtime>
     <beq_collection id="86486">Spy Kids Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
-      <genre id="10751">Family</genre>
       <genre id="35">Comedy</genre>
+      <genre id="10751">Family</genre>
+      <genre id="12">Adventure</genre>
       <genre id="28">Action</genre>
+      <genre id="878">Science Fiction</genre>
     </beq_genres>
   </beq_metadata>
 </setting>
