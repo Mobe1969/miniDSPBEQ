@@ -1423,9 +1423,9 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Hijack%20%282023%29%28S1%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="288591">
-        <number>1</number>
-        <poster>/lLFIaNuiptWMd9QZzJI3Ku8moVM.jpg</poster>
-        <episodes count="7">1,2,3,4,5</episodes>
+      <number>1</number>
+      <poster>/lLFIaNuiptWMd9QZzJI3Ku8moVM.jpg</poster>
+      <episodes count="7">1,2,3,4,5</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
@@ -1437,7 +1437,7 @@
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>198102</beq_theMovieDB>
-    <beq_poster>/alInNt9xbSPTI2YWYMQB78P1E7G.jpg</beq_poster>
+    <beq_poster>/szDEqqarPi3YqiPLevm7LObYrDJ.jpg</beq_poster>
     <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
