@@ -1423,7 +1423,7 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hitman%27s%20Wife%27s%20Bodyguard%20%282021%29%28TC%29%20Atmos.jpg</beq_pvaURL>
     <beq_edition>Theatrical Cut</beq_edition>
     <beq_season />
-    <beq_note />
+    <beq_note>DD+ 6dB down</beq_note>
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>522931</beq_theMovieDB>
     <beq_poster>/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg</beq_poster>
-    <beq_runtime>117</beq_runtime>
+    <beq_runtime>100</beq_runtime>
     <beq_genres>
       <genre id="28">Action</genre>
       <genre id="35">Comedy</genre>
@@ -1443,6 +1443,7 @@
     <beq_collection id="608101">The Hitman's Bodyguard Collection</beq_collection>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
