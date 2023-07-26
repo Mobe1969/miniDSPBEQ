@@ -1443,6 +1443,7 @@
     <beq_collection id="284433">Guardians of the Galaxy Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
+      <audioType>DTS-HD MA 7.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
