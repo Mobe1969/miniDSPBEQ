@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>17.0</freq>
-    <q>0.9</q>
-    <boost>2.1</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000748009668254,-1.998835666318399,0.9987622615992046,1.9988358162505173,-0.9988369126339115,</dec>
-    <hex>0x3f800273,0xbfffd9d9,0x3f7faee2,0x3fffd9da,0xbf7fb3c7,</hex>
+    <dec>1.0000471521693883,-1.9993906947975142,0.9993440371494533,1.999390756638838,-0.9993911274775176,</dec>
+    <hex>0x3f80018c,0xbfffec09,0x3f7fd503,0x3fffec09,0xbf7fd819,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>17.0</freq>
-    <q>0.9</q>
-    <boost>2.1</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000748009668254,-1.998835666318399,0.9987622615992046,1.9988358162505173,-0.9988369126339115,</dec>
-    <hex>0x3f800273,0xbfffd9d9,0x3f7faee2,0x3fffd9da,0xbf7fb3c7,</hex>
+    <dec>1.0000471521693883,-1.9993906947975142,0.9993440371494533,1.999390756638838,-0.9993911274775176,</dec>
+    <hex>0x3f80018c,0xbfffec09,0x3f7fd503,0x3fffec09,0xbf7fd819,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>17.0</freq>
-    <q>0.9</q>
-    <boost>2.1</boost>
-    <type>SL</type>
+    <freq>13.0</freq>
+    <q>3.0</q>
+    <boost>2.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000748009668254,-1.998835666318399,0.9987622615992046,1.9988358162505173,-0.9988369126339115,</dec>
-    <hex>0x3f800273,0xbfffd9d9,0x3f7faee2,0x3fffd9da,0xbf7fb3c7,</hex>
+    <dec>1.0000327205409476,-1.9997465350936043,0.9997145384034647,1.9997465350936043,-0.9997472589444124,</dec>
+    <hex>0x3f800112,0xbffff7b2,0x3f7fed4b,0x3ffff7b2,0xbf7fef70,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>4.4</boost>
-    <type>PK</type>
+    <freq>26.0</freq>
+    <q>0.8</q>
+    <boost>4.8</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000111682657929,-1.9996596425639321,0.9995496730886158,1.9996596425639321,-0.9996613557465448,</dec>
-    <hex>0x3f8003a9,0xbffff4d9,0x3f7fe27d,0x3ffff4d9,0xbf7fe9ce,</hex>
+    <dec>1.0002949401087469,-1.9981460667986413,0.9978549405242574,1.9981468763995192,-0.9981490710321257,</dec>
+    <hex>0x3f8009aa,0xbfffc340,0x3f7f736c,0x3fffc347,0xbf7f86b3,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>26.0</freq>
+    <q>0.8</q>
+    <boost>4.8</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002949401087469,-1.9981460667986413,0.9978549405242574,1.9981468763995192,-0.9981490710321257,</dec>
+    <hex>0x3f8009aa,0xbfffc340,0x3f7f736c,0x3fffc347,0xbf7f86b3,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>17.0</freq>
-    <q>0.9</q>
-    <boost>2.1</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000748009668254,-1.998835666318399,0.9987622615992046,1.9988358162505173,-0.9988369126339115,</dec>
-    <hex>0x3f800273,0xbfffd9d9,0x3f7faee2,0x3fffd9da,0xbf7fb3c7,</hex>
+    <dec>1.0000471521693883,-1.9993906947975142,0.9993440371494533,1.999390756638838,-0.9993911274775176,</dec>
+    <hex>0x3f80018c,0xbfffec09,0x3f7fd503,0x3fffec09,0xbf7fd819,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>17.0</freq>
-    <q>0.9</q>
-    <boost>2.1</boost>
+    <freq>10.0</freq>
+    <q>1.0</q>
+    <boost>2.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000748009668254,-1.998835666318399,0.9987622615992046,1.9988358162505173,-0.9988369126339115,</dec>
-    <hex>0x3f800273,0xbfffd9d9,0x3f7faee2,0x3fffd9da,0xbf7fb3c7,</hex>
+    <dec>1.0000471521693883,-1.9993906947975142,0.9993440371494533,1.999390756638838,-0.9993911274775176,</dec>
+    <hex>0x3f80018c,0xbfffec09,0x3f7fd503,0x3fffec09,0xbf7fd819,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>17.0</freq>
-    <q>0.9</q>
-    <boost>2.1</boost>
-    <type>SL</type>
+    <freq>13.0</freq>
+    <q>3.0</q>
+    <boost>2.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000748009668254,-1.998835666318399,0.9987622615992046,1.9988358162505173,-0.9988369126339115,</dec>
-    <hex>0x3f800273,0xbfffd9d9,0x3f7faee2,0x3fffd9da,0xbf7fb3c7,</hex>
+    <dec>1.0000327205409476,-1.9997465350936043,0.9997145384034647,1.9997465350936043,-0.9997472589444124,</dec>
+    <hex>0x3f800112,0xbffff7b2,0x3f7fed4b,0x3ffff7b2,0xbf7fef70,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
-    <q>3.0</q>
-    <boost>4.4</boost>
-    <type>PK</type>
+    <freq>26.0</freq>
+    <q>0.8</q>
+    <boost>4.8</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000111682657929,-1.9996596425639321,0.9995496730886158,1.9996596425639321,-0.9996613557465448,</dec>
-    <hex>0x3f8003a9,0xbffff4d9,0x3f7fe27d,0x3ffff4d9,0xbf7fe9ce,</hex>
+    <dec>1.0002949401087469,-1.9981460667986413,0.9978549405242574,1.9981468763995192,-0.9981490710321257,</dec>
+    <hex>0x3f8009aa,0xbfffc340,0x3f7f736c,0x3fffc347,0xbf7f86b3,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>26.0</freq>
+    <q>0.8</q>
+    <boost>4.8</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0002949401087469,-1.9981460667986413,0.9978549405242574,1.9981468763995192,-0.9981490710321257,</dec>
+    <hex>0x3f8009aa,0xbfffc340,0x3f7f736c,0x3fffc347,0xbf7f86b3,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,31 +1415,33 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Liberation</beq_title>
+    <beq_title>Dhoom</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>liberation</beq_sortTitle>
-    <beq_year>2019</beq_year>
+    <beq_sortTitle>dhoom</beq_sortTitle>
+    <beq_year>2004</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Liberation%20%282019%29%28Ma%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dhoom%20%282004%29%28Hi%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Mandarin</beq_language>
+    <beq_language>Hindi</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>Based on real life events, the film is set in January 1949 and focuses around a group of soldiers involved in the final stages of the Battle of Pingjin</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>A gang of bikers headed by the cool-headed and arrogant Kabir is on a robbing spree in Mumbai. They rob establishments and then zip away on their superbikes. ACP Jai Dixit is the case in-charge and he recruits a bumbling bike mechanic and racer named Ali to chase the gang on a bike and help Jai nab them. Kabir accepts the challenge, and pulls off another robbery amidst a function. This causes Jai and Ali to call it off. Jai resigns from the police force and Ali goes back to his daily job. Meanwhile Kabir has lost one of his team members and recruits Ali for their final job in Goa. The action shifts from the congested Mumbai traffic to the sunny Goa for the final showdown between cops and robbers.</beq_overview>
+    <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>611690</beq_theMovieDB>
-    <beq_poster>/Acm43r5g9cmLutp9hOGD6kvENjh.jpg</beq_poster>
-    <beq_runtime>103</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>17478</beq_theMovieDB>
+    <beq_poster>/A7fxXAsuYEohxYNl8YeH3FYkuDv.jpg</beq_poster>
+    <beq_runtime>124</beq_runtime>
     <beq_genres>
+      <genre id="28">Action</genre>
+      <genre id="80">Crime</genre>
       <genre id="18">Drama</genre>
-      <genre id="36">History</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
+    <beq_collection id="44976">Dhoom Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
