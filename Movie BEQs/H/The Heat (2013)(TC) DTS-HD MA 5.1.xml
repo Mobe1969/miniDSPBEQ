@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
+    <freq>13.0</freq>
+    <q>1.0</q>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000098220876811,-1.9992412254538203,0.9991439156209616,1.99924139356086,-0.9992419683907331,</dec>
+    <hex>0x3f800338,0xbfffe723,0x3f7fc7e5,0x3fffe724,0xbf7fce52,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>21.0</freq>
+    <freq>29.0</freq>
     <q>0.8</q>
-    <boost>4.6</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
-    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
+    <dec>1.000301415567939,-1.997908129809176,0.9976113504133418,1.9979090511102564,-0.9979118446802004,</dec>
+    <hex>0x3f8009e0,0xbfffbb74,0x3f7f6375,0x3fffbb7c,0xbf7f7727,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>21.0</freq>
+    <freq>29.0</freq>
     <q>0.8</q>
-    <boost>4.6</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
-    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
+    <dec>1.000301415567939,-1.997908129809176,0.9976113504133418,1.9979090511102564,-0.9979118446802004,</dec>
+    <hex>0x3f8009e0,0xbfffbb74,0x3f7f6375,0x3fffbb7c,0xbf7f7727,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>21.0</freq>
+    <freq>29.0</freq>
     <q>0.8</q>
-    <boost>4.6</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
-    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
+    <dec>1.000301415567939,-1.997908129809176,0.9976113504133418,1.9979090511102564,-0.9979118446802004,</dec>
+    <hex>0x3f8009e0,0xbfffbb74,0x3f7f6375,0x3fffbb7c,0xbf7f7727,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>23.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.00014639926513,-1.9996215217459667,0.9994773881221717,1.9996215217459667,-0.9996237873873017,</dec>
-    <hex>0x3f8004cc,0xbffff399,0x3f7fddc0,0x3ffff399,0xbf7fe758,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>26.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001654907436706,-1.9995718315030113,0.9994092359122421,1.9995718315030113,-0.9995747266559127,</dec>
-    <hex>0x3f80056c,0xbffff1f8,0x3f7fd949,0x3ffff1f8,0xbf7fe421,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
+    <freq>13.0</freq>
+    <q>1.0</q>
+    <boost>4.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000098220876811,-1.9992412254538203,0.9991439156209616,1.99924139356086,-0.9992419683907331,</dec>
+    <hex>0x3f800338,0xbfffe723,0x3f7fc7e5,0x3fffe724,0xbf7fce52,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>21.0</freq>
+    <freq>29.0</freq>
     <q>0.8</q>
-    <boost>4.6</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
-    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
+    <dec>1.000301415567939,-1.997908129809176,0.9976113504133418,1.9979090511102564,-0.9979118446802004,</dec>
+    <hex>0x3f8009e0,0xbfffbb74,0x3f7f6375,0x3fffbb7c,0xbf7f7727,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>21.0</freq>
+    <freq>29.0</freq>
     <q>0.8</q>
-    <boost>4.6</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
-    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
+    <dec>1.000301415567939,-1.997908129809176,0.9976113504133418,1.9979090511102564,-0.9979118446802004,</dec>
+    <hex>0x3f8009e0,0xbfffbb74,0x3f7f6375,0x3fffbb7c,0xbf7f7727,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>21.0</freq>
+    <freq>29.0</freq>
     <q>0.8</q>
-    <boost>4.6</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
-    <hex>0x3f80077a,0xbfffcea8,0x3f7f8e85,0x3fffceac,0xbf7f9d71,</hex>
+    <dec>1.000301415567939,-1.997908129809176,0.9976113504133418,1.9979090511102564,-0.9979118446802004,</dec>
+    <hex>0x3f8009e0,0xbfffbb74,0x3f7f6375,0x3fffbb7c,0xbf7f7727,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>23.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.00014639926513,-1.9996215217459667,0.9994773881221717,1.9996215217459667,-0.9996237873873017,</dec>
-    <hex>0x3f8004cc,0xbffff399,0x3f7fddc0,0x3ffff399,0xbf7fe758,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>26.0</freq>
-    <q>3.0</q>
-    <boost>5.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001654907436706,-1.9995718315030113,0.9994092359122421,1.9995718315030113,-0.9995747266559127,</dec>
-    <hex>0x3f80056c,0xbffff1f8,0x3f7fd949,0x3ffff1f8,0xbf7fe421,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,31 +1415,31 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Bridesmaids</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
-    <beq_sortTitle>bridesmaids</beq_sortTitle>
-    <beq_year>2011</beq_year>
+    <beq_title>The Heat</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>the heat</beq_sortTitle>
+    <beq_year>2013</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bridesmaids%20%282011%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Heat%20%282013%29%28TC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition>Theatrical Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she’ll show Lillian and her bridesmaids just how far you’ll go for someone you love.</beq_overview>
+    <beq_overview>Uptight and straight-laced, FBI Special Agent Sarah Ashburn is a methodical investigator with a reputation for excellence--and hyper-arrogance. Shannon Mullins, one of Boston P.D.'s "finest," is foul-mouthed and has a very short fuse, and uses her gut instinct and street smarts to catch the most elusive criminals. Neither has ever had a partner, or a friend for that matter. When these two wildly incompatible law officers join forces to bring down a ruthless drug lord, they become the last thing anyone expected: buddies.</beq_overview>
     <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>55721</beq_theMovieDB>
-    <beq_poster>/cruSkSZJEmv9pbDoHBwdHdsnvHO.jpg</beq_poster>
-    <beq_runtime>125</beq_runtime>
+    <beq_theMovieDB>136795</beq_theMovieDB>
+    <beq_poster>/yERBa1y5zNUOTRKQPiDCPIc2fuv.jpg</beq_poster>
+    <beq_runtime>117</beq_runtime>
     <beq_collection />
     <beq_genres>
+      <genre id="28">Action</genre>
       <genre id="35">Comedy</genre>
-      <genre id="10749">Romance</genre>
+      <genre id="80">Crime</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
