@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>14.0</freq>
-    <q>2.0</q>
-    <boost>7.0</boost>
-    <type>PK</type>
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001896197990963,-1.9996930063922165,0.9995042260663008,1.9996930063922165,-0.9996938458653972,</dec>
-    <hex>0x3f800637,0xbffff5f1,0x3f7fdf82,0x3ffff5f1,0xbf7febf0,</hex>
+    <dec>1.0001161454532415,-1.999127277884309,0.9990119131421453,1.9991274247615,-0.9991279117181956,</dec>
+    <hex>0x3f8003ce,0xbfffe367,0x3f7fbf3f,0x3fffe368,0xbf7fc6d9,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>15.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>8.0</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002851641075234,-1.999024620212743,0.9987409829263854,1.9990250797040987,-0.9990256875425528,</dec>
-    <hex>0x3f800958,0xbfffe00a,0x3f7fad7d,0x3fffe00e,0xbf7fc026,</hex>
+    <dec>1.0001161454532415,-1.999127277884309,0.9990119131421453,1.9991274247615,-0.9991279117181956,</dec>
+    <hex>0x3f8003ce,0xbfffe367,0x3f7fbf3f,0x3fffe368,0xbf7fc6d9,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>15.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>8.0</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002851641075234,-1.999024620212743,0.9987409829263854,1.9990250797040987,-0.9990256875425528,</dec>
-    <hex>0x3f800958,0xbfffe00a,0x3f7fad7d,0x3fffe00e,0xbf7fc026,</hex>
+    <dec>1.0001161454532415,-1.999127277884309,0.9990119131421453,1.9991274247615,-0.9991279117181956,</dec>
+    <hex>0x3f8003ce,0xbfffe367,0x3f7fbf3f,0x3fffe368,0xbf7fc6d9,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>15.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>8.0</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002851641075234,-1.999024620212743,0.9987409829263854,1.9990250797040987,-0.9990256875425528,</dec>
-    <hex>0x3f800958,0xbfffe00a,0x3f7fad7d,0x3fffe00e,0xbf7fc026,</hex>
+    <dec>1.0001161454532415,-1.999127277884309,0.9990119131421453,1.9991274247615,-0.9991279117181956,</dec>
+    <hex>0x3f8003ce,0xbfffe367,0x3f7fbf3f,0x3fffe368,0xbf7fc6d9,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>15.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
+    <freq>14.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002851641075234,-1.999024620212743,0.9987409829263854,1.9990250797040987,-0.9990256875425528,</dec>
-    <hex>0x3f800958,0xbfffe00a,0x3f7fad7d,0x3fffe00e,0xbf7fc026,</hex>
+    <dec>1.0000891191771284,-1.9997701446012264,0.9996818649296614,1.9997701446012264,-0.99977098410679,</dec>
+    <hex>0x3f8002ec,0xbffff878,0x3f7feb27,0x3ffff878,0xbf7ff0fe,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>14.0</freq>
-    <q>2.0</q>
-    <boost>7.0</boost>
-    <type>PK</type>
+    <freq>12.0</freq>
+    <q>0.8</q>
+    <boost>4.1</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001896197990963,-1.9996930063922165,0.9995042260663008,1.9996930063922165,-0.9996938458653972,</dec>
-    <hex>0x3f800637,0xbffff5f1,0x3f7fdf82,0x3ffff5f1,0xbf7febf0,</hex>
+    <dec>1.0001161454532415,-1.999127277884309,0.9990119131421453,1.9991274247615,-0.9991279117181956,</dec>
+    <hex>0x3f8003ce,0xbfffe367,0x3f7fbf3f,0x3fffe368,0xbf7fc6d9,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>15.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>8.0</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002851641075234,-1.999024620212743,0.9987409829263854,1.9990250797040987,-0.9990256875425528,</dec>
-    <hex>0x3f800958,0xbfffe00a,0x3f7fad7d,0x3fffe00e,0xbf7fc026,</hex>
+    <dec>1.0001161454532415,-1.999127277884309,0.9990119131421453,1.9991274247615,-0.9991279117181956,</dec>
+    <hex>0x3f8003ce,0xbfffe367,0x3f7fbf3f,0x3fffe368,0xbf7fc6d9,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>15.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>8.0</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002851641075234,-1.999024620212743,0.9987409829263854,1.9990250797040987,-0.9990256875425528,</dec>
-    <hex>0x3f800958,0xbfffe00a,0x3f7fad7d,0x3fffe00e,0xbf7fc026,</hex>
+    <dec>1.0001161454532415,-1.999127277884309,0.9990119131421453,1.9991274247615,-0.9991279117181956,</dec>
+    <hex>0x3f8003ce,0xbfffe367,0x3f7fbf3f,0x3fffe368,0xbf7fc6d9,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>15.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>8.0</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002851641075234,-1.999024620212743,0.9987409829263854,1.9990250797040987,-0.9990256875425528,</dec>
-    <hex>0x3f800958,0xbfffe00a,0x3f7fad7d,0x3fffe00e,0xbf7fc026,</hex>
+    <dec>1.0001161454532415,-1.999127277884309,0.9990119131421453,1.9991274247615,-0.9991279117181956,</dec>
+    <hex>0x3f8003ce,0xbfffe367,0x3f7fbf3f,0x3fffe368,0xbf7fc6d9,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>15.0</freq>
-    <q>0.8</q>
-    <boost>8.0</boost>
-    <type>SL</type>
+    <freq>14.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002851641075234,-1.999024620212743,0.9987409829263854,1.9990250797040987,-0.9990256875425528,</dec>
-    <hex>0x3f800958,0xbfffe00a,0x3f7fad7d,0x3fffe00e,0xbf7fc026,</hex>
+    <dec>1.0000891191771284,-1.9997701446012264,0.9996818649296614,1.9997701446012264,-0.99977098410679,</dec>
+    <hex>0x3f8002ec,0xbffff878,0x3f7feb27,0x3ffff878,0xbf7ff0fe,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,12 +1415,12 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Godzilla: King of the Monsters</beq_title>
-    <beq_alt_title>Godzilla King of the Monsters</beq_alt_title>
-    <beq_sortTitle>godzilla king of the monsters</beq_sortTitle>
-    <beq_year>2019</beq_year>
+    <beq_title>Hypnotic</beq_title>
+    <beq_alt_title />
+    <beq_sortTitle>hypnotic</beq_sortTitle>
+    <beq_year>2023</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Godzilla%20King%20of%20the%20Monsters%20%282019%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hypnotic%20%282023%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,21 +1428,21 @@
     <beq_gain />
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species, thought to be mere myths, rise again, they all vie for supremacy, leaving humanity's very existence hanging in the balance.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_overview>A detective becomes entangled in a mystery involving his missing daughter and a secret government program while investigating a string of reality-bending crimes.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>373571</beq_theMovieDB>
-    <beq_poster>/fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg</beq_poster>
-    <beq_runtime>132</beq_runtime>
+    <beq_theMovieDB>536437</beq_theMovieDB>
+    <beq_poster>/3IhGkkalwXguTlceGSl8XUJZOVI.jpg</beq_poster>
+    <beq_runtime>94</beq_runtime>
+    <beq_collection />
     <beq_genres>
+      <genre id="9648">Mystery</genre>
+      <genre id="53">Thriller</genre>
       <genre id="878">Science Fiction</genre>
-      <genre id="28">Action</genre>
     </beq_genres>
-    <beq_collection id="535313">Godzilla Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>Atmos</audioType>
-      <audioType>DD+ Atmos</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
