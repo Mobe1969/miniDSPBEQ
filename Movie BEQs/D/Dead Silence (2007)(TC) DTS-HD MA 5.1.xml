@@ -804,11 +804,11 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>2.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000612895043677,-1.9992407207064207,0.9991799285409757,1.9992407850346636,-0.9992411537171001,</dec>
-    <hex>0x3f800202,0xbfffe71f,0x3f7fca41,0x3fffe71f,0xbf7fce45,</hex>
+    <dec>1.0000565669827923,-1.999236342224503,0.9991802668865636,1.9992364015715494,-0.9992367745223099,</dec>
+    <hex>0x3f8001db,0xbfffe6fa,0x3f7fca47,0x3fffe6fa,0xbf7fcdfb,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>22.0</freq>
@@ -820,13 +820,13 @@
     <hex>0x3f8003ce,0xbfffd46f,0x3f7fa164,0x3fffd46f,0xbf7fa900,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>1.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000659653057278,-1.9977733636122312,0.9977109517563105,1.9977735568293977,-0.9977767238448719,</dec>
-    <hex>0x3f800229,0xbfffb70a,0x3f7f69fc,0x3fffb70b,0xbf7f6e4c,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>1000</freq>
@@ -894,11 +894,11 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>2.6</boost>
+    <boost>2.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000612895043677,-1.9992407207064207,0.9991799285409757,1.9992407850346636,-0.9992411537171001,</dec>
-    <hex>0x3f800202,0xbfffe71f,0x3f7fca41,0x3fffe71f,0xbf7fce45,</hex>
+    <dec>1.0000565669827923,-1.999236342224503,0.9991802668865636,1.9992364015715494,-0.9992367745223099,</dec>
+    <hex>0x3f8001db,0xbfffe6fa,0x3f7fca47,0x3fffe6fa,0xbf7fcdfb,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>22.0</freq>
@@ -910,13 +910,13 @@
     <hex>0x3f8003ce,0xbfffd46f,0x3f7fa164,0x3fffd46f,0xbf7fa900,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>28.0</freq>
-    <q>0.8</q>
-    <boost>1.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000659653057278,-1.9977733636122312,0.9977109517563105,1.9977735568293977,-0.9977767238448719,</dec>
-    <hex>0x3f800229,0xbfffb70a,0x3f7f69fc,0x3fffb70b,0xbf7f6e4c,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>1000</freq>
@@ -1420,8 +1420,8 @@
     <beq_sortTitle>dead silence</beq_sortTitle>
     <beq_year>2007</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dead%20Silence%20%282007%29%28UC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition>Unrated Cut</beq_edition>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dead%20Silence%20%282007%29%28TC%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition>Theatrical Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>14001</beq_theMovieDB>
     <beq_poster>/jovXaCasPvShaQbN8VgS9QkAmo3.jpg</beq_poster>
-    <beq_runtime>91</beq_runtime>
+    <beq_runtime>89</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="27">Horror</genre>
