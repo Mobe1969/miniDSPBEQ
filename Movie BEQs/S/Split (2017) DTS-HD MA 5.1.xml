@@ -1420,7 +1420,7 @@
     <beq_sortTitle>split</beq_sortTitle>
     <beq_year>2017</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Split%20%282017%29%20D5TS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Split%20%282017%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1440,8 +1440,9 @@
       <genre id="27">Horror</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
+    <beq_audioTypes />
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
