@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>33.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001555699536175,-1.9974497743663346,0.9972994318872836,1.9974503119382956,-0.9974544642689405,</dec>
-    <hex>0x3f800519,0xbfffac6f,0x3f7f4f04,0x3fffac74,0xbf7f592d,</hex>
+    <dec>1.0000452343727406,-1.999062258431572,0.9990177001047649,1.999062315299281,-0.9990628776097965,</dec>
+    <hex>0x3f80017b,0xbfffe146,0x3f7fbfa0,0x3fffe146,0xbf7fc296,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>33.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001555699536175,-1.9974497743663346,0.9972994318872836,1.9974503119382956,-0.9974544642689405,</dec>
-    <hex>0x3f800519,0xbfffac6f,0x3f7f4f04,0x3fffac74,0xbf7f592d,</hex>
+    <dec>1.0000452343727406,-1.999062258431572,0.9990177001047649,1.999062315299281,-0.9990628776097965,</dec>
+    <hex>0x3f80017b,0xbfffe146,0x3f7fbfa0,0x3fffe146,0xbf7fc296,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>33.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001555699536175,-1.9974497743663346,0.9972994318872836,1.9974503119382956,-0.9974544642689405,</dec>
-    <hex>0x3f800519,0xbfffac6f,0x3f7f4f04,0x3fffac74,0xbf7f592d,</hex>
+    <dec>1.0000452343727406,-1.999062258431572,0.9990177001047649,1.999062315299281,-0.9990628776097965,</dec>
+    <hex>0x3f80017b,0xbfffe146,0x3f7fbfa0,0x3fffe146,0xbf7fc296,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>33.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001555699536175,-1.9974497743663346,0.9972994318872836,1.9974503119382956,-0.9974544642689405,</dec>
-    <hex>0x3f800519,0xbfffac6f,0x3f7f4f04,0x3fffac74,0xbf7f592d,</hex>
+    <dec>1.0000452343727406,-1.999062258431572,0.9990177001047649,1.999062315299281,-0.9990628776097965,</dec>
+    <hex>0x3f80017b,0xbfffe146,0x3f7fbfa0,0x3fffe146,0xbf7fc296,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>25.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001591270222547,-1.9995884032102795,0.9994319529415678,1.9995884032102795,-0.9995910799638225,</dec>
+    <hex>0x3f800537,0xbffff283,0x3f7fdac6,0x3ffff283,0xbf7fe533,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>33.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001555699536175,-1.9974497743663346,0.9972994318872836,1.9974503119382956,-0.9974544642689405,</dec>
-    <hex>0x3f800519,0xbfffac6f,0x3f7f4f04,0x3fffac74,0xbf7f592d,</hex>
+    <dec>1.0000452343727406,-1.999062258431572,0.9990177001047649,1.999062315299281,-0.9990628776097965,</dec>
+    <hex>0x3f80017b,0xbfffe146,0x3f7fbfa0,0x3fffe146,0xbf7fc296,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>33.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001555699536175,-1.9974497743663346,0.9972994318872836,1.9974503119382956,-0.9974544642689405,</dec>
-    <hex>0x3f800519,0xbfffac6f,0x3f7f4f04,0x3fffac74,0xbf7f592d,</hex>
+    <dec>1.0000452343727406,-1.999062258431572,0.9990177001047649,1.999062315299281,-0.9990628776097965,</dec>
+    <hex>0x3f80017b,0xbfffe146,0x3f7fbfa0,0x3fffe146,0xbf7fc296,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>33.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001555699536175,-1.9974497743663346,0.9972994318872836,1.9974503119382956,-0.9974544642689405,</dec>
-    <hex>0x3f800519,0xbfffac6f,0x3f7f4f04,0x3fffac74,0xbf7f592d,</hex>
+    <dec>1.0000452343727406,-1.999062258431572,0.9990177001047649,1.999062315299281,-0.9990628776097965,</dec>
+    <hex>0x3f80017b,0xbfffe146,0x3f7fbfa0,0x3fffe146,0xbf7fc296,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>33.0</freq>
+    <freq>12.0</freq>
     <q>0.8</q>
-    <boost>2.0</boost>
+    <boost>1.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001555699536175,-1.9974497743663346,0.9972994318872836,1.9974503119382956,-0.9974544642689405,</dec>
-    <hex>0x3f800519,0xbfffac6f,0x3f7f4f04,0x3fffac74,0xbf7f592d,</hex>
+    <dec>1.0000452343727406,-1.999062258431572,0.9990177001047649,1.999062315299281,-0.9990628776097965,</dec>
+    <hex>0x3f80017b,0xbfffe146,0x3f7fbfa0,0x3fffe146,0xbf7fc296,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>25.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001591270222547,-1.9995884032102795,0.9994319529415678,1.9995884032102795,-0.9995910799638225,</dec>
+    <hex>0x3f800537,0xbffff283,0x3f7fdac6,0x3ffff283,0xbf7fe533,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1415,36 +1415,35 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>After.Life</beq_title>
-    <beq_alt_title>AfterLife</beq_alt_title>
-    <beq_sortTitle>after.life</beq_sortTitle>
-    <beq_year>2009</beq_year>
+    <beq_title>Jiang Ziya: Legend of Deification</beq_title>
+    <beq_alt_title>Jiang Ziya The Legend of Deification</beq_alt_title>
+    <beq_sortTitle>jiang ziya the legend of deification</beq_sortTitle>
+    <beq_year>2020</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/After.Life%20%282009%29%20LPCM%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jiang%20Ziya%20The%20Legend%20of%20Deification%20%282020%29%28Ma%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note>DD+ 5dB up</beq_note>
+    <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
+    <beq_language>Mandarin</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Following a terrible car crash, a woman awakes to find an enigmatic mortician preparing her for burial.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>Atop the ruins of war, top commander Jiang Ziya is given the task to banish the Nine-tailed Fox Demon who threatens all mortals' very existence. When he discovers the Nine-tailed Fox's life linked to the soul of an innocent girl, he is faced with a challenging decision: follow the will of heaven or find his own path to righteousness.</beq_overview>
+    <beq_rating>12A</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>36419</beq_theMovieDB>
-    <beq_poster>/4mGl52mR8rpAH5xj9Lq1KLMMcMi.jpg</beq_poster>
-    <beq_runtime>104</beq_runtime>
+    <beq_theMovieDB>635389</beq_theMovieDB>
+    <beq_poster>/eDq4dGgNHxPbT3Y5S6mfymsQ0rQ.jpg</beq_poster>
+    <beq_runtime>110</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="27">Horror</genre>
-      <genre id="9648">Mystery</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="16">Animation</genre>
+      <genre id="28">Action</genre>
+      <genre id="14">Fantasy</genre>
+      <genre id="12">Adventure</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>LPCM 5.1</audioType>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
