@@ -1445,6 +1445,7 @@
     <beq_collection id="325470">The Lego Movie Collection</beq_collection>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
