@@ -1428,17 +1428,18 @@
     <beq_gain />
     <beq_language>Cantonese</beq_language>
     <beq_source>Streaming</beq_source>
-    <beq_overview>"Connected" is a about two lonesome people who find each other via a chance encounter on a subway train. They experience happiness in one another for a brief moment in their lives until circumstances out of their control rip them apart. However their paths may once again intersect down the line.</beq_overview>
+    <beq_overview>A debt collector receives a call from a woman who is kidnapped by an unknown gang. He thinks it is a joke but soon, he realises that it is not a prank.</beq_overview>
     <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>471074</beq_theMovieDB>
-    <beq_poster>/lFNZj5onC2c09IjHAAJwpE28GRM.jpg</beq_poster>
-    <beq_runtime>8</beq_runtime>
+    <beq_theMovieDB>19611</beq_theMovieDB>
+    <beq_poster>/ypZQQ9R8uXiRpTKtRoT5gcQM5RM.jpg</beq_poster>
+    <beq_runtime>110</beq_runtime>
     <beq_collection />
+    <beq_audioTypes />
     <beq_genres>
-      <genre id="10749">Romance</genre>
-      <genre id="18">Drama</genre>
+      <genre id="53">Thriller</genre>
+      <genre id="28">Action</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
