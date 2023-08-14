@@ -803,57 +803,57 @@
   </fir>
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
-    <q>1.1</q>
-    <boost>4.0</boost>
+    <q>2.0</q>
+    <boost>4.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001381846723907,-1.9995270592326682,0.9993893028273041,1.9995270592326682,-0.9995274874996948,</dec>
-    <hex>0x3f800487,0xbffff081,0x3f7fd7fa,0x3ffff081,0xbf7fe109,</hex>
+    <dec>1.0000857113185924,-1.9997470354123403,0.9996617524078899,1.9997470354123403,-0.9997474637264826,</dec>
+    <hex>0x3f8002cf,0xbffff7b6,0x3f7fe9d5,0x3ffff7b6,0xbf7fef73,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>17.0</freq>
-    <q>6.0</q>
-    <boost>4.2</boost>
+    <freq>16.0</freq>
+    <q>3.0</q>
+    <boost>3.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000452691533779,-1.9998531576728686,0.9998091264134675,1.9998531576728686,-0.9998543955668453,</dec>
-    <hex>0x3f80017c,0xbffffb30,0x3f7ff37e,0x3ffffb30,0xbf7ff675,</hex>
+    <dec>1.0000687462071365,-1.9997119279407665,0.999644278198889,1.9997119279407665,-0.9997130244060254,</dec>
+    <hex>0x3f800241,0xbffff68f,0x3f7fe8b0,0x3ffff68f,0xbf7fed31,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>25.0</freq>
-    <q>3.0</q>
-    <boost>3.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000946370163424,-1.9995385189325134,0.9994465586029362,1.9995385189325134,-0.9995411956192787,</dec>
-    <hex>0x3f80031a,0xbffff0e1,0x3f7fdbbb,0x3ffff0e1,0xbf7fe1ef,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>34.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
     <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001602863980419,-1.997372449822991,0.9972177123023058,1.9973730204466915,-0.9973774280766472,</dec>
-    <hex>0x3f800541,0xbfffa9e7,0x3f7f49a9,0x3fffa9eb,0xbf7f5421,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>25.0</freq>
+    <q>2.0</q>
+    <boost>4.4</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0002093739298048,-1.9993624597350839,0.9991557622563622,1.9993624597350839,-0.9993651361861671,</dec>
+    <hex>0x3f8006dc,0xbfffeb1c,0x3f7fc8ac,0x3fffeb1c,0xbf7fd665,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>37.0</freq>
+    <q>8.0</q>
+    <boost>2.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000349225580931,-1.9997243864852245,0.9996953274946061,1.9997243864852245,-0.9997302500526992,</dec>
+    <hex>0x3f800125,0xbffff6f8,0x3f7fec08,0x3ffff6f8,0xbf7fee52,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -893,57 +893,57 @@
   </filter>
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
-    <q>1.1</q>
-    <boost>4.0</boost>
+    <q>2.0</q>
+    <boost>4.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001381846723907,-1.9995270592326682,0.9993893028273041,1.9995270592326682,-0.9995274874996948,</dec>
-    <hex>0x3f800487,0xbffff081,0x3f7fd7fa,0x3ffff081,0xbf7fe109,</hex>
+    <dec>1.0000857113185924,-1.9997470354123403,0.9996617524078899,1.9997470354123403,-0.9997474637264826,</dec>
+    <hex>0x3f8002cf,0xbffff7b6,0x3f7fe9d5,0x3ffff7b6,0xbf7fef73,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>17.0</freq>
-    <q>6.0</q>
-    <boost>4.2</boost>
+    <freq>16.0</freq>
+    <q>3.0</q>
+    <boost>3.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000452691533779,-1.9998531576728686,0.9998091264134675,1.9998531576728686,-0.9998543955668453,</dec>
-    <hex>0x3f80017c,0xbffffb30,0x3f7ff37e,0x3ffffb30,0xbf7ff675,</hex>
+    <dec>1.0000687462071365,-1.9997119279407665,0.999644278198889,1.9997119279407665,-0.9997130244060254,</dec>
+    <hex>0x3f800241,0xbffff68f,0x3f7fe8b0,0x3ffff68f,0xbf7fed31,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>25.0</freq>
-    <q>3.0</q>
-    <boost>3.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000946370163424,-1.9995385189325134,0.9994465586029362,1.9995385189325134,-0.9995411956192787,</dec>
-    <hex>0x3f80031a,0xbffff0e1,0x3f7fdbbb,0x3ffff0e1,0xbf7fe1ef,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>34.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
     <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001602863980419,-1.997372449822991,0.9972177123023058,1.9973730204466915,-0.9973774280766472,</dec>
-    <hex>0x3f800541,0xbfffa9e7,0x3f7f49a9,0x3fffa9eb,0xbf7f5421,</hex>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000942679514755,-1.9984547530149634,0.9983624061278658,1.9984549505693143,-0.9984564765249899,</dec>
+    <hex>0x3f800317,0xbfffcd5e,0x3f7f94ae,0x3fffcd5f,0xbf7f9ad8,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>25.0</freq>
+    <q>2.0</q>
+    <boost>4.4</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0002093739298048,-1.9993624597350839,0.9991557622563622,1.9993624597350839,-0.9993651361861671,</dec>
+    <hex>0x3f8006dc,0xbfffeb1c,0x3f7fc8ac,0x3fffeb1c,0xbf7fd665,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>37.0</freq>
+    <q>8.0</q>
+    <boost>2.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000349225580931,-1.9997243864852245,0.9996953274946061,1.9997243864852245,-0.9997302500526992,</dec>
+    <hex>0x3f800125,0xbffff6f8,0x3f7fec08,0x3ffff6f8,0xbf7fee52,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1416,8 +1416,7 @@
   <link />
   <beq_metadata>
     <beq_title>The Viral Factor</beq_title>
-    <beq_alt_title>
-    </beq_alt_title>
+    <beq_alt_title />
     <beq_sortTitle>the viral factor</beq_sortTitle>
     <beq_year>2012</beq_year>
     <beq_spectrumURL />
@@ -1430,19 +1429,20 @@
     <beq_language>Cantonese</beq_language>
     <beq_source>Disc</beq_source>
     <beq_overview>International Security Affairs agent Jon is on a dangerous mission to escort a criminal scientist to another country. En route, a member of his team turns out to be a traitor and shoots Jon in the head while kidnapping the scientist. When Jon wakes up in the hospital, a doctor tells him that within weeks, the bullet in his brain will cause complete paralysis. Jon returns to Beijing to see his mother, who confesses that Jon has a brother in Malaysia who was raised by his father, a gambler. Jon takes a flight to Malaysia to find his brother, Yeung. On the plane he forms a bond with Dr. Kan, who promises to look into possible treatments for his condition. However, when they arrive, Yeung tries to kidnap the doctor and when Jon intervenes, he's also taken hostage. The two soon realize they're brothers, and decide to work together in order to keep the criminals behind the kidnappings from reinfecting the world of a disease long thought cured.</beq_overview>
-    <beq_rating>18</beq_rating>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
     <beq_theMovieDB>83706</beq_theMovieDB>
     <beq_poster>/7J0SlFWcVFdErk5Vaax35xb19de.jpg</beq_poster>
     <beq_runtime>122</beq_runtime>
-    <beq_audioTypes>
-      <audioType>DTS-HD MA 7.1</audioType>
-    </beq_audioTypes>
+    <beq_collection />
     <beq_genres>
       <genre id="28">Action</genre>
       <genre id="18">Drama</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
+    <beq_audioTypes>
+      <audioType>DTS-HD MA 7.1</audioType>
+    </beq_audioTypes>
   </beq_metadata>
 </setting>
