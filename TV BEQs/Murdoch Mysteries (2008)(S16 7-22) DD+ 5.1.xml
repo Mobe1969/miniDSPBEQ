@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>14.0</freq>
-    <q>0.9</q>
-    <boost>6.2</boost>
+    <freq>10.0</freq>
+    <q>1.1</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000182722852846,-1.9991477546187129,0.9989662309570617,1.9991480605450864,-0.999148647883534,</dec>
-    <hex>0x3f8005fd,0xbfffe413,0x3f7fbc40,0x3fffe415,0xbf7fc835,</hex>
+    <dec>1.0000859634051122,-1.9994844390416697,0.9993990467276632,1.999484564013158,-0.9994848851612871,</dec>
+    <hex>0x3f8002d1,0xbfffef1b,0x3f7fd89e,0x3fffef1c,0xbf7fde3e,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>14.0</freq>
-    <q>0.9</q>
-    <boost>6.2</boost>
+    <freq>10.0</freq>
+    <q>1.1</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000182722852846,-1.9991477546187129,0.9989662309570617,1.9991480605450864,-0.999148647883534,</dec>
-    <hex>0x3f8005fd,0xbfffe413,0x3f7fbc40,0x3fffe415,0xbf7fc835,</hex>
+    <dec>1.0000859634051122,-1.9994844390416697,0.9993990467276632,1.999484564013158,-0.9994848851612871,</dec>
+    <hex>0x3f8002d1,0xbfffef1b,0x3f7fd89e,0x3fffef1c,0xbf7fde3e,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>14.0</freq>
-    <q>0.9</q>
-    <boost>6.2</boost>
-    <type>SL</type>
+    <freq>16.0</freq>
+    <q>3.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000182722852846,-1.9991477546187129,0.9989662309570617,1.9991480605450864,-0.999148647883534,</dec>
-    <hex>0x3f8005fd,0xbfffe413,0x3f7fbc40,0x3fffe415,0xbf7fc835,</hex>
+    <dec>1.0000810762494134,-1.9997216691541047,0.9996416893752914,1.9997216691541047,-0.9997227656247046,</dec>
+    <hex>0x3f8002a8,0xbffff6e1,0x3f7fe885,0x3ffff6e1,0xbf7fedd5,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>15.0</freq>
-    <q>3.6</q>
-    <boost>6.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000096064508998,-1.9998059926667942,0.9997108918932432,1.9998059926667942,-0.999806956402241,</dec>
-    <hex>0x3f800326,0xbffff9a5,0x3f7fed0e,0x3ffff9a5,0xbf7ff359,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
-    <q>3.5</q>
-    <boost>13.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000306715222255,-1.999821344228041,0.999516342326935,1.999821344228041,-0.9998230575491897,</dec>
-    <hex>0x3f800a0d,0xbffffa25,0x3f7fe04e,0x3ffffa25,0xbf7ff467,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>23.0</freq>
+    <freq>25.0</freq>
     <q>5.0</q>
     <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000878461688454,-1.9997719896349713,0.9996864092779462,1.9997719896349713,-0.9997742554467914,</dec>
-    <hex>0x3f8002e1,0xbffff887,0x3f7feb73,0x3ffff887,0xbf7ff135,</hex>
+    <dec>1.0000954840224188,-1.9997519509383044,0.9996591438883621,1.9997519509383044,-0.9997546279107808,</dec>
+    <hex>0x3f800321,0xbffff7df,0x3f7fe9a9,0x3ffff7df,0xbf7fefeb,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003191396360351,-1.9980857218471595,0.9977707425585336,1.9980866322532262,-0.9980889717885018,</dec>
+    <hex>0x3f800a75,0xbfffc146,0x3f7f6de7,0x3fffc14e,0xbf7f82c2,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>14.0</freq>
-    <q>0.9</q>
-    <boost>6.2</boost>
+    <freq>10.0</freq>
+    <q>1.1</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000182722852846,-1.9991477546187129,0.9989662309570617,1.9991480605450864,-0.999148647883534,</dec>
-    <hex>0x3f8005fd,0xbfffe413,0x3f7fbc40,0x3fffe415,0xbf7fc835,</hex>
+    <dec>1.0000859634051122,-1.9994844390416697,0.9993990467276632,1.999484564013158,-0.9994848851612871,</dec>
+    <hex>0x3f8002d1,0xbfffef1b,0x3f7fd89e,0x3fffef1c,0xbf7fde3e,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>14.0</freq>
-    <q>0.9</q>
-    <boost>6.2</boost>
+    <freq>10.0</freq>
+    <q>1.1</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000182722852846,-1.9991477546187129,0.9989662309570617,1.9991480605450864,-0.999148647883534,</dec>
-    <hex>0x3f8005fd,0xbfffe413,0x3f7fbc40,0x3fffe415,0xbf7fc835,</hex>
+    <dec>1.0000859634051122,-1.9994844390416697,0.9993990467276632,1.999484564013158,-0.9994848851612871,</dec>
+    <hex>0x3f8002d1,0xbfffef1b,0x3f7fd89e,0x3fffef1c,0xbf7fde3e,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>14.0</freq>
-    <q>0.9</q>
-    <boost>6.2</boost>
-    <type>SL</type>
+    <freq>16.0</freq>
+    <q>3.0</q>
+    <boost>4.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000182722852846,-1.9991477546187129,0.9989662309570617,1.9991480605450864,-0.999148647883534,</dec>
-    <hex>0x3f8005fd,0xbfffe413,0x3f7fbc40,0x3fffe415,0xbf7fc835,</hex>
+    <dec>1.0000810762494134,-1.9997216691541047,0.9996416893752914,1.9997216691541047,-0.9997227656247046,</dec>
+    <hex>0x3f8002a8,0xbffff6e1,0x3f7fe885,0x3ffff6e1,0xbf7fedd5,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>15.0</freq>
-    <q>3.6</q>
-    <boost>6.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000096064508998,-1.9998059926667942,0.9997108918932432,1.9998059926667942,-0.999806956402241,</dec>
-    <hex>0x3f800326,0xbffff9a5,0x3f7fed0e,0x3ffff9a5,0xbf7ff359,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
-    <q>3.5</q>
-    <boost>13.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000306715222255,-1.999821344228041,0.999516342326935,1.999821344228041,-0.9998230575491897,</dec>
-    <hex>0x3f800a0d,0xbffffa25,0x3f7fe04e,0x3ffffa25,0xbf7ff467,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>23.0</freq>
+    <freq>25.0</freq>
     <q>5.0</q>
     <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000878461688454,-1.9997719896349713,0.9996864092779462,1.9997719896349713,-0.9997742554467914,</dec>
-    <hex>0x3f8002e1,0xbffff887,0x3f7feb73,0x3ffff887,0xbf7ff135,</hex>
+    <dec>1.0000954840224188,-1.9997519509383044,0.9996591438883621,1.9997519509383044,-0.9997546279107808,</dec>
+    <hex>0x3f800321,0xbffff7df,0x3f7fe9a9,0x3ffff7df,0xbf7fefeb,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>27.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003191396360351,-1.9980857218471595,0.9977707425585336,1.9980866322532262,-0.9980889717885018,</dec>
+    <hex>0x3f800a75,0xbfffc146,0x3f7f6de7,0x3fffc14e,0xbf7f82c2,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,34 +1415,37 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>3 Days to Kill</beq_title>
+    <beq_title>Murdoch Mysteries</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>3 days to kill</beq_sortTitle>
-    <beq_year>2014</beq_year>
+    <beq_sortTitle>murdoch mysteries</beq_sortTitle>
+    <beq_year>2008</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/3%20Days%20to%20Kill%20%282014%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Murdoch%20Mysteries%20%282008%29%28S16%207-22%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season id="23715">
+        <number>16</number>
+        <poster>/spSBGUvyIe67vEybSRmhWSwFKjn.jpg</poster>
+        <episodes count="22">7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</episodes>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>A dangerous international spy is determined to give up his high stakes life to finally build a closer relationship with his estranged wife and daughter. But first, he must complete one last mission - even if it means juggling the two toughest assignments yet: hunting down the world's most ruthless terrorist and looking after his teenage daughter for the first time in ten years, while his wife is out of town.</beq_overview>
-    <beq_rating>PG-13</beq_rating>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>A Victorian-era Toronto detective uses then-cutting edge forensic techniques to solve crimes, with the assistance of a female coroner who is also struggling for recognition in the face of tradition, based on the books by Maureen Jennings.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>192102</beq_theMovieDB>
-    <beq_poster>/xhSoCoiMAXa4rOM7KhFSOs3gbh7.jpg</beq_poster>
-    <beq_runtime>113</beq_runtime>
+    <beq_theMovieDB>12786</beq_theMovieDB>
+    <beq_poster>/oDeViEDiqQtIaqIaxIQZgmxMgBz.jpg</beq_poster>
+    <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="28">Action</genre>
+      <genre id="9648">Mystery</genre>
       <genre id="18">Drama</genre>
-      <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
