@@ -328,6 +328,9 @@ foreach ($file in $files) {
     elseif ($fileName.IndexOf("(EC)") -ge 0) {
         $edition = "Extended Cut"
     }
+    elseif ($fileName.IndexOf("(Prime)") -ge 0) {
+        $edition = "Prime"
+    }
     elseif ($fileName.IndexOf("(Extended)") -ge 0) {
         $edition = "Extended Cut"
     }
