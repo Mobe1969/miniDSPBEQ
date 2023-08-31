@@ -1420,7 +1420,7 @@
     <beq_sortTitle>jack reacher</beq_sortTitle>
     <beq_year>2012</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jack%20Reacher%20%282012%29%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jack%20Reacher%20(2012)%20DTS-HD%20MA%207.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1444,6 +1444,7 @@
     <beq_collection id="403374">Jack Reacher Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-HD MA 7.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

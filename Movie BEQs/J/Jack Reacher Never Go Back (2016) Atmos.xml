@@ -1420,7 +1420,7 @@
     <beq_sortTitle>jack reacher never go back</beq_sortTitle>
     <beq_year>2016</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jack%20Reacher%20Never%20Go%20Back%20%282016%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jack%20Reacher%20Never%20Go%20Back%20(2016)%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1442,6 +1442,7 @@
     <beq_collection id="403374">Jack Reacher Collection</beq_collection>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>

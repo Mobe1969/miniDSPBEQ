@@ -1420,7 +1420,7 @@
     <beq_sortTitle>spider-man across the spider-verse</beq_sortTitle>
     <beq_year>2023</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spider-Man%20Across%20the%20Spider-Verse%20(2023)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spider-Man%20Across%20the%20Spider-Verse%20(2023)%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1442,6 +1442,7 @@
     </beq_genres>
     <beq_collection id="573436">Spider-Man Spider-Verse Collection</beq_collection>
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
