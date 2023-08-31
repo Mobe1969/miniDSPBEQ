@@ -48,8 +48,7 @@ foreach ($file in $files) {
         Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) Unable to find report"
         $reportURL = ""
     } else {
-        $reportURL = [String]"https://gitlab.com/Mobe1969/beq-reports/-/raw/master" + [uri]::EscapeDataString($report.FullName.Replace("D:\BEQ\beq-reports", "").Replace("\", "/")).Replace("%2F", "/")
-        $reportURL = [String]$reportURL.Replace("(", "%28").Replace(")", "%29")
+        $reportURL = [uri]::EscapeUriString("https://gitlab.com/Mobe1969/beq-reports/-/raw/master" + $report.FullName.Replace("D:\BEQ\beq-reports", "").Replace("\", "/"))
     }
     if ($null -eq $content.setting.beq_metadata) {
         Write-Output "$($file.Name) missing metadata"
