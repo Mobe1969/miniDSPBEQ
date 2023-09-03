@@ -1420,12 +1420,12 @@
     <beq_sortTitle>special ops lioness</beq_sortTitle>
     <beq_year>2023</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Special%20Ops%20Lioness%20%282023%29%28S01%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Special%20Ops%20Lioness%20(2023)(S01)%20DD+%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season id="170740">
-        <number>1</number>
-        <poster>/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg</poster>
-        <episodes count="8">1,2,3, 4, 5, 6, 7, 8</episodes>
+      <number>1</number>
+      <poster>/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg</poster>
+      <episodes count="8">1,2,3,4,5,6,7,8</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
@@ -1446,5 +1446,5 @@
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
-  </beq_metadata>  
+  </beq_metadata>
 </setting>
