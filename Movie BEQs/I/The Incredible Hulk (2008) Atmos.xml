@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
+    <freq>11.0</freq>
+    <q>0.9</q>
+    <boost>0.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000018425721746,-1.9992180531669743,0.9992001699866573,1.9992180770358567,-0.9992185718395208,</dec>
+    <hex>0x3f80009b,0xbfffe661,0x3f7fcb95,0x3fffe661,0xbf7fccca,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
+    <freq>11.0</freq>
+    <q>0.9</q>
+    <boost>0.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000018425721746,-1.9992180531669743,0.9992001699866573,1.9992180770358567,-0.9992185718395208,</dec>
+    <hex>0x3f80009b,0xbfffe661,0x3f7fcb95,0x3fffe661,0xbf7fccca,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
+    <freq>31.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>0.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000051120875138,-1.9975133771507072,0.997466536840828,1.9975135428697368,-0.9975174919969361,</dec>
+    <hex>0x3f8001ad,0xbfffae85,0x3f7f59f8,0x3fffae86,0xbf7f5d4e,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>10.0</freq>
+    <freq>31.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>0.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000051120875138,-1.9975133771507072,0.997466536840828,1.9975135428697368,-0.9975174919969361,</dec>
+    <hex>0x3f8001ad,0xbfffae85,0x3f7f59f8,0x3fffae86,0xbf7f5d4e,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>11.0</freq>
-    <q>4.0</q>
-    <boost>2.0</boost>
-    <type>PK</type>
+    <freq>31.0</freq>
+    <q>0.8</q>
+    <boost>0.7</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000020765918232,-1.999839080941997,0.999818833307751,1.999839080941997,-0.9998395992259832,</dec>
-    <hex>0x3f8000ae,0xbffffaba,0x3f7ff421,0x3ffffaba,0xbf7ff57d,</hex>
+    <dec>1.000051120875138,-1.9975133771507072,0.997466536840828,1.9975135428697368,-0.9975174919969361,</dec>
+    <hex>0x3f8001ad,0xbfffae85,0x3f7f59f8,0x3fffae86,0xbf7f5d4e,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>31.0</freq>
+    <q>0.8</q>
+    <boost>0.7</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000051120875138,-1.9975133771507072,0.997466536840828,1.9975135428697368,-0.9975174919969361,</dec>
+    <hex>0x3f8001ad,0xbfffae85,0x3f7f59f8,0x3fffae86,0xbf7f5d4e,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
+    <freq>11.0</freq>
+    <q>0.9</q>
+    <boost>0.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000018425721746,-1.9992180531669743,0.9992001699866573,1.9992180770358567,-0.9992185718395208,</dec>
+    <hex>0x3f80009b,0xbfffe661,0x3f7fcb95,0x3fffe661,0xbf7fccca,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
-    <q>0.8</q>
-    <boost>5.0</boost>
+    <freq>11.0</freq>
+    <q>0.9</q>
+    <boost>0.8</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000018425721746,-1.9992180531669743,0.9992001699866573,1.9992180770358567,-0.9992185718395208,</dec>
+    <hex>0x3f80009b,0xbfffe661,0x3f7fcb95,0x3fffe661,0xbf7fccca,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
+    <freq>31.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>0.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000051120875138,-1.9975133771507072,0.997466536840828,1.9975135428697368,-0.9975174919969361,</dec>
+    <hex>0x3f8001ad,0xbfffae85,0x3f7f59f8,0x3fffae86,0xbf7f5d4e,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>10.0</freq>
+    <freq>31.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>0.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001181648370387,-1.9992913394224483,0.9991737456213624,1.9992914643818676,-0.9992917854989819,</dec>
-    <hex>0x3f8003df,0xbfffe8c7,0x3f7fc9da,0x3fffe8c8,0xbf7fd196,</hex>
+    <dec>1.000051120875138,-1.9975133771507072,0.997466536840828,1.9975135428697368,-0.9975174919969361,</dec>
+    <hex>0x3f8001ad,0xbfffae85,0x3f7f59f8,0x3fffae86,0xbf7f5d4e,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>11.0</freq>
-    <q>4.0</q>
-    <boost>2.0</boost>
-    <type>PK</type>
+    <freq>31.0</freq>
+    <q>0.8</q>
+    <boost>0.7</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000020765918232,-1.999839080941997,0.999818833307751,1.999839080941997,-0.9998395992259832,</dec>
-    <hex>0x3f8000ae,0xbffffaba,0x3f7ff421,0x3ffffaba,0xbf7ff57d,</hex>
+    <dec>1.000051120875138,-1.9975133771507072,0.997466536840828,1.9975135428697368,-0.9975174919969361,</dec>
+    <hex>0x3f8001ad,0xbfffae85,0x3f7f59f8,0x3fffae86,0xbf7f5d4e,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>31.0</freq>
+    <q>0.8</q>
+    <boost>0.7</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000051120875138,-1.9975133771507072,0.997466536840828,1.9975135428697368,-0.9975174919969361,</dec>
+    <hex>0x3f8001ad,0xbfffae85,0x3f7f59f8,0x3fffae86,0xbf7f5d4e,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,34 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Marlowe</beq_title>
+    <beq_title>The Incredible Hulk</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>marlowe</beq_sortTitle>
-    <beq_year>2022</beq_year>
+    <beq_sortTitle>the incredible hulk</beq_sortTitle>
+    <beq_year>2008</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Marlowe%20(2022)%20DD+%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Incredible%20Hulk%20(2008)%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
-    <beq_source>Streaming</beq_source>
-    <beq_overview>Private detective Philip Marlowe becomes embroiled in an investigation involving a wealthy Californian family after a beautiful blonde hires him to track down her former lover.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_source>Disc</beq_source>
+    <beq_overview>Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>844417</beq_theMovieDB>
-    <beq_poster>/vjAMj81oYBryzGBhJk4gcK0M636.jpg</beq_poster>
-    <beq_runtime>109</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>1724</beq_theMovieDB>
+    <beq_poster>/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg</beq_poster>
+    <beq_runtime>114</beq_runtime>
     <beq_genres>
-      <genre id="9648">Mystery</genre>
-      <genre id="53">Thriller</genre>
-      <genre id="80">Crime</genre>
+      <genre id="878">Science Fiction</genre>
+      <genre id="28">Action</genre>
+      <genre id="12">Adventure</genre>
     </beq_genres>
+    <beq_collection id="1174454">Hulk coleção</beq_collection>
     <beq_audioTypes>
-      <audioType>DD+ 5.1</audioType>
+      <audioType>Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
