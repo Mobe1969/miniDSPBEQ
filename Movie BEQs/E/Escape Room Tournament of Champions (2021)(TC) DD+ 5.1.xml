@@ -1423,7 +1423,7 @@
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Escape%20Room%20Tournament%20of%20Champions%20%282021%29%28TC%29%20DD%2B%205.1.jpg</beq_pvaURL>
     <beq_edition>Theatrical Cut</beq_edition>
     <beq_season />
-    <beq_note />
+    <beq_note>Atmos is 5dB hotter than 5.1 report.</beq_note>
     <beq_warning />
     <beq_gain />
     <beq_language>English</beq_language>
@@ -1443,6 +1443,7 @@
     <beq_collection id="769423">Escape Room Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
+      <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
