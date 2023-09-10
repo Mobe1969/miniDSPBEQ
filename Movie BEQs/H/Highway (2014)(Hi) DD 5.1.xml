@@ -1428,20 +1428,21 @@
     <beq_gain />
     <beq_language>Hindi</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>Aswin Kapoor and his wife Sabitri start a game on their way to Darjeeling in which both act as strangers.</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>Right before her wedding, a young woman finds herself abducted and held for ransom. As the initial days pass, she begins to develop a strange bond with her kidnapper.</beq_overview>
+    <beq_rating>PG-13</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>324802</beq_theMovieDB>
-    <beq_poster />
-    <beq_runtime>110</beq_runtime>
+    <beq_theMovieDB>252841</beq_theMovieDB>
+    <beq_poster>/xuTevYF35WDkElpm5vNBVaISkT9.jpg</beq_poster>
+    <beq_runtime>133</beq_runtime>
     <beq_collection />
-    <beq_genres>
-      <genre id="18">Drama</genre>
-      <genre id="10749">Romance</genre>
-    </beq_genres>
     <beq_audioTypes>
       <audioType>DD 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="18">Drama</genre>
+      <genre id="10749">Romance</genre>
+      <genre id="80">Crime</genre>
+    </beq_genres>
   </beq_metadata>
 </setting>
