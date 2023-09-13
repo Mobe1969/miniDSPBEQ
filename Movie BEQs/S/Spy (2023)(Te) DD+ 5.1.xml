@@ -1421,7 +1421,7 @@
     <beq_sortTitle>spy</beq_sortTitle>
     <beq_year>2023</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spy%20%282023%29%28Te%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spy%20(2023)(Te)%20DD+%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note>Hindi dub identical</beq_note>
@@ -1435,7 +1435,7 @@
     <beq_avs />
     <beq_theMovieDB>964132</beq_theMovieDB>
     <beq_poster>/ru2TxiCxuvIBTr1DxL13PSZTZuO.jpg</beq_poster>
-    <beq_runtime>0</beq_runtime>
+    <beq_runtime>133</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>

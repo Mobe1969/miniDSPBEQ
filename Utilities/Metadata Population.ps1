@@ -53,13 +53,43 @@ foreach ($file in $files) {
     if ($null -eq $content.setting.beq_metadata) {
         Write-Output "$($file.Name) missing metadata"
         Add-Content -Path "D:\BEQ\Errors.txt" -Value "$($file.Name) missing metadata"
-        $beq_season = [xml]"
-<beq_season>
-    <number></number>
-    <poster></poster>
-    <episodes></episodes>
-</beq_season>"
-        $beq_metadata = [xml]"
+        if ($file.FullName.Contains("Movie BEQs")) {
+            $beq_metadata = [xml]"
+<beq_metadata>
+    <beq_title />
+    <beq_alt_title />
+    <beq_sortTitle />
+    <beq_year />
+    <beq_spectrumURL />
+    <beq_pvaURL />
+    <beq_edition />
+    <beq_season />
+    <beq_note />
+    <beq_warning />
+    <beq_gain />
+    <beq_language>
+    </beq_language>
+    <beq_source>Disc</beq_source>
+    <beq_overview />
+    <beq_rating>
+    </beq_rating>
+    <beq_author>mobe1969</beq_author>
+    <beq_avs />
+    <beq_theMovieDB />
+    <beq_poster>
+    </beq_poster>
+    <beq_runtime>
+    </beq_runtime>
+    <beq_collection></beq_collection>
+    <beq_audioTypes>
+        <audioType />
+    </beq_audioTypes>
+    <beq_genres>
+    </beq_genres>
+</beq_metadata>"
+        }
+        else {
+            $beq_metadata = [xml]"
 <beq_metadata>
     <beq_title />
     <beq_alt_title />
@@ -69,6 +99,9 @@ foreach ($file in $files) {
     <beq_pvaURL />
     <beq_edition />
     <beq_season>
+        <number></number>
+        <poster></poster>
+        <episodes count=""0""></episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
@@ -93,6 +126,7 @@ foreach ($file in $files) {
     <beq_genres>
     </beq_genres>
 </beq_metadata>"
+        }
         $import = $content.ImportNode($beq_metadata.beq_metadata, $true)
         $content.setting.AppendChild($import)
         $content.Save($file.FullName)
@@ -395,7 +429,7 @@ foreach ($file in $files) {
             $safeTitle = [uri]::EscapeDataString($beqMetadata.beq_title)
         }
         $year = $beqMetadata.beq_year
-        if ($file.FullName.Contains("Movie")) {
+        if ($file.FullName.Contains("Movie BEQs")) {
             $ItemType = "movie"
         }
         else {
@@ -444,6 +478,55 @@ foreach ($file in $files) {
                     Write-Output "Updating title to $($beqMetadata.beq_title)"
                     $save = $true
                 }
+                # Todo Figure out season data
+                $season = 1
+                if ($fileName.IndexOf("(S1)") -ge 0 -or $fileName.IndexOf("(S01)") -ge 0) {
+                    $season = 1
+                }
+                elseif ($fileName.IndexOf("(S2)") -ge 0 -or $fileName.IndexOf("(S02)") -ge 0) {
+                    $season = 2
+                }
+                elseif ($fileName.IndexOf("(S3)") -ge 0 -or $fileName.IndexOf("(S03)") -ge 0) {
+                    $season = 3
+                }
+                elseif ($fileName.IndexOf("(S4)") -ge 0 -or $fileName.IndexOf("(S04)") -ge 0) {
+                    $season = 4
+                }
+                elseif ($fileName.IndexOf("(S5)") -ge 0 -or $fileName.IndexOf("(S05)") -ge 0) {
+                    $season = 5
+                }
+                $beqMetadata.beq_season.SetAttribute("id", $result.seasons[$season-1].id)
+                $beqMetadata.beq_season.number = "$season"
+                $poster = $result.seasons[$season-1].poster_path
+                $beqMetadata.beq_season.poster = "$poster"
+                $episodeCount = $result.seasons[$season-1].episode_count
+                $beqMetadata.beq_season.episodes.SetAttribute("count", $episodeCount)
+                $Episodes = "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+                switch ($episodeCount)
+                {
+                    1  { $Episodes = '1'    }
+                    2  { $Episodes = '1,2'   }
+                    3  { $Episodes = '1,2,3' }
+                    4  { $Episodes = '1,2,3,4'  }
+                    5  { $Episodes = '1,2,3,4,5'    }
+                    6  { $Episodes = '1,2,3,4,5,6'  }
+                    7  { $Episodes = '1,2,3,4,5,6,7'  }
+                    8  { $Episodes = '1,2,3,4,5,6,7,8'  }
+                    9  { $Episodes = '1,2,3,4,5,6,7,8,9'  }
+                    10 { $Episodes = '1,2,3,4,5,6,7,8,9,10'  }
+                    11 { $Episodes = '1,2,3,4,5,6,7,8,9,10,11'  }
+                    12 { $Episodes = '1,2,3,4,5,6,7,8,9,10,11,12'  }
+                    13 { $Episodes = '1,2,3,4,5,6,7,8,9,10,11,12,13'  }
+                    14 { $Episodes = '1,2,3,4,5,6,7,8,9,10,11,12,13,14'  }
+                    15 { $Episodes = '1,2,3,4,5,6,7,8,9,10,11,12,13,14,15'  }
+                    16 { $Episodes = '1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16'  }
+                    17 { $Episodes = '1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17'  }
+                    18 { $Episodes = '1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18'  }
+                    19 { $Episodes = "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19"  }
+                }
+                $beqMetadata.beq_season.episodes.InnerText = $Episodes
+                $save = $true
+
             } else {
                 if ($beqMetadata.beq_title -ne $result.title) {
                     $beqMetadata.beq_title = $result.title
