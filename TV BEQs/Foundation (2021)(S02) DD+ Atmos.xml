@@ -1425,7 +1425,7 @@
     <beq_season id="322843">
       <number>2</number>
       <poster>/1AZERr7KEJBpcchQ6vFcbUUC0Zw.jpg</poster>
-      <episodes count="10">1,2,3,4,5.6.7.8.9.10</episodes>
+      <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
     </beq_season>
     <beq_note />
     <beq_warning />
@@ -1441,7 +1441,7 @@
     <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="10765">Sci-Fi</genre>
+      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
       <genre id="18">Drama</genre>
     </beq_genres>
     <beq_audioTypes>
