@@ -1441,7 +1441,7 @@
     <beq_runtime>0</beq_runtime>
     <beq_collection />
     <beq_genres>
-      <genre id="10765">Sci-Fi &amp; Fantasy</genre>
+      <genre id="10765">Sci-Fi</genre>
       <genre id="18">Drama</genre>
     </beq_genres>
     <beq_audioTypes>
