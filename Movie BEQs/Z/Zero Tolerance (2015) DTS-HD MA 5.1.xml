@@ -1420,7 +1420,7 @@
     <beq_sortTitle>zero tolerance</beq_sortTitle>
     <beq_year>2015</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zero%20Tolerance%20%282015%29%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zero%20Tolerance%20(2015)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1437,6 +1437,7 @@
     <beq_runtime>89</beq_runtime>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
     <beq_genres>
       <genre id="53">Thriller</genre>
