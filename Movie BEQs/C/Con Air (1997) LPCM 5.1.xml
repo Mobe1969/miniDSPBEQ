@@ -1420,7 +1420,7 @@
     <beq_sortTitle>con air</beq_sortTitle>
     <beq_year>1997</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Con%20Air%20%281997%29%20LPCM%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Con%20Air%20(1997)%20LPCM%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1443,6 +1443,7 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>LPCM 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
       <audioType>DD 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>

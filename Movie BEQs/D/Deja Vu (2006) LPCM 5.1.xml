@@ -1420,7 +1420,7 @@
     <beq_sortTitle>deja vu</beq_sortTitle>
     <beq_year>2006</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deja%20Vu%20%282006%29%20LPCM%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deja%20Vu%20(2006)%20LPCM%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1443,6 +1443,7 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>LPCM 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
