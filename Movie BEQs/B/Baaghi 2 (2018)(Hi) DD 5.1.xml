@@ -1418,9 +1418,9 @@
     <beq_title>Baaghi 2</beq_title>
     <beq_alt_title />
     <beq_sortTitle>baaghi 2</beq_sortTitle>
-    <beq_year>2020</beq_year>
+    <beq_year>2018</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Baaghi%202%20(2020)(Hi)%20DD%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Baaghi%202%20(2018)(Hi)%20DD%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1428,17 +1428,23 @@
     <beq_gain />
     <beq_language>Hindi</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview />
-    <beq_rating />
+    <beq_overview>A battle-hardened army officer goes in search of his ex-lover's child who is mysteriously kidnapped. Neha reaches out to the only person who can help her with her plight, Ronnie. He goes deep into the underbelly of Goa, facing off against drug lords, menacing Russian henchmen, and blood thirsty animals. Daring stunts, chase sequences, air strikes, bomb blasts and other large-scale action sequences will be done with a bona-fide, larger than life approach, truly making it a spectacle.</beq_overview>
+    <beq_rating>12A</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB />
-    <beq_poster />
-    <beq_runtime />
-    <beq_collection />
-    <beq_genres />
+    <beq_theMovieDB>496316</beq_theMovieDB>
+    <beq_poster>/gwX6mKjfxBYbq46CoIpcxIAmIMx.jpg</beq_poster>
+    <beq_runtime>145</beq_runtime>
     <beq_audioTypes>
       <audioType>DD 5.1</audioType>
     </beq_audioTypes>
+    <beq_genres>
+      <genre id="28">Action</genre>
+      <genre id="80">Crime</genre>
+      <genre id="12">Adventure</genre>
+      <genre id="9648">Mystery</genre>
+      <genre id="53">Thriller</genre>
+    </beq_genres>
+    <beq_collection id="506940">Baaghi Collection</beq_collection>
   </beq_metadata>
 </setting>
