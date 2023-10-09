@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001511100212626,-1.9988326115316486,0.9986832477707708,1.9988329337539334,-0.9988340355697485,</dec>
-    <hex>0x3f8004f4,0xbfffd9bf,0x3f7fa9b5,0x3fffd9c2,0xbf7fb396,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001511100212626,-1.9988326115316486,0.9986832477707708,1.9988329337539334,-0.9988340355697485,</dec>
-    <hex>0x3f8004f4,0xbfffd9bf,0x3f7fa9b5,0x3fffd9c2,0xbf7fb396,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001511100212626,-1.9988326115316486,0.9986832477707708,1.9988329337539334,-0.9988340355697485,</dec>
-    <hex>0x3f8004f4,0xbfffd9bf,0x3f7fa9b5,0x3fffd9c2,0xbf7fb396,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001511100212626,-1.9988326115316486,0.9986832477707708,1.9988329337539334,-0.9988340355697485,</dec>
-    <hex>0x3f8004f4,0xbfffd9bf,0x3f7fa9b5,0x3fffd9c2,0xbf7fb396,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>18.0</freq>
-    <q>1.8</q>
-    <boost>4.6</boost>
+    <freq>14.0</freq>
+    <q>2.3</q>
+    <boost>4.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001752978097636,-1.999496501720563,0.9993225914753148,1.999496501720563,-0.9994978892850783,</dec>
-    <hex>0x3f8005bf,0xbfffef80,0x3f7fd39b,0x3fffef80,0xbf7fdf18,</hex>
+    <dec>1.000104341342661,-1.999691733523756,0.9995882316537418,1.999691733523756,-0.9996925729964025,</dec>
+    <hex>0x3f80036b,0xbffff5e6,0x3f7fe504,0x3ffff5e6,0xbf7febda,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001821198967413,-1.999021916278611,0.9988409481394728,1.9990221864323154,-0.9990227978825104,</dec>
+    <hex>0x3f8005f8,0xbfffdff3,0x3f7fb40a,0x3fffdff6,0xbf7fbff5,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001821198967413,-1.999021916278611,0.9988409481394728,1.9990221864323154,-0.9990227978825104,</dec>
+    <hex>0x3f8005f8,0xbfffdff3,0x3f7fb40a,0x3fffdff6,0xbf7fbff5,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001821198967413,-1.999021916278611,0.9988409481394728,1.9990221864323154,-0.9990227978825104,</dec>
+    <hex>0x3f8005f8,0xbfffdff3,0x3f7fb40a,0x3fffdff6,0xbf7fbff5,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>19.0</freq>
+    <q>2.0</q>
+    <boost>7.5</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0002768026750504,-1.9995947671851724,0.9993195106071602,1.9995947671851724,-0.9995963132822108,</dec>
+    <hex>0x3f800912,0xbffff2b9,0x3f7fd367,0x3ffff2b9,0xbf7fe58b,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>23.0</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001511100212626,-1.9988326115316486,0.9986832477707708,1.9988329337539334,-0.9988340355697485,</dec>
-    <hex>0x3f8004f4,0xbfffd9bf,0x3f7fa9b5,0x3fffd9c2,0xbf7fb396,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001511100212626,-1.9988326115316486,0.9986832477707708,1.9988329337539334,-0.9988340355697485,</dec>
-    <hex>0x3f8004f4,0xbfffd9bf,0x3f7fa9b5,0x3fffd9c2,0xbf7fb396,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001511100212626,-1.9988326115316486,0.9986832477707708,1.9988329337539334,-0.9988340355697485,</dec>
-    <hex>0x3f8004f4,0xbfffd9bf,0x3f7fa9b5,0x3fffd9c2,0xbf7fb396,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>18.0</freq>
-    <q>0.9</q>
-    <boost>4.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001511100212626,-1.9988326115316486,0.9986832477707708,1.9988329337539334,-0.9988340355697485,</dec>
-    <hex>0x3f8004f4,0xbfffd9bf,0x3f7fa9b5,0x3fffd9c2,0xbf7fb396,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>18.0</freq>
-    <q>1.8</q>
-    <boost>4.6</boost>
+    <freq>14.0</freq>
+    <q>2.3</q>
+    <boost>4.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001752978097636,-1.999496501720563,0.9993225914753148,1.999496501720563,-0.9994978892850783,</dec>
-    <hex>0x3f8005bf,0xbfffef80,0x3f7fd39b,0x3fffef80,0xbf7fdf18,</hex>
+    <dec>1.000104341342661,-1.999691733523756,0.9995882316537418,1.999691733523756,-0.9996925729964025,</dec>
+    <hex>0x3f80036b,0xbffff5e6,0x3f7fe504,0x3ffff5e6,0xbf7febda,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001821198967413,-1.999021916278611,0.9988409481394728,1.9990221864323154,-0.9990227978825104,</dec>
+    <hex>0x3f8005f8,0xbfffdff3,0x3f7fb40a,0x3fffdff6,0xbf7fbff5,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001821198967413,-1.999021916278611,0.9988409481394728,1.9990221864323154,-0.9990227978825104,</dec>
+    <hex>0x3f8005f8,0xbfffdff3,0x3f7fb40a,0x3fffdff6,0xbf7fbff5,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>14.0</freq>
+    <q>0.8</q>
+    <boost>5.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001821198967413,-1.999021916278611,0.9988409481394728,1.9990221864323154,-0.9990227978825104,</dec>
+    <hex>0x3f8005f8,0xbfffdff3,0x3f7fb40a,0x3fffdff6,0xbf7fbff5,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>19.0</freq>
+    <q>2.0</q>
+    <boost>7.5</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0002768026750504,-1.9995947671851724,0.9993195106071602,1.9995947671851724,-0.9995963132822108,</dec>
+    <hex>0x3f800912,0xbffff2b9,0x3f7fd367,0x3ffff2b9,0xbf7fe58b,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>23.0</freq>
@@ -1415,34 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>The Menu</beq_title>
+    <beq_title>Fukrey</beq_title>
     <beq_alt_title />
-    <beq_sortTitle>the menu</beq_sortTitle>
-    <beq_year>2022</beq_year>
+    <beq_sortTitle>fukrey</beq_sortTitle>
+    <beq_year>2013</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Menu%20(2022)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fukrey%20(2013)(Hi)%20DD+%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>English</beq_language>
-    <beq_source>Disc</beq_source>
-    <beq_overview>A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_language>Hindi</beq_language>
+    <beq_source>Streaming</beq_source>
+    <beq_overview>The paths of four dream-chasing college friends cross with an array of colourful characters, from a tough-talking Punjabi female don to a Jugaad Baaz college watchman. Mayhem ensues.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>593643</beq_theMovieDB>
-    <beq_poster>/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg</beq_poster>
-    <beq_runtime>107</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>199139</beq_theMovieDB>
+    <beq_poster>/wAXcxLLFKeqFdlhORajj4pZrPTz.jpg</beq_poster>
+    <beq_runtime>137</beq_runtime>
     <beq_genres>
-      <genre id="27">Horror</genre>
-      <genre id="53">Thriller</genre>
+      <genre id="35">Comedy</genre>
+      <genre id="18">Drama</genre>
+      <genre id="10749">Romance</genre>
     </beq_genres>
+    <beq_collection id="489399">Fukrey Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DD+ Atmos</audioType>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
