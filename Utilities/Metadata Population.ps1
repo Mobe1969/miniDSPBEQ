@@ -480,7 +480,10 @@ foreach ($file in $files) {
                 }
                 # Todo Figure out season data
                 $season = 1
-                if ($fileName.IndexOf("(S1)") -ge 0 -or $fileName.IndexOf("(S01)") -ge 0) {
+                if ($fileName.IndexOf("(S0)") -ge 0 -or $fileName.IndexOf("(S00)") -ge 0) {
+                    $season = 0
+                }
+                elseif ($fileName.IndexOf("(S1)") -ge 0 -or $fileName.IndexOf("(S01)") -ge 0) {
                     $season = 1
                 }
                 elseif ($fileName.IndexOf("(S2)") -ge 0 -or $fileName.IndexOf("(S02)") -ge 0) {
