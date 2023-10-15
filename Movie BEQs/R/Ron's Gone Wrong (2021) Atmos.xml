@@ -1420,7 +1420,7 @@
     <beq_sortTitle>ron's gone wrong</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Ron%27s%20Gone%20Wrong%20%282021%29%20Atmos.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Ron's%20Gone%20Wrong%20(2021)%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1444,6 +1444,7 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>Atmos</audioType>
+      <audioType>DD+ Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
