@@ -1443,7 +1443,9 @@
       <genre id="10751">Family</genre>
     </beq_genres>
     <beq_audioTypes>
+      <audioType>Atmos</audioType>
       <audioType>DD+ Atmos</audioType>
+      <audioType>DTS-HD MA 7.1</audioType>
       <audioType>DD+ 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
