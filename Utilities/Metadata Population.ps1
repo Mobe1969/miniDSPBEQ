@@ -139,13 +139,6 @@ foreach ($file in $files) {
     }elseif (-1 -ne $file.Name.IndexOf("(20")) {
         $title = $file.Name.SubString(0, $file.Name.IndexOf("(20")).Trim()
     }
-    if ($title.Contains("-")) {
-        $dash = $title.IndexOf("-")
-        $dashToColon = '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'
-        if ($title.Substring($dash + 1, 1).IndexOfAny($dashToColon) -ge 0 -and $title.Substring($dash - 1, 1).IndexOfAny($dashToColon) -ge 0) {
-            $title = $title.Replace("-", ":")
-        }
-    }
     if ($beqMetadata.beq_title -eq "") {
         if (!$beqMetadata.beq_title.Equals($title, 3)) {
             $beqMetadata.beq_title = $title
