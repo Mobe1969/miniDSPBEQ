@@ -1420,8 +1420,8 @@
     <beq_sortTitle>pathaan</beq_sortTitle>
     <beq_year>2023</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pathaan%20(2023)(Hi)%20DD+%20Atmos.jpg</beq_pvaURL>
-    <beq_edition />
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pathaan%20(2023)(Hi)(EC)%20DD+%20Atmos.jpg</beq_pvaURL>
+    <beq_edition>Extended Cut</beq_edition>
     <beq_season />
     <beq_note />
     <beq_warning />
@@ -1434,7 +1434,7 @@
     <beq_avs />
     <beq_theMovieDB>864692</beq_theMovieDB>
     <beq_poster>/nb7sNbkgqsO3o1qSOho1cwOPvVE.jpg</beq_poster>
-    <beq_runtime>146</beq_runtime>
+    <beq_runtime>149</beq_runtime>
     <beq_collection />
     <beq_genres>
       <genre id="28">Action</genre>
