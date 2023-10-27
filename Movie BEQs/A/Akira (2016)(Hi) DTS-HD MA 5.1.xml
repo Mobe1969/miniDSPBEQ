@@ -1422,24 +1422,26 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Akira%20(2016)(Hi)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Hindi</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.</beq_overview>
-    <beq_rating>R</beq_rating>
+    <beq_overview>Akira Sharma is your average Jane from Jodhpur. Early in life she sees an atrocity committed on a neighbour and learns to defend herself. And, a spitfire is born.</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>149</beq_theMovieDB>
-    <beq_poster>/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg</beq_poster>
-    <beq_runtime>124</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>404579</beq_theMovieDB>
+    <beq_poster>/jU0gw5z6JrazhGOh4UfULKqt268.jpg</beq_poster>
+    <beq_runtime>138</beq_runtime>
+    <beq_collection>
+    </beq_collection>
     <beq_genres>
-      <genre id="16">Animation</genre>
-      <genre id="878">Science Fiction</genre>
       <genre id="28">Action</genre>
+      <genre id="80">Crime</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
