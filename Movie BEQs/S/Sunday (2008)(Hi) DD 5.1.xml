@@ -1422,23 +1422,25 @@
     <beq_spectrumURL />
     <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sunday%20(2008)(Hi)%20DD%205.1.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season />
+    <beq_season>
+    </beq_season>
     <beq_note />
     <beq_warning />
     <beq_gain />
     <beq_language>Hindi</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>In a world where nothing is perfect, isn't it a nice thought that a single day can be. Waking one Sunday morning, two young lovers make a pact not to get out of bed all day...no matter what. When nature calls...figure it out. When hunger strikes...make a plan. When boredom hits...play. This experimental love story attempts to create honest moments between two people and tickle your funny bone along the way. Life may suck tomorrow, but today is Sunday!</beq_overview>
-    <beq_rating>NR</beq_rating>
+    <beq_overview>A dead body found floating in a lake… Unexplained scratch marks on her neck… Supari killers out to kill her… A taxi driver who yells ‘bhoot, bhoot’ every time he sees her...</beq_overview>
+    <beq_rating>PG</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>270666</beq_theMovieDB>
-    <beq_poster />
-    <beq_runtime>71</beq_runtime>
-    <beq_collection />
+    <beq_theMovieDB>20917</beq_theMovieDB>
+    <beq_poster>/rEFD2MOV4XrjVTmNwPP7p2Sm7hp.jpg</beq_poster>
+    <beq_runtime>130</beq_runtime>
+    <beq_collection>
+    </beq_collection>
     <beq_genres>
-      <genre id="10749">Romance</genre>
       <genre id="35">Comedy</genre>
+      <genre id="53">Thriller</genre>
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD 5.1</audioType>
