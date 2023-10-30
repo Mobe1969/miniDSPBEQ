@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>12.0</freq>
-    <q>1.7</q>
-    <boost>3.0</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000801659598746,-1.9996107352014936,0.9995311859719935,1.9996107352014936,-0.9996113519318682,</dec>
-    <hex>0x3f8002a0,0xbffff33f,0x3f7fe147,0x3ffff33f,0xbf7fe688,</hex>
+    <dec>1.00010627806077,-1.9992810808100292,0.9991753575809033,1.9992811929797478,-0.9992815234719545,</dec>
+    <hex>0x3f80037c,0xbfffe871,0x3f7fc9f5,0x3fffe872,0xbf7fd0ea,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
-    <q>1.8</q>
-    <boost>2.5</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000944885600447,-1.9994320008569277,0.9993388998166377,1.9994320008569277,-0.9994333883766823,</dec>
-    <hex>0x3f800319,0xbfffed63,0x3f7fd4ad,0x3fffed63,0xbf7fdade,</hex>
+    <dec>1.00010627806077,-1.9992810808100292,0.9991753575809033,1.9992811929797478,-0.9992815234719545,</dec>
+    <hex>0x3f80037c,0xbfffe871,0x3f7fc9f5,0x3fffe872,0xbf7fd0ea,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>27.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>27.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>27.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>28.0</freq>
-    <q>5.0</q>
-    <boost>2.0</boost>
+    <freq>13.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000042283426289,-1.9996700351399777,0.9996311095713621,1.9996700351399777,-0.9996733929976512,</dec>
-    <hex>0x3f800163,0xbffff530,0x3f7fe7d3,0x3ffff530,0xbf7fea98,</hex>
+    <dec>1.0000827542000725,-1.9997866167760907,0.9997045864413346,1.9997866167760907,-0.9997873406414072,</dec>
+    <hex>0x3f8002b6,0xbffff902,0x3f7feca4,0x3ffff902,0xbf7ff210,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001569022447458,-1.99859393828509,0.998438926290837,1.9985942517416264,-0.9985955150790463,</dec>
+    <hex>0x3f800524,0xbfffd1ed,0x3f7f99b2,0x3fffd1f0,0xbf7fa3f5,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001569022447458,-1.99859393828509,0.998438926290837,1.9985942517416264,-0.9985955150790463,</dec>
+    <hex>0x3f800524,0xbfffd1ed,0x3f7f99b2,0x3fffd1f0,0xbf7fa3f5,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>25.0</freq>
+    <q>6.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000473239362786,-1.9997678945001192,0.9997232475576598,1.9997678945001192,-0.9997705714939383,</dec>
+    <hex>0x3f80018d,0xbffff865,0x3f7feddd,0x3ffff865,0xbf7ff0f7,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>12.0</freq>
-    <q>1.7</q>
-    <boost>3.0</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000801659598746,-1.9996107352014936,0.9995311859719935,1.9996107352014936,-0.9996113519318682,</dec>
-    <hex>0x3f8002a0,0xbffff33f,0x3f7fe147,0x3ffff33f,0xbf7fe688,</hex>
+    <dec>1.00010627806077,-1.9992810808100292,0.9991753575809033,1.9992811929797478,-0.9992815234719545,</dec>
+    <hex>0x3f80037c,0xbfffe871,0x3f7fc9f5,0x3fffe872,0xbf7fd0ea,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
-    <q>1.8</q>
-    <boost>2.5</boost>
-    <type>PK</type>
+    <freq>10.0</freq>
+    <q>0.8</q>
+    <boost>4.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000944885600447,-1.9994320008569277,0.9993388998166377,1.9994320008569277,-0.9994333883766823,</dec>
-    <hex>0x3f800319,0xbfffed63,0x3f7fd4ad,0x3fffed63,0xbf7fdade,</hex>
+    <dec>1.00010627806077,-1.9992810808100292,0.9991753575809033,1.9992811929797478,-0.9992815234719545,</dec>
+    <hex>0x3f80037c,0xbfffe871,0x3f7fc9f5,0x3fffe872,0xbf7fd0ea,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>27.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>27.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>27.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>28.0</freq>
-    <q>5.0</q>
-    <boost>2.0</boost>
+    <freq>13.0</freq>
+    <q>3.0</q>
+    <boost>5.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000042283426289,-1.9996700351399777,0.9996311095713621,1.9996700351399777,-0.9996733929976512,</dec>
-    <hex>0x3f800163,0xbffff530,0x3f7fe7d3,0x3ffff530,0xbf7fea98,</hex>
+    <dec>1.0000827542000725,-1.9997866167760907,0.9997045864413346,1.9997866167760907,-0.9997873406414072,</dec>
+    <hex>0x3f8002b6,0xbffff902,0x3f7feca4,0x3ffff902,0xbf7ff210,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001569022447458,-1.99859393828509,0.998438926290837,1.9985942517416264,-0.9985955150790463,</dec>
+    <hex>0x3f800524,0xbfffd1ed,0x3f7f99b2,0x3fffd1f0,0xbf7fa3f5,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>19.0</freq>
+    <q>0.8</q>
+    <boost>3.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001569022447458,-1.99859393828509,0.998438926290837,1.9985942517416264,-0.9985955150790463,</dec>
+    <hex>0x3f800524,0xbfffd1ed,0x3f7f99b2,0x3fffd1f0,0xbf7fa3f5,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>25.0</freq>
+    <q>6.0</q>
+    <boost>3.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>1.0000473239362786,-1.9997678945001192,0.9997232475576598,1.9997678945001192,-0.9997705714939383,</dec>
+    <hex>0x3f80018d,0xbffff865,0x3f7feddd,0x3ffff865,0xbf7ff0f7,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,32 +1415,31 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Gangs of Wasseypur - Part 2</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>gangs of wasseypur - part 2</beq_sortTitle>
-    <beq_year>2012</beq_year>
+    <beq_title>Orphan: First Kill</beq_title>
+    <beq_alt_title>Orphan First Kill</beq_alt_title>
+    <beq_sortTitle>orphan first kill</beq_sortTitle>
+    <beq_year>2022</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gangs%20of%20Wasseypur%20-%20Part%202%20(2012)(Hi)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition>German Blu-Ray</beq_edition>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Orphan%20First%20Kill%20(2022)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
+    <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Hindi</beq_language>
+    <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>After the death of his father and brother Danish, Faizal Khan vows to take revenge by destroying Ramadhir Singh's gang.</beq_overview>
-    <beq_rating>18</beq_rating>
+    <beq_overview>After escaping from an Estonian psychiatric facility, Leena Klammer travels to America by impersonating Esther, the missing daughter of a wealthy family. But when her mask starts to slip, she is put against a mother who will protect her family from the murderous “child” at any cost.</beq_overview>
+    <beq_rating>R</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>126400</beq_theMovieDB>
-    <beq_poster>/4CVPyT10Cvw9BCgWNKXiRcXntuc.jpg</beq_poster>
-    <beq_runtime>160</beq_runtime>
+    <beq_theMovieDB>760161</beq_theMovieDB>
+    <beq_poster>/pHkKbIRoCe7zIFvqan9LFSaQAde.jpg</beq_poster>
+    <beq_runtime>99</beq_runtime>
     <beq_genres>
-      <genre id="28">Action</genre>
-      <genre id="80">Crime</genre>
+      <genre id="27">Horror</genre>
       <genre id="53">Thriller</genre>
     </beq_genres>
-    <beq_collection id="244500">Gangs of Wasseypur Collection</beq_collection>
+    <beq_collection id="760193">Orphan Collection</beq_collection>
     <beq_audioTypes>
       <audioType>DTS-HD MA 5.1</audioType>
     </beq_audioTypes>

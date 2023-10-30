@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>12.0</freq>
-    <q>1.7</q>
-    <boost>3.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000801659598746,-1.9996107352014936,0.9995311859719935,1.9996107352014936,-0.9996113519318682,</dec>
-    <hex>0x3f8002a0,0xbffff33f,0x3f7fe147,0x3ffff33f,0xbf7fe688,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
-    <q>1.8</q>
-    <boost>2.5</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000944885600447,-1.9994320008569277,0.9993388998166377,1.9994320008569277,-0.9994333883766823,</dec>
-    <hex>0x3f800319,0xbfffed63,0x3f7fd4ad,0x3fffed63,0xbf7fdade,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>27.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>4.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
+    <dec>1.00019834622067,-1.9985493527871956,0.9983531870987272,1.998549770800668,-0.9985511153059247,</dec>
+    <hex>0x3f800680,0xbfffd077,0x3f7f9413,0x3fffd07b,0xbf7fa10c,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>4.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.00019834622067,-1.9985493527871956,0.9983531870987272,1.998549770800668,-0.9985511153059247,</dec>
+    <hex>0x3f800680,0xbfffd077,0x3f7f9413,0x3fffd07b,0xbf7fa10c,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>4.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.00019834622067,-1.9985493527871956,0.9983531870987272,1.998549770800668,-0.9985511153059247,</dec>
+    <hex>0x3f800680,0xbfffd077,0x3f7f9413,0x3fffd07b,0xbf7fa10c,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>27.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>27.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>28.0</freq>
-    <q>5.0</q>
+    <q>6.0</q>
     <boost>2.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000042283426289,-1.9996700351399777,0.9996311095713621,1.9996700351399777,-0.9996733929976512,</dec>
-    <hex>0x3f800163,0xbffff530,0x3f7fe7d3,0x3ffff530,0xbf7fea98,</hex>
+    <dec>1.0000339788445574,-1.9997344171212688,0.99970356067061,1.9997344171212688,-0.9997375395151674,</dec>
+    <hex>0x3f80011d,0xbffff74c,0x3f7fec93,0x3ffff74c,0xbf7feecd,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>31.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001461374526184,-1.9976044155336579,0.9974628914793411,1.9976048899565442,-0.997608554509073,</dec>
+    <hex>0x3f8004ca,0xbfffb180,0x3f7f59ba,0x3fffb184,0xbf7f6346,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>12.0</freq>
-    <q>1.7</q>
-    <boost>3.0</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000801659598746,-1.9996107352014936,0.9995311859719935,1.9996107352014936,-0.9996113519318682,</dec>
-    <hex>0x3f8002a0,0xbffff33f,0x3f7fe147,0x3ffff33f,0xbf7fe688,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
-    <q>1.8</q>
-    <boost>2.5</boost>
-    <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0000944885600447,-1.9994320008569277,0.9993388998166377,1.9994320008569277,-0.9994333883766823,</dec>
-    <hex>0x3f800319,0xbfffed63,0x3f7fd4ad,0x3fffed63,0xbf7fdade,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>27.0</freq>
+    <freq>20.0</freq>
     <q>0.8</q>
-    <boost>3.0</boost>
+    <boost>4.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
+    <dec>1.00019834622067,-1.9985493527871956,0.9983531870987272,1.998549770800668,-0.9985511153059247,</dec>
+    <hex>0x3f800680,0xbfffd077,0x3f7f9413,0x3fffd07b,0xbf7fa10c,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>4.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.00019834622067,-1.9985493527871956,0.9983531870987272,1.998549770800668,-0.9985511153059247,</dec>
+    <hex>0x3f800680,0xbfffd077,0x3f7f9413,0x3fffd07b,0xbf7fa10c,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>20.0</freq>
+    <q>0.8</q>
+    <boost>4.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.00019834622067,-1.9985493527871956,0.9983531870987272,1.998549770800668,-0.9985511153059247,</dec>
+    <hex>0x3f800680,0xbfffd077,0x3f7f9413,0x3fffd07b,0xbf7fa10c,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>27.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>27.0</freq>
-    <q>0.8</q>
-    <boost>3.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0001910490106223,-1.9979726847171628,0.9977853434098856,1.9979732261423586,-0.9979758509953116,</dec>
-    <hex>0x3f800643,0xbfffbd92,0x3f7f6edc,0x3fffbd96,0xbf7f7b58,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>28.0</freq>
-    <q>5.0</q>
+    <q>6.0</q>
     <boost>2.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000042283426289,-1.9996700351399777,0.9996311095713621,1.9996700351399777,-0.9996733929976512,</dec>
-    <hex>0x3f800163,0xbffff530,0x3f7fe7d3,0x3ffff530,0xbf7fea98,</hex>
+    <dec>1.0000339788445574,-1.9997344171212688,0.99970356067061,1.9997344171212688,-0.9997375395151674,</dec>
+    <hex>0x3f80011d,0xbffff74c,0x3f7fec93,0x3ffff74c,0xbf7feecd,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>31.0</freq>
+    <q>0.8</q>
+    <boost>2.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001461374526184,-1.9976044155336579,0.9974628914793411,1.9976048899565442,-0.997608554509073,</dec>
+    <hex>0x3f8004ca,0xbfffb180,0x3f7f59ba,0x3fffb184,0xbf7f6346,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1415,34 +1415,34 @@
   </filter>
   <link />
   <beq_metadata>
-    <beq_title>Gangs of Wasseypur - Part 2</beq_title>
-    <beq_alt_title />
-    <beq_sortTitle>gangs of wasseypur - part 2</beq_sortTitle>
-    <beq_year>2012</beq_year>
+    <beq_title>The White Storm 3: Heaven or Hell</beq_title>
+    <beq_alt_title>The White Storm 3 Heaven or Hell</beq_alt_title>
+    <beq_sortTitle>the white storm 3 heaven or hell</beq_sortTitle>
+    <beq_year>2023</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gangs%20of%20Wasseypur%20-%20Part%202%20(2012)(Hi)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL>
-    <beq_edition>German Blu-Ray</beq_edition>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20White%20Storm%203%20Heaven%20or%20Hell%20(2023)(Ca)%20Atmos.jpg</beq_pvaURL>
+    <beq_edition />
     <beq_season />
     <beq_note />
     <beq_warning />
     <beq_gain />
-    <beq_language>Hindi</beq_language>
+    <beq_language>Cantonese</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview>After the death of his father and brother Danish, Faizal Khan vows to take revenge by destroying Ramadhir Singh's gang.</beq_overview>
-    <beq_rating>18</beq_rating>
+    <beq_overview>Hong Kong police agent Cheung (by Aaron Kwok) works undercover in Kang’s (by Sean Lau) drug cartel, while another undercover cop Au (by Louis Koo) successfully earns their trust in an incident, a brotherly-bond is built among the three. After the Police busts the syndicate in Hong Kong, Kang subsequently hides away in the Golden Triangle, by chance he receives a tip-off about the betrayal within his circle of trust…</beq_overview>
+    <beq_rating>NR</beq_rating>
     <beq_author>mobe1969</beq_author>
     <beq_avs />
-    <beq_theMovieDB>126400</beq_theMovieDB>
-    <beq_poster>/4CVPyT10Cvw9BCgWNKXiRcXntuc.jpg</beq_poster>
-    <beq_runtime>160</beq_runtime>
+    <beq_theMovieDB>1093485</beq_theMovieDB>
+    <beq_poster>/kPjZsEni0KF0IXGXh0kaxNESdGE.jpg</beq_poster>
+    <beq_runtime>125</beq_runtime>
     <beq_genres>
       <genre id="28">Action</genre>
+      <genre id="18">Drama</genre>
       <genre id="80">Crime</genre>
-      <genre id="53">Thriller</genre>
     </beq_genres>
-    <beq_collection id="244500">Gangs of Wasseypur Collection</beq_collection>
+    <beq_collection id="644309">The White Storm Collection</beq_collection>
     <beq_audioTypes>
-      <audioType>DTS-HD MA 5.1</audioType>
+      <audioType>Atmos</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
