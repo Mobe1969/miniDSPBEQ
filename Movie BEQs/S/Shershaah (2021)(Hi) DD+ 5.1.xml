@@ -1420,7 +1420,7 @@
     <beq_sortTitle>shershaah</beq_sortTitle>
     <beq_year>2021</beq_year>
     <beq_spectrumURL />
-    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shershaah%20%282021%29%28Hi%29%20DD%2B%205.1.jpg</beq_pvaURL>
+    <beq_pvaURL>https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shershaah%20(2021)(Hi)%20DD+%205.1.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
     <beq_note />
@@ -1444,6 +1444,7 @@
     </beq_genres>
     <beq_audioTypes>
       <audioType>DD+ 5.1</audioType>
+      <audioType>DD 5.1</audioType>
     </beq_audioTypes>
   </beq_metadata>
 </setting>
